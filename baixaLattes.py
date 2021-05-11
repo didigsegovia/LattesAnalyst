@@ -26,7 +26,8 @@ import sys, time, random, re, os, numpy, cookielib
 try:
 	import mechanize
 except:
-	print "Erro, voce precisa do Mechanize instalado no sistema, instale no Ubuntu com 'sudo apt-get install python-mechanize"
+	print('nada')
+	#print "Erro, voce precisa do Mechanize instalado no sistema, instale no Ubuntu com 'sudo apt-get install python-mechanize"
 
 try:
 	from cStringIO import StringIO
@@ -328,6 +329,7 @@ def __get_data(id_lattes):
 	return r.read()
 
 def baixaCVLattes(id_lattes, debug=True):
+	#print("tipo aqui oh "+str(type(id_lattes)))
 	tries = 50
 	while tries > 0:
 		try:
