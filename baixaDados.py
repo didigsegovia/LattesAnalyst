@@ -4,11 +4,14 @@ import timeit
 import os
 import sys
 import pandas
-from StringIO import StringIO
+try:
+    from StringIO import StringIO ## for Python 2
+except ImportError:
+    from io import StringIO ## for Python 3
 
 import datetime as dt
 
-QUANTIDADE_DE_ARQUIVOS = 10
+QUANTIDADE_DE_ARQUIVOS = 2
 
 
 
@@ -57,7 +60,7 @@ def executa(documento):
 	#dataAtual = str(dt.date.today())
 	horaAtual = str(dt.datetime.now())
 
-	arquivoTempo = open('relatorioTempo.txr','a')
+	arquivoTempo = open('relatorioTempo.txt','a')
 	
 
 	arquivoTempo.write("Execucao em "+horaAtual+" horas levou "+str(tempoFinal-tempoInicial)+" de tempo ("+str(contador)+" CVs baixados)\n")

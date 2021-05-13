@@ -21,35 +21,47 @@
 #  Livre(FSF) Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 #
 
-import sys, time, random, re, os, numpy, cookielib
+import sys, time, random, re, os, numpy
+
+try:
+    from http.cookiejar import CookieJar
+except ImportError:
+    from cookielib import CookieJar
 
 try:
 	import mechanize
 except:
-	print('nada')
-	#print "Erro, voce precisa do Mechanize instalado no sistema, instale no Ubuntu com 'sudo apt-get install python-mechanize"
+	
+	print("Erro, voce precisa do Mechanize instalado no sistema, instale no Ubuntu com 'sudo apt-get install python-mechanize")
+
+#try:
+#	from cStringIO import StringIO
+#except:
+#	from StringIO import StringIO
 
 try:
-	from cStringIO import StringIO
-except:
-	from StringIO import StringIO
+    from StringIO import StringIO ## for Python 2
+except ImportError:
+    from io import StringIO ## for Python 3
+
 
 try:
 	from PIL import Image
 	import simplejson
 except:
-	print """# Erro, voce precisa dos seguintes pacotes instalados no sistema: 'python-imaging', 'simplejson'.
+	print("""# Erro, voce precisa dos seguintes pacotes instalados no sistema: 'python-imaging', 'simplejson'.
 	 **************************************************************************
 	 # Instruções para o Ubuntu, instale: 
 	 sudo apt-get install python-simplejson python-imaging
-	 """
+	 """)
 	sys.exit(1)
 	
 VERSION = '2015-05-29T16'
 
 REMOTE_SCRIPT = 'https://api.bitbucket.org/2.0/snippets/scriptlattes/g5Bx'
 
-HEADERS =  [('Accept-Language', 'en-us,en;q=0.5'),
+HEADERS =  [('Accept-Language', 'en-us,en;q=0.5'),164320,
+
 	('Accept-Encoding', 'deflate'),
 	('Keep-Alive', '115'),
 	('Connection', 'keep-alive'),
@@ -255,7 +267,7 @@ def extract(image):
 
 	#x  = raw_input("insira captcha: ")
 	#return x
-        print 'captcha ===>', captcha
+		print("captcha ===>"+captcha)
 	return captcha
 		
 		
@@ -269,7 +281,7 @@ def solve(br, cookies, tries=20):
 	response = br.open_novisit(VALIDA_CAPTCHA + code)
 	data = simplejson.loads(response.read())
 	#print "------------------------------"
-	print data
+	print(data)
 	#print data.get('estado')
 	#print "------------------------------"
 	#if data.get('estado')!='sucesso':
@@ -283,18 +295,18 @@ def __self_update():
 	r = br.open(REMOTE_SCRIPT)
 	d = simplejson.loads(r.read())
 	if d['updated_on'][:13] != VERSION:
-		print "BaixaLattes desatualizado, atualizando..."
+		print("BaixaLattes desatualizado, atualizando...")
 		r = br.open(d['files']['baixaLattes.py']['links']['self']['href'])
 		content = r.read()
 		fpath = os.path.abspath(inspect.getfile(inspect.currentframe()))
 		try:
 			handler = file(fpath, 'w')
 		except:
-			print "Erro na escrita do novo arquivo, verifique se o arquivo '%s' tem permissao de escrita" % fpath
+			print("Erro na escrita do novo arquivo, verifique se o arquivo '"+fpath+"' tem permissao de escrita")
 			sys.exit(1)
 		handler.write(content)
 		handler.close()
-		print "BaixaLattes atualizado, reinicie o programa para utilizar a nova versão, encerrando o ScriptLattes"
+		print("BaixaLattes atualizado, reinicie o programa para utilizar a nova versão, encerrando o ScriptLattes")
 		sys.exit(0)
 
 
@@ -305,7 +317,8 @@ def __get_data(id_lattes):
 	else:
 		url = 'http://lattes.cnpq.br/'+id_lattes
 	br = mechanize.Browser()
-	cookies = cookielib.LWPCookieJar()
+	#cookies = cookielib.LWPCookieJar()
+	cookies = CookieJar.LWPCookieJar()
 	br.set_cookiejar(cookies)
 
 	br.set_handle_equiv(True)
@@ -339,16 +352,17 @@ def baixaCVLattes(id_lattes, debug=True):
 				tries -= 1
 			else:
 				return data
-		except Exception, e:
-			if debug:
-				print e
+		#except(Exception, e):
+		except(Exception):
+			#if debug:
+				#print(e)
 			tries -= 1
 	# depois de 5 tentativas, verifiquemos se existe uma nova versao do baixaLattes
 	#__self_update()
 	if debug:
-		print '[AVISO] Nao é possível obter o CV Lattes: ', id_lattes
-		print '[AVISO] Certifique-se que o CV existe.'
+		print('[AVISO] Nao é possível obter o CV Lattes: '+id_lattes)
+		print('[AVISO] Certifique-se que o CV existe.')
 	
-	print "Nao foi possivel baixar o CV Lattes em 5 tentativas"
+	print("Nao foi possivel baixar o CV Lattes em 5 tentativas")
 	return "   "
 	#raise Exception("Nao foi possivel baixar o CV Lattes em 5 tentativas")
