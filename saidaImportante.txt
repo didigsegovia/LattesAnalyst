@@ -1,0 +1,2408 @@
+BARROS, K. O. S.2019BARROS, K. O. S. ; SILVA, LUCIANO ÉDIPO PEREIRA DA ; NEVES, Y. P. ; SILVA, L. R. . Parceria Empresa-Universidade para pesquisa em TI. Revista ETCPAN, v. 2, p. 37, 2019. 
+SILVA, L. É. P.2010
+
+SILVA, L. É. P.; BRACHT, E. C. . Uma nova abordagem para o Cálculo de Balanço Hídrico Climatológico. Revista Brasileira de Computação Aplicada, v. 2, p. 2-16, 2010. Citações:1
+NASCIMENTO, FABIANA ; SILVA, LUCINEIDE DA ; NONATO, KARLA ; SILVA, LUCIANO ÉDIPO PEREIRA DA
+ . Uma Proposta de Jogo Educacional para o Ensino e Aprendizagem de 
+Geometria. In: XXVIII Simpósio Brasileiro de Informática na Educação 
+SBIE (Brazilian Symposium on Computers in Education), 2017, Recife. 
+Porto Alegre: Sociedade Brasileira de Computação, 2017. p. 1757-1759. 
+SOUSA, RAPHAEL DE ; SILVA, LUCIANO ÉDIPO PEREIRA DA
+ . BRAVO Sistema Web de Apoio à Pesquisa em Educação. In: IV Congresso 
+Brasileiro de Informática na Educação, 2015, Maceió. p. 105-114. 
+FIETZ, C. R. ; NOVACHINSK, J. R. ; SILVA, L. É. P. ; LIMA, R. V.
+ . IrriWeb: uma ferramenta para definir o manejo racional da irrigação. 
+In: II Simpósio sobre Inovação e Criatividade Científica na Embrapa, 
+2010, Brasília. Anais do II Simpósio sobre Inovação e Criatividade 
+Científica na Embrapa, 2010. 
+
+
+SILVA, L. É. P.; BRACHT, E. C.
+ . Uma Nova Abordagem para o Cálculo do Balanço Hídrico Climatológico. 
+In: I Simpósio de Computação Aplicada, 2009, Passo Fundo - RS. ANAIS do I
+ Simpósio de Computação Aplicada 2176-8196. Passo Fundo - RS: Editora 
+UPF, 2009. v. 1. 
+
+
+FIETZ, C. R. ; COMUNELLO, E ; SILVA, L. É. P. ; SOUZA, P. S.
+ . Sistema de Monitoramento Agroclimático da Região de Dourados, MS. In:
+ 7º Congresso Brasileiro de Agroinformática - SBIAgro 2009, 2009, Viçosa
+ - MG. Anais do 7. Congresso Brasileiro de Agroinformática, 2009. 
+
+
+SILVA, L. É. P.; PAIVA, D. M. B. ; BARBOSA, E. F. ; BRAGA, R. T. V. ; CAGNIN, M. I.
+ . ONTO-ResAsset Development: An Ontology for Reusable Assets 
+Specification and Management. In: 26th International Conference on 
+Software Engineering and Knowledge Engineering (SEKE 2014), 2014, 
+Vancouver. 26th International Conference on Software Engineering and 
+Knowledge Engineering (SEKE 2014). Skokie: Knowledge Systems Institute 
+Graduate School, 2014. p. 459-462. 
+SILVA, L. É. P.; BRACHT, E. C. . Uma Nova Abordagem para o Cálculo do Balanço Hídrico Climatológico. 2009. (Apresentação de Trabalho/Simpósio). 
+NECO, B. M. P. ; SILVA, L. É. P. ; SILVA, L. R. . Identificação de Domínio para Jogos Educacionais Digitais 2017 (Trabalho de Conclusão de Curso). 
+
+
+SILVA, L. É. P.. ONTO-ResAsset: Ontologia de Ativos Reutilizáveis 2013 (Dissertação Mestrado). 
+SILVA, L. É. P.. Virtualização do Museu de Arqueologia do Pantanal. 2019. 
+FERMINO, L. M. ; SILVA, L. É. P. ; ASSEIS NETO, H. . Reconhecedor Ótico de Caracteres em Documentos da Língua Portuguesa com Baixa Nitidez. 2013. 
+SILVA, L. É. P.; BRACHT, E. C. ; Fietz, C. R. . BHCMóvel. 2009. 
+SILVA, L. É. P.. PHP Básico com MySql - III Semana Técnica de Computação SETEC. 2009. (Curso de curta duração ministrado/Extensão). 
+SILVA, L. É. P..
+ Etiqueta na Internet e Compulsão - VII Semana Unificada de Informática 
+INFOWEEK. 2007. (Curso de curta duração ministrado/Extensão). 
+VARGAS, J. C. ; SILVA, L. É. P. ; SANTOS, B. A. ; RIEDNER, D. D. T. ; SILVA, L. R. . Alfabrinque. 2016. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512017000043-3, data de registro: 
+                    01/09/2016, título: "Alfabrinque" , Instituição de 
+registro: INPI - Instituto Nacional da Propriedade Industrial.          
+        
+Silva, L. E. P.; SILVA, L. R. ; CASTRO, A. L. S. ; GUIA, K. R. ; BARROS, K. O. S. ; CRUZ, A. C. ; GUTIERREZ JUNIOR, J. L. B. ; SILVA, N. M. S. ; ALMEIDA, S. C. V. ; NEVES, A. P. . SIANE - Sistema de Informação para Ambiente Não Escolar. 2018. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512018052228-9, data de registro: 
+                    20/09/2018, título: "SIANE - Sistema de Informação 
+para Ambiente Não Escolar" , Instituição de registro: INPI - Instituto 
+Nacional da Propriedade Industrial.          
+        
+SILVA, L. É. P.; RIEDNER, D. D. T. ; VIDAL, V. H. ; RODRIGUES, B. L. A. ; VALENTE, V. O. ; SILVA, V. L. L. ; GUIDORIZZI, V. A. . Tutorar. 2021. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512021000562-7, data de registro: 
+                    30/03/2021, título: "Tutorar" , Instituição de 
+registro: INPI - Instituto Nacional da Propriedade Industrial.          
+        
+SILVA, L. É. P.; LAITART, K. R. ; PETERLE, N. P. ; RAMBO, C. ; MELLO, C. A. S. ; VIDAL, V. H. . Cadeia de Custódia. 2021. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512021000563-5, data de registro: 
+                    30/03/2021, título: "Cadeia de Custódia" , 
+Instituição de registro: INPI - Instituto Nacional da Propriedade 
+Industrial.          
+        
+MONTEIRO, A. C. S.; LIMA, C. A.; Silva, L. E. P..
+  Participação em banca de Elis Andréa Pimentel Medina. Estudo de caso 
+das condicionalidades do programa bolsa família no cras de Naviraí-MS. 
+2016. Monografia (Aperfeiçoamento/Especialização em Especialização em 
+Educação Pobreza e Desigualdade)  - Universidade Federal de Mato Grosso 
+do Sul. 
+MACHADO, M. O.; SILVA, L. É. P.; NEVES, A. P..
+  Participação em banca de Thiago Soquere Ferreira.Sistema de Irrigação 
+de Jardim Utilizando a Plataforma Arduíno.
+							2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. 
+MACHADO, M. O.; Silva, L. E. P.; NEVES, A. P..  Participação em banca de Thiago Soquere Ferreira.Sistema de Irrigação de Jardim Utilizando a Plataforma Arduíno.
+							2016. 
+RODRIGUES, R. R.; SILVA, L. É. P.;
+ SANTOS, A. M..  Participação em banca de Gabriela Winkler da Costa e 
+Silva.Luiz Vilela : Acervo Videográfico ? O canal do GPLV, Grupo de 
+Pesquisa Luiz Vilela no Yotube.
+							2015. Trabalho de Conclusão de Curso (Graduação em Letras - 
+Português e Inglês)  - Universidade Federal de Mato Grosso do Sul. 
+ARAUJO, F. E. S.; SILVA, L. É. P.; BARROS, B. R. G. S.. Concurso Público - Edital PROGEP 042/2014.
+							2014. Universidade Federal de Mato Grosso do Sul. 
+BARROS, B. R. G. S.; GOMES, A. O.; SILVA, L. É. P.; SUEIRA, S. C.. Seleção de Professor Substituto do Curso de SISTEMAS DE INFORMAÇÃO/CPAN.
+							2014. Universidade Federal de Mato Grosso do Sul. 
+INTEGRA UFMS 2019. avaliação de 10 (DEZ) trabalho(s) apresentado(s) na modalidade banner. 2019. (Exposição). 
+Semana da Computação 2019.
+							2019. (Encontro). 
+					
+Feira de Ciências e Tecnologias do Pantanal - FECIPAN. Avaliação dos Trabalhos Científicos. 2014. (Feira). 
+X Simpósio Brasileiro de Sistemas de Informação.
+							2014. (Simpósio). 
+					
+I Simpósio de Computação Aplicada.Uma Nova Abordagem para o Cálculo do Balanço Hídrico Climatológico.
+							2009. (Simpósio). 
+					
+I Congresso de Computaçao da Grande Dourados - CCGD. 2008. (Congresso). 
+50º Congresso da União Nacional de Estudantes. 2007. (Congresso). 
+VII Semana Unificada de Informática - Infoweek 2007. 2007. (Outra). 
+					
+IV Semana da Matemática. 2006. (Outra). 
+					
+VI Infoweek - Semana Unificada de Informática. 2006. (Outra). 
+					
+XI Congresso Universitário DCE/UEMS. 2006. (Congresso). 
+SILVA, L. É. P.; SILVA, L. R. ; GOLIN, A. L. M. M. ; BARROS, B. R. G. S. ; MACHADO, M. O. ; NEVES, A. P.
+ ; NECO, B. M. P. ; LOIO, G. X. ; SOUZA, S. C. S. B. ; JIMENEZ, L. F. S.
+ ; RIBEIRO, V. S. . II Hackathon Ala Vôti. 2018. (Concurso). 
+Silva, L. E. P.. Hackathon Ala Vôti. 2017. (Concurso). 
+ARAUJO, A. F. ; SILVA, L. É. P. . II Encontro de Desenvolvimento Tecnológico e Científico do Pantanal. 2015. (Outro). 
+SILVA, L. É. P.; ARAUJO, A. F. ; COSTA, E. A. ; SALOMON, R. . Startup Pantanal. 2015. (Outro). 
+Silva, L. E. P.; ARAUJO, A. F. . I Encontro de Desenvolvimento Tecnológico e Científico do Pantanal. 2014. (Outro). 
+SILVA, L. É. P.. III Semana Técinca de Computação - SETEC. 2009. (Outro). 
+SILVA, L. É. P.. 12º Congresso DCE/UEMS. 2007. (Congresso). 
+Bruno Marcos Pimenta Neco.
+							Linha de Produtos de Software: Domínio Jogos Educacionais.
+							2018.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Jaqueline Cabrera Vargas.
+							AlfaBrinque: Desenvolvimento de jogo digital móvel enquanto 
+ferramenta de auxílio para a alfabetização.
+							2016.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Raphael Alex de Sousa.
+							BRAVO : Sistema Web de Apoio a Pesquisa em Educação.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Luiz Henrique Quevedo Lima.
+							UFMS Mobile: Ferramenta para auxílio acadêmico na Universidade 
+Federal de Mato Grosso do Sul.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Douglas Cortez Alves.
+							Redes Sociais Inclusivas: Um estudo de caso.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Renan Rocha Fucci.
+							Classificadores de Imagens de Satélites do Pantanal.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Luis Heriberto Osinaga Peinado.
+							Estudo de Metodologias de Suavização no domínio espacial 
+aplicadas em imagens de sensoriamento remoto.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Bianca Moreira Medeiros.
+							Sistema de Gestão de Pratica Jurídica (SGPJ).
+							2014.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Kesller Keverlon Corrêa da Fonseca.
+							Sistema Web para Gestão Eclesiástica de Igrejas Evangélicas.
+							2014.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Thiago Tadeu Conceição Moraes.
+							Sistema Softfood para Gestão de Estabelecimentos Fast- Food 
+Delivery.
+							2014.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Paulo Cesar do Carmo Ribeiro.
+							Sistema de Acompanhamento de Desenvolvimento de Deficientes.
+							2014.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+SILVA, L. É. P.; LAITART, K. R. ; PETERLE, N. P. ; RAMBO, C. ; MELLO, C. A. S. ; VIDAL, V. H. . Cadeia de Custódia. 2021. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512021000563-5, data de registro: 
+                    30/03/2021, título: "Cadeia de Custódia" , 
+Instituição de registro: INPI - Instituto Nacional da Propriedade 
+Industrial.          
+        
+SILVA, L. É. P.; BRACHT, E. C. ; Fietz, C. R. . BHCMóvel. 2009. 
+FERMINO, L. M. ; SILVA, L. É. P. ; ASSEIS NETO, H. . Reconhecedor Ótico de Caracteres em Documentos da Língua Portuguesa com Baixa Nitidez. 2013. 
+FERMINO, L. M. ; SILVA, L. É. P. ; ASSEIS NETO, H. . Reconhecedor Ótico de Caracteres em Documentos da Língua Portuguesa com Baixa Nitidez. 2013. 
+SILVA, L. É. P.; RIEDNER, D. D. T. ; VIDAL, V. H. ; RODRIGUES, B. L. A. ; VALENTE, V. O. ; SILVA, V. L. L. ; GUIDORIZZI, V. A. . Tutorar. 2021. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512021000562-7, data de registro: 
+                    30/03/2021, título: "Tutorar" , Instituição de 
+registro: INPI - Instituto Nacional da Propriedade Industrial.          
+        
+Silva, L. E. P.; SILVA, L. R. ; CASTRO, A. L. S. ; GUIA, K. R. ; BARROS, K. O. S. ; CRUZ, A. C. ; GUTIERREZ JUNIOR, J. L. B. ; SILVA, N. M. S. ; ALMEIDA, S. C. V. ; NEVES, A. P. . SIANE - Sistema de Informação para Ambiente Não Escolar. 2018. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512018052228-9, data de registro: 
+                    20/09/2018, título: "SIANE - Sistema de Informação 
+para Ambiente Não Escolar" , Instituição de registro: INPI - Instituto 
+Nacional da Propriedade Industrial.          
+        
+VARGAS, J. C. ; SILVA, L. É. P. ; SANTOS, B. A. ; RIEDNER, D. D. T. ; SILVA, L. R. . Alfabrinque. 2016. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512017000043-3, data de registro: 
+                    01/09/2016, título: "Alfabrinque" , Instituição de 
+registro: INPI - Instituto Nacional da Propriedade Industrial.          
+        
+SILVA, L. É. P.; SILVA, L. R. ; GOLIN, A. L. M. M. ; BARROS, B. R. G. S. ; MACHADO, M. O. ; NEVES, A. P.
+ ; NECO, B. M. P. ; LOIO, G. X. ; SOUZA, S. C. S. B. ; JIMENEZ, L. F. S.
+ ; RIBEIRO, V. S. . II Hackathon Ala Vôti. 2018. (Concurso). 
+BARROS, K. O. S.2019BARROS, K. O. S. ; SILVA, LUCIANO ÉDIPO PEREIRA DA ; NEVES, Y. P. ; SILVA, L. R. . Parceria Empresa-Universidade para pesquisa em TI. Revista ETCPAN, v. 2, p. 37, 2019. 
+SILVA, L. É. P.2010
+
+SILVA, L. É. P.; BRACHT, E. C. . Uma nova abordagem para o Cálculo de Balanço Hídrico Climatológico. Revista Brasileira de Computação Aplicada, v. 2, p. 2-16, 2010. Citações:1
+NASCIMENTO, FABIANA ; SILVA, LUCINEIDE DA ; NONATO, KARLA ; SILVA, LUCIANO ÉDIPO PEREIRA DA
+ . Uma Proposta de Jogo Educacional para o Ensino e Aprendizagem de 
+Geometria. In: XXVIII Simpósio Brasileiro de Informática na Educação 
+SBIE (Brazilian Symposium on Computers in Education), 2017, Recife. 
+Porto Alegre: Sociedade Brasileira de Computação, 2017. p. 1757-1759. 
+SOUSA, RAPHAEL DE ; SILVA, LUCIANO ÉDIPO PEREIRA DA
+ . BRAVO Sistema Web de Apoio à Pesquisa em Educação. In: IV Congresso 
+Brasileiro de Informática na Educação, 2015, Maceió. p. 105-114. 
+FIETZ, C. R. ; NOVACHINSK, J. R. ; SILVA, L. É. P. ; LIMA, R. V.
+ . IrriWeb: uma ferramenta para definir o manejo racional da irrigação. 
+In: II Simpósio sobre Inovação e Criatividade Científica na Embrapa, 
+2010, Brasília. Anais do II Simpósio sobre Inovação e Criatividade 
+Científica na Embrapa, 2010. 
+
+
+SILVA, L. É. P.; BRACHT, E. C.
+ . Uma Nova Abordagem para o Cálculo do Balanço Hídrico Climatológico. 
+In: I Simpósio de Computação Aplicada, 2009, Passo Fundo - RS. ANAIS do I
+ Simpósio de Computação Aplicada 2176-8196. Passo Fundo - RS: Editora 
+UPF, 2009. v. 1. 
+
+
+FIETZ, C. R. ; COMUNELLO, E ; SILVA, L. É. P. ; SOUZA, P. S.
+ . Sistema de Monitoramento Agroclimático da Região de Dourados, MS. In:
+ 7º Congresso Brasileiro de Agroinformática - SBIAgro 2009, 2009, Viçosa
+ - MG. Anais do 7. Congresso Brasileiro de Agroinformática, 2009. 
+
+
+SILVA, L. É. P.; PAIVA, D. M. B. ; BARBOSA, E. F. ; BRAGA, R. T. V. ; CAGNIN, M. I.
+ . ONTO-ResAsset Development: An Ontology for Reusable Assets 
+Specification and Management. In: 26th International Conference on 
+Software Engineering and Knowledge Engineering (SEKE 2014), 2014, 
+Vancouver. 26th International Conference on Software Engineering and 
+Knowledge Engineering (SEKE 2014). Skokie: Knowledge Systems Institute 
+Graduate School, 2014. p. 459-462. 
+SILVA, L. É. P.; BRACHT, E. C. . Uma Nova Abordagem para o Cálculo do Balanço Hídrico Climatológico. 2009. (Apresentação de Trabalho/Simpósio). 
+NECO, B. M. P. ; SILVA, L. É. P. ; SILVA, L. R. . Identificação de Domínio para Jogos Educacionais Digitais 2017 (Trabalho de Conclusão de Curso). 
+
+
+SILVA, L. É. P.. ONTO-ResAsset: Ontologia de Ativos Reutilizáveis 2013 (Dissertação Mestrado). 
+SILVA, L. É. P.. Virtualização do Museu de Arqueologia do Pantanal. 2019. 
+FERMINO, L. M. ; SILVA, L. É. P. ; ASSEIS NETO, H. . Reconhecedor Ótico de Caracteres em Documentos da Língua Portuguesa com Baixa Nitidez. 2013. 
+SILVA, L. É. P.; BRACHT, E. C. ; Fietz, C. R. . BHCMóvel. 2009. 
+SILVA, L. É. P.. PHP Básico com MySql - III Semana Técnica de Computação SETEC. 2009. (Curso de curta duração ministrado/Extensão). 
+SILVA, L. É. P..
+ Etiqueta na Internet e Compulsão - VII Semana Unificada de Informática 
+INFOWEEK. 2007. (Curso de curta duração ministrado/Extensão). 
+VARGAS, J. C. ; SILVA, L. É. P. ; SANTOS, B. A. ; RIEDNER, D. D. T. ; SILVA, L. R. . Alfabrinque. 2016. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512017000043-3, data de registro: 
+                    01/09/2016, título: "Alfabrinque" , Instituição de 
+registro: INPI - Instituto Nacional da Propriedade Industrial.          
+        
+Silva, L. E. P.; SILVA, L. R. ; CASTRO, A. L. S. ; GUIA, K. R. ; BARROS, K. O. S. ; CRUZ, A. C. ; GUTIERREZ JUNIOR, J. L. B. ; SILVA, N. M. S. ; ALMEIDA, S. C. V. ; NEVES, A. P. . SIANE - Sistema de Informação para Ambiente Não Escolar. 2018. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512018052228-9, data de registro: 
+                    20/09/2018, título: "SIANE - Sistema de Informação 
+para Ambiente Não Escolar" , Instituição de registro: INPI - Instituto 
+Nacional da Propriedade Industrial.          
+        
+SILVA, L. É. P.; RIEDNER, D. D. T. ; VIDAL, V. H. ; RODRIGUES, B. L. A. ; VALENTE, V. O. ; SILVA, V. L. L. ; GUIDORIZZI, V. A. . Tutorar. 2021. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512021000562-7, data de registro: 
+                    30/03/2021, título: "Tutorar" , Instituição de 
+registro: INPI - Instituto Nacional da Propriedade Industrial.          
+        
+SILVA, L. É. P.; LAITART, K. R. ; PETERLE, N. P. ; RAMBO, C. ; MELLO, C. A. S. ; VIDAL, V. H. . Cadeia de Custódia. 2021. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512021000563-5, data de registro: 
+                    30/03/2021, título: "Cadeia de Custódia" , 
+Instituição de registro: INPI - Instituto Nacional da Propriedade 
+Industrial.          
+        
+MONTEIRO, A. C. S.; LIMA, C. A.; Silva, L. E. P..
+  Participação em banca de Elis Andréa Pimentel Medina. Estudo de caso 
+das condicionalidades do programa bolsa família no cras de Naviraí-MS. 
+2016. Monografia (Aperfeiçoamento/Especialização em Especialização em 
+Educação Pobreza e Desigualdade)  - Universidade Federal de Mato Grosso 
+do Sul. 
+MACHADO, M. O.; SILVA, L. É. P.; NEVES, A. P..
+  Participação em banca de Thiago Soquere Ferreira.Sistema de Irrigação 
+de Jardim Utilizando a Plataforma Arduíno.
+							2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. 
+MACHADO, M. O.; Silva, L. E. P.; NEVES, A. P..  Participação em banca de Thiago Soquere Ferreira.Sistema de Irrigação de Jardim Utilizando a Plataforma Arduíno.
+							2016. 
+RODRIGUES, R. R.; SILVA, L. É. P.;
+ SANTOS, A. M..  Participação em banca de Gabriela Winkler da Costa e 
+Silva.Luiz Vilela : Acervo Videográfico ? O canal do GPLV, Grupo de 
+Pesquisa Luiz Vilela no Yotube.
+							2015. Trabalho de Conclusão de Curso (Graduação em Letras - 
+Português e Inglês)  - Universidade Federal de Mato Grosso do Sul. 
+ARAUJO, F. E. S.; SILVA, L. É. P.; BARROS, B. R. G. S.. Concurso Público - Edital PROGEP 042/2014.
+							2014. Universidade Federal de Mato Grosso do Sul. 
+BARROS, B. R. G. S.; GOMES, A. O.; SILVA, L. É. P.; SUEIRA, S. C.. Seleção de Professor Substituto do Curso de SISTEMAS DE INFORMAÇÃO/CPAN.
+							2014. Universidade Federal de Mato Grosso do Sul. 
+INTEGRA UFMS 2019. avaliação de 10 (DEZ) trabalho(s) apresentado(s) na modalidade banner. 2019. (Exposição). 
+Semana da Computação 2019.
+							2019. (Encontro). 
+					
+Feira de Ciências e Tecnologias do Pantanal - FECIPAN. Avaliação dos Trabalhos Científicos. 2014. (Feira). 
+X Simpósio Brasileiro de Sistemas de Informação.
+							2014. (Simpósio). 
+					
+I Simpósio de Computação Aplicada.Uma Nova Abordagem para o Cálculo do Balanço Hídrico Climatológico.
+							2009. (Simpósio). 
+					
+I Congresso de Computaçao da Grande Dourados - CCGD. 2008. (Congresso). 
+50º Congresso da União Nacional de Estudantes. 2007. (Congresso). 
+VII Semana Unificada de Informática - Infoweek 2007. 2007. (Outra). 
+					
+IV Semana da Matemática. 2006. (Outra). 
+					
+VI Infoweek - Semana Unificada de Informática. 2006. (Outra). 
+					
+XI Congresso Universitário DCE/UEMS. 2006. (Congresso). 
+SILVA, L. É. P.; SILVA, L. R. ; GOLIN, A. L. M. M. ; BARROS, B. R. G. S. ; MACHADO, M. O. ; NEVES, A. P.
+ ; NECO, B. M. P. ; LOIO, G. X. ; SOUZA, S. C. S. B. ; JIMENEZ, L. F. S.
+ ; RIBEIRO, V. S. . II Hackathon Ala Vôti. 2018. (Concurso). 
+Silva, L. E. P.. Hackathon Ala Vôti. 2017. (Concurso). 
+ARAUJO, A. F. ; SILVA, L. É. P. . II Encontro de Desenvolvimento Tecnológico e Científico do Pantanal. 2015. (Outro). 
+SILVA, L. É. P.; ARAUJO, A. F. ; COSTA, E. A. ; SALOMON, R. . Startup Pantanal. 2015. (Outro). 
+Silva, L. E. P.; ARAUJO, A. F. . I Encontro de Desenvolvimento Tecnológico e Científico do Pantanal. 2014. (Outro). 
+SILVA, L. É. P.. III Semana Técinca de Computação - SETEC. 2009. (Outro). 
+SILVA, L. É. P.. 12º Congresso DCE/UEMS. 2007. (Congresso). 
+Bruno Marcos Pimenta Neco.
+							Linha de Produtos de Software: Domínio Jogos Educacionais.
+							2018.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Jaqueline Cabrera Vargas.
+							AlfaBrinque: Desenvolvimento de jogo digital móvel enquanto 
+ferramenta de auxílio para a alfabetização.
+							2016.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Raphael Alex de Sousa.
+							BRAVO : Sistema Web de Apoio a Pesquisa em Educação.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Luiz Henrique Quevedo Lima.
+							UFMS Mobile: Ferramenta para auxílio acadêmico na Universidade 
+Federal de Mato Grosso do Sul.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Douglas Cortez Alves.
+							Redes Sociais Inclusivas: Um estudo de caso.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Renan Rocha Fucci.
+							Classificadores de Imagens de Satélites do Pantanal.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Luis Heriberto Osinaga Peinado.
+							Estudo de Metodologias de Suavização no domínio espacial 
+aplicadas em imagens de sensoriamento remoto.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Bianca Moreira Medeiros.
+							Sistema de Gestão de Pratica Jurídica (SGPJ).
+							2014.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Kesller Keverlon Corrêa da Fonseca.
+							Sistema Web para Gestão Eclesiástica de Igrejas Evangélicas.
+							2014.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Thiago Tadeu Conceição Moraes.
+							Sistema Softfood para Gestão de Estabelecimentos Fast- Food 
+Delivery.
+							2014.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+Paulo Cesar do Carmo Ribeiro.
+							Sistema de Acompanhamento de Desenvolvimento de Deficientes.
+							2014.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Édipo Pereira da Silva.
+						
+SILVA, L. É. P.; LAITART, K. R. ; PETERLE, N. P. ; RAMBO, C. ; MELLO, C. A. S. ; VIDAL, V. H. . Cadeia de Custódia. 2021. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512021000563-5, data de registro: 
+                    30/03/2021, título: "Cadeia de Custódia" , 
+Instituição de registro: INPI - Instituto Nacional da Propriedade 
+Industrial.          
+        
+SILVA, L. É. P.; BRACHT, E. C. ; Fietz, C. R. . BHCMóvel. 2009. 
+FERMINO, L. M. ; SILVA, L. É. P. ; ASSEIS NETO, H. . Reconhecedor Ótico de Caracteres em Documentos da Língua Portuguesa com Baixa Nitidez. 2013. 
+FERMINO, L. M. ; SILVA, L. É. P. ; ASSEIS NETO, H. . Reconhecedor Ótico de Caracteres em Documentos da Língua Portuguesa com Baixa Nitidez. 2013. 
+SILVA, L. É. P.; RIEDNER, D. D. T. ; VIDAL, V. H. ; RODRIGUES, B. L. A. ; VALENTE, V. O. ; SILVA, V. L. L. ; GUIDORIZZI, V. A. . Tutorar. 2021. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512021000562-7, data de registro: 
+                    30/03/2021, título: "Tutorar" , Instituição de 
+registro: INPI - Instituto Nacional da Propriedade Industrial.          
+        
+Silva, L. E. P.; SILVA, L. R. ; CASTRO, A. L. S. ; GUIA, K. R. ; BARROS, K. O. S. ; CRUZ, A. C. ; GUTIERREZ JUNIOR, J. L. B. ; SILVA, N. M. S. ; ALMEIDA, S. C. V. ; NEVES, A. P. . SIANE - Sistema de Informação para Ambiente Não Escolar. 2018. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512018052228-9, data de registro: 
+                    20/09/2018, título: "SIANE - Sistema de Informação 
+para Ambiente Não Escolar" , Instituição de registro: INPI - Instituto 
+Nacional da Propriedade Industrial.          
+        
+VARGAS, J. C. ; SILVA, L. É. P. ; SANTOS, B. A. ; RIEDNER, D. D. T. ; SILVA, L. R. . Alfabrinque. 2016. 
+                Patente:
+                Programa de Computador.
+            Número do registro: BR512017000043-3, data de registro: 
+                    01/09/2016, título: "Alfabrinque" , Instituição de 
+registro: INPI - Instituto Nacional da Propriedade Industrial.          
+        
+SILVA, L. É. P.; SILVA, L. R. ; GOLIN, A. L. M. M. ; BARROS, B. R. G. S. ; MACHADO, M. O. ; NEVES, A. P.
+ ; NECO, B. M. P. ; LOIO, G. X. ; SOUZA, S. C. S. B. ; JIMENEZ, L. F. S.
+ ; RIBEIRO, V. S. . II Hackathon Ala Vôti. 2018. (Concurso). 
+Curriculo parcialmente processado: Luciano Édipo Pereira da Silva
+Amaury Antônio de Castro Junior2007Amaury Antônio de Castro Junior ; Leila Lisiane Rossi ; SILVA, Carlos Alberto
+ ; Tony C. Bignardi dos Santos ; Lourival dos Santos Pires Junior . 
+UNION: um framework para o desenvolvimento ágil de aplicações Web. Anais
+ do III Congresso de Computação do Sul de Mato Grosso, v. I, p. 199-199, 2007. 
+
+
+SILVA, Carlos Alberto; DE GEUS, PAULO LICIO
+ . An Approach to Security-SLA in Cloud Computing Environments. In: 6th 
+IEEE Latin-American Conference on Communications (LATINCOM), 2014, 
+Cartagena das Índias. 6th IEEE Latin-American Conference on 
+Communications. IEEE Bogotá: IEEE, 2014. 
+
+
+DA SILVA, CARLOS ALBERTO; FERREIRA, ANDERSON SOARES ; DE GEUS, PAULO LICIO
+ . A methodology for management of cloud computing using security 
+criteria. In: 2012 IEEE Latin America Conference on Cloud Computing and 
+Communications (LatinCloud), 2012, Porto Alegre. 2012 IEEE Latin America
+ Conference on Cloud Computing and Communications (LatinCloud). p. 
+49-54. 
+SILVA, Carlos Alberto.
+ AS CONSEQUÊNCIAS DA INTELIGÊNCIA COLETIVA PARA A EDUCAÇÃO. In: 2º 
+SEMANA EDUCACIONAL, 2003, CAMPO GRANDE. AS CONSEQUÊNCIAS DA INTELIGÊNCIA
+ COLETIVA PARA A EDUCAÇÃO. CAMPO GRANDE - MS: COLÉGIO ALEXANDER FLEMING,
+ 2003. 
+
+
+DA SILVA, CARLOS ALBERTO; DE GEUS, PAULO LICIO
+ . Return On Security Investment for Cloud Computing: a Customer 
+Perspective. Carlos Alberto da Silva, and Paulo Lício de Geus. ACM 7th 
+International conference on Management of computational and collective 
+Intelligence in Digital EcoSystems (MEDES?15). 25-29 October 2015, 
+Caraguatatuba/São Paulo, Brazil.. In: ACM 7th International conference 
+on Management of computational and collective Intelligence in Digital 
+EcoSystems (MEDES?15), 2015, Caraguatatuba, SP, Brazil. ACM 7th 
+International conference on Management of computational and collective 
+Intelligence in Digital EcoSystems (MEDES?15), 2015. 
+DA SILVA, CARLOS ALBERTO; DE GEUS, PAULO LICIO
+ . Arquitetura de monitoramento para Security-SLA em Nuvem Computacional
+ do tipo SaaS. In: Simpósio Brasileiro em Segurança da Informação e de 
+Sistemas Computacionais (SBSeg), 2014, Belo Horizonte, MG, Brasil. 
+Simpósio Brasileiro em Segurança da Informação e de Sistemas 
+Computacionais (SBSeg). Belo Horizonte, MG, BRASIL: SBC, 2014. 
+
+
+SILVA, Carlos Alberto;
+ Anderson Soares Ferreira . Projeto e Gestão de Segurança na Computação 
+na Nuvem. In: VII Workshop de Teses, Dissertações e Trabalhos de 
+Iniciação Científica, 2012, Campinas - SP. Anais do VII Workshop de 
+Teses, Dissertações e Trabalhos de Iniciação Científica em Andamento do 
+IC-UNICAMP. Campinas - SP: Unicamp, 2012. v. 8. p. 65-69. 
+DA SILVA, CARLOS ALBERTO; DE GEUS, PAULO LICIO . Gestao da Segurança para ambiente de Nuvem Computacional. 2014. (Apresentação de Trabalho/Outra). 
+SILVA, Carlos Alberto. Metodologia para Projeto e Gestão da Segurança para Computação em Nuvem. 2012. (Apresentação de Trabalho/Outra). 
+SILVA, Carlos Alberto;
+ Leila Lisiane Rossi ; Amaury Antônio de Castro Junior ; Tony C. 
+Bignardi dos Santos ; Lourival dos Santos Pires Junior . Geracao do 
+Portal CPCX - UFMS pelo UNION: Um Estudo de Caso. 2008. (Apresentação de
+ Trabalho/Outra). 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva ; Amaury Antônio de Castro Junior ; 
+Leila Lisiane Rossi ; Marcelo Rocha Barros Gonçalves . Projeto Educar: 
+como utilizar o laboratório de informática como uma ferramenta de 
+ensino. 2007. (Apresentação de Trabalho/Comunicação). 
+SILVA, Carlos Alberto;
+ Leila Lisiane Rossi ; Amaury Antônio de Castro Junior . UNION: Um 
+Framework Ágil para o Desenvolvimento de Aplicaçoes WEB.. 2007. 
+(Apresentação de Trabalho/Congresso). 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva ; Amaury Antônio de Castro Junior ; 
+Leila Lisiane Rossi ; Marcelo Rocha Barros Gonçalves . Projeto Educar: 
+capitação de material didático para escolas públicas da região norte do 
+Mato Grosso do Sul. 2007. (Apresentação de Trabalho/Comunicação). 
+SILVA, Carlos Alberto. Ententendo e Combatendo Malware: Virus, Spywares e Rootkits. 2006. (Apresentação de Trabalho/Conferência ou palestra). 
+SILVA, Carlos Alberto; Paulo Lício de Geus . Gestão de Segurança para ambiente de Nuvem Computacional 2014 (Poster). 
+SILVA, Carlos Alberto. Software de Gestão de Recursos Humanos - Setor Público. 2008. 
+SILVA, Carlos Alberto. Software de Gestão de Recursos Humanos - Setor Público. 2007. 
+SILVA, Carlos Alberto. Software de calculo de valores retroativo para devolução erário (TCU - Processo Judicial). 2006. 
+SILVA, Carlos Alberto. Construção do Módulo de Importação de Aposentados do SIAPE/Serpro. 2006. 
+SILVA, Carlos Alberto. Software de Gestão de Recursos Humanos - Setor Público. 2006. 
+Leila Lisiane Rossi ; SILVA, Carlos Alberto . Curso de Informática Básica. 2007. (Curso de curta duração ministrado/Extensão). 
+Marcelo Rocha Barros Gonçalves ; SILVA, Carlos Alberto . Projeto de Extensão: TODO DIA É DIA DE PARQUE. 2007. (Curso de curta duração ministrado/Extensão). 
+SILVA, Carlos Alberto; Elizangela Mattos Faria da Silva . Curso de HTML com Dreamweaver. 2007. (Curso de curta duração ministrado/Extensão). 
+SILVA, Carlos Alberto; Elizangela Mattos Faria da Silva . Curso HTML com Dreamweaver.
+							2007. (Desenvolvimento de material didático ou instrucional - Curso HTML com Dreamweaver). 
+
+
+SILVA, Carlos Alberto. GERENCIAMENTO DE PROJETOS. 2003 (CURSO DE EXTENSÃO) . 
+SILVA, Carlos Alberto.
+  Participação em banca de Adriano Vicente da Silva. O uso das 
+tecnologias da informação e comunicação como recursos educacionais no 
+ensino de história. 2016. Monografia (Aperfeiçoamento/Especialização em 
+Mídias Computacionais - EAD)  - Universidade Federal de Mato Grosso do 
+Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Amanda Montezano Regina. Tecnologias 
+Assistivas para o estudante com deficiência auditiva. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Camila Prates de Abreu. O uso de recursos 
+midiáticos na produção de peças didáticas no curso de técnico em 
+mecânica. 2016. Monografia (Aperfeiçoamento/Especialização em Mídias 
+Computacionais - EAD)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Carlos Augusto Light Thiry. Educação física e
+ saúde na escola. 2016. Monografia (Aperfeiçoamento/Especialização em 
+Mídias Computacionais - EAD)  - Universidade Federal de Mato Grosso do 
+Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Cleia Natalia Pascoalim Caires. Tv jomap - as
+ tecnologias servindo o conhecimento. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Elaine Corvalan. Tecnologia, letramento e 
+alfabetização. 2016. Monografia (Aperfeiçoamento/Especialização em 
+Mídias Computacionais - EAD)  - Universidade Federal de Mato Grosso do 
+Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Eliane Vilhar Centurião. A escola e as novas 
+tecnologias: a diversidade das salas de tecnologias educacionais. 2016. 
+Monografia (Aperfeiçoamento/Especialização em Mídias Computacionais - 
+EAD)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Isabel Virginia de Oliveira Almeida. 
+Interdisciplinaridade em sala de aula: combatendo o mosquito da dengue. 
+2016. Monografia (Aperfeiçoamento/Especialização em Mídias 
+Computacionais - EAD)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Izabel Candido da Silva. O uso das 
+tecnologias integradas à educação escolar: greinermix. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Izabella Mara Fachini de Freitas Cayres. A 
+fotografia digital no ensino de arte. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Jair Bertalli. O uso de celular na escrita de
+ crônicas do cotidiano três-lagoense. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Juliana Serafim Barbosa Oliveira dos Santos. 
+Tecnologia no ensino: uso do blog na produção, leitura e interpretação. 
+2016. Monografia (Aperfeiçoamento/Especialização em Mídias 
+Computacionais - EAD)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ OLIVEIRA, A. K. S.; SILVA JUNIOR, B. A..  Participação em banca de 
+Nafisa Ibrahim.Auditoria de Sistemas de Informação.
+							2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de 
+Computação)  - Universidade Federal de Mato Grosso do Sul. 
+OLIVEIRA, A. K. S.; SILVA JUNIOR, B. A.; SILVA, Carlos Alberto.
+  Participação em banca de Rodrigo Santiago do Nascimento Lima.AUDITORIA
+ DE SISTEMAS DE INFORMAÇÃO.
+							2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de 
+Computação)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto; OLIVEIRA, A. K. S.; SILVA JUNIOR, B. A..  Participação em banca de Lucas Diego Braga Cabral.Analise de detecção de Malware.
+							2015. Trabalho de Conclusão de Curso (Graduação em Análise de Sistemas)  - Universidade Federal de Mato Grosso do Sul. 
+OLIVEIRA, A. K. S.; SILVA JUNIOR, B. A.; SILVA, Carlos Alberto.  Participação em banca de Luiz Carlos Pereira Leal de Souza Nogueira.Funções Hash.
+							2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Sirley Gomes Romero.Construção de Firewall 
+Hibrido.
+							2008. Trabalho de Conclusão de Curso (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Fernando Marcel Silva Souza.Ferramentas para 
+Perícia Forense Computacional - Ambiente Unix.
+							2008. Trabalho de Conclusão de Curso (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Maycon Lucas Ortiz Braun.Ferramentas para 
+Perícia Forense Computacional - Ambiente Windows.
+							2008. Trabalho de Conclusão de Curso (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de DÊNIS DA SILVA CANATO, e PAULO HENRIQUE 
+FERREIRA DA SILVA.Protocolo SSL: Autenticação e Criptografia em Camada 
+Cliente/Servidor ? Software ORION.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de RODOLFO DE SOUZA BARBEIRO.ORION: 
+Implementando um Software Middleware para Sistemas Distribuídos.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Amaury Antônio de Castro Junior; Karen Kiomi Nakazato; Leila Lisiane 
+Rossi.  Participação em banca de Elionai Oliveira de Souza.Aplicação do 
+RUP no Projeto de Data Webhouse.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva; Leila Lisiane Rossi.  Participação em
+ banca de Wilsimar de Souza.Sistema Web para Vigilância Sanitária.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Amaury Antônio de Castro Junior; Leila Lisiane Rossi; Elizangela Mattos
+ Faria da Silva.  Participação em banca de Diego Duarte Costa, e Roney 
+de A.Silva.Automatools: Implementação de uma Aplicação para Edição de 
+Autômatos Finitos Determinísticos Utilizando Java.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Amaury Antônio de Castro Junior; Leila Lisiane Rossi.  Participação em 
+banca de Fabiano de L. Mazui.Vaucangraph:Um Ambiente Gráfico para 
+Geração de Código Vaucanson em Documentos Latex.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva.  Participação em banca de CLODOALDO 
+SOUZA ALVES.Administrador de Aplicativos para Ambiente Unix.
+							2006. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva.  Participação em banca de Graziele T.
+ F., Rozineide S. S. e Simone B. G..Banco de dados WEB do Centro de 
+Documentação Historica da Região Norte do MS - Herinque de Melo 
+Spengler.
+							2006. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva.  Participação em banca de Katiuce 
+Cândida dos Santos e Marcio Saraiva Batista.Construção de um Website 
+Dinâmico para uma Empresa de Pré-Moldados.
+							2006. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva.  Participação em banca de Cesar 
+augusto de Almeida Viana.Desenvolvimento de Catalogo Eletrônico.
+							2006. 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva.  Participação em banca de Angelino 
+C., Artur A. C. e Renato F. S..Sistema WEB para divulgação da região 
+Norte de Mato Grosso do Sul.
+							2006. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Fabio Costa Neri / Geovane Costa Roque / 
+Gustavo Pomine.Ws-Nin - Sistema de Workflow para recepção do Núcleo de 
+Informática.
+							2002. Trabalho de Conclusão de Curso (Graduação em ANALISE DE 
+SISTEMAS)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Elizângela Nogueira.Odont´s Office for 
+windows.
+							2002. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Alessio Ferreira Severino.Sistema de Controle
+ de Onibus - SIT.
+							2002. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ N., Bruno Magalhaes; S., Ricardo Ribeiro dos. Banca Examinadora para 
+ingresso na Carreira do Magistério Superior na Classe de Professor 
+Assistente A, Grande Área / Área: Ciências Exatas e da Terra / Ciência 
+da Computação.
+							2016. Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ N., Bruno Magalhaes; ISHII, R. P.. Banca Examinadora para ingresso na 
+Carreira do Magistério Superior na Classe de Professor Assistente A, 
+Grande Área / Área: Ciências Exatas e da Terra / Ciência da Computação.
+							2016. Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ ISHII, R. P.; REIS, V. Q.. Ingresso no Magistério Superior da UFMS - 
+Professor Auxiliar (Pró-reitoria de Graduação-I.S. 250/2014).
+							2014. Universidade Federal de Mato Grosso do Sul. 
+BARBOSA FILHO, R.; SILVA, Carlos Alberto; SILVA JUNIOR, B. A.. Ingresso no Magistério Superior da UFMS - Professor Assistente (Pró-reitoria de Graduação-I.S. 245/2013).
+							2013. 
+SILVA, Carlos Alberto;
+ Amaury Antônio de Castro Junior; Leila Lisiane Rossi. Processo 
+Simplificado para Contratação de Professor Substituto. Area de 
+Administração.
+							2007. Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Karen Kiomi Nakazato; Marco Aurélio Stefanes. Ingresso no Magistério 
+Superior da UFMS - Professor Assistente (CPCX-I.S. 112/2006).
+							2006. Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Karen Kiomi Nakazato; Elizangela Mattos Faria da Silva. Processo 
+Simplificado para Contratação de Professor Substituto. Area de 
+Matemática.
+							2006. Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Karen Kiomi Nakazato; Elizangela Mattos Faria da Silva. Processo 
+Simplificado para Contratação de Professor Substituto. Area de 
+Administração.
+							2006. Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto. Processo Simplificado para Contratação de Professor Substituto. Area de Lingua Espanhol.
+							2006. Universidade Federal do Mato Grosso do Sul. 
+Cisco Cybersecurity Community Conference. 2020. (Congresso). 
+Info Security ? Ilha da Segurança Digital. 13ª ISC Brasil ? Feira e Conferência Internacional de Segurança. 2018. (Congresso). 
+Simpósio Brasileiro de Segurança 2018 (SBSeg-2018).
+							2018. (Simpósio). 
+					
+XI Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais - SBSeg-2012.
+							2012. (Simpósio). 
+					
+XXIX Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuidos - SBRC-2011.
+							2011. (Simpósio). 
+					
+IX Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais - SBSeg-2009.
+							2009. (Simpósio). 
+					
+12o Congresso Regional de Informatica e 
+Telecomunicacoes de Mato Grosso. Geração do Portal CPCX - UFMS pelo 
+UNION: Um Estudo de Caso. 2008. (Congresso). 
+I EPEX - Encontro de Ensino, Pesquisa e Extensão ( I PETPEG - IX EIC - III ENEX ).ESTRUTURAÇÃO DE TELECENTRO DE SILVIOLANDIA.
+							2008. (Encontro). 
+					
+II SEREX - CO (Seminário de Extensão 
+Universitária da Região Centro Oeste).TELECENTRO SILVIOLÂNDIA ? RELAÇÃO 
+VIÁVEL ENTRE ENSINO E EXTENSÃO.
+							2008. (Encontro). 
+					
+Semana Acadêmica de Sistemas de Informação. 2008. (Congresso). 
+I Congresso Brasileiro de Educação: 
+Politicas e Práticas de Educação para Infância - UNESP/Bauru/SP. Projeto
+ Educar: como utilizar o laboratório de informática como uma ferramenta 
+de ensino. 2007. (Congresso). 
+I Congresso Brasileiro de Educação: 
+Politicas e Práticas de Educação para Infância - UNESP/Bauru/SP. Projeto
+ Educar: captação de material didático para escolas públicas da região 
+norte do Mato Grosso do Sul. 2007. (Congresso). 
+II Encontro de Extensão Universitária da UFMS - II ENEX-UFMS.
+							2007. (Encontro). 
+					
+III Congresso de Computação do Sul de 
+Mato Grosso - III COMPSULMT. UNION: Um Framework para Desenvolvimento 
+Ágil de Aplicações Web. 2007. (Congresso). 
+I Seminário de Extensão Universitária da Região Centro-Oeste - I SEREX-CO. 2007. (Seminário). 
+Semana de Tecnologia da Informação - SeTInfo 1.0. 2007. (Congresso). 
+3a. Semana de Sistemas de Informação - 
+CPCX/UFMS. Ententendo e Combatendo Malware: Virus, Spywares e Rootkits. 
+2006. (Congresso). 
+1º Encontro da Região Centro Oeste de Educação, Trabalho e Formação de Professores.
+							2005. (Encontro). 
+					
+3ª Semana de Pedagogia - Educação a Distancia - UFMS.
+							2005. (Encontro). 
+					
+4º Encontro de Educadores.
+							2005. (Encontro). 
+					
+2º SEMANA EDUCACIONAL. 2003. (Seminário). 
+ORACLE OPEN WORLD´99. 1999. (Congresso). 
+II WORKSHOP SOBRE ADMINISTRAÇÃO E INTEGRAÇÃO DE SISTEMAS.
+							1996. (Simpósio). 
+					
+XIV SIMPÓSIO BRASILEIRO DE REDE DE COMPUTADORES.
+							1996. (Simpósio). 
+					
+IX SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE.
+							1995. (Simpósio). 
+					
+XII SIMPÓSIO BRASILEIRO DE INTELIGÊNCIA ARTIFICIAL.
+							1995. (Simpósio). 
+					
+X SIMPÓSIO BRASILEIRO DE BANCO DE DADOS.
+							1995. (Simpósio). 
+					
+II SEMANA DE COMPUTAÇÃO - SECOMP/93. 1993. (Outra). 
+					
+V SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE.
+							1991. (Simpósio). 
+					
+IV SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE.
+							1990. (Simpósio). 
+					
+V SIMPÓSIO BRASILEIRO DE BANCO DE DADOS.
+							1990. (Simpósio). 
+					
+IV SIMPÓSIO BRASILEIRO DE BANCO DE DADOS.
+							1989. (Simpósio). 
+					
+IX SBC. 1989. (Outra). 
+					
+IX SBC. 1989. (Outra). 
+					
+IX SOCIEDADE BRASILEIRA DE COMPUTAÇÃO. 1989. (Congresso). 
+VIII JORNADA DE ATUALIZAÇÃO EM INFORMÁTICA. 1989. (Outra). 
+					
+VI SIMPÓSIO BRASILEIRO DE INTELIGENCIA ARTIFICIAL.
+							1989. (Simpósio). 
+					
+VI ESCOLA DE COMPUTAÇÃO. 1988. (Congresso). 
+SILVA, Carlos Alberto;
+ Alfredo Lanari de Aragão . Membro da Comissão Geral da Semana Acadêmica
+ de Sistemas de Informação do CPCX/UFMS.. 2008. (Congresso). 
+Amaury Antônio de Castro Junior ; SILVA, Carlos Alberto ; Leila Lisiane Rossi . Membro da Comissão Geral do SeTInfo 1.0 do CPCX/UFMS.. 2007. (Congresso). 
+SILVA, Carlos Alberto. Membro da Comissão Geral da 3ª Semana de Sistema de Informação - CPCX-UFMS. 2006. (Congresso). 
+Jean Carvalho Ortiz.
+							Mitigando as vulnerabilidades de sistemas Web usando Nessus.
+							2018.
+							Trabalho de Conclusão de Curso. (Graduação em Ciência da 
+Computação)  - Faculdade de Computação. Orientador: Carlos Alberto da 
+Silva.
+						
+LUCAS DIEGO BRAGA CABRAL.
+							Análise de detecção de Malware.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Ciência da 
+Computação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Júlio Aparecido de Arruda Cavalcante.
+							Ethical.
+							2008.
+							Trabalho de Conclusão de Curso. (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Carlos Alberto da Silva.
+						
+Djohny Marcio Magalhães Braga.
+							Access-MSN.
+							2008.
+							Trabalho de Conclusão de Curso. (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Carlos Alberto da Silva.
+						
+Dionisio Machado Leite Filho.
+							FAPARC - Ferramentas para Automatização de Procedimentos de 
+Administração de Redes de Computadores.
+							2008.
+							Trabalho de Conclusão de Curso. (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Carlos Alberto da Silva.
+						
+Fernando Hiroshi Nagae.
+							SGCPHPJSP: Sistema Gerador de Código PHP e JSP Baseado em Projeto
+ de Banco de Dados.
+							2008.
+							Trabalho de Conclusão de Curso. (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Carlos Alberto da Silva.
+						
+Sirley Gomes Romero.
+							Construção de Firewall Hibrido.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Dênis da Silva Canato, e Paulo Herinque 
+Ferreira da Silva.
+							Protocolo SSL: Autenticação e Criptografia em Camada 
+Cliente/Servidor ? Software Orion.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Rodolfo de Souza Barbeiro.
+							ORION: Implementando um Software Middleware para Sistemas 
+Distribuídos.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Fernando Marcel Silva Souza.
+							Ferramentas para Perícia Forense Computacional - Ambiente Unix.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Maycon Lucas Ortiz Braun.
+							Ferramentas para Perícia Forense Computacional - Ambiente 
+Windows.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Clodoaldo Souza Alves.
+							Administrador de Aplicativos para Ambiente Unix.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Katiuce Cândida dos Santos e Marcio 
+Saraiva Batista.
+							Construção de um Website Dinâmico para uma Empresa de 
+Pré-Moldados.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Graziele T. F., Rozineide S. S. e Simone 
+B. G..
+							Banco de dados WEB do Centro de Documentação Historica da Região 
+Norte do MS - Herinque de Melo Spengler.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Cesar augusto de Almeida Viana.
+							Desenvolvimento de Catalogo Eletrônico.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Angelino C., Artur A. C. e Renato F. S..
+							Sistema WEB para divulgação da região Norte de Mato Grosso do 
+Sul.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Alessio Ferreira Severino.
+							SISTEMA DE CONTROLE DE ONIBUS - SIT.
+							1999.
+							Trabalho de Conclusão de Curso. (Graduação em PROCESSAMENTO DE 
+DADOS)  - Universidade Anhanguera - Uniderp. Orientador: Carlos Alberto 
+da Silva.
+						
+Elizângela Nogueira.
+							ODONT´S OFFICE FOR WINDOWS.
+							1999.
+							Trabalho de Conclusão de Curso. (Graduação em PROCESSAMENTO DE 
+DADOS)  - Universidade Anhanguera - Uniderp. Orientador: Carlos Alberto 
+da Silva.
+						
+SILVA, Carlos Alberto. Software de Gestão de Recursos Humanos - Setor Público. 2008. 
+Amaury Antônio de Castro Junior2007Amaury Antônio de Castro Junior ; Leila Lisiane Rossi ; SILVA, Carlos Alberto
+ ; Tony C. Bignardi dos Santos ; Lourival dos Santos Pires Junior . 
+UNION: um framework para o desenvolvimento ágil de aplicações Web. Anais
+ do III Congresso de Computação do Sul de Mato Grosso, v. I, p. 199-199, 2007. 
+Leila Lisiane Rossi ; SILVA, Carlos Alberto . Curso de Informática Básica. 2007. (Curso de curta duração ministrado/Extensão). 
+Marcelo Rocha Barros Gonçalves ; SILVA, Carlos Alberto . Projeto de Extensão: TODO DIA É DIA DE PARQUE. 2007. (Curso de curta duração ministrado/Extensão). 
+Amaury Antônio de Castro Junior2007Amaury Antônio de Castro Junior ; Leila Lisiane Rossi ; SILVA, Carlos Alberto
+ ; Tony C. Bignardi dos Santos ; Lourival dos Santos Pires Junior . 
+UNION: um framework para o desenvolvimento ágil de aplicações Web. Anais
+ do III Congresso de Computação do Sul de Mato Grosso, v. I, p. 199-199, 2007. 
+
+
+SILVA, Carlos Alberto; DE GEUS, PAULO LICIO
+ . An Approach to Security-SLA in Cloud Computing Environments. In: 6th 
+IEEE Latin-American Conference on Communications (LATINCOM), 2014, 
+Cartagena das Índias. 6th IEEE Latin-American Conference on 
+Communications. IEEE Bogotá: IEEE, 2014. 
+
+
+DA SILVA, CARLOS ALBERTO; FERREIRA, ANDERSON SOARES ; DE GEUS, PAULO LICIO
+ . A methodology for management of cloud computing using security 
+criteria. In: 2012 IEEE Latin America Conference on Cloud Computing and 
+Communications (LatinCloud), 2012, Porto Alegre. 2012 IEEE Latin America
+ Conference on Cloud Computing and Communications (LatinCloud). p. 
+49-54. 
+SILVA, Carlos Alberto.
+ AS CONSEQUÊNCIAS DA INTELIGÊNCIA COLETIVA PARA A EDUCAÇÃO. In: 2º 
+SEMANA EDUCACIONAL, 2003, CAMPO GRANDE. AS CONSEQUÊNCIAS DA INTELIGÊNCIA
+ COLETIVA PARA A EDUCAÇÃO. CAMPO GRANDE - MS: COLÉGIO ALEXANDER FLEMING,
+ 2003. 
+
+
+DA SILVA, CARLOS ALBERTO; DE GEUS, PAULO LICIO
+ . Return On Security Investment for Cloud Computing: a Customer 
+Perspective. Carlos Alberto da Silva, and Paulo Lício de Geus. ACM 7th 
+International conference on Management of computational and collective 
+Intelligence in Digital EcoSystems (MEDES?15). 25-29 October 2015, 
+Caraguatatuba/São Paulo, Brazil.. In: ACM 7th International conference 
+on Management of computational and collective Intelligence in Digital 
+EcoSystems (MEDES?15), 2015, Caraguatatuba, SP, Brazil. ACM 7th 
+International conference on Management of computational and collective 
+Intelligence in Digital EcoSystems (MEDES?15), 2015. 
+DA SILVA, CARLOS ALBERTO; DE GEUS, PAULO LICIO
+ . Arquitetura de monitoramento para Security-SLA em Nuvem Computacional
+ do tipo SaaS. In: Simpósio Brasileiro em Segurança da Informação e de 
+Sistemas Computacionais (SBSeg), 2014, Belo Horizonte, MG, Brasil. 
+Simpósio Brasileiro em Segurança da Informação e de Sistemas 
+Computacionais (SBSeg). Belo Horizonte, MG, BRASIL: SBC, 2014. 
+
+
+SILVA, Carlos Alberto;
+ Anderson Soares Ferreira . Projeto e Gestão de Segurança na Computação 
+na Nuvem. In: VII Workshop de Teses, Dissertações e Trabalhos de 
+Iniciação Científica, 2012, Campinas - SP. Anais do VII Workshop de 
+Teses, Dissertações e Trabalhos de Iniciação Científica em Andamento do 
+IC-UNICAMP. Campinas - SP: Unicamp, 2012. v. 8. p. 65-69. 
+DA SILVA, CARLOS ALBERTO; DE GEUS, PAULO LICIO . Gestao da Segurança para ambiente de Nuvem Computacional. 2014. (Apresentação de Trabalho/Outra). 
+SILVA, Carlos Alberto. Metodologia para Projeto e Gestão da Segurança para Computação em Nuvem. 2012. (Apresentação de Trabalho/Outra). 
+SILVA, Carlos Alberto;
+ Leila Lisiane Rossi ; Amaury Antônio de Castro Junior ; Tony C. 
+Bignardi dos Santos ; Lourival dos Santos Pires Junior . Geracao do 
+Portal CPCX - UFMS pelo UNION: Um Estudo de Caso. 2008. (Apresentação de
+ Trabalho/Outra). 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva ; Amaury Antônio de Castro Junior ; 
+Leila Lisiane Rossi ; Marcelo Rocha Barros Gonçalves . Projeto Educar: 
+como utilizar o laboratório de informática como uma ferramenta de 
+ensino. 2007. (Apresentação de Trabalho/Comunicação). 
+SILVA, Carlos Alberto;
+ Leila Lisiane Rossi ; Amaury Antônio de Castro Junior . UNION: Um 
+Framework Ágil para o Desenvolvimento de Aplicaçoes WEB.. 2007. 
+(Apresentação de Trabalho/Congresso). 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva ; Amaury Antônio de Castro Junior ; 
+Leila Lisiane Rossi ; Marcelo Rocha Barros Gonçalves . Projeto Educar: 
+capitação de material didático para escolas públicas da região norte do 
+Mato Grosso do Sul. 2007. (Apresentação de Trabalho/Comunicação). 
+SILVA, Carlos Alberto. Ententendo e Combatendo Malware: Virus, Spywares e Rootkits. 2006. (Apresentação de Trabalho/Conferência ou palestra). 
+SILVA, Carlos Alberto; Paulo Lício de Geus . Gestão de Segurança para ambiente de Nuvem Computacional 2014 (Poster). 
+SILVA, Carlos Alberto. Software de Gestão de Recursos Humanos - Setor Público. 2008. 
+SILVA, Carlos Alberto. Software de Gestão de Recursos Humanos - Setor Público. 2007. 
+SILVA, Carlos Alberto. Software de calculo de valores retroativo para devolução erário (TCU - Processo Judicial). 2006. 
+SILVA, Carlos Alberto. Construção do Módulo de Importação de Aposentados do SIAPE/Serpro. 2006. 
+SILVA, Carlos Alberto. Software de Gestão de Recursos Humanos - Setor Público. 2006. 
+Leila Lisiane Rossi ; SILVA, Carlos Alberto . Curso de Informática Básica. 2007. (Curso de curta duração ministrado/Extensão). 
+Marcelo Rocha Barros Gonçalves ; SILVA, Carlos Alberto . Projeto de Extensão: TODO DIA É DIA DE PARQUE. 2007. (Curso de curta duração ministrado/Extensão). 
+SILVA, Carlos Alberto; Elizangela Mattos Faria da Silva . Curso de HTML com Dreamweaver. 2007. (Curso de curta duração ministrado/Extensão). 
+SILVA, Carlos Alberto; Elizangela Mattos Faria da Silva . Curso HTML com Dreamweaver.
+							2007. (Desenvolvimento de material didático ou instrucional - Curso HTML com Dreamweaver). 
+
+
+SILVA, Carlos Alberto. GERENCIAMENTO DE PROJETOS. 2003 (CURSO DE EXTENSÃO) . 
+SILVA, Carlos Alberto.
+  Participação em banca de Adriano Vicente da Silva. O uso das 
+tecnologias da informação e comunicação como recursos educacionais no 
+ensino de história. 2016. Monografia (Aperfeiçoamento/Especialização em 
+Mídias Computacionais - EAD)  - Universidade Federal de Mato Grosso do 
+Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Amanda Montezano Regina. Tecnologias 
+Assistivas para o estudante com deficiência auditiva. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Camila Prates de Abreu. O uso de recursos 
+midiáticos na produção de peças didáticas no curso de técnico em 
+mecânica. 2016. Monografia (Aperfeiçoamento/Especialização em Mídias 
+Computacionais - EAD)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Carlos Augusto Light Thiry. Educação física e
+ saúde na escola. 2016. Monografia (Aperfeiçoamento/Especialização em 
+Mídias Computacionais - EAD)  - Universidade Federal de Mato Grosso do 
+Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Cleia Natalia Pascoalim Caires. Tv jomap - as
+ tecnologias servindo o conhecimento. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Elaine Corvalan. Tecnologia, letramento e 
+alfabetização. 2016. Monografia (Aperfeiçoamento/Especialização em 
+Mídias Computacionais - EAD)  - Universidade Federal de Mato Grosso do 
+Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Eliane Vilhar Centurião. A escola e as novas 
+tecnologias: a diversidade das salas de tecnologias educacionais. 2016. 
+Monografia (Aperfeiçoamento/Especialização em Mídias Computacionais - 
+EAD)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Isabel Virginia de Oliveira Almeida. 
+Interdisciplinaridade em sala de aula: combatendo o mosquito da dengue. 
+2016. Monografia (Aperfeiçoamento/Especialização em Mídias 
+Computacionais - EAD)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Izabel Candido da Silva. O uso das 
+tecnologias integradas à educação escolar: greinermix. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Izabella Mara Fachini de Freitas Cayres. A 
+fotografia digital no ensino de arte. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Jair Bertalli. O uso de celular na escrita de
+ crônicas do cotidiano três-lagoense. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Juliana Serafim Barbosa Oliveira dos Santos. 
+Tecnologia no ensino: uso do blog na produção, leitura e interpretação. 
+2016. Monografia (Aperfeiçoamento/Especialização em Mídias 
+Computacionais - EAD)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ OLIVEIRA, A. K. S.; SILVA JUNIOR, B. A..  Participação em banca de 
+Nafisa Ibrahim.Auditoria de Sistemas de Informação.
+							2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de 
+Computação)  - Universidade Federal de Mato Grosso do Sul. 
+OLIVEIRA, A. K. S.; SILVA JUNIOR, B. A.; SILVA, Carlos Alberto.
+  Participação em banca de Rodrigo Santiago do Nascimento Lima.AUDITORIA
+ DE SISTEMAS DE INFORMAÇÃO.
+							2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de 
+Computação)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto; OLIVEIRA, A. K. S.; SILVA JUNIOR, B. A..  Participação em banca de Lucas Diego Braga Cabral.Analise de detecção de Malware.
+							2015. Trabalho de Conclusão de Curso (Graduação em Análise de Sistemas)  - Universidade Federal de Mato Grosso do Sul. 
+OLIVEIRA, A. K. S.; SILVA JUNIOR, B. A.; SILVA, Carlos Alberto.  Participação em banca de Luiz Carlos Pereira Leal de Souza Nogueira.Funções Hash.
+							2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Sirley Gomes Romero.Construção de Firewall 
+Hibrido.
+							2008. Trabalho de Conclusão de Curso (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Fernando Marcel Silva Souza.Ferramentas para 
+Perícia Forense Computacional - Ambiente Unix.
+							2008. Trabalho de Conclusão de Curso (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Maycon Lucas Ortiz Braun.Ferramentas para 
+Perícia Forense Computacional - Ambiente Windows.
+							2008. Trabalho de Conclusão de Curso (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de DÊNIS DA SILVA CANATO, e PAULO HENRIQUE 
+FERREIRA DA SILVA.Protocolo SSL: Autenticação e Criptografia em Camada 
+Cliente/Servidor ? Software ORION.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de RODOLFO DE SOUZA BARBEIRO.ORION: 
+Implementando um Software Middleware para Sistemas Distribuídos.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Amaury Antônio de Castro Junior; Karen Kiomi Nakazato; Leila Lisiane 
+Rossi.  Participação em banca de Elionai Oliveira de Souza.Aplicação do 
+RUP no Projeto de Data Webhouse.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva; Leila Lisiane Rossi.  Participação em
+ banca de Wilsimar de Souza.Sistema Web para Vigilância Sanitária.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Amaury Antônio de Castro Junior; Leila Lisiane Rossi; Elizangela Mattos
+ Faria da Silva.  Participação em banca de Diego Duarte Costa, e Roney 
+de A.Silva.Automatools: Implementação de uma Aplicação para Edição de 
+Autômatos Finitos Determinísticos Utilizando Java.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Amaury Antônio de Castro Junior; Leila Lisiane Rossi.  Participação em 
+banca de Fabiano de L. Mazui.Vaucangraph:Um Ambiente Gráfico para 
+Geração de Código Vaucanson em Documentos Latex.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva.  Participação em banca de CLODOALDO 
+SOUZA ALVES.Administrador de Aplicativos para Ambiente Unix.
+							2006. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva.  Participação em banca de Graziele T.
+ F., Rozineide S. S. e Simone B. G..Banco de dados WEB do Centro de 
+Documentação Historica da Região Norte do MS - Herinque de Melo 
+Spengler.
+							2006. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva.  Participação em banca de Katiuce 
+Cândida dos Santos e Marcio Saraiva Batista.Construção de um Website 
+Dinâmico para uma Empresa de Pré-Moldados.
+							2006. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva.  Participação em banca de Cesar 
+augusto de Almeida Viana.Desenvolvimento de Catalogo Eletrônico.
+							2006. 
+SILVA, Carlos Alberto;
+ Elizangela Mattos Faria da Silva.  Participação em banca de Angelino 
+C., Artur A. C. e Renato F. S..Sistema WEB para divulgação da região 
+Norte de Mato Grosso do Sul.
+							2006. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Fabio Costa Neri / Geovane Costa Roque / 
+Gustavo Pomine.Ws-Nin - Sistema de Workflow para recepção do Núcleo de 
+Informática.
+							2002. Trabalho de Conclusão de Curso (Graduação em ANALISE DE 
+SISTEMAS)  - Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Elizângela Nogueira.Odont´s Office for 
+windows.
+							2002. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto.
+  Participação em banca de Alessio Ferreira Severino.Sistema de Controle
+ de Onibus - SIT.
+							2002. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ N., Bruno Magalhaes; S., Ricardo Ribeiro dos. Banca Examinadora para 
+ingresso na Carreira do Magistério Superior na Classe de Professor 
+Assistente A, Grande Área / Área: Ciências Exatas e da Terra / Ciência 
+da Computação.
+							2016. Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ N., Bruno Magalhaes; ISHII, R. P.. Banca Examinadora para ingresso na 
+Carreira do Magistério Superior na Classe de Professor Assistente A, 
+Grande Área / Área: Ciências Exatas e da Terra / Ciência da Computação.
+							2016. Universidade Federal de Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ ISHII, R. P.; REIS, V. Q.. Ingresso no Magistério Superior da UFMS - 
+Professor Auxiliar (Pró-reitoria de Graduação-I.S. 250/2014).
+							2014. Universidade Federal de Mato Grosso do Sul. 
+BARBOSA FILHO, R.; SILVA, Carlos Alberto; SILVA JUNIOR, B. A.. Ingresso no Magistério Superior da UFMS - Professor Assistente (Pró-reitoria de Graduação-I.S. 245/2013).
+							2013. 
+SILVA, Carlos Alberto;
+ Amaury Antônio de Castro Junior; Leila Lisiane Rossi. Processo 
+Simplificado para Contratação de Professor Substituto. Area de 
+Administração.
+							2007. Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Karen Kiomi Nakazato; Marco Aurélio Stefanes. Ingresso no Magistério 
+Superior da UFMS - Professor Assistente (CPCX-I.S. 112/2006).
+							2006. Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Karen Kiomi Nakazato; Elizangela Mattos Faria da Silva. Processo 
+Simplificado para Contratação de Professor Substituto. Area de 
+Matemática.
+							2006. Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto;
+ Karen Kiomi Nakazato; Elizangela Mattos Faria da Silva. Processo 
+Simplificado para Contratação de Professor Substituto. Area de 
+Administração.
+							2006. Universidade Federal do Mato Grosso do Sul. 
+SILVA, Carlos Alberto. Processo Simplificado para Contratação de Professor Substituto. Area de Lingua Espanhol.
+							2006. Universidade Federal do Mato Grosso do Sul. 
+Cisco Cybersecurity Community Conference. 2020. (Congresso). 
+Info Security ? Ilha da Segurança Digital. 13ª ISC Brasil ? Feira e Conferência Internacional de Segurança. 2018. (Congresso). 
+Simpósio Brasileiro de Segurança 2018 (SBSeg-2018).
+							2018. (Simpósio). 
+					
+XI Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais - SBSeg-2012.
+							2012. (Simpósio). 
+					
+XXIX Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuidos - SBRC-2011.
+							2011. (Simpósio). 
+					
+IX Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais - SBSeg-2009.
+							2009. (Simpósio). 
+					
+12o Congresso Regional de Informatica e 
+Telecomunicacoes de Mato Grosso. Geração do Portal CPCX - UFMS pelo 
+UNION: Um Estudo de Caso. 2008. (Congresso). 
+I EPEX - Encontro de Ensino, Pesquisa e Extensão ( I PETPEG - IX EIC - III ENEX ).ESTRUTURAÇÃO DE TELECENTRO DE SILVIOLANDIA.
+							2008. (Encontro). 
+					
+II SEREX - CO (Seminário de Extensão 
+Universitária da Região Centro Oeste).TELECENTRO SILVIOLÂNDIA ? RELAÇÃO 
+VIÁVEL ENTRE ENSINO E EXTENSÃO.
+							2008. (Encontro). 
+					
+Semana Acadêmica de Sistemas de Informação. 2008. (Congresso). 
+I Congresso Brasileiro de Educação: 
+Politicas e Práticas de Educação para Infância - UNESP/Bauru/SP. Projeto
+ Educar: como utilizar o laboratório de informática como uma ferramenta 
+de ensino. 2007. (Congresso). 
+I Congresso Brasileiro de Educação: 
+Politicas e Práticas de Educação para Infância - UNESP/Bauru/SP. Projeto
+ Educar: captação de material didático para escolas públicas da região 
+norte do Mato Grosso do Sul. 2007. (Congresso). 
+II Encontro de Extensão Universitária da UFMS - II ENEX-UFMS.
+							2007. (Encontro). 
+					
+III Congresso de Computação do Sul de 
+Mato Grosso - III COMPSULMT. UNION: Um Framework para Desenvolvimento 
+Ágil de Aplicações Web. 2007. (Congresso). 
+I Seminário de Extensão Universitária da Região Centro-Oeste - I SEREX-CO. 2007. (Seminário). 
+Semana de Tecnologia da Informação - SeTInfo 1.0. 2007. (Congresso). 
+3a. Semana de Sistemas de Informação - 
+CPCX/UFMS. Ententendo e Combatendo Malware: Virus, Spywares e Rootkits. 
+2006. (Congresso). 
+1º Encontro da Região Centro Oeste de Educação, Trabalho e Formação de Professores.
+							2005. (Encontro). 
+					
+3ª Semana de Pedagogia - Educação a Distancia - UFMS.
+							2005. (Encontro). 
+					
+4º Encontro de Educadores.
+							2005. (Encontro). 
+					
+2º SEMANA EDUCACIONAL. 2003. (Seminário). 
+ORACLE OPEN WORLD´99. 1999. (Congresso). 
+II WORKSHOP SOBRE ADMINISTRAÇÃO E INTEGRAÇÃO DE SISTEMAS.
+							1996. (Simpósio). 
+					
+XIV SIMPÓSIO BRASILEIRO DE REDE DE COMPUTADORES.
+							1996. (Simpósio). 
+					
+IX SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE.
+							1995. (Simpósio). 
+					
+XII SIMPÓSIO BRASILEIRO DE INTELIGÊNCIA ARTIFICIAL.
+							1995. (Simpósio). 
+					
+X SIMPÓSIO BRASILEIRO DE BANCO DE DADOS.
+							1995. (Simpósio). 
+					
+II SEMANA DE COMPUTAÇÃO - SECOMP/93. 1993. (Outra). 
+					
+V SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE.
+							1991. (Simpósio). 
+					
+IV SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE.
+							1990. (Simpósio). 
+					
+V SIMPÓSIO BRASILEIRO DE BANCO DE DADOS.
+							1990. (Simpósio). 
+					
+IV SIMPÓSIO BRASILEIRO DE BANCO DE DADOS.
+							1989. (Simpósio). 
+					
+IX SBC. 1989. (Outra). 
+					
+IX SBC. 1989. (Outra). 
+					
+IX SOCIEDADE BRASILEIRA DE COMPUTAÇÃO. 1989. (Congresso). 
+VIII JORNADA DE ATUALIZAÇÃO EM INFORMÁTICA. 1989. (Outra). 
+					
+VI SIMPÓSIO BRASILEIRO DE INTELIGENCIA ARTIFICIAL.
+							1989. (Simpósio). 
+					
+VI ESCOLA DE COMPUTAÇÃO. 1988. (Congresso). 
+SILVA, Carlos Alberto;
+ Alfredo Lanari de Aragão . Membro da Comissão Geral da Semana Acadêmica
+ de Sistemas de Informação do CPCX/UFMS.. 2008. (Congresso). 
+Amaury Antônio de Castro Junior ; SILVA, Carlos Alberto ; Leila Lisiane Rossi . Membro da Comissão Geral do SeTInfo 1.0 do CPCX/UFMS.. 2007. (Congresso). 
+SILVA, Carlos Alberto. Membro da Comissão Geral da 3ª Semana de Sistema de Informação - CPCX-UFMS. 2006. (Congresso). 
+Jean Carvalho Ortiz.
+							Mitigando as vulnerabilidades de sistemas Web usando Nessus.
+							2018.
+							Trabalho de Conclusão de Curso. (Graduação em Ciência da 
+Computação)  - Faculdade de Computação. Orientador: Carlos Alberto da 
+Silva.
+						
+LUCAS DIEGO BRAGA CABRAL.
+							Análise de detecção de Malware.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Ciência da 
+Computação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Júlio Aparecido de Arruda Cavalcante.
+							Ethical.
+							2008.
+							Trabalho de Conclusão de Curso. (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Carlos Alberto da Silva.
+						
+Djohny Marcio Magalhães Braga.
+							Access-MSN.
+							2008.
+							Trabalho de Conclusão de Curso. (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Carlos Alberto da Silva.
+						
+Dionisio Machado Leite Filho.
+							FAPARC - Ferramentas para Automatização de Procedimentos de 
+Administração de Redes de Computadores.
+							2008.
+							Trabalho de Conclusão de Curso. (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Carlos Alberto da Silva.
+						
+Fernando Hiroshi Nagae.
+							SGCPHPJSP: Sistema Gerador de Código PHP e JSP Baseado em Projeto
+ de Banco de Dados.
+							2008.
+							Trabalho de Conclusão de Curso. (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Carlos Alberto da Silva.
+						
+Sirley Gomes Romero.
+							Construção de Firewall Hibrido.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Dênis da Silva Canato, e Paulo Herinque 
+Ferreira da Silva.
+							Protocolo SSL: Autenticação e Criptografia em Camada 
+Cliente/Servidor ? Software Orion.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Rodolfo de Souza Barbeiro.
+							ORION: Implementando um Software Middleware para Sistemas 
+Distribuídos.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Fernando Marcel Silva Souza.
+							Ferramentas para Perícia Forense Computacional - Ambiente Unix.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Maycon Lucas Ortiz Braun.
+							Ferramentas para Perícia Forense Computacional - Ambiente 
+Windows.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Clodoaldo Souza Alves.
+							Administrador de Aplicativos para Ambiente Unix.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Katiuce Cândida dos Santos e Marcio 
+Saraiva Batista.
+							Construção de um Website Dinâmico para uma Empresa de 
+Pré-Moldados.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Graziele T. F., Rozineide S. S. e Simone 
+B. G..
+							Banco de dados WEB do Centro de Documentação Historica da Região 
+Norte do MS - Herinque de Melo Spengler.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Cesar augusto de Almeida Viana.
+							Desenvolvimento de Catalogo Eletrônico.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Angelino C., Artur A. C. e Renato F. S..
+							Sistema WEB para divulgação da região Norte de Mato Grosso do 
+Sul.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						
+Alessio Ferreira Severino.
+							SISTEMA DE CONTROLE DE ONIBUS - SIT.
+							1999.
+							Trabalho de Conclusão de Curso. (Graduação em PROCESSAMENTO DE 
+DADOS)  - Universidade Anhanguera - Uniderp. Orientador: Carlos Alberto 
+da Silva.
+						
+Elizângela Nogueira.
+							ODONT´S OFFICE FOR WINDOWS.
+							1999.
+							Trabalho de Conclusão de Curso. (Graduação em PROCESSAMENTO DE 
+DADOS)  - Universidade Anhanguera - Uniderp. Orientador: Carlos Alberto 
+da Silva.
+						
+SILVA, Carlos Alberto. Software de Gestão de Recursos Humanos - Setor Público. 2008. 
+Amaury Antônio de Castro Junior2007Amaury Antônio de Castro Junior ; Leila Lisiane Rossi ; SILVA, Carlos Alberto
+ ; Tony C. Bignardi dos Santos ; Lourival dos Santos Pires Junior . 
+UNION: um framework para o desenvolvimento ágil de aplicações Web. Anais
+ do III Congresso de Computação do Sul de Mato Grosso, v. I, p. 199-199, 2007. 
+Leila Lisiane Rossi ; SILVA, Carlos Alberto . Curso de Informática Básica. 2007. (Curso de curta duração ministrado/Extensão). 
+Marcelo Rocha Barros Gonçalves ; SILVA, Carlos Alberto . Projeto de Extensão: TODO DIA É DIA DE PARQUE. 2007. (Curso de curta duração ministrado/Extensão). 
+Curriculo parcialmente processado: Carlos Alberto da Silva
+2.809Batista, E.A.2012
+
+Batista, E.A. ; GONDA, L. ; da Silva, A.C.R. ; Rossi, S.R. ; Pereira, M.C. ; de Carvalo, A.A. ; Cugnasca, C.E. . HW/SW platform for an intelligent transducer network based on the IEEE 1451 standard. Computer Standards & Interfaces, v. 34, p. 1-13, 2012. Citações:10|10
+MONTERA, L. ; GONDA, L. ; ADI, S. 
+S. . Lógica. In: Edson Takashi Matsubara; Ricardo Ribeiro dos Santos. 
+(Org.). Interciências: Despertando Talentos em COmputação. 1ed.Campo 
+Grande - MS: Editora UFMS, 2014, v. 1, p. 15-23. 
+LOMBA, L. F. D. ; JESUS, L. ; Rubinsztejn, H. K. ; GONDA, L.
+ . O uso de inteligência artificial na identificação do comportamento 
+bovino. In: X Congresso Brasileiro de Agroinfomática, 2015, Ponta Grossa
+ - PR. Anais Eletrônicos do X Congresso Brasileiro de Agroinfomática. 
+Ponta Grossa: SBIAGRO, 2015. v. 1. 
+BATISTA, E. A. ; GONDA, L. ; Carneiro, A. M. ; PEREIRA, M. C. ; SILVA, A. C. R.
+ . Supervisory Software Development According to IEEE 1451.1 Standard. 
+In: Sensors Applications Symposium, 2010, Limerick. Sensors Applications
+ Symposium (2010), 2010. p. 278-281. 
+BATISTAS, E. A. ; GONDA, L. ; CUGNASCA, C. E. ; SILVA, A. C. R.
+ . Automação de Casas de Vegetação Utilizando IEEE 1451 e Comunicação 
+Sem Fio. In: 7º Simpósio Brasileiro de Agroinformática, 2009, Viçosa - 
+MG. 7º Simpósio Brasileiro de Agroinformática, 2009. v. 1. 
+
+
+		BATISTA, E. A. ; SILVA, A. C. R. ; GONDA, L. ; PEREIRA, M. C.
+ ; FERREIRA, W. M. ; SILVA, I. ; D'ELIA, F. . IEEE1451-based 
+Multi-Interface Module for Industrial Processes Automation. In: IEEE 
+Sensors Applications Sympsium, 2008, Atlanta. IEEE Sensors Applications 
+Sympsium, 2008. v. 1. p. 220-224. 
+BATISTA, E. A. ; RIBEIRO, F. D. ; RICCI, J. M. ; Pereira, B. M. M. ; SILVA, A. C. R. ; FERREIRA, J. L. P. ; PEREIRA, M. C. ; GONDA, L.
+ . Implementação de um Módulo Embarcado para automação de Processo 
+Industriais Utilizando SoftwareElipse Scada e Fpga com Processador Nios 
+II. In: Congresso Brasileiro de Automática (CBA), 2008, Juiz de Fora - 
+MG. Congresso Brasileiro de Automática, 2008. 
+JUSTI, J. ; GONDA, L.
+ ; BATISTA, E. A. ; PFEIFER, E. . Um estudo preliminar sobre comunicação
+ em Redes de Sensores Sem Fio Usando o Protocolo Zigbee. In: III 
+Comgresso de Computação do Sul de Mato Grosso, 2007, Rondonópolis - MT. 
+III COMPSULMT. Rondonópolis - MT: Universidade FEderal de Mato Grosso, 
+2007. v. I. 
+
+
+GONDA, L.;
+ CUGNASCA, C. E. . A Proposal of Greenhouse Control Using Wireless 
+Sensor Networks. In: WCCA 2006 - World Congress on Computers in 
+Agriculture, 2006, Orlando - FL. Proceeding of WCCA 2006 - World 
+Congress on Computers in Agriculture, 2006. v. 1. p. 1-6. 
+
+
+GONDA, L.;
+ MONGELLI, H. . Uma Implementação de Algoritmos BSP/CGM de Ordenação. 
+In: VI Workshop em Sistemas Computacionais de Alto Desempenho (WSCAD), 
+2005, Rio de Janeiro. VI Workshop em Sistemas Computacionais, 2005. 
+GONDA, L.;
+ CUGNASCA, C. E. ; CAMILLI, A. . Aplicações Agrícolas para Redes de 
+Sensores Sem Fio. In: V Congresso Brasileiro de Agroinformática, 2005, 
+Londrina - PR. Anais do V Congresso Brasileiro de Agroinformática, 2005.
+ 
+SANTOS, R. R. ; RUCHKYS, D. P. ; ROMERO, M. E. R. ; GONDA, L.
+ ; CASTRO JR, A. A. . A New Implementation for Parallel Processing Based
+ n CORBA Standard In: International Conference on Parallel and 
+Distributed Processing Techniques and Applications. In: Proc. 2004 
+International Conference on Parallel and Distributed Processing 
+Techniques and Applications, 2004, Las Vegas. Proc. 2004 International 
+Conference on Parallel and Distributed Processing Techniques and 
+Applications, 2004. 
+GONDA, L.;
+ CUGNASCA, C. E. ; NETO, J. J. . Uso de Tabelas de Decisão Adaptativas 
+em Redes de Sensores Sem Fio. In: Workshop de Tecnologia Adaptatiava 
+(2010), 2010, São Paulo - SP. Workshop de Tecnologia Adaptatiava (2010),
+ 2010. 
+GONDA, L.;
+ CUGNASCA, C. E. ; CASTRO JR, A. A. ; NETO, J. J. . Aplicação de 
+Tecnologia Adaptativa em Redes de Sensores Sem Fio. In: Wokshop de 
+Tecnologia Adaptatia, 2009, São Paulo. Workshop de Tecnologia 
+Adaptativa, 2009. 
+GONDA, L.;
+ CUGNASCA, C. E. . Potencial da Utilização de Redes de Sensores sem Fio 
+em Monitoração e Controle de Ambientes. In: SIMCRA 2006 - Simpósio de 
+Construções Rurais e Ambientes Protegidos, 2006, 2006, Campinas - SP. 
+Resumos do SIMCRA 2006 - Simpósio de Construções Rurais e Ambientes 
+Protegidos, 2006, 2006. v. 1. p. 1-4. 
+LOMBA, L. F. D. ; Rubinsztejn, H. K. ; GONDA, L.
+ ; JESUS, L. ; PIRES, P. P. . Identificação do Comportamento Bovino a 
+Partir de Dados de Aceleração do Animal e Monitoramento da 
+Luminosidade no Ambiente. In: 1o. Simpósio Brasileiro de Pecuária de 
+Precisão Aplicada à Bovinocultura de Corte, 2014, Campo Grande. Anais 
+do 1o. Simpósio Brasileiro de Pecuária de Precisão Aplicada à 
+Bovinocultura de Corte, 2014. 
+JESUS, L. ; GONDA, L. ; 
+Rubinsztejn, H. K. ; LOMBA, L. F. D. ; PIRES, P. P. . Identificação do 
+Comportamento Bovino por meio do Monitoramento Animal. In: 1o. Simpósio
+ Brasileiro de Pecuária de Precisão Aplicada à Bovinocultura de 
+Corte, 2014, Campo Grande - MS. 1o. Simpósio Brasileiro de Pecuária de
+ Precisão Aplicada à Bovinocultura de Corte, 2014. 
+Carromeu, C. ; MARUCIO, C. C. D. ; TAKAMURA, A. M. Y. ; TERUYA, L. K. ; GONDA, L.
+ . Calendário Sanitário: Um aplicativo móvel para apoio ao manejo 
+sanitário na pecuária de corte brasileira. In: 1o. Simpósio Brasileiro 
+de Pecuária de Precisão Aplicada à Bovinocultura de Corte, 2014, Campo 
+Grande - MS. Anais do 1o. Simpósio Brasileiro de Pecuária de Precisão 
+Aplicada à Bovinocultura de Corte, 2014. 
+INSFRAN, R. I. S. ; GONDA, L. ; SANTOS, R. R.
+ . Montagem, configuração e caracterização de um cluster para a UCDB e 
+Estudos e Aplicações Paralelas. In: XIII Encontro de Iniciação 
+Científica da UCDB, 2009, Campo Grande. XIII Encontro de Iniciação 
+Científica da UCDB - Caderno de Resumos. Campo Grande - MS: Editora 
+UCDB, 2009. p. 11-11. 
+MACHADO, T. W. ; SANTOS, R. R. ; GONDA, L.
+ . Pesquisa e Implementação de Algoritmo Paralelo para o Problema da 
+Árvore Geradora Mínima. In: XIII Encontro de Iniciação Científica, 2009,
+ Campo Grande-MS. XIII Encontro de Iniciação Científica - Caderno de 
+Resumos, 2009. 
+MORITA, R. H. ; GONDA, L. ; SANTOS, R. R.
+ . Codificação de instruções de Programas: Técnicas e Algoritmos. In: 
+XIII Encontro de Iniciação Científica, 2009, Campo Grande-MS. XIII 
+Encontro de Iniciação Científica - Cadernos de Resumos, 2009. 
+RECH, R. R. ; GONDA, L. ; SANTOS, R. R.
+ . Pesquisa e Implementação de Algoritmo Paralelo para Problema de 
+Roteamento de Veículos com Janelas de Tempo. In: XIII Encontro de 
+Iniciação Científica da UCDB, 2009, Campo grande-MS. XIII Encontro de 
+Iniciação Científica da UCDB - Caderno de Resumos. Campo Grande - MS: 
+Editora UCDB, 2009. 
+DOPP, L. G. R. ; GONDA, L. ; FERREIRA, W. M. ; PEREIRA, M. C.
+ ; Carneiro, A. M. ; INSFRAN, R. I. S. . Elaboração e Organização de 
+Material de Exposição de Informática nas Escolas. In: XIII Encontro de 
+Iniciação Científica da UCDB, 2009, Campo Grande-MS. XIII Encontro de 
+Iniciação Científica da UCDB - Caderno de Resumos. Campo Grande-MS: 
+Editora UCDB, 2009. 
+ÁVILA, K. A. ; GONDA, L.
+ . Monitoramento de Casas de Vegetação Utilizando Redes de Sensores Sem 
+Fio. In: XII Encontro de Iniciação Científic da UCDB, 2008, Campo Grande
+ - MS. XII Encontro de Iniciação Científic da UCDB. Campo Grande: UCDB, 
+2008. v. 1. 
+JUSTI, J. ; GONDA, L.
+ . Um Estudo Sobre Aspectos do Protocolo Zigbee. In: XI Encontro de 
+Iniciação Científica da UCDB, 2007, Campo Grande - MS. Caderno de 
+Resumos - XI Encontro de Iniciação Científica da UCDB. Campo Grande - 
+MS: Editora UCDB, 2007. p. 18-18. 
+JUSTI, J. ; GONDA, L.
+ . Monitoramento de Casas de Vegetação Utilizando Redes de Sensores Sem 
+Fio. In: XI Encontro de Iniciação Científic da UCDB, 2006, Campo Grande -
+ MS. XI Encontro de Iniciação Científic da UCDB. Campo Grande - MS: 
+UCDB, 2006. v. 1. 
+GONDA, L.; SANTOS, R. R. . Metodologias para coleta eletrônica de dados do ambiente e animal. 2015. (Apresentação de Trabalho/Conferência ou palestra). 
+GONDA, L.. Projetos desenvolvidos: mestrado profissional em pecuária de precisão. 2014. (Apresentação de Trabalho/Simpósio). 
+GONDA, L.. Membro do Comitê Ciêntífico da Conferência Ibero Americana Computação Aplicada. 2016. 
+GONDA, L.. Membro do Comitê Ciêntífico da Conferência Ibero Americana Computação Aplicada. 2015. 
+GONDA, L.. Parecerista de Projetos de Extensão da UCDB. 2014. 
+GONDA, L.. Avaliador do V Congresso de Computação do Sul de Mato Grosso. 2013. 
+GONDA, L.. Parecerista de Porojetos de Extensão da UCDB. 2013. 
+GONDA, L.. Membro do Comitê Ciêntífico da Conferência Ibero Americana Computação Aplicada. 2013. 
+GONDA, L.. Workshop de Tecnologias de Redes. 2001. . 
+GONDA, L.. Introdução a Redes de Computadores. 2000. . 
+GONDA, L.; Rubinsztejn, H. K.; 
+PIRES, P. P.; ANDRADE, R. G..  Participação em banca de Leandro de 
+Jesus. Identificação do Comportamento Bovino por meio do Monitoramento 
+Animal. 2014. Dissertação (Mestrado em Ciência da Computação) - 
+Universidade Federal de Mato Grosso do Sul. 
+FERREIRA, R. A.; GONDA, L.; 
+Rubinsztejn, H. K.; COSTA, F. M..  Participação em banca de Fabrício 
+Barbosa de Carvalho. Construção de Caminhos Causais em Redes Definidas 
+por Software. 2014. Dissertação (Mestrado em Ciência da Computação) - 
+Universidade Federal de Mato Grosso do Sul. 
+BATISTA, E. A.; GONDA, L.; ANDREA,
+ C. Q.; GALOTTO JUNIOR, L..  Participação em banca de Jeandro da Costa 
+Dias. Power Manager System (PMS) Aplicado à Rede de Medidores de Energia
+ Inteligente e em Conformidade com o Padrão IEEE 1451. 2014. Dissertação
+ (Mestrado em Engenharia Elétrica) - Universidade Federal de Mato Grosso
+ do Sul. 
+Rubinsztejn, H. K.; GONDA, L.; 
+PIRES, P. P.; ANDRADE, R. G..  Participação em banca de Marcel Tolentino
+ Pinheiro de Oliveira. Análise comportamental de bovinos baseada em 
+trajetórias semânticas aplicasdas à Pecuária de Precisão. 2013. 
+Dissertação (Mestrado em Ciência da Computação) - Universidade Federal 
+de Mato Grosso do Sul. 
+SANTOS, R. R.; ROMERO, M. E. R.; ORDONEZ, E. D. M.; GONDA, L..
+  Participação em banca de Renato Fernando dos Santos. PBIW-SPARC: Uma 
+estratégia de codificação de Instruções para Programas SPARC. 2013. 
+Dissertação (Mestrado em Ciência da Computação) - Universidade Federal 
+de Mato Grosso do Sul. 
+Pereira, V. M.; GONDA, L.; 
+BATISTAS, E. A..  Participação em banca de Marcelo Christiano da França 
+Júnior. Desenvolvimento de software para parametrização, monitoramento e
+ supervisão de conversores de frequência. 2011. Dissertação (Mestrado em
+ Engenharia Elétrica) - Universidade Federal de Mato Grosso do Sul. 
+CUGNASCA, C. E.; GONDA, L.; 
+KOBAYASHI, G.; SANTOS, I. M.; CORREA, P. L. P..  Participação em banca 
+de Roberto Fray da Silva. Automated stock trading system using deep 
+reinforcement learning and price and sentiment prediction modules. 2021.
+ Tese (Doutorado em Engenharia Elétrica)  - Escola Politécnica da USP. 
+Rubinsztejn, H. K.; GONDA, L.; 
+SOTOMA, I.; PIRES, P. P..  Participação em banca de Luiz Fernando 
+Delboni Lomba. Identificação do Comportamento Bovino a partir de Dados 
+de Aceleração e do Movimento da Luminosidade do Ambiente. 2014. Exame de
+ qualificação (Mestrando em Mestrado em Computação Aplicada)  - 
+Universidade Federal de Mato Grosso do Sul. 
+GONDA, L.; BATISTAS, E. A.; SANTOS, R. R..
+  Participação em banca de André Luiz Diniz da Silva. Nó sorvedouro para
+ uma Rede de Sensores Sem Fio Zigbee: projeto e desenvolvimento de 
+hardware. 2014. Exame de qualificação (Mestrando em Ciência da 
+Computação)  - Universidade Federal de Mato Grosso do Sul. 
+FERREIRA, R. A.; Rubinsztejn, H. K.; Gonda, L..
+  Participação em banca de Fabricio Barbosa de Carvalho. Detecção de 
+Anomalias em Aplicações Distribuídas em Redes Definidas por Software. 
+2013. Exame de qualificação (Mestrando em Ciência da Computação)  - 
+Universidade Federal de Mato Grosso do Sul. 
+IAIONE, F.; CASTRO JR, A. A.; GONDA, L..
+  Participação em banca de Marcelo de Oliveira. Sensor Sem Fio com Ultra
+ Baixo Consumo de Energia. 2013. Exame de qualificação (Mestrando em 
+Ciência da Computação)  - Universidade Federal de Mato Grosso do Sul. 
+GONDA, L.; Carromeu, C.; MARUCIO, 
+C. C. D..  Participação em banca de Alex Massayuki Yamakawa Takamura e 
+Loester Kiyoshi Teruya.Calendário Sanitário: Um Aplicativo Móvel para 
+Apoio ao Manejo Sanitário na Pecuária de Corte Brasileira.
+							2014. Trabalho de Conclusão de Curso (Graduação em Ciência da 
+Computação)  - Universidade Federal de Mato Grosso do Sul. 
+SANTOS, R. R.; GONDA, L.;
+ BATISTAS, E. A..  Participação em banca de Marcel José Soleira 
+Grassi.Implementação do modelo de Execução 2D-VLIW Usando Hardware 
+Reconfigurável.
+							2011. Trabalho de Conclusão de Curso (Graduação em Bacharelado Em
+ Ciência da Computação)  - Universidade Federal de Mato Grosso do Sul. 
+RUCHKYS, D. P.; GONDA, L.;
+ FARIA, G..  Participação em banca de Fábio Alencar Lima.Um Estudo sobre
+ a Tecnologia de WebServices com Aplicação na Submissão de Projetos de 
+Graduação.
+							2007. Trabalho de Conclusão de Curso (Graduação em Engenharia de 
+Computação)  - Universidade Católica Dom Bosco. 
+BATISTA, E. A.; GONDA, L.;
+ FERREIRA, J. L. P..  Participação em banca de Fábio D'Elia Ribeiro e 
+Luiz Rafael Ayres de Moraes.Desenvolvimento e Implementação de um 
+Sistema de Automação Industrial com a Tecnologia FPGA.
+							2007. Trabalho de Conclusão de Curso (Graduação em Engenharia 
+Mecatrônica)  - Universidade Católica Dom Bosco. 
+SANTOS, R. R.; GONDA, L.; RUCHKYS, D. P..  Participação em banca de Ana Caroline dos Santos Silva.Análise de Ferramentas de Detecção de Intrusão.
+							2007. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação)  - Universidade Católica Dom Bosco. 
+SANTOS, R. R.; GONDA, L.;
+ Carneiro, A. M..  Participação em banca de Ana Caroline dos Santos 
+Silva.Segurança em Sistemas Computacionais: Uma abordagem Baseada em 
+Detecção de Intrusão.
+							2007. Trabalho de Conclusão de Curso (Graduação em Engenharia de 
+Computação)  - Universidade Católica Dom Bosco. 
+FARIA, G.; ABRAO NETO, F.; GONDA, L..
+  Participação em banca de Gilberto Hanaka; Renata de Lucca 
+Sgarbi.Powerline Communications em Uso Doméstico.
+							2007. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Redes de Computadores)  - Universidade Católica Dom Bosco. 
+FARIA, G.; GONDA, L.;
+ RUCHKYS, D. P..  Participação em banca de Thyago Gonçalves 
+Vieira.Centralizando e Unificando a Autenticação de Usuários em uma Rede
+ de Computadores Heterogênea Utilizando OpenLDAP.
+							2007. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Redes de Computadores)  - Universidade Católica Dom Bosco. 
+RUCHKYS, D. P.; GONDA, L.;
+ ABRAO NETO, F..  Participação em banca de Audeval Francisco de Araújo; 
+Thiago Alovisi Dalsoto.Estudo da Segurança dos Protocolos IPv4 e IPv6.
+							2007. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Redes de Computadores)  - Universidade Católica Dom Bosco. 
+SANAVRIA, C. Z.; GONDA, L.;
+ RUCHKYS, D. P..  Participação em banca de Madalena dos Santos Moreno.Um
+ Sistema Web para Controle de Help Desk.
+							2007. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Desenvolvimento de Sistemas Web)  - Universidade Católica Dom Bosco. 
+GONDA, L.;
+ ABRAO NETO, F.; LIMA, V. A. M. O..  Participação em banca de Evandro 
+Pereira Cardoso; Wilson Pereira de Souza.Alternativas Tecnológicas 
+Disponíveis no Mercado (VPNs).
+							2006. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Redes de Computadores)  - Universidade Católica Dom Bosco. 
+ABRAO NETO, F.; GONDA, L.;
+ LIMA, V. A. M. O..  Participação em banca de Geraldo Alves dos Santos; 
+Gilberto Araújo dos Santos.Tecnologia WiMax.
+							2006. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Redes de Computadores)  - Universidade Católica Dom Bosco. 
+ABRAO NETO, F.; GONDA, L.;
+ LIMA, V. A. M. O..  Participação em banca de Douglas Rosa 
+Hoffmann.Comunicação Sem Fio.
+							2006. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Redes de Computadores)  - Universidade Católica Dom Bosco. 
+BASTOS, P. A.; GONDA, L.;
+ LIMA, V. A. M. O..  Participação em banca de Ricardo Sandim de 
+Meneses.Asterisk: Software Completo de PBX com VoIP para Linux.
+							2006. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Redes de Computadores)  - Universidade Católica Dom Bosco. 
+BASTOS, P. A.; GONDA, L.;
+ LIMA, V. A. M. O..  Participação em banca de Alessandro Vilhalba 
+Fernandes.Estudo da tecnologia VoIP utilizando roteadores CISCO e 
+Huawei.
+							2006. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Redes de Computadores)  - Universidade Católica Dom Bosco. 
+BASTOS, P. A.; GONDA, L.;
+ SILVA, L. S..  Participação em banca de Ronaldo Barbosa de Oliveira.Um 
+Tutorial para Criação de um Ambiente para Aplicações Usando a Tecnologia
+ ASP.
+							2006. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Redes de Computadores)  - Universidade Católica Dom Bosco. 
+LIMA, V. A. M. O.; GONDA, L.;
+ ABRAO NETO, F..  Participação em banca de Edilson Pereira Liz;Júlio 
+César Andrade Melo.Serviços de Correio Eletrônico com Alta 
+Disponibilidade.
+							2006. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Redes de Computadores)  - Universidade Católica Dom Bosco. 
+LIMA, V. A. M. O.; GONDA, L.;
+ ABRAO NETO, F..  Participação em banca de Alex Mussi; Claudinei Correia
+ Cruz.Otimizando a Utilização de Banda e Obtendo Segurança em uma Rede 
+Corporativa Utilizando OpenVPN com GNU/Linux.
+							2006. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Redes de Computadores)  - Universidade Católica Dom Bosco. 
+LIMA, V. A. M. O.; GONDA, L.;
+ ABRAO NETO, F..  Participação em banca de Ricardo Barbosa de 
+Oliveira.Cluster de Alto Desempenho para Balanceamento de Carga.
+							2006. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Redes de Computadores)  - Universidade Católica Dom Bosco. 
+RUCHKYS, D. P.; GONDA, L.;
+ SANAVRIA, C. Z..  Participação em banca de Gilson Vargas Miranda.Mundo 
+Rural: Integração do Agronegócio à Rede.
+							2006. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Desenvolvimento de Sistemas Web)  - Universidade Católica Dom Bosco. 
+COSTA JUNIOR, R. M. M.; GONDA, L.;
+ RUCHKYS, D. P..  Participação em banca de Diego Brum Lima 
+Rocha.SubMacroCase ? Ferramenta de Integração entre um Diagrama de 
+Classes e o Modelo de Desenvolvimento Produtivo Baseado em Arquivos XMLs
+ usado pelo Projeto Submacro..
+							2006. Trabalho de Conclusão de Curso (Graduação em Bacharelado Em
+ Sistemas de Informação)  - Universidade Católica Dom Bosco. 
+BASTOS, P. A.; GONDA, L.;
+ HEREBIA, R. B..  Participação em banca de Tales Flôres 
+Ferreira.ScanNet: Uma Ferramenta para Análise de Redes e Gerenciamento 
+de Dispositivos IP.
+							2006. Trabalho de Conclusão de Curso (Graduação em Bacharelado Em
+ Sistemas de Informação)  - Universidade Católica Dom Bosco. 
+RUCHKYS, D. P.; GONDA, L.;
+ FARIA, G..  Participação em banca de Leonardo Pache.Um Estudo sobre a 
+Utilização da Linguagem de Programação Java para o Desenvolvimento de 
+Aplicações Paralelas.
+							2006. Trabalho de Conclusão de Curso (Graduação em Engenharia de 
+Computação)  - Universidade Católica Dom Bosco. 
+BATISTA, E. A.; GONDA, L..
+  Participação em banca de Antônio João Rezek Albuquerque.Análise de 
+Tecnologia Wireless Para controle e Monitoramento de Sensores.
+							2006. Trabalho de Conclusão de Curso (Graduação em Engenharia de 
+Computação)  - Universidade Católica Dom Bosco. 
+PISTORI, H.; GONDA, L.;
+ MARTINS, P. S..  Participação em banca de Breno de Paula 
+Fernandes.Rastreamento da Face e Mãos utilizando Modelos de Mistura de 
+Gaussianas.
+							2006. Trabalho de Conclusão de Curso (Graduação em Engenharia de 
+Computação)  - Universidade Católica Dom Bosco. 
+LIMA, V. A. M. O.; ABRAO NETO, F.; GONDA, L..
+  Participação em banca de Fábio de Sousa Barbosa; Gláucio Sebastião 
+Prado.Implementando uma Central Telefônica Utilizando o Sistema 
+Operacional GNU/Linux.
+							2006. Trabalho de Conclusão de Curso (Graduação em Tecnologia Em 
+Redes de Computadores)  - Universidade Católica Dom Bosco. 
+GONDA, L.;
+ BASTOS, P. A.; SILVA, L. S..  Participação em banca de Antônio Eduardo 
+Dantas Coelho.Sistema de Arquivos Distribuídos Usando Arquitetura 
+Ponto-a-ponto.
+							2005 - Universidade Católica Dom Bosco. 
+CASTRO JR, A. A.; GONDA, L.; PEREIRA, M. C..
+  Participação em banca de Flávio Hebert dos Santos Drulis.Projeto de um
+ Dispositivo para Armazenamento de Regras de um Firewall em Hardware.
+							2003 - Universidade Católica Dom Bosco. 
+CASTRO JR, A. A.; GONDA, L.; PEREIRA, M. C..
+  Participação em banca de Christian Bakargy de Souza.Projeto de uma 
+Unidade de Execução para Verificação de Regras de Firewall em Hardware.
+							2003. Trabalho de Conclusão de Curso (Graduação em Engenharia de 
+Computação)  - Universidade Católica Dom Bosco. 
+CASTRO JR, A. A.; GONDA, L.; PEREIRA, M. C..
+  Participação em banca de Carine Potrich e Eva Cristina Ferraz 
+Gomes.Análise de Implementações Paralelas para Computação de Prefixos e 
+Sufixos usando o PVM.
+							2001 - Universidade Católica Dom Bosco. 
+MATSUBARA, E. T.; GONDA, L.; QUILES, M. G.. Banca para Ingresso na Carreira do Magistério Superior na Classe de Professor Adjunto A.
+							2014. Universidade Federal de Mato Grosso do Sul. 
+CACERES, E. N.; GONDA, L.; MATSUNO, I. P.. Banca para Ingresso no Magistério Superior na Classe de Professor Assistente.
+							2011. 
+ALMEIDA, N. F.; PAGLIOSA, P. A.; GONDA, L.; BATISTA, I. V.. Comissão Especial para Seleção de Professor Substituto da UFMS.
+							2011. 
+GONDA, L.; SOTOMA, I.; Rubinsztejn, H. K.. Banca para Ingresso no Magistério Superior na Classe de Professor Assistente.
+							2011. 
+CARVALHO, M. H.; GONDA, L.; ARAÚJO, G. S.. Comissão Especial para Seleção de Professor Substituto da UFMS.
+							2011. Universidade Federal de Mato Grosso do Sul. 
+GONDA, L.; ALVES, M.; MARQUES, H. R.. Banca de Seleção Docente para o Curso de Engenharia de Computação.
+							2010. Universidade Católica Dom Bosco. 
+GONDA, L.; ALVES, M.; MARQUES, H. R.. Branca de Seleção Docente para o Curso de Engenharia de Computação.
+							2010. Universidade Católica Dom Bosco. 
+Rubinsztejn, H. K.; Paula, F. S.; GONDA, L.. Concurso Público para ingresso na Carreira do Magistério Superior na Classe de Professor Assistente..
+							2009. Universidade Federal de Mato Grosso do Sul. 
+Fórum RNP.
+							2014. (Encontro). 
+					
+Seminário Internacional de Auditoria Coordenada de Governança de TI. 2014. (Seminário). 
+V Escola Regional de Informática.
+							2014. (Encontro). 
+					
+XXXII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC).
+							2014. (Simpósio). 
+					
+II Escola Regional de Informática de MS. 2011. (Outra). 
+					
+XXVIII Congresso da Sociedade Brasileira de Computação. 2008. (Congresso). 
+XIV Workshop sobre Educação em Computação.(Avaliador)XIV Workshop sobre Educação em Computação.
+							2006. (Simpósio). 
+					
+XXVI Congresso da Sociedade Brasileira de Computação. XXVI Congresso da Sociedade Brasileira de Computação. 2006. (Congresso). 
+XXXII Conferencia Latinoamericana de 
+Informática (CLEI). (Revisor) XXXII Conferencia Latinoamericana de 
+Informática CLEI. 2006. (Congresso). 
+XXXIII Seminário Integrado de Software e 
+Hardware(SEMISH).(Avaliador)XXXIII Seminário Integrado de Software e 
+Hardware. 2006. (Seminário). 
+17th International Symposium on Computer Architecture and High Performance Computing.
+							2005. (Simpósio). 
+					
+I Workshop de Pesquisa e Desenvolvimento 
+em Engenharia e Computação (WORPEC).I Workshop de Pesquisa e 
+Desenvolvimento em Engenharia e Computação.
+							2005. (Encontro). 
+					
+The 2005 ACM-ICMC South America Contest w/ Brazil.(Coach) ACM-ICPC South America Contest w/ Brazil. 2005. (Outra). 
+					
+V Congresso Brasileiro de Agroinformática. Aplicações Agrícolas para Redes de Sesnores Sem Fio. 2005. (Congresso). 
+VI Workshop de Sistemas Computacionais de Alto Desempenho.Uma Implementação de Algoritmos BSP/CGM de Ordenação.
+							2005. (Simpósio). 
+					
+II Encontro dos Alunos de Pós-Graduação em Lingüística Informática.
+							2004. (Encontro). 
+					
+19º Simpósio Brasileiro de Redes de Computadores. 2001. (Oficina). 
+					
+I Semana Integrada de Computação.
+							2001. (Encontro). 
+					
+UFMS/DCT na MS Ferinter 99.(Colaborador) UFMS/DCT na MS Ferinter 99. 1999. (Outra). 
+					
+VII Semana de Computação.
+							1999. (Encontro). 
+					
+UFMS/DCT na MS Ferinter 98.(Colaborador) UFMS/DCT na MS Ferinter 98. 1998. (Outra). 
+					
+VI Semana de Computação.
+							1998. (Encontro). 
+					
+I Escola Regional de Informática. 1997. (Seminário). 
+GONDA, L.. XVI Olimpíada Brasileira de Informática (OBI 2014). 2014. . 
+MATSUNO, I. P. ; ARAÚJO, G. S. ; GONDA, L. ; MONTERA, L. ; SANTOS, R. R. ; Carneiro, A. M. ; CASTRO JR, A. A. ; SILVA, R. S. . IV Escola Regional de Informática do Mato Grosso do Su. 2013. (Outro). 
+GONDA, L.;
+ MATSUBARA, E. T. ; CASTRO JR, A. A. ; ARAÚJO, G. S. ; MONTERA, L. ; 
+FARIA, G. ; MATSUNO, I. P. ; Carneiro, A. M. . I Encontro de Robótica do
+ Mato Grosso do Sul (ROBOMS 2012). 2012. (Congresso). 
+GONDA, L.; MATSUBARA, E. T. ; ARAÚJO, G. S. ; PEDROTTI, V. . XIV OLimpíada Brasileira de Informática - Sede FACOM - UFMS. 2012. (Outro). 
+FERREIRA, R. A. ; GONDA, L.
+ ; SOTOMA, I. ; CACERES, E. N. ; ISHI, R. P. ; Rubinsztejn, H. K. ; 
+FRANÇA, K. M. ; SILVA, M. A. I. ; MORO, M. P. ; ALMEIDA, N. F. ; LOPES, 
+P. C. M. . XXIX SImpósio Brasileiro de Redes de Computadores e Sistemas 
+Distribuídos. 2011. (Congresso). 
+CASTRO JR, A. A. ; GONDA, L. ; SANTOS, R. R.
+ ; ADI, S. S. ; MATSUBARA, E. T. ; FERNANDES, P. G. ; MARTINEZ, F. H. V.
+ ; PAIVA, D. M. B. . II Escola Regional de Informática de Mato Grosso do
+ Sul. 2011. (Congresso). 
+LEITE FILHO, I. ; GONDA, L. ; 
+FREITAS, A. R. ; BRASIL, A. C. S. ; SILVA, D. B. ; FREITAS, G. P. ; 
+PAINI, J. D. S. ; SILVA, K. V. ; PELZL, P. S. ; MONSALVARGA, R. I. ; 
+SILVA, T. S. ; COSTA, V. V. F. ; SILVA, W. A. . I Feira de Tecnologias, 
+Engenharias e Ciências de Mato Grosso do Sul (FETECMS). 2011. 
+(Concurso). 
+LEITE FILHO, I. ; GUARALDO, E. ; CHRISTOFOLETTI, G. ; ÍTAVO, C. C. B. F. ; FRANÇA, K. M. ; GONDA, L.
+ ; LANGHI, R. ; FIGUEIREDO, J. C. ; SOUZA, A. S. ; MARTINES, M. A. U. ; 
+GABAS, S. G. ; PINHO, A. P. ; CAVALCANTE, I. P. ; CORRÊA, H. P. S. ; 
+ENNES, J. P. . II UFMS de Portas Abertas. 2011. (Outro). 
+GONDA, L.;
+ ADI, S. S. ; MATSUBARA, E. T. ; ARAÚJO, G. S. ; FERNANDES, P. G. ; 
+IAIONE, F. ; MARTINEZ, F. H. V. ; SILVA, H. C. ; ARAKAKI, R. K. . XIII 
+Olimpíada Brasileira de Informática - Sede Faculdade de Computação. 
+2011. (Outro). 
+MATSUBARA, E. T. ; SILVA, L. S. ; CASTRO JR, A. A. ; SANTOS, R. R. ; GONDA, L. ; MARTINS, P. S. ; ADI, S. S. . ERI - MS. 2010. (Congresso). 
+LEITE FILHO, I. ; GONDA, L. ; GUARALDO, E. ; MONGELLI, H. . Semana Nacional de Ciência e Tecnologia do MS. 2010. (Exposição). 
+GONDA, L.. II Escola Regional de Informática - Centro-Oeste2. 2009. (Congresso). 
+GONDA, L.. 20th International Symposium on Architecture and High Performance Computing. 2008. (Congresso). 
+GONDA, L.. XXVI Congresso da Sociedade Brasileira de Computação. 2006. (Congresso). 
+Glauco Aurélio Silva. Implementação de 
+Uma Rede de Sesnores Sem Fio para Monitoramento de ILPF.
+							2014.
+						
+					Dissertação  (Mestrado em Mestrado em Computação Aplicada)  - 
+Universidade Federal de Mato Grosso do Sul, . Orientador: Luciano Gonda.
+ 
+André
+ Luiz Diniz. Nó Sorvedouro oara uma Rede de Sensores Sem fio Zigbee: 
+Projeto e Desenvolvimento de Harware.
+							2013.
+						
+					Dissertação  (Mestrado em Mestrado Em Ciência da Computação)  - 
+Universidade Federal de Mato Grosso do Sul, Coordenação de 
+Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Luciano Gonda.
+ 
+Leandro
+ de Jesus. Identificação do Comportamento Bovino por meio do 
+Monitoramento Animal.
+							2012.
+						
+					Dissertação  (Mestrado em Ciência da Computação)  - Universidade 
+Federal de Mato Grosso do Sul, . Orientador: Luciano Gonda. 
+Maxwell Ruiz da Fonseca.
+							Projeto e Implantação de Rede Sem Fio Segura.
+							2010.
+							Monografia. (Aperfeiçoamento/Especialização em Redes de 
+Computadores e Plataformas Distribuídas)  - Universidade Católica Dom 
+Bosco. Orientador: Luciano Gonda.
+						
+Alline Roberta Martins Freire.
+							ITIL: Boas Práticas para Gerenciamento de Serviços em TI Aplicado
+ em Setores de Suporte Tecnológico de Uma Empresa Pública.
+							2010.
+							Monografia. (Aperfeiçoamento/Especialização em Redes de 
+Computadores e Plataformas Distribuídas)  - Universidade Católica Dom 
+Bosco. Orientador: Luciano Gonda.
+						
+Piero Finotti.
+							Cluster de Alta Disponibilidade com Asterisk.
+							2010.
+							Monografia. (Aperfeiçoamento/Especialização em Redes de 
+Computadores e Plataformas Distribuídas)  - Universidade Católica Dom 
+Bosco. Orientador: Luciano Gonda.
+						
+Marcio Sadayoshi Naka.
+							VoIP - Aspectos Gerais.
+							2009.
+							Monografia. (Aperfeiçoamento/Especialização em Redes de 
+Computadores e Plataformas Distribuídas)  - Universidade Católica Dom 
+Bosco. Orientador: Luciano Gonda.
+						
+Antonio Estevão de Moraes Neto.
+							Funcionamento da Arquitetura IP MPLS-VPN na Operadora Brasil 
+Telecom/OI.
+							2009.
+							Monografia. (Aperfeiçoamento/Especialização em Redes de 
+Computadores e Plataformas Distribuídas)  - Universidade Católica Dom 
+Bosco. Orientador: Luciano Gonda.
+						
+Júlio César Andrade Melo.
+							Virtualização de Servidores x86.
+							2009.
+							Monografia. (Aperfeiçoamento/Especialização em Redes de 
+Computadores e Plataformas Distribuídas)  - Universidade Católica Dom 
+Bosco. Orientador: Luciano Gonda.
+						
+Enio Marcelo Buzaneli.
+							Utilização de VLAN com Switches Cisco em Redes de Dados.
+							2009.
+							Monografia. (Aperfeiçoamento/Especialização em Redes de 
+Computadores e Plataformas Distribuídas)  - Universidade Católica Dom 
+Bosco. Orientador: Luciano Gonda.
+						
+Danilo Correa Ribeiro; Fábio Colleone.
+							Estudo e Implementação de Telefonia IP baseada na Recomendação 
+ITU-T H.323.
+							2005.
+							Monografia. (Aperfeiçoamento/Especialização em Redes de 
+Computadores e Plataformas Distribuídas)  - Universidade Católica Dom 
+Bosco. Orientador: Luciano Gonda.
+						
+Alexander Hildebrand Chendrik; Fernando 
+Roger Daga.
+							Projeto de Segurança da Informação - Implantação de Ferramentas, 
+serviços e Políticas de Segurança de Informação na Empresa Águas 
+Guariroba S.A..
+							2005.
+							Monografia. (Aperfeiçoamento/Especialização em Redes de 
+Computadores e Plataformas Distribuídas)  - Universidade Católica Dom 
+Bosco. Orientador: Luciano Gonda.
+						
+Adriano Kurtz Wahl; Thiago Yasutaka 
+Ikeda.
+							Sistema Móvel de Alerta de Predição de Estro e Parto em Bovinos 
+da Raça Nelore.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Ciência da 
+Computação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Gonda.
+						
+Alex Massayuki Yamakawa e Loester Kiyoshi
+ Teruya.
+							Calendário Sanitário: Um Aplicativo Móvel para Apoio ao manejo 
+Sanitário na Pecuária de Corte Brasileira.
+							2014.
+							Trabalho de Conclusão de Curso. (Graduação em Ciência da 
+Computação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Luciano Gonda.
+						
+Dhiego Cleones Gutterres de Souza.
+							Sistema para Manejo de Animais em Propriedades Rurais.
+							2013.
+							Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em 
+Ciência da Computação)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Luciano Gonda.
+						
+Luiz Carlos Marchetti Júnior.
+							Protótipo de um Sistema de Coleta de Dados Utilizando RFID para 
+Plataforma Android.
+							2011.
+							Trabalho de Conclusão de Curso. (Graduação em Bacharelado em 
+Análise de Sistemas)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Luciano Gonda.
+						
+Nélio Gomes de Souza; Julio Cesar de 
+Rezende.
+							Intergração de serviços Utilizando o OpenLDAP.
+							2009.
+							Trabalho de Conclusão de Curso. (Graduação em Tecnologia Em Redes
+ de Computadores)  - Universidade Católica Dom Bosco. Orientador: 
+Luciano Gonda.
+						
+Jair Antônio Ferreira/Leandro Faria 
+Gomes.
+							Implementação de um Sistema de Controle de Injeção Eletrônica 
+Usando Redes CAN.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Engenharia 
+Mecatrônica)  - Universidade Católica Dom Bosco. Orientador: Luciano 
+Gonda.
+						
+Anacleto da Silva Pavão.
+							Segurança da Informação em um Ambiente Linux.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Tecnologia Em Redes
+ de Computadores)  - Universidade Católica Dom Bosco. Orientador: 
+Luciano Gonda.
+						
+Karina Alencar Almeida de Andrade;Odenir 
+Paula da Silva Jr.
+							Um Ambiente de Simulação para Redes de Sensores Sem Fio.
+							2006. 0 f.
+							Trabalho de Conclusão de Curso. (Graduação em Engenharia de 
+Computação)  - Universidade Católica Dom Bosco. Orientador: Luciano 
+Gonda.
+						
+Edison Oliveira; João Ricardo Meira 
+Lubas.
+							Sistema de Controle de Reserva e Compra de Passagem Aérea 
+Utilizando a Plataforma .Net.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em 
+Sistemas de Informação)  - Universidade Católica Dom Bosco. Orientador: 
+Luciano Gonda.
+						
+Carlos Alberto Lubas; Marcus Matos 
+Fernandes.
+							Uso de Ferramentas de IDS e Políticas de Segurança no Apoio à 
+Proteção de Informações.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em 
+Sistemas de Informação)  - Universidade Católica Dom Bosco. Orientador: 
+Luciano Gonda.
+						
+Luciano Waltrick Trindade.
+							Interconexão entre Matriz-Filial Utilizando Tecnologias WAN.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Tecnologia Em Redes
+ de Computadores)  - Universidade Católica Dom Bosco. Orientador: 
+Luciano Gonda.
+						
+Luis Antônio Guedes da Silva Neto.
+							Protocolos de Comunicação para Redes de Sensores Sem Fio.
+							2005.
+							Trabalho de Conclusão de Curso. (Graduação em Bacharelado Em 
+Sistemas de Informação)  - Universidade Católica Dom Bosco. Orientador: 
+Luciano Gonda.
+						
+Dantielle de Freitas Queiroz;Jarley 
+Ferreira Sena.
+							Implementação de Terminais Leves através de Sistemas de Pré-boot.
+							2005. 0 f.
+							Trabalho de Conclusão de Curso. (Graduação em Tecnologia Em 
+Desenvolvimento de Sistemas Web)  - Universidade Católica Dom Bosco. 
+Orientador: Luciano Gonda.
+						
+Lucas Tsutsui da Silva; Cleon Simões Mendonça Lopes.
+							Desenvolvimento de Um Sistma de Hardware para RSSF - Nós Sensores de Baixo Custo.
+							2014.
+							Iniciação Científica. (Graduando em Engenharia de Computação)  - Universidade Federal de Mato Grosso do Sul,
+							Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Luciano Gonda.
+						
+Lucas Tsutsui da Silva.
+							Desenvolvimento de Um Sistema de Hardware para RSSF - Nós Sensores de Baixo Custo.
+							2013.
+							Iniciação Científica. (Graduando em Engenharia de Computação)  - Universidade Federal de Mato Grosso do Sul,
+							Pró-reitoria de Pesquisa e Pós-graduação da UFMS. Orientador: Luciano Gonda.
+						
+Lucas Tsutsui da Silva.
+							Desenvolvimento de um sistema de hardware para RSSF - Nós sensores de baixo custo.
+							2012.
+							Iniciação Científica. (Graduando em Engenharia de Computação)  - Universidade Federal de Mato Grosso do Sul,
+							Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Luciano Gonda.
+						
+Luiz Gabriel Rodrigues Dopp.
+							Elaboração e organização do material de exposição de informática nas escolas.
+							2008.
+							Iniciação Científica. (Graduando em Engenharia de Computação)  - Universidade Católica Dom Bosco,
+							Universidade Católica Dom Bosco. Orientador: Luciano Gonda.
+						
+RADAEL IVAN DA SILVA INSFRAN.
+							Montagem, configuração e caracterização de um cluster para a UCDB.
+							2008.
+							Iniciação Científica. (Graduando em Engenharia de Computação)  - Universidade Católica Dom Bosco,
+							Universidade Católica Dom Bosco. Orientador: Luciano Gonda.
+						
+Raphael Ceni Gomez.
+							Implementação de controlador PID em FPGA.
+							2008.
+							Iniciação Científica. (Graduando em Engenharia Mecatrônica)  - 
+Universidade Católica Dom Bosco. Orientador: Luciano Gonda.
+						
+Nágela Shayenne Pinheiro.
+							Estudo de Técnicas de Programação Voltadas para o Ensino Médio.
+							2008.
+							Iniciação Científica. (Graduando em Esnsino Médio)  - Escola Estadual José Antônio Pereira,
+							Fund. de Apoio ao Des. do Ensino, Ciência e Tecnologia do Estado de MS. Orientador: Luciano Gonda.
+						
+Roberto Hoshino Morita.
+							Codificação de Instruções de Programas: Técnicas e Algoritmos.
+							2008.
+							Iniciação Científica. (Graduando em Engenharia de Computação)  - Universidade Católica Dom Bosco,
+							Universidade Católica Dom Bosco. Orientador: Luciano Gonda.
+						
+Kariston Ávila.
+							Monitoramento de Casas de Vegetação Utilizando Redes de Sensores Sem Fio.
+							2007.
+							Iniciação Científica. (Graduando em Engenharia de Computação)  - Universidade Católica Dom Bosco,
+							Universidade Católica Dom Bosco. Orientador: Luciano Gonda.
+						
+Jamson Justi.
+							Monitoramento de Casas de Vegetação Utilizando Redes de Sensores 
+Sem Fio.
+							2006.
+							Iniciação Científica. (Graduando em Engenharia Mecatrônica)  - 
+Universidade Católica Dom Bosco. Orientador: Luciano Gonda.
+						
+Cleon Simões Mendonça Lopes.
+							Desenvolvendo tecnologia com Arduino e Android.
+							2013.
+							Orientação de outra natureza. (Engenharia de Computação)  - Universidade Federal de Mato Grosso do Sul,
+							Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Luciano Gonda.
+						
+Antonio Carlos Pacheco Rui Dias.
+							Programa DESTACOM.
+							2012.
+							Orientação de outra natureza. (Bacharelado Em Ciência da Computação)  - Universidade Federal de Mato Grosso do Sul,
+							Ministério da Educação. Orientador: Luciano Gonda.
+						
+Cleon Simões Mendonça Lopes.
+							Programa DESTACOM-OBI.
+							2012.
+							Orientação de outra natureza. (Engenharia de Computação)  - Universidade Federal de Mato Grosso do Sul,
+							Ministério da Educação. Orientador: Luciano Gonda.
+						
+Luiz Eduardo Tiosso.
+							Programa DESTACOM- Robótica.
+							2012.
+							Orientação de outra natureza. (Engenharia de Computação)  - Universidade Federal de Mato Grosso do Sul,
+							Ministério da Educação. Orientador: Luciano Gonda.
+						
+Lucas Tsutsui da Silva.
+							Projeto ROBINC.
+							2012.
+							Orientação de outra natureza. (Engenharia de Computação)  - Universidade Federal de Mato Grosso do Sul,
+							Pró-reitoria de Extensão, Cultura e Assuntos Estudantis da UFMS. Orientador: Luciano Gonda.
+						
+Wellington de Oliveira dos Santos.
+							Projeto ROBINC.
+							2012.
+							Orientação de outra natureza. (Engenharia de Computação)  - Universidade Federal de Mato Grosso do Sul,
+							Pró-reitoria de Extensão, Cultura e Assuntos Estudantis da UFMS. Orientador: Luciano Gonda.
+						
+Lucas Rodrigues Pedro.
+							Projeto ROBINC.
+							2012.
+							Orientação de outra natureza. (Engenharia de Computação)  - Universidade Federal de Mato Grosso do Sul,
+							Pró-reitoria de Extensão, Cultura e Assuntos Estudantis da UFMS. Orientador: Luciano Gonda.
+						
+Adolfo Marangoni Hengling.
+							Projeto DESTACOM - OBI.
+							2012.
+							Orientação de outra natureza. (Análise de Sistemas)  - Universidade Federal de Mato Grosso do Sul,
+							Pró-reitoria de Extensão, Cultura e Assuntos Estudantis da UFMS. Orientador: Luciano Gonda.
+						
+Hércules Cardoso da Silva.
+							Desenvolvimento de Ferramentas e Material para a OBI.
+							2011.
+							Orientação de outra natureza. (Bacharelado Em Ciência da Computação)  - Universidade Federal de Mato Grosso do Sul,
+							Pró-reitoria de Extensão, Cultura e Assuntos Estudantis da UFMS. Orientador: Luciano Gonda.
+						
+Diogo Soares da Silva.
+							Uso de Técnicas de Programação no Ensino Mério.
+							2009.
+							Orientação de outra natureza. (Engenharia de Computação)  - Universidade Católica Dom Bosco. Orientador: Luciano Gonda.
+						
+MONTERA, L. ; GONDA, L. ; ADI, S. 
+S. . Lógica. In: Edson Takashi Matsubara; Ricardo Ribeiro dos Santos. 
+(Org.). Interciências: Despertando Talentos em COmputação. 1ed.Campo 
+Grande - MS: Editora UFMS, 2014, v. 1, p. 15-23. 
+GONDA, L.. II Escola Regional de Informática - Centro-Oeste2. 2009. (Congresso). 
+MATSUBARA, E. T. ; SILVA, L. S. ; CASTRO JR, A. A. ; SANTOS, R. R. ; GONDA, L. ; MARTINS, P. S. ; ADI, S. S. . ERI - MS. 2010. (Congresso). 
+LEITE FILHO, I. ; GONDA, L. ; GUARALDO, E. ; MONGELLI, H. . Semana Nacional de Ciência e Tecnologia do MS. 2010. (Exposição). 
+CASTRO JR, A. A. ; GONDA, L. ; SANTOS, R. R.
+ ; ADI, S. S. ; MATSUBARA, E. T. ; FERNANDES, P. G. ; MARTINEZ, F. H. V.
+ ; PAIVA, D. M. B. . II Escola Regional de Informática de Mato Grosso do
+ Sul. 2011. (Congresso). 
+LEITE FILHO, I. ; GONDA, L. ; 
+FREITAS, A. R. ; BRASIL, A. C. S. ; SILVA, D. B. ; FREITAS, G. P. ; 
+PAINI, J. D. S. ; SILVA, K. V. ; PELZL, P. S. ; MONSALVARGA, R. I. ; 
+SILVA, T. S. ; COSTA, V. V. F. ; SILVA, W. A. . I Feira de Tecnologias, 
+Engenharias e Ciências de Mato Grosso do Sul (FETECMS). 2011. 
+(Concurso). 
+LEITE FILHO, I. ; GUARALDO, E. ; CHRISTOFOLETTI, G. ; ÍTAVO, C. C. B. F. ; FRANÇA, K. M. ; GONDA, L.
+ ; LANGHI, R. ; FIGUEIREDO, J. C. ; SOUZA, A. S. ; MARTINES, M. A. U. ; 
+GABAS, S. G. ; PINHO, A. P. ; CAVALCANTE, I. P. ; CORRÊA, H. P. S. ; 
+ENNES, J. P. . II UFMS de Portas Abertas. 2011. (Outro). 
+GONDA, L.;
+ MATSUBARA, E. T. ; CASTRO JR, A. A. ; ARAÚJO, G. S. ; MONTERA, L. ; 
+FARIA, G. ; MATSUNO, I. P. ; Carneiro, A. M. . I Encontro de Robótica do
+ Mato Grosso do Sul (ROBOMS 2012). 2012. (Congresso). 
+GONDA, L.; MATSUBARA, E. T. ; ARAÚJO, G. S. ; PEDROTTI, V. . XIV OLimpíada Brasileira de Informática - Sede FACOM - UFMS. 2012. (Outro). 
+MATSUNO, I. P. ; ARAÚJO, G. S. ; GONDA, L. ; MONTERA, L. ; SANTOS, R. R. ; Carneiro, A. M. ; CASTRO JR, A. A. ; SILVA, R. S. . IV Escola Regional de Informática do Mato Grosso do Su. 2013. (Outro). 
+GONDA, L.;
+ ADI, S. S. ; MATSUBARA, E. T. ; ARAÚJO, G. S. ; FERNANDES, P. G. ; 
+IAIONE, F. ; MARTINEZ, F. H. V. ; SILVA, H. C. ; ARAKAKI, R. K. . XIII 
+Olimpíada Brasileira de Informática - Sede Faculdade de Computação. 
+2011. (Outro). 
+Curriculo parcialmente processado: Luciano Gonda
+Curriculo parcialmente processado: Graziela Santos de Araújo
