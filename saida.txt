@@ -1,11 +1,13 @@
 
 BARROS, K. O. S.2019BARROS, K. O. S. ; SILVA, LUCIANO ÉDIPO PEREIRA DA ; NEVES, Y. P. ; SILVA, L. R. . Parceria Empresa-Universidade para pesquisa em TI. Revista ETCPAN, v. 2, p. 37, 2019. 
 
+god1
 
 SILVA, L. É. P.2010
 
 SILVA, L. É. P.; BRACHT, E. C. . Uma nova abordagem para o Cálculo de Balanço Hídrico Climatológico. Revista Brasileira de Computação Aplicada, v. 2, p. 2-16, 2010. Citações:1
 
+god1
 
 NASCIMENTO, FABIANA ; SILVA, LUCINEIDE DA ; NONATO, KARLA ; SILVA, LUCIANO ÉDIPO PEREIRA DA
  . Uma Proposta de Jogo Educacional para o Ensino e Aprendizagem de 
@@ -13,6 +15,7 @@ Geometria. In: XXVIII Simpósio Brasileiro de Informática na Educação
 SBIE (Brazilian Symposium on Computers in Education), 2017, Recife. 
 Porto Alegre: Sociedade Brasileira de Computação, 2017. p. 1757-1759. 
 
+god1
 
 SOUSA, RAPHAEL DE ; SILVA, LUCIANO ÉDIPO PEREIRA DA
  . BRAVO Sistema Web de Apoio à Pesquisa em Educação. In: IV Congresso 
@@ -25,6 +28,7 @@ In: II Simpósio sobre Inovação e Criatividade Científica na Embrapa,
 2010, Brasília. Anais do II Simpósio sobre Inovação e Criatividade 
 Científica na Embrapa, 2010. 
 
+god1
 
 
 
@@ -34,6 +38,7 @@ In: I Simpósio de Computação Aplicada, 2009, Passo Fundo - RS. ANAIS do I
  Simpósio de Computação Aplicada 2176-8196. Passo Fundo - RS: Editora 
 UPF, 2009. v. 1. 
 
+god1
 
 
 
@@ -42,6 +47,7 @@ FIETZ, C. R. ; COMUNELLO, E ; SILVA, L. É. P. ; SOUZA, P. S.
  7º Congresso Brasileiro de Agroinformática - SBIAgro 2009, 2009, Viçosa
  - MG. Anais do 7. Congresso Brasileiro de Agroinformática, 2009. 
 
+god1
 
 
 
@@ -53,12 +59,14 @@ Vancouver. 26th International Conference on Software Engineering and
 Knowledge Engineering (SEKE 2014). Skokie: Knowledge Systems Institute 
 Graduate School, 2014. p. 459-462. 
 
+god1
 
 SILVA, L. É. P.; BRACHT, E. C. . Uma Nova Abordagem para o Cálculo do Balanço Hídrico Climatológico. 2009. (Apresentação de Trabalho/Simpósio). 
 
 
 NECO, B. M. P. ; SILVA, L. É. P. ; SILVA, L. R. . Identificação de Domínio para Jogos Educacionais Digitais 2017 (Trabalho de Conclusão de Curso). 
 
+god1
 
 
 
@@ -70,6 +78,7 @@ SILVA, L. É. P.. Virtualização do Museu de Arqueologia do Pantanal. 2019.
 
 FERMINO, L. M. ; SILVA, L. É. P. ; ASSEIS NETO, H. . Reconhecedor Ótico de Caracteres em Documentos da Língua Portuguesa com Baixa Nitidez. 2013. 
 
+god1
 
 SILVA, L. É. P.; BRACHT, E. C. ; Fietz, C. R. . BHCMóvel. 2009. 
 
@@ -90,6 +99,7 @@ VARGAS, J. C. ; SILVA, L. É. P. ; SANTOS, B. A. ; RIEDNER, D. D. T. ; SILVA, L.
 registro: INPI - Instituto Nacional da Propriedade Industrial.          
         
 
+god1
 
 Silva, L. E. P.; SILVA, L. R. ; CASTRO, A. L. S. ; GUIA, K. R. ; BARROS, K. O. S. ; CRUZ, A. C. ; GUTIERREZ JUNIOR, J. L. B. ; SILVA, N. M. S. ; ALMEIDA, S. C. V. ; NEVES, A. P. . SIANE - Sistema de Informação para Ambiente Não Escolar. 2018. 
                 Patente:
@@ -100,6 +110,7 @@ para Ambiente Não Escolar" , Instituição de registro: INPI - Instituto
 Nacional da Propriedade Industrial.          
         
 
+god1
 
 SILVA, L. É. P.; RIEDNER, D. D. T. ; VIDAL, V. H. ; RODRIGUES, B. L. A. ; VALENTE, V. O. ; SILVA, V. L. L. ; GUIDORIZZI, V. A. . Tutorar. 2021. 
                 Patente:
@@ -109,6 +120,7 @@ SILVA, L. É. P.; RIEDNER, D. D. T. ; VIDAL, V. H. ; RODRIGUES, B. L. A. ; VALEN
 registro: INPI - Instituto Nacional da Propriedade Industrial.          
         
 
+god1
 
 SILVA, L. É. P.; LAITART, K. R. ; PETERLE, N. P. ; RAMBO, C. ; MELLO, C. A. S. ; VIDAL, V. H. . Cadeia de Custódia. 2021. 
                 Patente:
@@ -119,6 +131,7 @@ Instituição de registro: INPI - Instituto Nacional da Propriedade
 Industrial.          
         
 
+god1
 
 MONTEIRO, A. C. S.; LIMA, C. A.; Silva, L. E. P..
   Participação em banca de Elis Andréa Pimentel Medina. Estudo de caso 
@@ -146,6 +159,7 @@ Pesquisa Luiz Vilela no Yotube.
 							2015. Trabalho de Conclusão de Curso (Graduação em Letras - 
 Português e Inglês)  - Universidade Federal de Mato Grosso do Sul. 
 
+god1
 
 ARAUJO, F. E. S.; SILVA, L. É. P.; BARROS, B. R. G. S.. Concurso Público - Edital PROGEP 042/2014.
 							2014. Universidade Federal de Mato Grosso do Sul. 
@@ -201,6 +215,7 @@ SILVA, L. É. P.; SILVA, L. R. ; GOLIN, A. L. M. M. ; BARROS, B. R. G. S. ; MACH
  ; NECO, B. M. P. ; LOIO, G. X. ; SOUZA, S. C. S. B. ; JIMENEZ, L. F. S.
  ; RIBEIRO, V. S. . II Hackathon Ala Vôti. 2018. (Concurso). 
 
+god1
 
 Silva, L. E. P.. Hackathon Ala Vôti. 2017. (Concurso). 
 
@@ -210,6 +225,7 @@ ARAUJO, A. F. ; SILVA, L. É. P. . II Encontro de Desenvolvimento Tecnológico e
 
 SILVA, L. É. P.; ARAUJO, A. F. ; COSTA, E. A. ; SALOMON, R. . Startup Pantanal. 2015. (Outro). 
 
+god1
 
 Silva, L. E. P.; ARAUJO, A. F. . I Encontro de Desenvolvimento Tecnológico e Científico do Pantanal. 2014. (Outro). 
 
@@ -332,15 +348,18 @@ Instituição de registro: INPI - Instituto Nacional da Propriedade
 Industrial.          
         
 
+god1
 
 SILVA, L. É. P.; BRACHT, E. C. ; Fietz, C. R. . BHCMóvel. 2009. 
 
 
 FERMINO, L. M. ; SILVA, L. É. P. ; ASSEIS NETO, H. . Reconhecedor Ótico de Caracteres em Documentos da Língua Portuguesa com Baixa Nitidez. 2013. 
 
+god1
 
 FERMINO, L. M. ; SILVA, L. É. P. ; ASSEIS NETO, H. . Reconhecedor Ótico de Caracteres em Documentos da Língua Portuguesa com Baixa Nitidez. 2013. 
 
+god1
 
 SILVA, L. É. P.; RIEDNER, D. D. T. ; VIDAL, V. H. ; RODRIGUES, B. L. A. ; VALENTE, V. O. ; SILVA, V. L. L. ; GUIDORIZZI, V. A. . Tutorar. 2021. 
                 Patente:
@@ -350,6 +369,7 @@ SILVA, L. É. P.; RIEDNER, D. D. T. ; VIDAL, V. H. ; RODRIGUES, B. L. A. ; VALEN
 registro: INPI - Instituto Nacional da Propriedade Industrial.          
         
 
+god1
 
 Silva, L. E. P.; SILVA, L. R. ; CASTRO, A. L. S. ; GUIA, K. R. ; BARROS, K. O. S. ; CRUZ, A. C. ; GUTIERREZ JUNIOR, J. L. B. ; SILVA, N. M. S. ; ALMEIDA, S. C. V. ; NEVES, A. P. . SIANE - Sistema de Informação para Ambiente Não Escolar. 2018. 
                 Patente:
@@ -360,6 +380,7 @@ para Ambiente Não Escolar" , Instituição de registro: INPI - Instituto
 Nacional da Propriedade Industrial.          
         
 
+god1
 
 VARGAS, J. C. ; SILVA, L. É. P. ; SANTOS, B. A. ; RIEDNER, D. D. T. ; SILVA, L. R. . Alfabrinque. 2016. 
                 Patente:
@@ -369,19 +390,23 @@ VARGAS, J. C. ; SILVA, L. É. P. ; SANTOS, B. A. ; RIEDNER, D. D. T. ; SILVA, L.
 registro: INPI - Instituto Nacional da Propriedade Industrial.          
         
 
+god1
 
 SILVA, L. É. P.; SILVA, L. R. ; GOLIN, A. L. M. M. ; BARROS, B. R. G. S. ; MACHADO, M. O. ; NEVES, A. P.
  ; NECO, B. M. P. ; LOIO, G. X. ; SOUZA, S. C. S. B. ; JIMENEZ, L. F. S.
  ; RIBEIRO, V. S. . II Hackathon Ala Vôti. 2018. (Concurso). 
 
+god1
 
 BARROS, K. O. S.2019BARROS, K. O. S. ; SILVA, LUCIANO ÉDIPO PEREIRA DA ; NEVES, Y. P. ; SILVA, L. R. . Parceria Empresa-Universidade para pesquisa em TI. Revista ETCPAN, v. 2, p. 37, 2019. 
 
+god1
 
 SILVA, L. É. P.2010
 
 SILVA, L. É. P.; BRACHT, E. C. . Uma nova abordagem para o Cálculo de Balanço Hídrico Climatológico. Revista Brasileira de Computação Aplicada, v. 2, p. 2-16, 2010. Citações:1
 
+god1
 
 NASCIMENTO, FABIANA ; SILVA, LUCINEIDE DA ; NONATO, KARLA ; SILVA, LUCIANO ÉDIPO PEREIRA DA
  . Uma Proposta de Jogo Educacional para o Ensino e Aprendizagem de 
@@ -389,6 +414,7 @@ Geometria. In: XXVIII Simpósio Brasileiro de Informática na Educação
 SBIE (Brazilian Symposium on Computers in Education), 2017, Recife. 
 Porto Alegre: Sociedade Brasileira de Computação, 2017. p. 1757-1759. 
 
+god1
 
 SOUSA, RAPHAEL DE ; SILVA, LUCIANO ÉDIPO PEREIRA DA
  . BRAVO Sistema Web de Apoio à Pesquisa em Educação. In: IV Congresso 
@@ -401,6 +427,7 @@ In: II Simpósio sobre Inovação e Criatividade Científica na Embrapa,
 2010, Brasília. Anais do II Simpósio sobre Inovação e Criatividade 
 Científica na Embrapa, 2010. 
 
+god1
 
 
 
@@ -410,6 +437,7 @@ In: I Simpósio de Computação Aplicada, 2009, Passo Fundo - RS. ANAIS do I
  Simpósio de Computação Aplicada 2176-8196. Passo Fundo - RS: Editora 
 UPF, 2009. v. 1. 
 
+god1
 
 
 
@@ -418,6 +446,7 @@ FIETZ, C. R. ; COMUNELLO, E ; SILVA, L. É. P. ; SOUZA, P. S.
  7º Congresso Brasileiro de Agroinformática - SBIAgro 2009, 2009, Viçosa
  - MG. Anais do 7. Congresso Brasileiro de Agroinformática, 2009. 
 
+god1
 
 
 
@@ -429,12 +458,14 @@ Vancouver. 26th International Conference on Software Engineering and
 Knowledge Engineering (SEKE 2014). Skokie: Knowledge Systems Institute 
 Graduate School, 2014. p. 459-462. 
 
+god1
 
 SILVA, L. É. P.; BRACHT, E. C. . Uma Nova Abordagem para o Cálculo do Balanço Hídrico Climatológico. 2009. (Apresentação de Trabalho/Simpósio). 
 
 
 NECO, B. M. P. ; SILVA, L. É. P. ; SILVA, L. R. . Identificação de Domínio para Jogos Educacionais Digitais 2017 (Trabalho de Conclusão de Curso). 
 
+god1
 
 
 
@@ -446,6 +477,7 @@ SILVA, L. É. P.. Virtualização do Museu de Arqueologia do Pantanal. 2019.
 
 FERMINO, L. M. ; SILVA, L. É. P. ; ASSEIS NETO, H. . Reconhecedor Ótico de Caracteres em Documentos da Língua Portuguesa com Baixa Nitidez. 2013. 
 
+god1
 
 SILVA, L. É. P.; BRACHT, E. C. ; Fietz, C. R. . BHCMóvel. 2009. 
 
@@ -466,6 +498,7 @@ VARGAS, J. C. ; SILVA, L. É. P. ; SANTOS, B. A. ; RIEDNER, D. D. T. ; SILVA, L.
 registro: INPI - Instituto Nacional da Propriedade Industrial.          
         
 
+god1
 
 Silva, L. E. P.; SILVA, L. R. ; CASTRO, A. L. S. ; GUIA, K. R. ; BARROS, K. O. S. ; CRUZ, A. C. ; GUTIERREZ JUNIOR, J. L. B. ; SILVA, N. M. S. ; ALMEIDA, S. C. V. ; NEVES, A. P. . SIANE - Sistema de Informação para Ambiente Não Escolar. 2018. 
                 Patente:
@@ -476,6 +509,7 @@ para Ambiente Não Escolar" , Instituição de registro: INPI - Instituto
 Nacional da Propriedade Industrial.          
         
 
+god1
 
 SILVA, L. É. P.; RIEDNER, D. D. T. ; VIDAL, V. H. ; RODRIGUES, B. L. A. ; VALENTE, V. O. ; SILVA, V. L. L. ; GUIDORIZZI, V. A. . Tutorar. 2021. 
                 Patente:
@@ -485,6 +519,7 @@ SILVA, L. É. P.; RIEDNER, D. D. T. ; VIDAL, V. H. ; RODRIGUES, B. L. A. ; VALEN
 registro: INPI - Instituto Nacional da Propriedade Industrial.          
         
 
+god1
 
 SILVA, L. É. P.; LAITART, K. R. ; PETERLE, N. P. ; RAMBO, C. ; MELLO, C. A. S. ; VIDAL, V. H. . Cadeia de Custódia. 2021. 
                 Patente:
@@ -495,6 +530,7 @@ Instituição de registro: INPI - Instituto Nacional da Propriedade
 Industrial.          
         
 
+god1
 
 MONTEIRO, A. C. S.; LIMA, C. A.; Silva, L. E. P..
   Participação em banca de Elis Andréa Pimentel Medina. Estudo de caso 
@@ -522,6 +558,7 @@ Pesquisa Luiz Vilela no Yotube.
 							2015. Trabalho de Conclusão de Curso (Graduação em Letras - 
 Português e Inglês)  - Universidade Federal de Mato Grosso do Sul. 
 
+god1
 
 ARAUJO, F. E. S.; SILVA, L. É. P.; BARROS, B. R. G. S.. Concurso Público - Edital PROGEP 042/2014.
 							2014. Universidade Federal de Mato Grosso do Sul. 
@@ -577,6 +614,7 @@ SILVA, L. É. P.; SILVA, L. R. ; GOLIN, A. L. M. M. ; BARROS, B. R. G. S. ; MACH
  ; NECO, B. M. P. ; LOIO, G. X. ; SOUZA, S. C. S. B. ; JIMENEZ, L. F. S.
  ; RIBEIRO, V. S. . II Hackathon Ala Vôti. 2018. (Concurso). 
 
+god1
 
 Silva, L. E. P.. Hackathon Ala Vôti. 2017. (Concurso). 
 
@@ -586,6 +624,7 @@ ARAUJO, A. F. ; SILVA, L. É. P. . II Encontro de Desenvolvimento Tecnológico e
 
 SILVA, L. É. P.; ARAUJO, A. F. ; COSTA, E. A. ; SALOMON, R. . Startup Pantanal. 2015. (Outro). 
 
+god1
 
 Silva, L. E. P.; ARAUJO, A. F. . I Encontro de Desenvolvimento Tecnológico e Científico do Pantanal. 2014. (Outro). 
 
@@ -708,15 +747,18 @@ Instituição de registro: INPI - Instituto Nacional da Propriedade
 Industrial.          
         
 
+god1
 
 SILVA, L. É. P.; BRACHT, E. C. ; Fietz, C. R. . BHCMóvel. 2009. 
 
 
 FERMINO, L. M. ; SILVA, L. É. P. ; ASSEIS NETO, H. . Reconhecedor Ótico de Caracteres em Documentos da Língua Portuguesa com Baixa Nitidez. 2013. 
 
+god1
 
 FERMINO, L. M. ; SILVA, L. É. P. ; ASSEIS NETO, H. . Reconhecedor Ótico de Caracteres em Documentos da Língua Portuguesa com Baixa Nitidez. 2013. 
 
+god1
 
 SILVA, L. É. P.; RIEDNER, D. D. T. ; VIDAL, V. H. ; RODRIGUES, B. L. A. ; VALENTE, V. O. ; SILVA, V. L. L. ; GUIDORIZZI, V. A. . Tutorar. 2021. 
                 Patente:
@@ -726,6 +768,7 @@ SILVA, L. É. P.; RIEDNER, D. D. T. ; VIDAL, V. H. ; RODRIGUES, B. L. A. ; VALEN
 registro: INPI - Instituto Nacional da Propriedade Industrial.          
         
 
+god1
 
 Silva, L. E. P.; SILVA, L. R. ; CASTRO, A. L. S. ; GUIA, K. R. ; BARROS, K. O. S. ; CRUZ, A. C. ; GUTIERREZ JUNIOR, J. L. B. ; SILVA, N. M. S. ; ALMEIDA, S. C. V. ; NEVES, A. P. . SIANE - Sistema de Informação para Ambiente Não Escolar. 2018. 
                 Patente:
@@ -736,6 +779,7 @@ para Ambiente Não Escolar" , Instituição de registro: INPI - Instituto
 Nacional da Propriedade Industrial.          
         
 
+god1
 
 VARGAS, J. C. ; SILVA, L. É. P. ; SANTOS, B. A. ; RIEDNER, D. D. T. ; SILVA, L. R. . Alfabrinque. 2016. 
                 Patente:
@@ -745,20 +789,24 @@ VARGAS, J. C. ; SILVA, L. É. P. ; SANTOS, B. A. ; RIEDNER, D. D. T. ; SILVA, L.
 registro: INPI - Instituto Nacional da Propriedade Industrial.          
         
 
+god1
 
 SILVA, L. É. P.; SILVA, L. R. ; GOLIN, A. L. M. M. ; BARROS, B. R. G. S. ; MACHADO, M. O. ; NEVES, A. P.
  ; NECO, B. M. P. ; LOIO, G. X. ; SOUZA, S. C. S. B. ; JIMENEZ, L. F. S.
  ; RIBEIRO, V. S. . II Hackathon Ala Vôti. 2018. (Concurso). 
 
+god1
 Curriculo parcialmente processado: Luciano Édipo Pereira da Silva
 
 3.745FONTAO, AWDREN2020FONTAO, AWDREN; PAES, PEDRO ; EKWOGE, OSWALD ; DOS SANTOS, RODRIGO PEREIRA
  ; DIAS-NETO, ARILO CLAUDIO . Evaluating Processes to Certify Mobile 
 Applications during Developer Relations Activities. IEEE Access, v. 8, p. 1-1, 2020. Citações:5
 
+god1
 
 GOMES, J.2020GOMES, J. ; VILLANES, I. K. ; ASCATE, S. ; FONTÃO, A ; ANDRADE, E. N. ; Dias-Neto, Arilo . SCUTMA: Selecting Components for Unit Testing in Mobile Applications. Journal of Computer Science, v. 1, p. 1, 2020. 
 
+god1
 
 3.63FONTÃO,
  A. L.;FONTAO, AWDREN DE LIMA;FONTÃO, AWDREN DE LIMA;FONTÃO, 
@@ -766,6 +814,7 @@ AWDREN;FONTÃO, A;DE LIMA FONTÃO, AWDREN;FONTÃO, A. L;FONTAO, AWDREN2019FONTÃ
  ; DIAS-NETO, ARILO CLAUDIO . Exploiting Repositories in Mobile Software
  Ecosystems from a Governance Perspective. INFORMATION SYSTEMS FRONTIERS, v. 2019, p. 143-161, 2019. 
 
+god1
 
 FONTÃO, AWDREN2018FONTÃO, AWDREN; ÁBIA, BRUNO ; WIESE, IGOR ; ESTÁCIO, BERNARDO ; QUINTA, MARCELO
  ; SANTOS, RODRIGO PEREIRA DOS ; DIAS-NETO, ARILO CLAUDIO . Supporting 
@@ -773,6 +822,7 @@ governance of mobile application developers from mining and analyzing
 technical questions in stack overflow. JOURNAL OF SOFTWARE ENGINEERING 
 RESEARCH AND DEVELOPMENT, v. 6, p. 8, 2018. 
 
+god1
 
 SANTOS, R. P. ; FONTÃO, A. L.
  ; FERNANDES, J. C. . Ecossistemas de Software. In: Cristiano Maciel; 
@@ -802,6 +852,7 @@ FONTÃO, A. L.. Desenvolvimento de Aplicativos para Mobile Phones. Mobile Magazi
 
 FONTÃO, A. L.. Utilizando jQuery e o Google Maps para Encontrar Rotas entre Endereços. Webmobile Magazine, , v. 25. 
 
+god1
 
 COSTA, L. A. ; FONTÃO, A ; SANTOS, R. P.
  . Investigating Proprietary Software Ecosystem Governance and Health: 
@@ -809,6 +860,7 @@ An Updated and Refined Perspective. In: SBSI'21: XVII Brazilian
 Symposium on Information Systems, 2021, Uberlândia. SBSI'21: XVII 
 Brazilian Symposium on Information Systems. New York: ACM, 2021. 
 
+god1
 
 COSTA, L. A. ; FONTÃO, AWDREN ; SANTOS, R. P.
  . Investigating Asset Governance Mechanisms in a Proprietary Software 
@@ -816,6 +868,7 @@ Ecosystem. In: XVI Brazilian Symposium on Information Systems - SBSI'20,
  2020, São Bernando do Campo. Proceedings of the XVI Brazilian Symposium
  on Information Systems - SBSI'20, 2020. 
 
+god1
 
 MORAIS, F. L. ; FONTÃO, AWDREN ; CLEGER-TAMAYO, S.
  . Combining Design Thinking and Scrum to enhance Test Suite during 
@@ -823,6 +876,7 @@ innovative software development. In: Ibero-American Conference on
 Software Engineering (CIbSE), 2020, Curitiba. Proceeding of the XXXIII 
 Ibero-American Conference on Software Engineering, 2020. 
 
+god1
 
 FONTÃO, AWDREN; CLEGER-TAMAYO, S. ; WIESE, IGOR ; DOS SANTOS, RODRIGO PEREIRA
  ; DIAS-NETO, ARILO CLAUDIO . On Value Creation in Developer Relations 
@@ -830,6 +884,7 @@ FONTÃO, AWDREN; CLEGER-TAMAYO, S. ; WIESE, IGOR ; DOS SANTOS, RODRIGO PEREIRA
 Global Software Engineering, 2020, Seoul. 15th ACM/IEEE International 
 Conference on Global Software Engineering - ICGSE 2020, 2020. 
 
+god1
 
 IMAMURA, M. ; COSTA, L. A. M. ; FERREIRA, F. H. ; FONTAO, AWDREN ; DOS SANTOS, RODRIGO PEREIRA
  . Fatores de Governança em Sistemas-de-Sistemas: Análise de uma 
@@ -838,6 +893,9 @@ HUMANOS E ECONÔMICOS DE SOFTWARE (WASHES), 2020, Cuiabá. ANAIS DO V
 WORKSHOP SOBRE ASPECTOS SOCIAIS, HUMANOS E ECONÔMICOS DE SOFTWARE, 2020.
  p. 31. 
 
+god1
+god2
+V WORKSHOP SOBRE ASPECTOS SOCIAIS
 
 LIMA, V. C. A. E. ; MALCHER, P. ; FARIAS, V. G. ; SANTOS, R. P. ; FONTÃO, AWDREN ; WIESE, IGOR ; VIANA, D.
  . An Exploratory Study on Developers Opinions about Influence in Open 
@@ -845,6 +903,7 @@ Source Software Ecosystems.. In: Brazilian Symposium on Software
 Engineering - SBES'20, 2020, Natal. Proceedings of the 34th Brazilian 
 Symposium on Software Engineering - SBES'20, 2020. 
 
+god1
 
 FONTÃO, AWDREN; SANTOS, R. P. ; Dias-Neto, Arilo
  . DevGo: um Modelo para Governança de Desenvolvedores em Ecossistema de
@@ -860,6 +919,7 @@ perspective. In: 34th Brazilian Symposium on Software Engineering, 2020,
  Natal. Proceedings of the 34th Brazilian Symposium on Software 
 Engineering - Innovative Ideas and Emerging Results, 2020. 
 
+god1
 
 BRAGA, W. ; MENEZES, G. ; FONTÃO, AWDREN ; HORA, A. ; CAFEO, B. B. P.
  . Quero lhe usar! Uma Análise do Público-Alvo de code samples. In: 
@@ -867,6 +927,7 @@ Workshop on Software Visualization, Evolution and Maintenance (VEM),
 2020, Natal. Proceedings of the 8th Workshop on Software Visualization, 
 Evolution and Maintenance (VEM 2020), 2020. 
 
+god1
 
 FONTÃO, AWDREN; GADELHA, B.
  ; CASTRO JUNIOR, A. . Balancing theory and practice in software 
@@ -874,6 +935,7 @@ engineering education - A PBL, toolset based approach. In: Frontiers in
 Education, 2019, Cincinnati. 49th Annual Frontiers in Education (FIE) 
 Conference, 2019. 
 
+god1
 
 LIMA, M. ; FONTÃO, AWDREN ; FERNANDES, D. ; CONTE, T. ; GADELHA, B.
  . How are my Students going? A Tool to Analyse Students? Interactions 
@@ -881,6 +943,7 @@ on Capstone Courses. In: Brazilian Symposium on Informatics in Education
  (SBIE), 2019, Brasília. Proceedings of the XXX Brazilian Symposium on 
 Informatics in Education, 2019. 
 
+god1
 
 FONTÃO, A; ESTACIO, B. ; FERNANDES, J. ; SANTOS, R. P.
  ; DIAS-NETO, ARILO CLAUDIO . Which factors affect the evangelist's 
@@ -889,6 +952,7 @@ support during training sessions in Mobile Software Ecosystems?. In:
 Madrid. 12th European Conference on Software Architecture: Companion 
 Proceedings, 2018. 
 
+god1
 
 FONTÃO, AWDREN; BONIFACIO, B.
  ; SANTOS, RODRIGO PEREIRA DOS ; DIAS-NETO, ARILO CLAUDIO . Mobile 
@@ -897,6 +961,7 @@ Investigating the Developer eXperience. In: Brazilian Symposium on
 Software Quality (SBQS 2018), 2018, Curitiba. Proceedings of the 17th 
 Brazilian Symposium on Software Quality (SBQS 2018), 2018. 
 
+god1
 
 FONTÃO, A. L.; Dias-Neto, Arilo ; VIANA, D.
  . Investigating factors that influence developers experience in mobile 
@@ -914,12 +979,14 @@ EKWOGE, O. ; FONTAO, AWDREN DE LIMA ; Dias-Neto, Arilo
  The 41th Annual International Computers, Software & Applications 
 Conference, 2017, Turin. Proceedings of the COMPSAC 2017, 2017. 
 
+god1
 
 ASCATE, S. ; MENDES, I. ; OLIVEIRA, K. ; FONTAO, AWDREN DE LIMA ; ROJAS, I. ; Dias-Neto, Arilo
  . Challenges in Model Based Testing for Mobile Applications. In: CIbSE 
 2017, 2017, Buenos Aires. XX Ibero-American Conference on Software 
 Engineering, 2017. 
 
+god1
 
 FONTÃO, AWDREN; EKWOGE, O. ; Santos, Rodrigo ; Dias-Neto, Arilo
  . Facing up the primary emotions in Mobile Software Ecosystems from 
@@ -928,6 +995,9 @@ Aspects of Software (WASHES) at the 16th International Conference on
 Software Reuse, 2017, Salvador. 2nd Workshop on Social, Human, and 
 Economic Aspects of Software, 2017. 
 
+god1
+god2
+Workshop on Social, Human
 
 FONTÃO, A. L.; LIMA, F. ; ABIA, B. ; SANTOS, RODRIGO PEREIRA DOS ; Dias-Neto, Arilo
  . Hearing the Voice of Developers in Mobile Software Ecosystems. In: 
@@ -935,6 +1005,7 @@ Brazilian Symposium on Software Engineering (SBES), 2017, Fortaleza.
 Proceedings of the 31st Brazilian Symposium on Software Engineering, 
 2017. 
 
+god1
 
 FONTÃO, A. L.; DOS SANTOS, RODRIGO PEREIRA
  ; DIAS-NETO, ARILO CLAUDIO . MSECO-CERT: Uma Abordagem Baseada em 
@@ -943,6 +1014,7 @@ Móvel. In: XVI SBQS - XVI Simpósio Brasileiro de Qualidade de Software,
 2017, Rio de Janeiro. Anais do XVI SBQS. Porto Alegre: SBC e PUCPR, 
 2017. p. 326-339. 
 
+god1
 
 FONTÃO, A. L.; SANTOS, R. P.
  ; DIAS-NETO, ARILO CLAUDIO . Towards a Guideline-Based Approach to 
@@ -958,6 +1030,7 @@ BEZERRA, A. ; FONTAO, AWDREN DE LIMA ; Dias-Neto, Arilo
  Workshop (ESELAW 2016), 2016, Quito. 13th Empirical Software 
 Engineering Latin American Workshop (ESELAW 2016), 2016. 
 
+god1
 
 FONTAO, AWDREN DE LIMA;
  SANTOS, RODRIGO PEREIRA DOS ; FEIJO, J. ; NETO, ARILO CLAUDIO DIAS . 
@@ -967,6 +1040,7 @@ Engineering & Knowledge Engineering, 2016, San Francisco Bay. The
 Twenty-Eighth International Conference on Software Engineering and 
 Knowledge Engineering (SEKE 2016), 2016. 
 
+god1
 
 LOBO, L. ; FONTÃO, AWDREN ; BEZERRA, A. ; Dias-Neto, Arilo
  . An Empirical Analysis of Mobile Apps Popularity Metrics in Mobile 
@@ -974,6 +1048,9 @@ Software Ecosystems. In: Brazilian Symposium on Software Quality, 2016,
 Maceió. Proceedings of the 15th Brazilian Symposium on Software Quality.
  Porto Alegre, 2016. 
 
+god1
+god2
+Brazilian Symposium on Software Quality, 2016
 
 PEDRACA, B. ; FERNANDES, P. ; BONIFACIO, B. ; FONTÃO, AWDREN ; Dias-Neto, Arilo
  . Explorando a Personalidade do Desenvolvedor em Ecossistemas de 
@@ -981,6 +1058,9 @@ Software Móvel. In: Workshop sobre Aspectos Sociais, Humanos e
 Econômicos de Software (WASHES), 2016, Maceió. I Workshop sobre Aspectos
  Sociais, Humanos e Econômicos de Software, 2016. 
 
+god1
+god2
+Workshop sobre Aspectos Sociais
 
 PEDRACA, B. ; BONIFACIO, B. ; FERNANDES, P. ; FONTÃO, AWDREN ; Dias-Neto, Arilo
  . O Ensino de Programação Mobile em Ecossistema Móvel. In: TISE - 
@@ -988,6 +1068,7 @@ Conferência Internacional sobre Informática na Educação, 2016. Anais da
 XXI Conferência Internacional sobre Informática na Educação (TISE), 
 2016. v. 12. p. 648-653. 
 
+god1
 
 
 
@@ -997,6 +1078,7 @@ COMPSAC 2015 - The 39th Annual International Computers, Software &
 Applications Conference, 2015, Taichung, Taiwan. Proceedings of the 
 COMPSAC 2015, 2015. 
 
+god1
 
 REIS, R. A. C. ; FONTÃO, A. L. ; LOBO, L. ; Dias-Neto, Arilo
  . Usability Evaluation Approaches for (Ubiquitous) Mobile Applications:
@@ -1005,6 +1087,7 @@ Conference on Mobile Ubiquitous Computing, Systems, Services and
 Technologies, 2015, Nice. The Ninth International Conference on Mobile 
 Ubiquitous Computing, Systems, Services and Technologies, 2015. 
 
+god1
 
 FONTÃO, A. L.; Dias-Neto, Arilo
  . MSECO Cert: Uma abordagem baseada em processo para apoiar a 
@@ -1013,6 +1096,7 @@ Simpósio Brasileiro de Qualidade de Sotware, WTDQS - Workshop de Teses e
  Dissertações em Qualidade de Software, 2015, Manaus. Anais do Workshop 
 de Teses e Dissertações em Qualidade de Software, 2015. 
 
+god1
 
 
 
@@ -1029,6 +1113,7 @@ BIASE, C. ; FERNANDES, P. ; FONTÃO, A. L. ; FERNANDES, M. ; BONIFACIO, B.
 Conference (CIAWI 2015), 2015, Florianópolis. Conferência 
 Ibero-Americana WWW/Internet 2015, 2015. 
 
+god1
 
 
 
@@ -1038,6 +1123,7 @@ Ecossistemas de Software Móvel. In: CIbSE - Congreso Iberoamericano en
 Ingeniería de Software, 2014, Pucon. XVII Congreso Iberoamericano en 
 Ingeniería de Software, 2014. 
 
+god1
 
 CASTRO, A. ; FONTÃO, A. L. ; Dias-Neto, Arilo
  . An Approach to Perform Automated Functional Testing in 
@@ -1045,6 +1131,7 @@ Database-Driven Applications. In: CIbSE - Congreso Iberoamericano en
 Ingeniería de Software, 2014. XVII Congreso Iberoamericano en Ingeniería
  de Software, 2014. 
 
+god1
 
 Santos, Rodrigo ; VALENCA, G. ; VIANA, D. ; ESTACIO, B. ; FONTÃO, A. L. ; MARCZAK, S. ; WERNER, C. ; ALVES, C. ; CONTE, T.
  ; PRIKLADNICKI, R. . Qualidade em Ecossistemas de Software: Desafios e 
@@ -1055,6 +1142,7 @@ Teoria e Prática. VIII Workshop de Desenvolvimento Distribuído de
 Software, Ecossistemas de Software e Sistemas de Sistemas - WDES, 2014. 
 v. 02. 
 
+god1
 
 FONTÃO, A. L.; BONIFACIO, B.
  ; NICOLAY, A. . Apps Framework: Um processo centrado no usuário 
@@ -1062,6 +1150,7 @@ aplicado para o desenvolvimento de aplicativos móveis - Um Estudo de
 Caso. In: IADIS International Conference - WWW/Internet 2012, 2012, 
 Madrid. WWW/Internet 2012, 2012. v. 1. p. 91-98. 
 
+god1
 
 OLIVEIRA, H. A. B. F. ; BARRETO, R. S. ; FONTÃO, A. L. ; NAKAMURA, F. EDUARDO ; LOUREIRO, A. A. F.
  . Envio de Dados de Consulta para Sinks Móveis em Alta Velocidade em 
@@ -1070,6 +1159,7 @@ Computadores e Sistemas Distribuídos (SBRC 2010), 2010, Gramado.
 Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 
 2010. p. 75-88. 
 
+god1
 
 OLIVEIRA, H. A. B. F. ; BARRETO, R. S. ; FONTÃO, A. L. ; NAKAMURA, F. EDUARDO ; LOUREIRO, A. A. F.
  . A Novel Greedy Forward Algorithm for Routing Data Toward a High Speed
@@ -1078,6 +1168,7 @@ Computer Communications and Networks (ICCCN'10), 2010, Zurique. 19th
 International Conference on Computer Communications and Networks 
 (ICCCN'10), 2010. 
 
+god1
 
 COSTA, L. A. M. ; FONTÃO, AWDREN ; DOS SANTOS, RODRIGO PEREIRA
  . Uma Abordagem para Gestão de Incidentes em Ecossistemas de Software 
@@ -1085,6 +1176,7 @@ Proprietário.. In: XVI Simpósio Brasileiro de Sistemas de Informação,
 2020, São Bernado do Campo. Anais Estendidos do Simpósio Brasileiro de 
 Sistemas de Informação (SBSI), WTDSI, 2020. 
 
+god1
 
 FONTÃO, AWDREN; CAFEO, B. B. P. ; BONIFACIO, B. ; DOS SANTOS, RODRIGO PEREIRA ; Dias-Neto, Arilo
  . On Developer Relations Team?s Reasons for Using Repositories. In: 
@@ -1092,6 +1184,7 @@ Workshop on Cooperative and Human Aspects of Software Engineering
 (CHASE), 2020, SEOUL. Proceedings of the 13th International Workshop on 
 Cooperative and Human Aspects of Software Engineering, 2020. 
 
+god1
 
 FONTAO, AWDREN DE LIMA;
  NETO, ARILO CLAUDIO DIAS . GoDev-DX: Governança de Desenvolvedores em 
@@ -1108,6 +1201,7 @@ Desenvolvimento Distribuído de Software, Ecossistemas de Software e
 Sistemas-de-Sistemas, 2016, Maringá. Anais do VII Congresso Brasileiro 
 de Software: Teoria e Prática (CBSoft). Porto Alegre: SBC, 2016. 
 
+god1
 
 SANTOS, J. ; FERNANDES, P. ; GONCALVES, E. ; FONTÃO, A. L. ; BONIFACIO, B.
  . Caracterizando Fatores de Influência na Experiência do Desenvolvedor 
@@ -1116,6 +1210,7 @@ Desenvolvimento Distribuído de Software, Ecossistemas de Software e
 Sistemas-de-Sistemas, 2016, Maringá. Anais do VII Congresso Brasileiro 
 de Software: Teoria e Prática (CBSoft). Porto Alegre: SBC, 2016. 
 
+god1
 
 FONTÃO, A. L.; Santos, Rodrigo ; Dias-Neto, Arilo
  . Research Opportunities for Mobile Software Ecosystems. In: CBSoft 
@@ -1124,6 +1219,7 @@ Ecossistemas de Software e Sistemas-de-Sistemas, 2015, Belo Horizonte.
 CBSoft 2015 - IX Workshop em Desenvolvimento Distribuído de Software, 
 Ecossistemas de Software e Sistemas-de-Sistemas, 2015. 
 
+god1
 
 FONTAO, AWDREN DE LIMA;
  NETO, ARILO CLAUDIO DIAS . MSECO Cert: Process-based Approach to 
@@ -1155,12 +1251,14 @@ BIASE, C. ; FERNANDES, P. ; FONTAO, AWDREN DE LIMA ; FERNANDES, M. ; BONIFACIO, 
  de Desenvolvimento de Aplicações Móveis. 2015. (Apresentação de 
 Trabalho/Congresso). 
 
+god1
 
 PEDRACA, B. ; BONIFACIO, B. ; FONTAO, AWDREN DE LIMA
  ; FERNANDES, P. . MELHORANDO UMA TÉCNICA DE INSPEÇÃO DE USABILIDADE DE 
 APLICAÇÃO WEB POR MEIO DO MÉTODO DE AVALIAÇÃO DE COMUNICABILIDADE. 2015.
  (Apresentação de Trabalho/Congresso). 
 
+god1
 
 FONTAO, AWDREN DE LIMA; BONIFACIO, B.
  ; NETO, ARILO CLAUDIO DIAS ; BEZERRA, A. ; SANTOS, RODRIGO PEREIRA DOS .
@@ -1168,6 +1266,7 @@ FONTAO, AWDREN DE LIMA; BONIFACIO, B.
 Ecossistemas de Software Móvel. 2014. (Apresentação de 
 Trabalho/Congresso). 
 
+god1
 
 CASTRO, A. ; FONTAO, AWDREN DE LIMA
  ; NETO, ARILO CLAUDIO DIAS . An Approach to Perform Automated 
@@ -1623,6 +1722,7 @@ FONTAO, AWDREN. Proceedings Chair - SBQS 2021 - Simpósio Brasileiro de Qualidad
 
 STEINMACHER, I. ; FONTÃO, AWDREN . 5º WASHES ? Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software. 2020. (Outro). 
 
+god1
 
 STEINMACHER, I. ; FONTAO, AWDREN .
  Coordenação do Comitê de Programa - 5º WASHES - Workshop sobre Aspectos
@@ -1637,6 +1737,7 @@ MALDONADO, J. C. ; Dias-Neto, Arilo ; FARIAS JUNIOR, I. H. ; WERNER, C. ; NAKAGA
 Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de 
 Software e Sistemas-de-Sistemas. 2016. (Outro). 
 
+god1
 
 Ana Elisa da Silva Cunha. Um modelo baseado em habilidades para formação de profissionais de Developer Relations.
 						Início: 2021.
@@ -1941,9 +2042,11 @@ FONTAO, AWDREN. Proceedings Chair - SBQS 2021 - Simpósio Brasileiro de Qualidad
  ; DIAS-NETO, ARILO CLAUDIO . Evaluating Processes to Certify Mobile 
 Applications during Developer Relations Activities. IEEE Access, v. 8, p. 1-1, 2020. Citações:5
 
+god1
 
 GOMES, J.2020GOMES, J. ; VILLANES, I. K. ; ASCATE, S. ; FONTÃO, A ; ANDRADE, E. N. ; Dias-Neto, Arilo . SCUTMA: Selecting Components for Unit Testing in Mobile Applications. Journal of Computer Science, v. 1, p. 1, 2020. 
 
+god1
 
 3.63FONTÃO,
  A. L.;FONTAO, AWDREN DE LIMA;FONTÃO, AWDREN DE LIMA;FONTÃO, 
@@ -1951,6 +2054,7 @@ AWDREN;FONTÃO, A;DE LIMA FONTÃO, AWDREN;FONTÃO, A. L;FONTAO, AWDREN2019FONTÃ
  ; DIAS-NETO, ARILO CLAUDIO . Exploiting Repositories in Mobile Software
  Ecosystems from a Governance Perspective. INFORMATION SYSTEMS FRONTIERS, v. 2019, p. 143-161, 2019. 
 
+god1
 
 FONTÃO, AWDREN2018FONTÃO, AWDREN; ÁBIA, BRUNO ; WIESE, IGOR ; ESTÁCIO, BERNARDO ; QUINTA, MARCELO
  ; SANTOS, RODRIGO PEREIRA DOS ; DIAS-NETO, ARILO CLAUDIO . Supporting 
@@ -1958,6 +2062,7 @@ governance of mobile application developers from mining and analyzing
 technical questions in stack overflow. JOURNAL OF SOFTWARE ENGINEERING 
 RESEARCH AND DEVELOPMENT, v. 6, p. 8, 2018. 
 
+god1
 
 SANTOS, R. P. ; FONTÃO, A. L.
  ; FERNANDES, J. C. . Ecossistemas de Software. In: Cristiano Maciel; 
@@ -1987,6 +2092,7 @@ FONTÃO, A. L.. Desenvolvimento de Aplicativos para Mobile Phones. Mobile Magazi
 
 FONTÃO, A. L.. Utilizando jQuery e o Google Maps para Encontrar Rotas entre Endereços. Webmobile Magazine, , v. 25. 
 
+god1
 
 COSTA, L. A. ; FONTÃO, A ; SANTOS, R. P.
  . Investigating Proprietary Software Ecosystem Governance and Health: 
@@ -1994,6 +2100,7 @@ An Updated and Refined Perspective. In: SBSI'21: XVII Brazilian
 Symposium on Information Systems, 2021, Uberlândia. SBSI'21: XVII 
 Brazilian Symposium on Information Systems. New York: ACM, 2021. 
 
+god1
 
 COSTA, L. A. ; FONTÃO, AWDREN ; SANTOS, R. P.
  . Investigating Asset Governance Mechanisms in a Proprietary Software 
@@ -2001,6 +2108,7 @@ Ecosystem. In: XVI Brazilian Symposium on Information Systems - SBSI'20,
  2020, São Bernando do Campo. Proceedings of the XVI Brazilian Symposium
  on Information Systems - SBSI'20, 2020. 
 
+god1
 
 MORAIS, F. L. ; FONTÃO, AWDREN ; CLEGER-TAMAYO, S.
  . Combining Design Thinking and Scrum to enhance Test Suite during 
@@ -2008,6 +2116,7 @@ innovative software development. In: Ibero-American Conference on
 Software Engineering (CIbSE), 2020, Curitiba. Proceeding of the XXXIII 
 Ibero-American Conference on Software Engineering, 2020. 
 
+god1
 
 FONTÃO, AWDREN; CLEGER-TAMAYO, S. ; WIESE, IGOR ; DOS SANTOS, RODRIGO PEREIRA
  ; DIAS-NETO, ARILO CLAUDIO . On Value Creation in Developer Relations 
@@ -2015,6 +2124,7 @@ FONTÃO, AWDREN; CLEGER-TAMAYO, S. ; WIESE, IGOR ; DOS SANTOS, RODRIGO PEREIRA
 Global Software Engineering, 2020, Seoul. 15th ACM/IEEE International 
 Conference on Global Software Engineering - ICGSE 2020, 2020. 
 
+god1
 
 IMAMURA, M. ; COSTA, L. A. M. ; FERREIRA, F. H. ; FONTAO, AWDREN ; DOS SANTOS, RODRIGO PEREIRA
  . Fatores de Governança em Sistemas-de-Sistemas: Análise de uma 
@@ -2023,6 +2133,9 @@ HUMANOS E ECONÔMICOS DE SOFTWARE (WASHES), 2020, Cuiabá. ANAIS DO V
 WORKSHOP SOBRE ASPECTOS SOCIAIS, HUMANOS E ECONÔMICOS DE SOFTWARE, 2020.
  p. 31. 
 
+god1
+god2
+V WORKSHOP SOBRE ASPECTOS SOCIAIS
 
 LIMA, V. C. A. E. ; MALCHER, P. ; FARIAS, V. G. ; SANTOS, R. P. ; FONTÃO, AWDREN ; WIESE, IGOR ; VIANA, D.
  . An Exploratory Study on Developers Opinions about Influence in Open 
@@ -2030,6 +2143,7 @@ Source Software Ecosystems.. In: Brazilian Symposium on Software
 Engineering - SBES'20, 2020, Natal. Proceedings of the 34th Brazilian 
 Symposium on Software Engineering - SBES'20, 2020. 
 
+god1
 
 FONTÃO, AWDREN; SANTOS, R. P. ; Dias-Neto, Arilo
  . DevGo: um Modelo para Governança de Desenvolvedores em Ecossistema de
@@ -2045,6 +2159,7 @@ perspective. In: 34th Brazilian Symposium on Software Engineering, 2020,
  Natal. Proceedings of the 34th Brazilian Symposium on Software 
 Engineering - Innovative Ideas and Emerging Results, 2020. 
 
+god1
 
 BRAGA, W. ; MENEZES, G. ; FONTÃO, AWDREN ; HORA, A. ; CAFEO, B. B. P.
  . Quero lhe usar! Uma Análise do Público-Alvo de code samples. In: 
@@ -2052,6 +2167,7 @@ Workshop on Software Visualization, Evolution and Maintenance (VEM),
 2020, Natal. Proceedings of the 8th Workshop on Software Visualization, 
 Evolution and Maintenance (VEM 2020), 2020. 
 
+god1
 
 FONTÃO, AWDREN; GADELHA, B.
  ; CASTRO JUNIOR, A. . Balancing theory and practice in software 
@@ -2059,6 +2175,7 @@ engineering education - A PBL, toolset based approach. In: Frontiers in
 Education, 2019, Cincinnati. 49th Annual Frontiers in Education (FIE) 
 Conference, 2019. 
 
+god1
 
 LIMA, M. ; FONTÃO, AWDREN ; FERNANDES, D. ; CONTE, T. ; GADELHA, B.
  . How are my Students going? A Tool to Analyse Students? Interactions 
@@ -2066,6 +2183,7 @@ on Capstone Courses. In: Brazilian Symposium on Informatics in Education
  (SBIE), 2019, Brasília. Proceedings of the XXX Brazilian Symposium on 
 Informatics in Education, 2019. 
 
+god1
 
 FONTÃO, A; ESTACIO, B. ; FERNANDES, J. ; SANTOS, R. P.
  ; DIAS-NETO, ARILO CLAUDIO . Which factors affect the evangelist's 
@@ -2074,6 +2192,7 @@ support during training sessions in Mobile Software Ecosystems?. In:
 Madrid. 12th European Conference on Software Architecture: Companion 
 Proceedings, 2018. 
 
+god1
 
 FONTÃO, AWDREN; BONIFACIO, B.
  ; SANTOS, RODRIGO PEREIRA DOS ; DIAS-NETO, ARILO CLAUDIO . Mobile 
@@ -2082,6 +2201,7 @@ Investigating the Developer eXperience. In: Brazilian Symposium on
 Software Quality (SBQS 2018), 2018, Curitiba. Proceedings of the 17th 
 Brazilian Symposium on Software Quality (SBQS 2018), 2018. 
 
+god1
 
 FONTÃO, A. L.; Dias-Neto, Arilo ; VIANA, D.
  . Investigating factors that influence developers experience in mobile 
@@ -2099,12 +2219,14 @@ EKWOGE, O. ; FONTAO, AWDREN DE LIMA ; Dias-Neto, Arilo
  The 41th Annual International Computers, Software & Applications 
 Conference, 2017, Turin. Proceedings of the COMPSAC 2017, 2017. 
 
+god1
 
 ASCATE, S. ; MENDES, I. ; OLIVEIRA, K. ; FONTAO, AWDREN DE LIMA ; ROJAS, I. ; Dias-Neto, Arilo
  . Challenges in Model Based Testing for Mobile Applications. In: CIbSE 
 2017, 2017, Buenos Aires. XX Ibero-American Conference on Software 
 Engineering, 2017. 
 
+god1
 
 FONTÃO, AWDREN; EKWOGE, O. ; Santos, Rodrigo ; Dias-Neto, Arilo
  . Facing up the primary emotions in Mobile Software Ecosystems from 
@@ -2113,6 +2235,9 @@ Aspects of Software (WASHES) at the 16th International Conference on
 Software Reuse, 2017, Salvador. 2nd Workshop on Social, Human, and 
 Economic Aspects of Software, 2017. 
 
+god1
+god2
+Workshop on Social, Human
 
 FONTÃO, A. L.; LIMA, F. ; ABIA, B. ; SANTOS, RODRIGO PEREIRA DOS ; Dias-Neto, Arilo
  . Hearing the Voice of Developers in Mobile Software Ecosystems. In: 
@@ -2120,6 +2245,7 @@ Brazilian Symposium on Software Engineering (SBES), 2017, Fortaleza.
 Proceedings of the 31st Brazilian Symposium on Software Engineering, 
 2017. 
 
+god1
 
 FONTÃO, A. L.; DOS SANTOS, RODRIGO PEREIRA
  ; DIAS-NETO, ARILO CLAUDIO . MSECO-CERT: Uma Abordagem Baseada em 
@@ -2128,6 +2254,7 @@ Móvel. In: XVI SBQS - XVI Simpósio Brasileiro de Qualidade de Software,
 2017, Rio de Janeiro. Anais do XVI SBQS. Porto Alegre: SBC e PUCPR, 
 2017. p. 326-339. 
 
+god1
 
 FONTÃO, A. L.; SANTOS, R. P.
  ; DIAS-NETO, ARILO CLAUDIO . Towards a Guideline-Based Approach to 
@@ -2143,6 +2270,7 @@ BEZERRA, A. ; FONTAO, AWDREN DE LIMA ; Dias-Neto, Arilo
  Workshop (ESELAW 2016), 2016, Quito. 13th Empirical Software 
 Engineering Latin American Workshop (ESELAW 2016), 2016. 
 
+god1
 
 FONTAO, AWDREN DE LIMA;
  SANTOS, RODRIGO PEREIRA DOS ; FEIJO, J. ; NETO, ARILO CLAUDIO DIAS . 
@@ -2152,6 +2280,7 @@ Engineering & Knowledge Engineering, 2016, San Francisco Bay. The
 Twenty-Eighth International Conference on Software Engineering and 
 Knowledge Engineering (SEKE 2016), 2016. 
 
+god1
 
 LOBO, L. ; FONTÃO, AWDREN ; BEZERRA, A. ; Dias-Neto, Arilo
  . An Empirical Analysis of Mobile Apps Popularity Metrics in Mobile 
@@ -2159,6 +2288,9 @@ Software Ecosystems. In: Brazilian Symposium on Software Quality, 2016,
 Maceió. Proceedings of the 15th Brazilian Symposium on Software Quality.
  Porto Alegre, 2016. 
 
+god1
+god2
+Brazilian Symposium on Software Quality, 2016
 
 PEDRACA, B. ; FERNANDES, P. ; BONIFACIO, B. ; FONTÃO, AWDREN ; Dias-Neto, Arilo
  . Explorando a Personalidade do Desenvolvedor em Ecossistemas de 
@@ -2166,6 +2298,9 @@ Software Móvel. In: Workshop sobre Aspectos Sociais, Humanos e
 Econômicos de Software (WASHES), 2016, Maceió. I Workshop sobre Aspectos
  Sociais, Humanos e Econômicos de Software, 2016. 
 
+god1
+god2
+Workshop sobre Aspectos Sociais
 
 PEDRACA, B. ; BONIFACIO, B. ; FERNANDES, P. ; FONTÃO, AWDREN ; Dias-Neto, Arilo
  . O Ensino de Programação Mobile em Ecossistema Móvel. In: TISE - 
@@ -2173,6 +2308,7 @@ Conferência Internacional sobre Informática na Educação, 2016. Anais da
 XXI Conferência Internacional sobre Informática na Educação (TISE), 
 2016. v. 12. p. 648-653. 
 
+god1
 
 
 
@@ -2182,6 +2318,7 @@ COMPSAC 2015 - The 39th Annual International Computers, Software &
 Applications Conference, 2015, Taichung, Taiwan. Proceedings of the 
 COMPSAC 2015, 2015. 
 
+god1
 
 REIS, R. A. C. ; FONTÃO, A. L. ; LOBO, L. ; Dias-Neto, Arilo
  . Usability Evaluation Approaches for (Ubiquitous) Mobile Applications:
@@ -2190,6 +2327,7 @@ Conference on Mobile Ubiquitous Computing, Systems, Services and
 Technologies, 2015, Nice. The Ninth International Conference on Mobile 
 Ubiquitous Computing, Systems, Services and Technologies, 2015. 
 
+god1
 
 FONTÃO, A. L.; Dias-Neto, Arilo
  . MSECO Cert: Uma abordagem baseada em processo para apoiar a 
@@ -2198,6 +2336,7 @@ Simpósio Brasileiro de Qualidade de Sotware, WTDQS - Workshop de Teses e
  Dissertações em Qualidade de Software, 2015, Manaus. Anais do Workshop 
 de Teses e Dissertações em Qualidade de Software, 2015. 
 
+god1
 
 
 
@@ -2214,6 +2353,7 @@ BIASE, C. ; FERNANDES, P. ; FONTÃO, A. L. ; FERNANDES, M. ; BONIFACIO, B.
 Conference (CIAWI 2015), 2015, Florianópolis. Conferência 
 Ibero-Americana WWW/Internet 2015, 2015. 
 
+god1
 
 
 
@@ -2223,6 +2363,7 @@ Ecossistemas de Software Móvel. In: CIbSE - Congreso Iberoamericano en
 Ingeniería de Software, 2014, Pucon. XVII Congreso Iberoamericano en 
 Ingeniería de Software, 2014. 
 
+god1
 
 CASTRO, A. ; FONTÃO, A. L. ; Dias-Neto, Arilo
  . An Approach to Perform Automated Functional Testing in 
@@ -2230,6 +2371,7 @@ Database-Driven Applications. In: CIbSE - Congreso Iberoamericano en
 Ingeniería de Software, 2014. XVII Congreso Iberoamericano en Ingeniería
  de Software, 2014. 
 
+god1
 
 Santos, Rodrigo ; VALENCA, G. ; VIANA, D. ; ESTACIO, B. ; FONTÃO, A. L. ; MARCZAK, S. ; WERNER, C. ; ALVES, C. ; CONTE, T.
  ; PRIKLADNICKI, R. . Qualidade em Ecossistemas de Software: Desafios e 
@@ -2240,6 +2382,7 @@ Teoria e Prática. VIII Workshop de Desenvolvimento Distribuído de
 Software, Ecossistemas de Software e Sistemas de Sistemas - WDES, 2014. 
 v. 02. 
 
+god1
 
 FONTÃO, A. L.; BONIFACIO, B.
  ; NICOLAY, A. . Apps Framework: Um processo centrado no usuário 
@@ -2247,6 +2390,7 @@ aplicado para o desenvolvimento de aplicativos móveis - Um Estudo de
 Caso. In: IADIS International Conference - WWW/Internet 2012, 2012, 
 Madrid. WWW/Internet 2012, 2012. v. 1. p. 91-98. 
 
+god1
 
 OLIVEIRA, H. A. B. F. ; BARRETO, R. S. ; FONTÃO, A. L. ; NAKAMURA, F. EDUARDO ; LOUREIRO, A. A. F.
  . Envio de Dados de Consulta para Sinks Móveis em Alta Velocidade em 
@@ -2255,6 +2399,7 @@ Computadores e Sistemas Distribuídos (SBRC 2010), 2010, Gramado.
 Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 
 2010. p. 75-88. 
 
+god1
 
 OLIVEIRA, H. A. B. F. ; BARRETO, R. S. ; FONTÃO, A. L. ; NAKAMURA, F. EDUARDO ; LOUREIRO, A. A. F.
  . A Novel Greedy Forward Algorithm for Routing Data Toward a High Speed
@@ -2263,6 +2408,7 @@ Computer Communications and Networks (ICCCN'10), 2010, Zurique. 19th
 International Conference on Computer Communications and Networks 
 (ICCCN'10), 2010. 
 
+god1
 
 COSTA, L. A. M. ; FONTÃO, AWDREN ; DOS SANTOS, RODRIGO PEREIRA
  . Uma Abordagem para Gestão de Incidentes em Ecossistemas de Software 
@@ -2270,6 +2416,7 @@ Proprietário.. In: XVI Simpósio Brasileiro de Sistemas de Informação,
 2020, São Bernado do Campo. Anais Estendidos do Simpósio Brasileiro de 
 Sistemas de Informação (SBSI), WTDSI, 2020. 
 
+god1
 
 FONTÃO, AWDREN; CAFEO, B. B. P. ; BONIFACIO, B. ; DOS SANTOS, RODRIGO PEREIRA ; Dias-Neto, Arilo
  . On Developer Relations Team?s Reasons for Using Repositories. In: 
@@ -2277,6 +2424,7 @@ Workshop on Cooperative and Human Aspects of Software Engineering
 (CHASE), 2020, SEOUL. Proceedings of the 13th International Workshop on 
 Cooperative and Human Aspects of Software Engineering, 2020. 
 
+god1
 
 FONTAO, AWDREN DE LIMA;
  NETO, ARILO CLAUDIO DIAS . GoDev-DX: Governança de Desenvolvedores em 
@@ -2293,6 +2441,7 @@ Desenvolvimento Distribuído de Software, Ecossistemas de Software e
 Sistemas-de-Sistemas, 2016, Maringá. Anais do VII Congresso Brasileiro 
 de Software: Teoria e Prática (CBSoft). Porto Alegre: SBC, 2016. 
 
+god1
 
 SANTOS, J. ; FERNANDES, P. ; GONCALVES, E. ; FONTÃO, A. L. ; BONIFACIO, B.
  . Caracterizando Fatores de Influência na Experiência do Desenvolvedor 
@@ -2301,6 +2450,7 @@ Desenvolvimento Distribuído de Software, Ecossistemas de Software e
 Sistemas-de-Sistemas, 2016, Maringá. Anais do VII Congresso Brasileiro 
 de Software: Teoria e Prática (CBSoft). Porto Alegre: SBC, 2016. 
 
+god1
 
 FONTÃO, A. L.; Santos, Rodrigo ; Dias-Neto, Arilo
  . Research Opportunities for Mobile Software Ecosystems. In: CBSoft 
@@ -2309,6 +2459,7 @@ Ecossistemas de Software e Sistemas-de-Sistemas, 2015, Belo Horizonte.
 CBSoft 2015 - IX Workshop em Desenvolvimento Distribuído de Software, 
 Ecossistemas de Software e Sistemas-de-Sistemas, 2015. 
 
+god1
 
 FONTAO, AWDREN DE LIMA;
  NETO, ARILO CLAUDIO DIAS . MSECO Cert: Process-based Approach to 
@@ -2340,12 +2491,14 @@ BIASE, C. ; FERNANDES, P. ; FONTAO, AWDREN DE LIMA ; FERNANDES, M. ; BONIFACIO, 
  de Desenvolvimento de Aplicações Móveis. 2015. (Apresentação de 
 Trabalho/Congresso). 
 
+god1
 
 PEDRACA, B. ; BONIFACIO, B. ; FONTAO, AWDREN DE LIMA
  ; FERNANDES, P. . MELHORANDO UMA TÉCNICA DE INSPEÇÃO DE USABILIDADE DE 
 APLICAÇÃO WEB POR MEIO DO MÉTODO DE AVALIAÇÃO DE COMUNICABILIDADE. 2015.
  (Apresentação de Trabalho/Congresso). 
 
+god1
 
 FONTAO, AWDREN DE LIMA; BONIFACIO, B.
  ; NETO, ARILO CLAUDIO DIAS ; BEZERRA, A. ; SANTOS, RODRIGO PEREIRA DOS .
@@ -2353,6 +2506,7 @@ FONTAO, AWDREN DE LIMA; BONIFACIO, B.
 Ecossistemas de Software Móvel. 2014. (Apresentação de 
 Trabalho/Congresso). 
 
+god1
 
 CASTRO, A. ; FONTAO, AWDREN DE LIMA
  ; NETO, ARILO CLAUDIO DIAS . An Approach to Perform Automated 
@@ -2808,6 +2962,7 @@ FONTAO, AWDREN. Proceedings Chair - SBQS 2021 - Simpósio Brasileiro de Qualidad
 
 STEINMACHER, I. ; FONTÃO, AWDREN . 5º WASHES ? Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software. 2020. (Outro). 
 
+god1
 
 STEINMACHER, I. ; FONTAO, AWDREN .
  Coordenação do Comitê de Programa - 5º WASHES - Workshop sobre Aspectos
@@ -2822,6 +2977,7 @@ MALDONADO, J. C. ; Dias-Neto, Arilo ; FARIAS JUNIOR, I. H. ; WERNER, C. ; NAKAGA
 Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de 
 Software e Sistemas-de-Sistemas. 2016. (Outro). 
 
+god1
 
 Ana Elisa da Silva Cunha. Um modelo baseado em habilidades para formação de profissionais de Developer Relations.
 						Início: 2021.
@@ -3126,9 +3282,11 @@ FONTAO, AWDREN. Proceedings Chair - SBQS 2021 - Simpósio Brasileiro de Qualidad
  ; DIAS-NETO, ARILO CLAUDIO . Evaluating Processes to Certify Mobile 
 Applications during Developer Relations Activities. IEEE Access, v. 8, p. 1-1, 2020. Citações:5
 
+god1
 
 GOMES, J.2020GOMES, J. ; VILLANES, I. K. ; ASCATE, S. ; FONTÃO, A ; ANDRADE, E. N. ; Dias-Neto, Arilo . SCUTMA: Selecting Components for Unit Testing in Mobile Applications. Journal of Computer Science, v. 1, p. 1, 2020. 
 
+god1
 
 3.63FONTÃO,
  A. L.;FONTAO, AWDREN DE LIMA;FONTÃO, AWDREN DE LIMA;FONTÃO, 
@@ -3136,6 +3294,7 @@ AWDREN;FONTÃO, A;DE LIMA FONTÃO, AWDREN;FONTÃO, A. L;FONTAO, AWDREN2019FONTÃ
  ; DIAS-NETO, ARILO CLAUDIO . Exploiting Repositories in Mobile Software
  Ecosystems from a Governance Perspective. INFORMATION SYSTEMS FRONTIERS, v. 2019, p. 143-161, 2019. 
 
+god1
 
 FONTÃO, AWDREN2018FONTÃO, AWDREN; ÁBIA, BRUNO ; WIESE, IGOR ; ESTÁCIO, BERNARDO ; QUINTA, MARCELO
  ; SANTOS, RODRIGO PEREIRA DOS ; DIAS-NETO, ARILO CLAUDIO . Supporting 
@@ -3143,6 +3302,7 @@ governance of mobile application developers from mining and analyzing
 technical questions in stack overflow. JOURNAL OF SOFTWARE ENGINEERING 
 RESEARCH AND DEVELOPMENT, v. 6, p. 8, 2018. 
 
+god1
 
 SANTOS, R. P. ; FONTÃO, A. L.
  ; FERNANDES, J. C. . Ecossistemas de Software. In: Cristiano Maciel; 
@@ -3172,6 +3332,7 @@ FONTÃO, A. L.. Desenvolvimento de Aplicativos para Mobile Phones. Mobile Magazi
 
 FONTÃO, A. L.. Utilizando jQuery e o Google Maps para Encontrar Rotas entre Endereços. Webmobile Magazine, , v. 25. 
 
+god1
 
 COSTA, L. A. ; FONTÃO, A ; SANTOS, R. P.
  . Investigating Proprietary Software Ecosystem Governance and Health: 
@@ -3179,6 +3340,7 @@ An Updated and Refined Perspective. In: SBSI'21: XVII Brazilian
 Symposium on Information Systems, 2021, Uberlândia. SBSI'21: XVII 
 Brazilian Symposium on Information Systems. New York: ACM, 2021. 
 
+god1
 
 COSTA, L. A. ; FONTÃO, AWDREN ; SANTOS, R. P.
  . Investigating Asset Governance Mechanisms in a Proprietary Software 
@@ -3186,6 +3348,7 @@ Ecosystem. In: XVI Brazilian Symposium on Information Systems - SBSI'20,
  2020, São Bernando do Campo. Proceedings of the XVI Brazilian Symposium
  on Information Systems - SBSI'20, 2020. 
 
+god1
 
 MORAIS, F. L. ; FONTÃO, AWDREN ; CLEGER-TAMAYO, S.
  . Combining Design Thinking and Scrum to enhance Test Suite during 
@@ -3193,6 +3356,7 @@ innovative software development. In: Ibero-American Conference on
 Software Engineering (CIbSE), 2020, Curitiba. Proceeding of the XXXIII 
 Ibero-American Conference on Software Engineering, 2020. 
 
+god1
 
 FONTÃO, AWDREN; CLEGER-TAMAYO, S. ; WIESE, IGOR ; DOS SANTOS, RODRIGO PEREIRA
  ; DIAS-NETO, ARILO CLAUDIO . On Value Creation in Developer Relations 
@@ -3200,6 +3364,7 @@ FONTÃO, AWDREN; CLEGER-TAMAYO, S. ; WIESE, IGOR ; DOS SANTOS, RODRIGO PEREIRA
 Global Software Engineering, 2020, Seoul. 15th ACM/IEEE International 
 Conference on Global Software Engineering - ICGSE 2020, 2020. 
 
+god1
 
 IMAMURA, M. ; COSTA, L. A. M. ; FERREIRA, F. H. ; FONTAO, AWDREN ; DOS SANTOS, RODRIGO PEREIRA
  . Fatores de Governança em Sistemas-de-Sistemas: Análise de uma 
@@ -3208,6 +3373,9 @@ HUMANOS E ECONÔMICOS DE SOFTWARE (WASHES), 2020, Cuiabá. ANAIS DO V
 WORKSHOP SOBRE ASPECTOS SOCIAIS, HUMANOS E ECONÔMICOS DE SOFTWARE, 2020.
  p. 31. 
 
+god1
+god2
+V WORKSHOP SOBRE ASPECTOS SOCIAIS
 
 LIMA, V. C. A. E. ; MALCHER, P. ; FARIAS, V. G. ; SANTOS, R. P. ; FONTÃO, AWDREN ; WIESE, IGOR ; VIANA, D.
  . An Exploratory Study on Developers Opinions about Influence in Open 
@@ -3215,6 +3383,7 @@ Source Software Ecosystems.. In: Brazilian Symposium on Software
 Engineering - SBES'20, 2020, Natal. Proceedings of the 34th Brazilian 
 Symposium on Software Engineering - SBES'20, 2020. 
 
+god1
 
 FONTÃO, AWDREN; SANTOS, R. P. ; Dias-Neto, Arilo
  . DevGo: um Modelo para Governança de Desenvolvedores em Ecossistema de
@@ -3230,6 +3399,7 @@ perspective. In: 34th Brazilian Symposium on Software Engineering, 2020,
  Natal. Proceedings of the 34th Brazilian Symposium on Software 
 Engineering - Innovative Ideas and Emerging Results, 2020. 
 
+god1
 
 BRAGA, W. ; MENEZES, G. ; FONTÃO, AWDREN ; HORA, A. ; CAFEO, B. B. P.
  . Quero lhe usar! Uma Análise do Público-Alvo de code samples. In: 
@@ -3237,6 +3407,7 @@ Workshop on Software Visualization, Evolution and Maintenance (VEM),
 2020, Natal. Proceedings of the 8th Workshop on Software Visualization, 
 Evolution and Maintenance (VEM 2020), 2020. 
 
+god1
 
 FONTÃO, AWDREN; GADELHA, B.
  ; CASTRO JUNIOR, A. . Balancing theory and practice in software 
@@ -3244,6 +3415,7 @@ engineering education - A PBL, toolset based approach. In: Frontiers in
 Education, 2019, Cincinnati. 49th Annual Frontiers in Education (FIE) 
 Conference, 2019. 
 
+god1
 
 LIMA, M. ; FONTÃO, AWDREN ; FERNANDES, D. ; CONTE, T. ; GADELHA, B.
  . How are my Students going? A Tool to Analyse Students? Interactions 
@@ -3251,6 +3423,7 @@ on Capstone Courses. In: Brazilian Symposium on Informatics in Education
  (SBIE), 2019, Brasília. Proceedings of the XXX Brazilian Symposium on 
 Informatics in Education, 2019. 
 
+god1
 
 FONTÃO, A; ESTACIO, B. ; FERNANDES, J. ; SANTOS, R. P.
  ; DIAS-NETO, ARILO CLAUDIO . Which factors affect the evangelist's 
@@ -3259,6 +3432,7 @@ support during training sessions in Mobile Software Ecosystems?. In:
 Madrid. 12th European Conference on Software Architecture: Companion 
 Proceedings, 2018. 
 
+god1
 
 FONTÃO, AWDREN; BONIFACIO, B.
  ; SANTOS, RODRIGO PEREIRA DOS ; DIAS-NETO, ARILO CLAUDIO . Mobile 
@@ -3267,6 +3441,7 @@ Investigating the Developer eXperience. In: Brazilian Symposium on
 Software Quality (SBQS 2018), 2018, Curitiba. Proceedings of the 17th 
 Brazilian Symposium on Software Quality (SBQS 2018), 2018. 
 
+god1
 
 FONTÃO, A. L.; Dias-Neto, Arilo ; VIANA, D.
  . Investigating factors that influence developers experience in mobile 
@@ -3284,12 +3459,14 @@ EKWOGE, O. ; FONTAO, AWDREN DE LIMA ; Dias-Neto, Arilo
  The 41th Annual International Computers, Software & Applications 
 Conference, 2017, Turin. Proceedings of the COMPSAC 2017, 2017. 
 
+god1
 
 ASCATE, S. ; MENDES, I. ; OLIVEIRA, K. ; FONTAO, AWDREN DE LIMA ; ROJAS, I. ; Dias-Neto, Arilo
  . Challenges in Model Based Testing for Mobile Applications. In: CIbSE 
 2017, 2017, Buenos Aires. XX Ibero-American Conference on Software 
 Engineering, 2017. 
 
+god1
 
 FONTÃO, AWDREN; EKWOGE, O. ; Santos, Rodrigo ; Dias-Neto, Arilo
  . Facing up the primary emotions in Mobile Software Ecosystems from 
@@ -3298,6 +3475,9 @@ Aspects of Software (WASHES) at the 16th International Conference on
 Software Reuse, 2017, Salvador. 2nd Workshop on Social, Human, and 
 Economic Aspects of Software, 2017. 
 
+god1
+god2
+Workshop on Social, Human
 
 FONTÃO, A. L.; LIMA, F. ; ABIA, B. ; SANTOS, RODRIGO PEREIRA DOS ; Dias-Neto, Arilo
  . Hearing the Voice of Developers in Mobile Software Ecosystems. In: 
@@ -3305,6 +3485,7 @@ Brazilian Symposium on Software Engineering (SBES), 2017, Fortaleza.
 Proceedings of the 31st Brazilian Symposium on Software Engineering, 
 2017. 
 
+god1
 
 FONTÃO, A. L.; DOS SANTOS, RODRIGO PEREIRA
  ; DIAS-NETO, ARILO CLAUDIO . MSECO-CERT: Uma Abordagem Baseada em 
@@ -3313,6 +3494,7 @@ Móvel. In: XVI SBQS - XVI Simpósio Brasileiro de Qualidade de Software,
 2017, Rio de Janeiro. Anais do XVI SBQS. Porto Alegre: SBC e PUCPR, 
 2017. p. 326-339. 
 
+god1
 
 FONTÃO, A. L.; SANTOS, R. P.
  ; DIAS-NETO, ARILO CLAUDIO . Towards a Guideline-Based Approach to 
@@ -3328,6 +3510,7 @@ BEZERRA, A. ; FONTAO, AWDREN DE LIMA ; Dias-Neto, Arilo
  Workshop (ESELAW 2016), 2016, Quito. 13th Empirical Software 
 Engineering Latin American Workshop (ESELAW 2016), 2016. 
 
+god1
 
 FONTAO, AWDREN DE LIMA;
  SANTOS, RODRIGO PEREIRA DOS ; FEIJO, J. ; NETO, ARILO CLAUDIO DIAS . 
@@ -3337,6 +3520,7 @@ Engineering & Knowledge Engineering, 2016, San Francisco Bay. The
 Twenty-Eighth International Conference on Software Engineering and 
 Knowledge Engineering (SEKE 2016), 2016. 
 
+god1
 
 LOBO, L. ; FONTÃO, AWDREN ; BEZERRA, A. ; Dias-Neto, Arilo
  . An Empirical Analysis of Mobile Apps Popularity Metrics in Mobile 
@@ -3344,6 +3528,9 @@ Software Ecosystems. In: Brazilian Symposium on Software Quality, 2016,
 Maceió. Proceedings of the 15th Brazilian Symposium on Software Quality.
  Porto Alegre, 2016. 
 
+god1
+god2
+Brazilian Symposium on Software Quality, 2016
 
 PEDRACA, B. ; FERNANDES, P. ; BONIFACIO, B. ; FONTÃO, AWDREN ; Dias-Neto, Arilo
  . Explorando a Personalidade do Desenvolvedor em Ecossistemas de 
@@ -3351,6 +3538,9 @@ Software Móvel. In: Workshop sobre Aspectos Sociais, Humanos e
 Econômicos de Software (WASHES), 2016, Maceió. I Workshop sobre Aspectos
  Sociais, Humanos e Econômicos de Software, 2016. 
 
+god1
+god2
+Workshop sobre Aspectos Sociais
 
 PEDRACA, B. ; BONIFACIO, B. ; FERNANDES, P. ; FONTÃO, AWDREN ; Dias-Neto, Arilo
  . O Ensino de Programação Mobile em Ecossistema Móvel. In: TISE - 
@@ -3358,6 +3548,7 @@ Conferência Internacional sobre Informática na Educação, 2016. Anais da
 XXI Conferência Internacional sobre Informática na Educação (TISE), 
 2016. v. 12. p. 648-653. 
 
+god1
 
 
 
@@ -3367,6 +3558,7 @@ COMPSAC 2015 - The 39th Annual International Computers, Software &
 Applications Conference, 2015, Taichung, Taiwan. Proceedings of the 
 COMPSAC 2015, 2015. 
 
+god1
 
 REIS, R. A. C. ; FONTÃO, A. L. ; LOBO, L. ; Dias-Neto, Arilo
  . Usability Evaluation Approaches for (Ubiquitous) Mobile Applications:
@@ -3375,6 +3567,7 @@ Conference on Mobile Ubiquitous Computing, Systems, Services and
 Technologies, 2015, Nice. The Ninth International Conference on Mobile 
 Ubiquitous Computing, Systems, Services and Technologies, 2015. 
 
+god1
 
 FONTÃO, A. L.; Dias-Neto, Arilo
  . MSECO Cert: Uma abordagem baseada em processo para apoiar a 
@@ -3383,6 +3576,7 @@ Simpósio Brasileiro de Qualidade de Sotware, WTDQS - Workshop de Teses e
  Dissertações em Qualidade de Software, 2015, Manaus. Anais do Workshop 
 de Teses e Dissertações em Qualidade de Software, 2015. 
 
+god1
 
 
 
@@ -3399,6 +3593,7 @@ BIASE, C. ; FERNANDES, P. ; FONTÃO, A. L. ; FERNANDES, M. ; BONIFACIO, B.
 Conference (CIAWI 2015), 2015, Florianópolis. Conferência 
 Ibero-Americana WWW/Internet 2015, 2015. 
 
+god1
 
 
 
@@ -3408,6 +3603,7 @@ Ecossistemas de Software Móvel. In: CIbSE - Congreso Iberoamericano en
 Ingeniería de Software, 2014, Pucon. XVII Congreso Iberoamericano en 
 Ingeniería de Software, 2014. 
 
+god1
 
 CASTRO, A. ; FONTÃO, A. L. ; Dias-Neto, Arilo
  . An Approach to Perform Automated Functional Testing in 
@@ -3415,6 +3611,7 @@ Database-Driven Applications. In: CIbSE - Congreso Iberoamericano en
 Ingeniería de Software, 2014. XVII Congreso Iberoamericano en Ingeniería
  de Software, 2014. 
 
+god1
 
 Santos, Rodrigo ; VALENCA, G. ; VIANA, D. ; ESTACIO, B. ; FONTÃO, A. L. ; MARCZAK, S. ; WERNER, C. ; ALVES, C. ; CONTE, T.
  ; PRIKLADNICKI, R. . Qualidade em Ecossistemas de Software: Desafios e 
@@ -3425,6 +3622,7 @@ Teoria e Prática. VIII Workshop de Desenvolvimento Distribuído de
 Software, Ecossistemas de Software e Sistemas de Sistemas - WDES, 2014. 
 v. 02. 
 
+god1
 
 FONTÃO, A. L.; BONIFACIO, B.
  ; NICOLAY, A. . Apps Framework: Um processo centrado no usuário 
@@ -3432,6 +3630,7 @@ aplicado para o desenvolvimento de aplicativos móveis - Um Estudo de
 Caso. In: IADIS International Conference - WWW/Internet 2012, 2012, 
 Madrid. WWW/Internet 2012, 2012. v. 1. p. 91-98. 
 
+god1
 
 OLIVEIRA, H. A. B. F. ; BARRETO, R. S. ; FONTÃO, A. L. ; NAKAMURA, F. EDUARDO ; LOUREIRO, A. A. F.
  . Envio de Dados de Consulta para Sinks Móveis em Alta Velocidade em 
@@ -3440,6 +3639,7 @@ Computadores e Sistemas Distribuídos (SBRC 2010), 2010, Gramado.
 Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 
 2010. p. 75-88. 
 
+god1
 
 OLIVEIRA, H. A. B. F. ; BARRETO, R. S. ; FONTÃO, A. L. ; NAKAMURA, F. EDUARDO ; LOUREIRO, A. A. F.
  . A Novel Greedy Forward Algorithm for Routing Data Toward a High Speed
@@ -3448,6 +3648,7 @@ Computer Communications and Networks (ICCCN'10), 2010, Zurique. 19th
 International Conference on Computer Communications and Networks 
 (ICCCN'10), 2010. 
 
+god1
 
 COSTA, L. A. M. ; FONTÃO, AWDREN ; DOS SANTOS, RODRIGO PEREIRA
  . Uma Abordagem para Gestão de Incidentes em Ecossistemas de Software 
@@ -3455,6 +3656,7 @@ Proprietário.. In: XVI Simpósio Brasileiro de Sistemas de Informação,
 2020, São Bernado do Campo. Anais Estendidos do Simpósio Brasileiro de 
 Sistemas de Informação (SBSI), WTDSI, 2020. 
 
+god1
 
 FONTÃO, AWDREN; CAFEO, B. B. P. ; BONIFACIO, B. ; DOS SANTOS, RODRIGO PEREIRA ; Dias-Neto, Arilo
  . On Developer Relations Team?s Reasons for Using Repositories. In: 
@@ -3462,6 +3664,7 @@ Workshop on Cooperative and Human Aspects of Software Engineering
 (CHASE), 2020, SEOUL. Proceedings of the 13th International Workshop on 
 Cooperative and Human Aspects of Software Engineering, 2020. 
 
+god1
 
 FONTAO, AWDREN DE LIMA;
  NETO, ARILO CLAUDIO DIAS . GoDev-DX: Governança de Desenvolvedores em 
@@ -3478,6 +3681,7 @@ Desenvolvimento Distribuído de Software, Ecossistemas de Software e
 Sistemas-de-Sistemas, 2016, Maringá. Anais do VII Congresso Brasileiro 
 de Software: Teoria e Prática (CBSoft). Porto Alegre: SBC, 2016. 
 
+god1
 
 SANTOS, J. ; FERNANDES, P. ; GONCALVES, E. ; FONTÃO, A. L. ; BONIFACIO, B.
  . Caracterizando Fatores de Influência na Experiência do Desenvolvedor 
@@ -3486,6 +3690,7 @@ Desenvolvimento Distribuído de Software, Ecossistemas de Software e
 Sistemas-de-Sistemas, 2016, Maringá. Anais do VII Congresso Brasileiro 
 de Software: Teoria e Prática (CBSoft). Porto Alegre: SBC, 2016. 
 
+god1
 
 FONTÃO, A. L.; Santos, Rodrigo ; Dias-Neto, Arilo
  . Research Opportunities for Mobile Software Ecosystems. In: CBSoft 
@@ -3494,6 +3699,7 @@ Ecossistemas de Software e Sistemas-de-Sistemas, 2015, Belo Horizonte.
 CBSoft 2015 - IX Workshop em Desenvolvimento Distribuído de Software, 
 Ecossistemas de Software e Sistemas-de-Sistemas, 2015. 
 
+god1
 
 FONTAO, AWDREN DE LIMA;
  NETO, ARILO CLAUDIO DIAS . MSECO Cert: Process-based Approach to 
@@ -3525,12 +3731,14 @@ BIASE, C. ; FERNANDES, P. ; FONTAO, AWDREN DE LIMA ; FERNANDES, M. ; BONIFACIO, 
  de Desenvolvimento de Aplicações Móveis. 2015. (Apresentação de 
 Trabalho/Congresso). 
 
+god1
 
 PEDRACA, B. ; BONIFACIO, B. ; FONTAO, AWDREN DE LIMA
  ; FERNANDES, P. . MELHORANDO UMA TÉCNICA DE INSPEÇÃO DE USABILIDADE DE 
 APLICAÇÃO WEB POR MEIO DO MÉTODO DE AVALIAÇÃO DE COMUNICABILIDADE. 2015.
  (Apresentação de Trabalho/Congresso). 
 
+god1
 
 FONTAO, AWDREN DE LIMA; BONIFACIO, B.
  ; NETO, ARILO CLAUDIO DIAS ; BEZERRA, A. ; SANTOS, RODRIGO PEREIRA DOS .
@@ -3538,6 +3746,7 @@ FONTAO, AWDREN DE LIMA; BONIFACIO, B.
 Ecossistemas de Software Móvel. 2014. (Apresentação de 
 Trabalho/Congresso). 
 
+god1
 
 CASTRO, A. ; FONTAO, AWDREN DE LIMA
  ; NETO, ARILO CLAUDIO DIAS . An Approach to Perform Automated 
@@ -3993,6 +4202,7 @@ FONTAO, AWDREN. Proceedings Chair - SBQS 2021 - Simpósio Brasileiro de Qualidad
 
 STEINMACHER, I. ; FONTÃO, AWDREN . 5º WASHES ? Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software. 2020. (Outro). 
 
+god1
 
 STEINMACHER, I. ; FONTAO, AWDREN .
  Coordenação do Comitê de Programa - 5º WASHES - Workshop sobre Aspectos
@@ -4007,6 +4217,7 @@ MALDONADO, J. C. ; Dias-Neto, Arilo ; FARIAS JUNIOR, I. H. ; WERNER, C. ; NAKAGA
 Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de 
 Software e Sistemas-de-Sistemas. 2016. (Outro). 
 
+god1
 
 Ana Elisa da Silva Cunha. Um modelo baseado em habilidades para formação de profissionais de Developer Relations.
 						Início: 2021.
@@ -4311,9 +4522,11 @@ FONTAO, AWDREN. Proceedings Chair - SBQS 2021 - Simpósio Brasileiro de Qualidad
  ; DIAS-NETO, ARILO CLAUDIO . Evaluating Processes to Certify Mobile 
 Applications during Developer Relations Activities. IEEE Access, v. 8, p. 1-1, 2020. Citações:5
 
+god1
 
 GOMES, J.2020GOMES, J. ; VILLANES, I. K. ; ASCATE, S. ; FONTÃO, A ; ANDRADE, E. N. ; Dias-Neto, Arilo . SCUTMA: Selecting Components for Unit Testing in Mobile Applications. Journal of Computer Science, v. 1, p. 1, 2020. 
 
+god1
 
 3.63FONTÃO,
  A. L.;FONTAO, AWDREN DE LIMA;FONTÃO, AWDREN DE LIMA;FONTÃO, 
@@ -4321,6 +4534,7 @@ AWDREN;FONTÃO, A;DE LIMA FONTÃO, AWDREN;FONTÃO, A. L;FONTAO, AWDREN2019FONTÃ
  ; DIAS-NETO, ARILO CLAUDIO . Exploiting Repositories in Mobile Software
  Ecosystems from a Governance Perspective. INFORMATION SYSTEMS FRONTIERS, v. 2019, p. 143-161, 2019. 
 
+god1
 
 FONTÃO, AWDREN2018FONTÃO, AWDREN; ÁBIA, BRUNO ; WIESE, IGOR ; ESTÁCIO, BERNARDO ; QUINTA, MARCELO
  ; SANTOS, RODRIGO PEREIRA DOS ; DIAS-NETO, ARILO CLAUDIO . Supporting 
@@ -4328,6 +4542,7 @@ governance of mobile application developers from mining and analyzing
 technical questions in stack overflow. JOURNAL OF SOFTWARE ENGINEERING 
 RESEARCH AND DEVELOPMENT, v. 6, p. 8, 2018. 
 
+god1
 
 SANTOS, R. P. ; FONTÃO, A. L.
  ; FERNANDES, J. C. . Ecossistemas de Software. In: Cristiano Maciel; 
@@ -4357,6 +4572,7 @@ FONTÃO, A. L.. Desenvolvimento de Aplicativos para Mobile Phones. Mobile Magazi
 
 FONTÃO, A. L.. Utilizando jQuery e o Google Maps para Encontrar Rotas entre Endereços. Webmobile Magazine, , v. 25. 
 
+god1
 
 COSTA, L. A. ; FONTÃO, A ; SANTOS, R. P.
  . Investigating Proprietary Software Ecosystem Governance and Health: 
@@ -4364,6 +4580,7 @@ An Updated and Refined Perspective. In: SBSI'21: XVII Brazilian
 Symposium on Information Systems, 2021, Uberlândia. SBSI'21: XVII 
 Brazilian Symposium on Information Systems. New York: ACM, 2021. 
 
+god1
 
 COSTA, L. A. ; FONTÃO, AWDREN ; SANTOS, R. P.
  . Investigating Asset Governance Mechanisms in a Proprietary Software 
@@ -4371,6 +4588,7 @@ Ecosystem. In: XVI Brazilian Symposium on Information Systems - SBSI'20,
  2020, São Bernando do Campo. Proceedings of the XVI Brazilian Symposium
  on Information Systems - SBSI'20, 2020. 
 
+god1
 
 MORAIS, F. L. ; FONTÃO, AWDREN ; CLEGER-TAMAYO, S.
  . Combining Design Thinking and Scrum to enhance Test Suite during 
@@ -4378,6 +4596,7 @@ innovative software development. In: Ibero-American Conference on
 Software Engineering (CIbSE), 2020, Curitiba. Proceeding of the XXXIII 
 Ibero-American Conference on Software Engineering, 2020. 
 
+god1
 
 FONTÃO, AWDREN; CLEGER-TAMAYO, S. ; WIESE, IGOR ; DOS SANTOS, RODRIGO PEREIRA
  ; DIAS-NETO, ARILO CLAUDIO . On Value Creation in Developer Relations 
@@ -4385,6 +4604,7 @@ FONTÃO, AWDREN; CLEGER-TAMAYO, S. ; WIESE, IGOR ; DOS SANTOS, RODRIGO PEREIRA
 Global Software Engineering, 2020, Seoul. 15th ACM/IEEE International 
 Conference on Global Software Engineering - ICGSE 2020, 2020. 
 
+god1
 
 IMAMURA, M. ; COSTA, L. A. M. ; FERREIRA, F. H. ; FONTAO, AWDREN ; DOS SANTOS, RODRIGO PEREIRA
  . Fatores de Governança em Sistemas-de-Sistemas: Análise de uma 
@@ -4393,6 +4613,9 @@ HUMANOS E ECONÔMICOS DE SOFTWARE (WASHES), 2020, Cuiabá. ANAIS DO V
 WORKSHOP SOBRE ASPECTOS SOCIAIS, HUMANOS E ECONÔMICOS DE SOFTWARE, 2020.
  p. 31. 
 
+god1
+god2
+V WORKSHOP SOBRE ASPECTOS SOCIAIS
 
 LIMA, V. C. A. E. ; MALCHER, P. ; FARIAS, V. G. ; SANTOS, R. P. ; FONTÃO, AWDREN ; WIESE, IGOR ; VIANA, D.
  . An Exploratory Study on Developers Opinions about Influence in Open 
@@ -4400,6 +4623,7 @@ Source Software Ecosystems.. In: Brazilian Symposium on Software
 Engineering - SBES'20, 2020, Natal. Proceedings of the 34th Brazilian 
 Symposium on Software Engineering - SBES'20, 2020. 
 
+god1
 
 FONTÃO, AWDREN; SANTOS, R. P. ; Dias-Neto, Arilo
  . DevGo: um Modelo para Governança de Desenvolvedores em Ecossistema de
@@ -4415,6 +4639,7 @@ perspective. In: 34th Brazilian Symposium on Software Engineering, 2020,
  Natal. Proceedings of the 34th Brazilian Symposium on Software 
 Engineering - Innovative Ideas and Emerging Results, 2020. 
 
+god1
 
 BRAGA, W. ; MENEZES, G. ; FONTÃO, AWDREN ; HORA, A. ; CAFEO, B. B. P.
  . Quero lhe usar! Uma Análise do Público-Alvo de code samples. In: 
@@ -4422,6 +4647,7 @@ Workshop on Software Visualization, Evolution and Maintenance (VEM),
 2020, Natal. Proceedings of the 8th Workshop on Software Visualization, 
 Evolution and Maintenance (VEM 2020), 2020. 
 
+god1
 
 FONTÃO, AWDREN; GADELHA, B.
  ; CASTRO JUNIOR, A. . Balancing theory and practice in software 
@@ -4429,6 +4655,7 @@ engineering education - A PBL, toolset based approach. In: Frontiers in
 Education, 2019, Cincinnati. 49th Annual Frontiers in Education (FIE) 
 Conference, 2019. 
 
+god1
 
 LIMA, M. ; FONTÃO, AWDREN ; FERNANDES, D. ; CONTE, T. ; GADELHA, B.
  . How are my Students going? A Tool to Analyse Students? Interactions 
@@ -4436,6 +4663,7 @@ on Capstone Courses. In: Brazilian Symposium on Informatics in Education
  (SBIE), 2019, Brasília. Proceedings of the XXX Brazilian Symposium on 
 Informatics in Education, 2019. 
 
+god1
 
 FONTÃO, A; ESTACIO, B. ; FERNANDES, J. ; SANTOS, R. P.
  ; DIAS-NETO, ARILO CLAUDIO . Which factors affect the evangelist's 
@@ -4444,6 +4672,7 @@ support during training sessions in Mobile Software Ecosystems?. In:
 Madrid. 12th European Conference on Software Architecture: Companion 
 Proceedings, 2018. 
 
+god1
 
 FONTÃO, AWDREN; BONIFACIO, B.
  ; SANTOS, RODRIGO PEREIRA DOS ; DIAS-NETO, ARILO CLAUDIO . Mobile 
@@ -4452,6 +4681,7 @@ Investigating the Developer eXperience. In: Brazilian Symposium on
 Software Quality (SBQS 2018), 2018, Curitiba. Proceedings of the 17th 
 Brazilian Symposium on Software Quality (SBQS 2018), 2018. 
 
+god1
 
 FONTÃO, A. L.; Dias-Neto, Arilo ; VIANA, D.
  . Investigating factors that influence developers experience in mobile 
@@ -4469,12 +4699,14 @@ EKWOGE, O. ; FONTAO, AWDREN DE LIMA ; Dias-Neto, Arilo
  The 41th Annual International Computers, Software & Applications 
 Conference, 2017, Turin. Proceedings of the COMPSAC 2017, 2017. 
 
+god1
 
 ASCATE, S. ; MENDES, I. ; OLIVEIRA, K. ; FONTAO, AWDREN DE LIMA ; ROJAS, I. ; Dias-Neto, Arilo
  . Challenges in Model Based Testing for Mobile Applications. In: CIbSE 
 2017, 2017, Buenos Aires. XX Ibero-American Conference on Software 
 Engineering, 2017. 
 
+god1
 
 FONTÃO, AWDREN; EKWOGE, O. ; Santos, Rodrigo ; Dias-Neto, Arilo
  . Facing up the primary emotions in Mobile Software Ecosystems from 
@@ -4483,6 +4715,9 @@ Aspects of Software (WASHES) at the 16th International Conference on
 Software Reuse, 2017, Salvador. 2nd Workshop on Social, Human, and 
 Economic Aspects of Software, 2017. 
 
+god1
+god2
+Workshop on Social, Human
 
 FONTÃO, A. L.; LIMA, F. ; ABIA, B. ; SANTOS, RODRIGO PEREIRA DOS ; Dias-Neto, Arilo
  . Hearing the Voice of Developers in Mobile Software Ecosystems. In: 
@@ -4490,6 +4725,7 @@ Brazilian Symposium on Software Engineering (SBES), 2017, Fortaleza.
 Proceedings of the 31st Brazilian Symposium on Software Engineering, 
 2017. 
 
+god1
 
 FONTÃO, A. L.; DOS SANTOS, RODRIGO PEREIRA
  ; DIAS-NETO, ARILO CLAUDIO . MSECO-CERT: Uma Abordagem Baseada em 
@@ -4498,6 +4734,7 @@ Móvel. In: XVI SBQS - XVI Simpósio Brasileiro de Qualidade de Software,
 2017, Rio de Janeiro. Anais do XVI SBQS. Porto Alegre: SBC e PUCPR, 
 2017. p. 326-339. 
 
+god1
 
 FONTÃO, A. L.; SANTOS, R. P.
  ; DIAS-NETO, ARILO CLAUDIO . Towards a Guideline-Based Approach to 
@@ -4513,6 +4750,7 @@ BEZERRA, A. ; FONTAO, AWDREN DE LIMA ; Dias-Neto, Arilo
  Workshop (ESELAW 2016), 2016, Quito. 13th Empirical Software 
 Engineering Latin American Workshop (ESELAW 2016), 2016. 
 
+god1
 
 FONTAO, AWDREN DE LIMA;
  SANTOS, RODRIGO PEREIRA DOS ; FEIJO, J. ; NETO, ARILO CLAUDIO DIAS . 
@@ -4522,6 +4760,7 @@ Engineering & Knowledge Engineering, 2016, San Francisco Bay. The
 Twenty-Eighth International Conference on Software Engineering and 
 Knowledge Engineering (SEKE 2016), 2016. 
 
+god1
 
 LOBO, L. ; FONTÃO, AWDREN ; BEZERRA, A. ; Dias-Neto, Arilo
  . An Empirical Analysis of Mobile Apps Popularity Metrics in Mobile 
@@ -4529,6 +4768,9 @@ Software Ecosystems. In: Brazilian Symposium on Software Quality, 2016,
 Maceió. Proceedings of the 15th Brazilian Symposium on Software Quality.
  Porto Alegre, 2016. 
 
+god1
+god2
+Brazilian Symposium on Software Quality, 2016
 
 PEDRACA, B. ; FERNANDES, P. ; BONIFACIO, B. ; FONTÃO, AWDREN ; Dias-Neto, Arilo
  . Explorando a Personalidade do Desenvolvedor em Ecossistemas de 
@@ -4536,6 +4778,9 @@ Software Móvel. In: Workshop sobre Aspectos Sociais, Humanos e
 Econômicos de Software (WASHES), 2016, Maceió. I Workshop sobre Aspectos
  Sociais, Humanos e Econômicos de Software, 2016. 
 
+god1
+god2
+Workshop sobre Aspectos Sociais
 
 PEDRACA, B. ; BONIFACIO, B. ; FERNANDES, P. ; FONTÃO, AWDREN ; Dias-Neto, Arilo
  . O Ensino de Programação Mobile em Ecossistema Móvel. In: TISE - 
@@ -4543,6 +4788,7 @@ Conferência Internacional sobre Informática na Educação, 2016. Anais da
 XXI Conferência Internacional sobre Informática na Educação (TISE), 
 2016. v. 12. p. 648-653. 
 
+god1
 
 
 
@@ -4552,6 +4798,7 @@ COMPSAC 2015 - The 39th Annual International Computers, Software &
 Applications Conference, 2015, Taichung, Taiwan. Proceedings of the 
 COMPSAC 2015, 2015. 
 
+god1
 
 REIS, R. A. C. ; FONTÃO, A. L. ; LOBO, L. ; Dias-Neto, Arilo
  . Usability Evaluation Approaches for (Ubiquitous) Mobile Applications:
@@ -4560,6 +4807,7 @@ Conference on Mobile Ubiquitous Computing, Systems, Services and
 Technologies, 2015, Nice. The Ninth International Conference on Mobile 
 Ubiquitous Computing, Systems, Services and Technologies, 2015. 
 
+god1
 
 FONTÃO, A. L.; Dias-Neto, Arilo
  . MSECO Cert: Uma abordagem baseada em processo para apoiar a 
@@ -4568,6 +4816,7 @@ Simpósio Brasileiro de Qualidade de Sotware, WTDQS - Workshop de Teses e
  Dissertações em Qualidade de Software, 2015, Manaus. Anais do Workshop 
 de Teses e Dissertações em Qualidade de Software, 2015. 
 
+god1
 
 
 
@@ -4584,6 +4833,7 @@ BIASE, C. ; FERNANDES, P. ; FONTÃO, A. L. ; FERNANDES, M. ; BONIFACIO, B.
 Conference (CIAWI 2015), 2015, Florianópolis. Conferência 
 Ibero-Americana WWW/Internet 2015, 2015. 
 
+god1
 
 
 
@@ -4593,6 +4843,7 @@ Ecossistemas de Software Móvel. In: CIbSE - Congreso Iberoamericano en
 Ingeniería de Software, 2014, Pucon. XVII Congreso Iberoamericano en 
 Ingeniería de Software, 2014. 
 
+god1
 
 CASTRO, A. ; FONTÃO, A. L. ; Dias-Neto, Arilo
  . An Approach to Perform Automated Functional Testing in 
@@ -4600,6 +4851,7 @@ Database-Driven Applications. In: CIbSE - Congreso Iberoamericano en
 Ingeniería de Software, 2014. XVII Congreso Iberoamericano en Ingeniería
  de Software, 2014. 
 
+god1
 
 Santos, Rodrigo ; VALENCA, G. ; VIANA, D. ; ESTACIO, B. ; FONTÃO, A. L. ; MARCZAK, S. ; WERNER, C. ; ALVES, C. ; CONTE, T.
  ; PRIKLADNICKI, R. . Qualidade em Ecossistemas de Software: Desafios e 
@@ -4610,6 +4862,7 @@ Teoria e Prática. VIII Workshop de Desenvolvimento Distribuído de
 Software, Ecossistemas de Software e Sistemas de Sistemas - WDES, 2014. 
 v. 02. 
 
+god1
 
 FONTÃO, A. L.; BONIFACIO, B.
  ; NICOLAY, A. . Apps Framework: Um processo centrado no usuário 
@@ -4617,6 +4870,7 @@ aplicado para o desenvolvimento de aplicativos móveis - Um Estudo de
 Caso. In: IADIS International Conference - WWW/Internet 2012, 2012, 
 Madrid. WWW/Internet 2012, 2012. v. 1. p. 91-98. 
 
+god1
 
 OLIVEIRA, H. A. B. F. ; BARRETO, R. S. ; FONTÃO, A. L. ; NAKAMURA, F. EDUARDO ; LOUREIRO, A. A. F.
  . Envio de Dados de Consulta para Sinks Móveis em Alta Velocidade em 
@@ -4625,6 +4879,7 @@ Computadores e Sistemas Distribuídos (SBRC 2010), 2010, Gramado.
 Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 
 2010. p. 75-88. 
 
+god1
 
 OLIVEIRA, H. A. B. F. ; BARRETO, R. S. ; FONTÃO, A. L. ; NAKAMURA, F. EDUARDO ; LOUREIRO, A. A. F.
  . A Novel Greedy Forward Algorithm for Routing Data Toward a High Speed
@@ -4633,6 +4888,7 @@ Computer Communications and Networks (ICCCN'10), 2010, Zurique. 19th
 International Conference on Computer Communications and Networks 
 (ICCCN'10), 2010. 
 
+god1
 
 COSTA, L. A. M. ; FONTÃO, AWDREN ; DOS SANTOS, RODRIGO PEREIRA
  . Uma Abordagem para Gestão de Incidentes em Ecossistemas de Software 
@@ -4640,6 +4896,7 @@ Proprietário.. In: XVI Simpósio Brasileiro de Sistemas de Informação,
 2020, São Bernado do Campo. Anais Estendidos do Simpósio Brasileiro de 
 Sistemas de Informação (SBSI), WTDSI, 2020. 
 
+god1
 
 FONTÃO, AWDREN; CAFEO, B. B. P. ; BONIFACIO, B. ; DOS SANTOS, RODRIGO PEREIRA ; Dias-Neto, Arilo
  . On Developer Relations Team?s Reasons for Using Repositories. In: 
@@ -4647,6 +4904,7 @@ Workshop on Cooperative and Human Aspects of Software Engineering
 (CHASE), 2020, SEOUL. Proceedings of the 13th International Workshop on 
 Cooperative and Human Aspects of Software Engineering, 2020. 
 
+god1
 
 FONTAO, AWDREN DE LIMA;
  NETO, ARILO CLAUDIO DIAS . GoDev-DX: Governança de Desenvolvedores em 
@@ -4663,6 +4921,7 @@ Desenvolvimento Distribuído de Software, Ecossistemas de Software e
 Sistemas-de-Sistemas, 2016, Maringá. Anais do VII Congresso Brasileiro 
 de Software: Teoria e Prática (CBSoft). Porto Alegre: SBC, 2016. 
 
+god1
 
 SANTOS, J. ; FERNANDES, P. ; GONCALVES, E. ; FONTÃO, A. L. ; BONIFACIO, B.
  . Caracterizando Fatores de Influência na Experiência do Desenvolvedor 
@@ -4671,6 +4930,7 @@ Desenvolvimento Distribuído de Software, Ecossistemas de Software e
 Sistemas-de-Sistemas, 2016, Maringá. Anais do VII Congresso Brasileiro 
 de Software: Teoria e Prática (CBSoft). Porto Alegre: SBC, 2016. 
 
+god1
 
 FONTÃO, A. L.; Santos, Rodrigo ; Dias-Neto, Arilo
  . Research Opportunities for Mobile Software Ecosystems. In: CBSoft 
@@ -4679,6 +4939,7 @@ Ecossistemas de Software e Sistemas-de-Sistemas, 2015, Belo Horizonte.
 CBSoft 2015 - IX Workshop em Desenvolvimento Distribuído de Software, 
 Ecossistemas de Software e Sistemas-de-Sistemas, 2015. 
 
+god1
 
 FONTAO, AWDREN DE LIMA;
  NETO, ARILO CLAUDIO DIAS . MSECO Cert: Process-based Approach to 
@@ -4710,12 +4971,14 @@ BIASE, C. ; FERNANDES, P. ; FONTAO, AWDREN DE LIMA ; FERNANDES, M. ; BONIFACIO, 
  de Desenvolvimento de Aplicações Móveis. 2015. (Apresentação de 
 Trabalho/Congresso). 
 
+god1
 
 PEDRACA, B. ; BONIFACIO, B. ; FONTAO, AWDREN DE LIMA
  ; FERNANDES, P. . MELHORANDO UMA TÉCNICA DE INSPEÇÃO DE USABILIDADE DE 
 APLICAÇÃO WEB POR MEIO DO MÉTODO DE AVALIAÇÃO DE COMUNICABILIDADE. 2015.
  (Apresentação de Trabalho/Congresso). 
 
+god1
 
 FONTAO, AWDREN DE LIMA; BONIFACIO, B.
  ; NETO, ARILO CLAUDIO DIAS ; BEZERRA, A. ; SANTOS, RODRIGO PEREIRA DOS .
@@ -4723,6 +4986,7 @@ FONTAO, AWDREN DE LIMA; BONIFACIO, B.
 Ecossistemas de Software Móvel. 2014. (Apresentação de 
 Trabalho/Congresso). 
 
+god1
 
 CASTRO, A. ; FONTAO, AWDREN DE LIMA
  ; NETO, ARILO CLAUDIO DIAS . An Approach to Perform Automated 
@@ -5178,6 +5442,7 @@ FONTAO, AWDREN. Proceedings Chair - SBQS 2021 - Simpósio Brasileiro de Qualidad
 
 STEINMACHER, I. ; FONTÃO, AWDREN . 5º WASHES ? Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software. 2020. (Outro). 
 
+god1
 
 STEINMACHER, I. ; FONTAO, AWDREN .
  Coordenação do Comitê de Programa - 5º WASHES - Workshop sobre Aspectos
@@ -5192,6 +5457,7 @@ MALDONADO, J. C. ; Dias-Neto, Arilo ; FARIAS JUNIOR, I. H. ; WERNER, C. ; NAKAGA
 Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de 
 Software e Sistemas-de-Sistemas. 2016. (Outro). 
 
+god1
 
 Ana Elisa da Silva Cunha. Um modelo baseado em habilidades para formação de profissionais de Developer Relations.
 						Início: 2021.
@@ -5495,12 +5761,15 @@ Curriculo parcialmente processado: Awdren de Lima Fontão
 
 MENDES, F. F.2007MENDES, F. F. ; OLIVEIRA, J. L. ; FERNANDES, P. G. ; SOUZA, A. S. . Análise de Riscos na Implantação de Melhorias de Processos de Software. ProQuality (UFLA), v. 3, p. 25-32, 2007. 
 
+god1
 
 FERNANDES, P. G.2007FERNANDES, P. G.; OLIVEIRA, J. L. ; MENDES, F. F. ; SOUZA, A. S. . Resultados de Implementação Cooperada do MPS.BR. ProQuality (UFLA), v. 3, p. 11-18, 2007. 
 
+god1
 
 SOUZA, A. S.2006SOUZA, A. S. ; MENDES, F. F. ; OLIVEIRA, J. L. ; VASCONCELOS, L. M. R. ; FERNANDES, P. G. ; SILVA, V. R. . Diagnósticos Concorrentes de Processos de Software no Modelo Cooperado do MPS.BR. ProQuality (UFLA), v. 2, p. 37-44, 2006. 
 
+god1
 
 HOSHINO, E. A. ; FERNANDES, P. G. .
  Alice. In: Edson Takashi Matsubara; Ricardo Ribeiro dos Santos. (Org.).
@@ -5518,6 +5787,7 @@ Conference on Cooperative and Human Aspects of Software Engineering,
 Conference on Cooperative and Human Aspects of Software Engineering 
 (CHASE), 2021. p. 61-70. 
 
+god1
 
 MARQUES, LEONARDO ; Matsubara, Patrícia
  ; DE SOUZA FILHO, JOSÉ CEZAR ; GOMES, GENILDO ; GADELHA, BRUNO ; CONTE,
@@ -5526,6 +5796,7 @@ UX: An Experience Report. In: SBQS'20: 19th Brazilian Symposium on
 Software Quality, 2020, São Luís Brazil. 19th Brazilian Symposium on 
 Software Quality. New York: ACM. p. 1. 
 
+god1
 
 MARQUES, LEONARDO ; MATSUBARA, P. G. F.
  ; NAKAMURA, WALTER ; WIESE, IGOR ; ZAINA, LUCIANA ; CONTE, TAYANA . 
@@ -5534,6 +5805,7 @@ software application problems. In: Brazilian Symposium on Software
 Engineering, 2019, Salvador. SBES 2019: Proceedings of the XXXIII 
 Brazilian Symposium on Software Engineering, 2019. p. 224. 
 
+god1
 
 
 
@@ -5554,6 +5826,7 @@ Systematic Mapping. In: XI Simpósio Brasileiro de Sistemas de
 Informação, 2015, Goiânia. Proceedings of XI SBSI. Nova York: ACM, 2015.
  v. 1. p. 227-234. 
 
+god1
 
 Benites, M. ; Paiva, D. M. B. ; FERNANDES, P. G.
  ; OLIVEIRA, L. M. ; CAMARGO, D. T. ; MACHADO, M. I. C. . Implantação de
@@ -5562,6 +5835,7 @@ Scrum no Setor Público. In: Workshop de Gerência de Projetos de Software
  do Simpósio Brasileiro de Qualidade de Software, 2012, Fortaleza. Anais
  do XI SBQS, 2012. 
 
+god1
 
 MENDES, F. F. ; FERNANDES, P. G.
  ; Caroline da Cunha Mota ; Rosângela da Silva Nunes ; MARTINS, M. D. S.
@@ -5570,6 +5844,7 @@ de uma Universidade Federal. In: X Simpósio Brasileiro de Qualidade de
 Software, 2011, Curitiba. X Simpósio Brasileiro de Qualidade de 
 Software, 2011. p. 369-376. 
 
+god1
 
 MENDES, F. F. ; Hugo Alexandre Dantas do Nascimento ; FERNANDES, P. G.
  ; Rosângela da Silva Nunes ; Caroline da Cunha Mota . Implantação de 
@@ -5578,6 +5853,7 @@ Universidade Federal. In: IX Simpósio Brasileiro de Qualidade de
 Software, 2010, Belém. Anais do IX Simpósio Brasileiro de Qualidade de 
 Software, 2010. 
 
+god1
 
 
 
@@ -5595,6 +5871,9 @@ MENDES, F. F. ; FERNANDES, P. G. ; OLIVEIRA, J. L.
 de Requisitos de Software. In: Workshop Anual do MPS, 2010, Campinas. 
 Anais do VI WAMPS, 2010. v. 6. p. 148-157. 
 
+god1
+god2
+Workshop Anual do MPS, 2010
 
 FERNANDES, P. G.; OLIVEIRA, J. L.
  . Cultura Organizacional como Apoio à Institucionalização de Processos 
@@ -5608,6 +5887,7 @@ FERNANDES, P. G.; OLIVEIRA, J. L. ; MENDES, F. F.
 In: V Experimental Software Engineering Latin American Workshop, 2008, 
 Salvador. Anais do ESELAW 2008, 2008. 
 
+god1
 
 MENDES, F. F. ; OLIVEIRA, J. L. ; FERNANDES, P. G. ; SOUZA, A. S.
  . Melhorias na Estratégia de Implementação de Melhoria de Processos de 
@@ -5615,6 +5895,7 @@ Software. In: VIII Simpósio Internacional de Melhoria de Processos de
 Software, 2007, São Paulo. Oitavo Simpósio Internacional de Melhoria de 
 Processo de Software, 2007. 
 
+god1
 
 FERNANDES, P. G.; OLIVEIRA, J. L. ; MENDES, F. F. ; SOUZA, A. S.
  . Análise de Resultados da Implementação de Melhoria de Processos de 
@@ -5623,6 +5904,7 @@ Internacional de Melhoria de Processos de Software, 2007, São Paulo.
 Oitavo Simpósio Internacional de Melhoria de Processo de Software, 2007.
  
 
+god1
 
 FERNANDES, P. G..
  Cultura Organizacional como Apoio à Institucionalização de Processos de
@@ -5636,12 +5918,15 @@ FERNANDES, P. G.; OLIVEIRA, J. L.
  IV CONPEEX, 2007, Goiânia. Anais eletrônicos do XV Seminário de 
 Iniciação Científica, 2007. 
 
+god2
+IV Congresso de Pesquisa
 
 OLIVEIRA, J. L. ; MENDES, F. F. ; FERNANDES, P. G.
  . Diagnóstico de processos de software para certificação MPS.BR. In: 
 ETI - Encontro de Tecnologia e Informática, 2006, Goiânia. Anais do 
 Encontro de Tecnologia e Informática, 2006. 
 
+god1
 
 
 
@@ -5807,6 +6092,7 @@ MACHADO, M. I. C. ; VASCONCELLOS, F. J. ; MATSUBARA, P. G. F.
 VASCONCELLOS, J. F. ; SILVA, M. A. I. . V Workshop de Engenharia de 
 Software. 2014. (Outro). 
 
+god1
 
 COSTA, H. ; FERNANDES, P. G. . Workshop "Um Olhar Sociotécnico sobre a Engenharia de Software". 2012. (Outro). 
 
@@ -5920,15 +6206,19 @@ MACHADO, M. I. C. ; VASCONCELLOS, F. J. ; MATSUBARA, P. G. F.
 VASCONCELLOS, J. F. ; SILVA, M. A. I. . V Workshop de Engenharia de 
 Software. 2014. (Outro). 
 
+god1
 
 MENDES, F. F.2007MENDES, F. F. ; OLIVEIRA, J. L. ; FERNANDES, P. G. ; SOUZA, A. S. . Análise de Riscos na Implantação de Melhorias de Processos de Software. ProQuality (UFLA), v. 3, p. 25-32, 2007. 
 
+god1
 
 FERNANDES, P. G.2007FERNANDES, P. G.; OLIVEIRA, J. L. ; MENDES, F. F. ; SOUZA, A. S. . Resultados de Implementação Cooperada do MPS.BR. ProQuality (UFLA), v. 3, p. 11-18, 2007. 
 
+god1
 
 SOUZA, A. S.2006SOUZA, A. S. ; MENDES, F. F. ; OLIVEIRA, J. L. ; VASCONCELOS, L. M. R. ; FERNANDES, P. G. ; SILVA, V. R. . Diagnósticos Concorrentes de Processos de Software no Modelo Cooperado do MPS.BR. ProQuality (UFLA), v. 2, p. 37-44, 2006. 
 
+god1
 
 HOSHINO, E. A. ; FERNANDES, P. G. .
  Alice. In: Edson Takashi Matsubara; Ricardo Ribeiro dos Santos. (Org.).
@@ -5946,6 +6236,7 @@ Conference on Cooperative and Human Aspects of Software Engineering,
 Conference on Cooperative and Human Aspects of Software Engineering 
 (CHASE), 2021. p. 61-70. 
 
+god1
 
 MARQUES, LEONARDO ; Matsubara, Patrícia
  ; DE SOUZA FILHO, JOSÉ CEZAR ; GOMES, GENILDO ; GADELHA, BRUNO ; CONTE,
@@ -5954,6 +6245,7 @@ UX: An Experience Report. In: SBQS'20: 19th Brazilian Symposium on
 Software Quality, 2020, São Luís Brazil. 19th Brazilian Symposium on 
 Software Quality. New York: ACM. p. 1. 
 
+god1
 
 MARQUES, LEONARDO ; MATSUBARA, P. G. F.
  ; NAKAMURA, WALTER ; WIESE, IGOR ; ZAINA, LUCIANA ; CONTE, TAYANA . 
@@ -5962,6 +6254,7 @@ software application problems. In: Brazilian Symposium on Software
 Engineering, 2019, Salvador. SBES 2019: Proceedings of the XXXIII 
 Brazilian Symposium on Software Engineering, 2019. p. 224. 
 
+god1
 
 
 
@@ -5982,6 +6275,7 @@ Systematic Mapping. In: XI Simpósio Brasileiro de Sistemas de
 Informação, 2015, Goiânia. Proceedings of XI SBSI. Nova York: ACM, 2015.
  v. 1. p. 227-234. 
 
+god1
 
 Benites, M. ; Paiva, D. M. B. ; FERNANDES, P. G.
  ; OLIVEIRA, L. M. ; CAMARGO, D. T. ; MACHADO, M. I. C. . Implantação de
@@ -5990,6 +6284,7 @@ Scrum no Setor Público. In: Workshop de Gerência de Projetos de Software
  do Simpósio Brasileiro de Qualidade de Software, 2012, Fortaleza. Anais
  do XI SBQS, 2012. 
 
+god1
 
 MENDES, F. F. ; FERNANDES, P. G.
  ; Caroline da Cunha Mota ; Rosângela da Silva Nunes ; MARTINS, M. D. S.
@@ -5998,6 +6293,7 @@ de uma Universidade Federal. In: X Simpósio Brasileiro de Qualidade de
 Software, 2011, Curitiba. X Simpósio Brasileiro de Qualidade de 
 Software, 2011. p. 369-376. 
 
+god1
 
 MENDES, F. F. ; Hugo Alexandre Dantas do Nascimento ; FERNANDES, P. G.
  ; Rosângela da Silva Nunes ; Caroline da Cunha Mota . Implantação de 
@@ -6006,6 +6302,7 @@ Universidade Federal. In: IX Simpósio Brasileiro de Qualidade de
 Software, 2010, Belém. Anais do IX Simpósio Brasileiro de Qualidade de 
 Software, 2010. 
 
+god1
 
 
 
@@ -6023,6 +6320,9 @@ MENDES, F. F. ; FERNANDES, P. G. ; OLIVEIRA, J. L.
 de Requisitos de Software. In: Workshop Anual do MPS, 2010, Campinas. 
 Anais do VI WAMPS, 2010. v. 6. p. 148-157. 
 
+god1
+god2
+Workshop Anual do MPS, 2010
 
 FERNANDES, P. G.; OLIVEIRA, J. L.
  . Cultura Organizacional como Apoio à Institucionalização de Processos 
@@ -6036,6 +6336,7 @@ FERNANDES, P. G.; OLIVEIRA, J. L. ; MENDES, F. F.
 In: V Experimental Software Engineering Latin American Workshop, 2008, 
 Salvador. Anais do ESELAW 2008, 2008. 
 
+god1
 
 MENDES, F. F. ; OLIVEIRA, J. L. ; FERNANDES, P. G. ; SOUZA, A. S.
  . Melhorias na Estratégia de Implementação de Melhoria de Processos de 
@@ -6043,6 +6344,7 @@ Software. In: VIII Simpósio Internacional de Melhoria de Processos de
 Software, 2007, São Paulo. Oitavo Simpósio Internacional de Melhoria de 
 Processo de Software, 2007. 
 
+god1
 
 FERNANDES, P. G.; OLIVEIRA, J. L. ; MENDES, F. F. ; SOUZA, A. S.
  . Análise de Resultados da Implementação de Melhoria de Processos de 
@@ -6051,6 +6353,7 @@ Internacional de Melhoria de Processos de Software, 2007, São Paulo.
 Oitavo Simpósio Internacional de Melhoria de Processo de Software, 2007.
  
 
+god1
 
 FERNANDES, P. G..
  Cultura Organizacional como Apoio à Institucionalização de Processos de
@@ -6064,12 +6367,15 @@ FERNANDES, P. G.; OLIVEIRA, J. L.
  IV CONPEEX, 2007, Goiânia. Anais eletrônicos do XV Seminário de 
 Iniciação Científica, 2007. 
 
+god2
+IV Congresso de Pesquisa
 
 OLIVEIRA, J. L. ; MENDES, F. F. ; FERNANDES, P. G.
  . Diagnóstico de processos de software para certificação MPS.BR. In: 
 ETI - Encontro de Tecnologia e Informática, 2006, Goiânia. Anais do 
 Encontro de Tecnologia e Informática, 2006. 
 
+god1
 
 
 
@@ -6235,6 +6541,7 @@ MACHADO, M. I. C. ; VASCONCELLOS, F. J. ; MATSUBARA, P. G. F.
 VASCONCELLOS, J. F. ; SILVA, M. A. I. . V Workshop de Engenharia de 
 Software. 2014. (Outro). 
 
+god1
 
 COSTA, H. ; FERNANDES, P. G. . Workshop "Um Olhar Sociotécnico sobre a Engenharia de Software". 2012. (Outro). 
 
@@ -6348,15 +6655,19 @@ MACHADO, M. I. C. ; VASCONCELLOS, F. J. ; MATSUBARA, P. G. F.
 VASCONCELLOS, J. F. ; SILVA, M. A. I. . V Workshop de Engenharia de 
 Software. 2014. (Outro). 
 
+god1
 
 MENDES, F. F.2007MENDES, F. F. ; OLIVEIRA, J. L. ; FERNANDES, P. G. ; SOUZA, A. S. . Análise de Riscos na Implantação de Melhorias de Processos de Software. ProQuality (UFLA), v. 3, p. 25-32, 2007. 
 
+god1
 
 FERNANDES, P. G.2007FERNANDES, P. G.; OLIVEIRA, J. L. ; MENDES, F. F. ; SOUZA, A. S. . Resultados de Implementação Cooperada do MPS.BR. ProQuality (UFLA), v. 3, p. 11-18, 2007. 
 
+god1
 
 SOUZA, A. S.2006SOUZA, A. S. ; MENDES, F. F. ; OLIVEIRA, J. L. ; VASCONCELOS, L. M. R. ; FERNANDES, P. G. ; SILVA, V. R. . Diagnósticos Concorrentes de Processos de Software no Modelo Cooperado do MPS.BR. ProQuality (UFLA), v. 2, p. 37-44, 2006. 
 
+god1
 
 HOSHINO, E. A. ; FERNANDES, P. G. .
  Alice. In: Edson Takashi Matsubara; Ricardo Ribeiro dos Santos. (Org.).
@@ -6374,6 +6685,7 @@ Conference on Cooperative and Human Aspects of Software Engineering,
 Conference on Cooperative and Human Aspects of Software Engineering 
 (CHASE), 2021. p. 61-70. 
 
+god1
 
 MARQUES, LEONARDO ; Matsubara, Patrícia
  ; DE SOUZA FILHO, JOSÉ CEZAR ; GOMES, GENILDO ; GADELHA, BRUNO ; CONTE,
@@ -6382,6 +6694,7 @@ UX: An Experience Report. In: SBQS'20: 19th Brazilian Symposium on
 Software Quality, 2020, São Luís Brazil. 19th Brazilian Symposium on 
 Software Quality. New York: ACM. p. 1. 
 
+god1
 
 MARQUES, LEONARDO ; MATSUBARA, P. G. F.
  ; NAKAMURA, WALTER ; WIESE, IGOR ; ZAINA, LUCIANA ; CONTE, TAYANA . 
@@ -6390,6 +6703,7 @@ software application problems. In: Brazilian Symposium on Software
 Engineering, 2019, Salvador. SBES 2019: Proceedings of the XXXIII 
 Brazilian Symposium on Software Engineering, 2019. p. 224. 
 
+god1
 
 
 
@@ -6410,6 +6724,7 @@ Systematic Mapping. In: XI Simpósio Brasileiro de Sistemas de
 Informação, 2015, Goiânia. Proceedings of XI SBSI. Nova York: ACM, 2015.
  v. 1. p. 227-234. 
 
+god1
 
 Benites, M. ; Paiva, D. M. B. ; FERNANDES, P. G.
  ; OLIVEIRA, L. M. ; CAMARGO, D. T. ; MACHADO, M. I. C. . Implantação de
@@ -6418,6 +6733,7 @@ Scrum no Setor Público. In: Workshop de Gerência de Projetos de Software
  do Simpósio Brasileiro de Qualidade de Software, 2012, Fortaleza. Anais
  do XI SBQS, 2012. 
 
+god1
 
 MENDES, F. F. ; FERNANDES, P. G.
  ; Caroline da Cunha Mota ; Rosângela da Silva Nunes ; MARTINS, M. D. S.
@@ -6426,6 +6742,7 @@ de uma Universidade Federal. In: X Simpósio Brasileiro de Qualidade de
 Software, 2011, Curitiba. X Simpósio Brasileiro de Qualidade de 
 Software, 2011. p. 369-376. 
 
+god1
 
 MENDES, F. F. ; Hugo Alexandre Dantas do Nascimento ; FERNANDES, P. G.
  ; Rosângela da Silva Nunes ; Caroline da Cunha Mota . Implantação de 
@@ -6434,6 +6751,7 @@ Universidade Federal. In: IX Simpósio Brasileiro de Qualidade de
 Software, 2010, Belém. Anais do IX Simpósio Brasileiro de Qualidade de 
 Software, 2010. 
 
+god1
 
 
 
@@ -6451,6 +6769,9 @@ MENDES, F. F. ; FERNANDES, P. G. ; OLIVEIRA, J. L.
 de Requisitos de Software. In: Workshop Anual do MPS, 2010, Campinas. 
 Anais do VI WAMPS, 2010. v. 6. p. 148-157. 
 
+god1
+god2
+Workshop Anual do MPS, 2010
 
 FERNANDES, P. G.; OLIVEIRA, J. L.
  . Cultura Organizacional como Apoio à Institucionalização de Processos 
@@ -6464,6 +6785,7 @@ FERNANDES, P. G.; OLIVEIRA, J. L. ; MENDES, F. F.
 In: V Experimental Software Engineering Latin American Workshop, 2008, 
 Salvador. Anais do ESELAW 2008, 2008. 
 
+god1
 
 MENDES, F. F. ; OLIVEIRA, J. L. ; FERNANDES, P. G. ; SOUZA, A. S.
  . Melhorias na Estratégia de Implementação de Melhoria de Processos de 
@@ -6471,6 +6793,7 @@ Software. In: VIII Simpósio Internacional de Melhoria de Processos de
 Software, 2007, São Paulo. Oitavo Simpósio Internacional de Melhoria de 
 Processo de Software, 2007. 
 
+god1
 
 FERNANDES, P. G.; OLIVEIRA, J. L. ; MENDES, F. F. ; SOUZA, A. S.
  . Análise de Resultados da Implementação de Melhoria de Processos de 
@@ -6479,6 +6802,7 @@ Internacional de Melhoria de Processos de Software, 2007, São Paulo.
 Oitavo Simpósio Internacional de Melhoria de Processo de Software, 2007.
  
 
+god1
 
 FERNANDES, P. G..
  Cultura Organizacional como Apoio à Institucionalização de Processos de
@@ -6492,12 +6816,15 @@ FERNANDES, P. G.; OLIVEIRA, J. L.
  IV CONPEEX, 2007, Goiânia. Anais eletrônicos do XV Seminário de 
 Iniciação Científica, 2007. 
 
+god2
+IV Congresso de Pesquisa
 
 OLIVEIRA, J. L. ; MENDES, F. F. ; FERNANDES, P. G.
  . Diagnóstico de processos de software para certificação MPS.BR. In: 
 ETI - Encontro de Tecnologia e Informática, 2006, Goiânia. Anais do 
 Encontro de Tecnologia e Informática, 2006. 
 
+god1
 
 
 
@@ -6663,6 +6990,7 @@ MACHADO, M. I. C. ; VASCONCELLOS, F. J. ; MATSUBARA, P. G. F.
 VASCONCELLOS, J. F. ; SILVA, M. A. I. . V Workshop de Engenharia de 
 Software. 2014. (Outro). 
 
+god1
 
 COSTA, H. ; FERNANDES, P. G. . Workshop "Um Olhar Sociotécnico sobre a Engenharia de Software". 2012. (Outro). 
 
@@ -6776,6 +7104,7 @@ MACHADO, M. I. C. ; VASCONCELLOS, F. J. ; MATSUBARA, P. G. F.
 VASCONCELLOS, J. F. ; SILVA, M. A. I. . V Workshop de Engenharia de 
 Software. 2014. (Outro). 
 
+god1
 Curriculo parcialmente processado: Patrícia Gomes Fernandes Matsubara
 
 0.747Stefanes, Marco A.2020
@@ -6792,16 +7121,19 @@ RUBERT, DIEGO P. ; ARAUJO, ELOI ; Stefanes, Marco A.
 topological motifs in vertex-colored graphs. JOURNAL OF COMBINATORIAL 
 OPTIMIZATION (DORDRECHT. ONLINE), v. 40, p. 379-411, 2020. 
 
+god1
 
 1.041Adi, Said S.2010
 
 Adi, Said S. ; Braga, Marília D.V. ; Fernandes, Cristina G. ; Ferreira, Carlos E. ; Martinez, Fábio Viduani ; Sagot, Marie-France ; Stefanes, Marco A. ; Tjandraatmadja, Christian ; Wakabayashi, Yoshiko . Repetition-free longest common subsequence. DISCRETE APPLIED MATHEMATICS, v. 158, p. 1315-1324, 2010. Citações:19|12
 
+god1
 
 0.65Soares, José2009
 
 Soares, José ; STEFANES, M. A. . Algorithms for Maximum Independent Set in Convex Bipartite Graphs. Algorithmica, v. 53, p. 35-49, 2009. Citações:9|6
 
+god1
 
 ROCHA, LUCAS B. ; SADIQUE ADI, SAID ; Stefanes, Marco A.
  ; ARAUJO, ELOI . Heuristics for the Specific Substring Problem with 
@@ -6810,6 +7142,7 @@ Bioinformatics and Bioengineering (BIBE), 2019, Athens. 2019 IEEE 19th
 International Conference on Bioinformatics and Bioengineering (BIBE), 
 2019. p. 250-257. 
 
+god1
 
 STEFANES, MARCO AURELIO;
  ALVINO, LUIZ FERNANDO . A Hybrid Parallel Implementation for the 
@@ -6825,6 +7158,7 @@ In: 2018 International Conference on Computer Science and its
 Applications - ICCSA 2018, 2018, Melbourne. Computational Science and 
 Its Applications ICCSA 2018 - LNCS, 2018. p. 151-166. 
 
+god1
 
 
 
@@ -6835,6 +7169,7 @@ International Conference on Bioinformatics and Bioengineering (BIBE),
 2017, Washington. 2017 IEEE 17th International Conference on 
 Bioinformatics and Bioengineering (BIBE), 2017. p. 175-8. 
 
+god1
 
 RUBERT, DIEGO P. ; ARAUJO, ELOI ; Stefanes, Marco A.
  . SIMBio: Searching and inferring colorful motifs in biological 
@@ -6842,6 +7177,7 @@ networks. In: 2015 IEEE 15th International Conference on Bioinformatics
 and Bioengineering (BIBE), 2015, Belgrade. 2015 IEEE 15th International 
 Conference on Bioinformatics and Bioengineering (BIBE), 2015. p. 1. 
 
+god1
 
 Stefanes, Marco A.; RUBERT, D. P. ; SOARES, J.
  . Coarse Grained Parallel Algorithm for Hamiltonian Circuit in Convex 
@@ -6851,6 +7187,7 @@ Vegas. Proceedings of the International Conference on Parallel and
 Distributed Processing Techniques and Applications - PDPTA 2015, 2015. 
 p. 381-387. 
 
+god1
 
 ARAUJO, ELOI ; Stefanes, Marco A.
  . Some results on topological colored motifs in metabolic networks. In:
@@ -6873,6 +7210,7 @@ Adi, S.S ; BRAGA, M.D.V. ; FERNANDES, C. G. ; FERREIRA, C. E. ; MARTINEZ, F.H.V.
 Symposium, 2007, Puerto Varas. Electronic Notes in Discrete Mathematics,
  2007. v. 1. p. 1-9. 
 
+god1
 
 STEFANES, M. A.; SOARES, J.
  . BSP/CGM Algorithm for Maximum Matching in Convex Bipartite Graph. In:
@@ -6890,12 +7228,16 @@ STEFANES, M. A.; SOARES, J.
 Búzios. Workshop em Paralelismo e Otimização Combinatória - WPOC, 1998. 
 v. I. p. 1-4. 
 
+god1
+god2
+WPOC, 1998
 
 0.513MA, J. C. W. K. ; Stefanes, Marco A.
  ; HIGA, C. H. A. ; ROZANTE, L. C. S. . Inferring Gene Regulatory 
 Networks using Hybrid Parallel Computing. Lecture Notes in Computer 
 Science, 2018. 
 
+god1
 
 Stefanes, Marco A.;
  ALVINO, L. . A Hybrid Parallel Implementation for the Maximum Flow 
@@ -7150,6 +7492,7 @@ Stefanes, Marco A.; ARAUJO, F. E. S. . VI Ciclo de Palestras em Computação. 20
 
 Stefanes, Marco A.; REIS, V. Q. ; RUBINSZTEJN, H. K. S. ; SOTOMA, I. . V Workshop de Computação Paralela e Distribuída. 2018. (Congresso). 
 
+god1
 
 Stefanes, Marco A.; ARAUJO, F. E. S. . V Ciclo de Palestras em Computação. 2017. (Outro). 
 
@@ -7159,6 +7502,7 @@ Stefanes, Marco A.;
 Q. ; CACERES, E. N. . IV Workshop de computação Paralela e Distribuída. 
 2013. (Congresso). 
 
+god1
 
 Stefanes, Marco A.. III Ciclo de Palestras em Computação. 2013. (Outro). 
 
@@ -7177,6 +7521,7 @@ Stefanes, Marco A.. II Workshop de Computação Paralela e Distribuída. 2009. (
 
 MONGELLI, H. ; CACERES, E. N. ; Stefanes, Marco A. . WSCAD/CTIC. 2008. (Concurso). 
 
+god1
 
 Stefanes, Marco A.. Workshop de Computação Paralela e Distribuída. 2007. (Congresso). 
 
@@ -7371,6 +7716,7 @@ Stefanes, Marco A.;
 Q. ; CACERES, E. N. . IV Workshop de computação Paralela e Distribuída. 
 2013. (Congresso). 
 
+god1
 
 Stefanes, Marco A.; BIANCHINI, C. . 14th Marathon of Parallel Programming /WSCAD 2019. 2019. (Concurso). 
 
@@ -7389,16 +7735,19 @@ RUBERT, DIEGO P. ; ARAUJO, ELOI ; Stefanes, Marco A.
 topological motifs in vertex-colored graphs. JOURNAL OF COMBINATORIAL 
 OPTIMIZATION (DORDRECHT. ONLINE), v. 40, p. 379-411, 2020. 
 
+god1
 
 1.041Adi, Said S.2010
 
 Adi, Said S. ; Braga, Marília D.V. ; Fernandes, Cristina G. ; Ferreira, Carlos E. ; Martinez, Fábio Viduani ; Sagot, Marie-France ; Stefanes, Marco A. ; Tjandraatmadja, Christian ; Wakabayashi, Yoshiko . Repetition-free longest common subsequence. DISCRETE APPLIED MATHEMATICS, v. 158, p. 1315-1324, 2010. Citações:19|12
 
+god1
 
 0.65Soares, José2009
 
 Soares, José ; STEFANES, M. A. . Algorithms for Maximum Independent Set in Convex Bipartite Graphs. Algorithmica, v. 53, p. 35-49, 2009. Citações:9|6
 
+god1
 
 ROCHA, LUCAS B. ; SADIQUE ADI, SAID ; Stefanes, Marco A.
  ; ARAUJO, ELOI . Heuristics for the Specific Substring Problem with 
@@ -7407,6 +7756,7 @@ Bioinformatics and Bioengineering (BIBE), 2019, Athens. 2019 IEEE 19th
 International Conference on Bioinformatics and Bioengineering (BIBE), 
 2019. p. 250-257. 
 
+god1
 
 STEFANES, MARCO AURELIO;
  ALVINO, LUIZ FERNANDO . A Hybrid Parallel Implementation for the 
@@ -7422,6 +7772,7 @@ In: 2018 International Conference on Computer Science and its
 Applications - ICCSA 2018, 2018, Melbourne. Computational Science and 
 Its Applications ICCSA 2018 - LNCS, 2018. p. 151-166. 
 
+god1
 
 
 
@@ -7432,6 +7783,7 @@ International Conference on Bioinformatics and Bioengineering (BIBE),
 2017, Washington. 2017 IEEE 17th International Conference on 
 Bioinformatics and Bioengineering (BIBE), 2017. p. 175-8. 
 
+god1
 
 RUBERT, DIEGO P. ; ARAUJO, ELOI ; Stefanes, Marco A.
  . SIMBio: Searching and inferring colorful motifs in biological 
@@ -7439,6 +7791,7 @@ networks. In: 2015 IEEE 15th International Conference on Bioinformatics
 and Bioengineering (BIBE), 2015, Belgrade. 2015 IEEE 15th International 
 Conference on Bioinformatics and Bioengineering (BIBE), 2015. p. 1. 
 
+god1
 
 Stefanes, Marco A.; RUBERT, D. P. ; SOARES, J.
  . Coarse Grained Parallel Algorithm for Hamiltonian Circuit in Convex 
@@ -7448,6 +7801,7 @@ Vegas. Proceedings of the International Conference on Parallel and
 Distributed Processing Techniques and Applications - PDPTA 2015, 2015. 
 p. 381-387. 
 
+god1
 
 ARAUJO, ELOI ; Stefanes, Marco A.
  . Some results on topological colored motifs in metabolic networks. In:
@@ -7470,6 +7824,7 @@ Adi, S.S ; BRAGA, M.D.V. ; FERNANDES, C. G. ; FERREIRA, C. E. ; MARTINEZ, F.H.V.
 Symposium, 2007, Puerto Varas. Electronic Notes in Discrete Mathematics,
  2007. v. 1. p. 1-9. 
 
+god1
 
 STEFANES, M. A.; SOARES, J.
  . BSP/CGM Algorithm for Maximum Matching in Convex Bipartite Graph. In:
@@ -7487,12 +7842,16 @@ STEFANES, M. A.; SOARES, J.
 Búzios. Workshop em Paralelismo e Otimização Combinatória - WPOC, 1998. 
 v. I. p. 1-4. 
 
+god1
+god2
+WPOC, 1998
 
 0.513MA, J. C. W. K. ; Stefanes, Marco A.
  ; HIGA, C. H. A. ; ROZANTE, L. C. S. . Inferring Gene Regulatory 
 Networks using Hybrid Parallel Computing. Lecture Notes in Computer 
 Science, 2018. 
 
+god1
 
 Stefanes, Marco A.;
  ALVINO, L. . A Hybrid Parallel Implementation for the Maximum Flow 
@@ -7747,6 +8106,7 @@ Stefanes, Marco A.; ARAUJO, F. E. S. . VI Ciclo de Palestras em Computação. 20
 
 Stefanes, Marco A.; REIS, V. Q. ; RUBINSZTEJN, H. K. S. ; SOTOMA, I. . V Workshop de Computação Paralela e Distribuída. 2018. (Congresso). 
 
+god1
 
 Stefanes, Marco A.; ARAUJO, F. E. S. . V Ciclo de Palestras em Computação. 2017. (Outro). 
 
@@ -7756,6 +8116,7 @@ Stefanes, Marco A.;
 Q. ; CACERES, E. N. . IV Workshop de computação Paralela e Distribuída. 
 2013. (Congresso). 
 
+god1
 
 Stefanes, Marco A.. III Ciclo de Palestras em Computação. 2013. (Outro). 
 
@@ -7774,6 +8135,7 @@ Stefanes, Marco A.. II Workshop de Computação Paralela e Distribuída. 2009. (
 
 MONGELLI, H. ; CACERES, E. N. ; Stefanes, Marco A. . WSCAD/CTIC. 2008. (Concurso). 
 
+god1
 
 Stefanes, Marco A.. Workshop de Computação Paralela e Distribuída. 2007. (Congresso). 
 
@@ -7968,6 +8330,7 @@ Stefanes, Marco A.;
 Q. ; CACERES, E. N. . IV Workshop de computação Paralela e Distribuída. 
 2013. (Congresso). 
 
+god1
 
 Stefanes, Marco A.; BIANCHINI, C. . 14th Marathon of Parallel Programming /WSCAD 2019. 2019. (Concurso). 
 
@@ -7986,16 +8349,19 @@ RUBERT, DIEGO P. ; ARAUJO, ELOI ; Stefanes, Marco A.
 topological motifs in vertex-colored graphs. JOURNAL OF COMBINATORIAL 
 OPTIMIZATION (DORDRECHT. ONLINE), v. 40, p. 379-411, 2020. 
 
+god1
 
 1.041Adi, Said S.2010
 
 Adi, Said S. ; Braga, Marília D.V. ; Fernandes, Cristina G. ; Ferreira, Carlos E. ; Martinez, Fábio Viduani ; Sagot, Marie-France ; Stefanes, Marco A. ; Tjandraatmadja, Christian ; Wakabayashi, Yoshiko . Repetition-free longest common subsequence. DISCRETE APPLIED MATHEMATICS, v. 158, p. 1315-1324, 2010. Citações:19|12
 
+god1
 
 0.65Soares, José2009
 
 Soares, José ; STEFANES, M. A. . Algorithms for Maximum Independent Set in Convex Bipartite Graphs. Algorithmica, v. 53, p. 35-49, 2009. Citações:9|6
 
+god1
 
 ROCHA, LUCAS B. ; SADIQUE ADI, SAID ; Stefanes, Marco A.
  ; ARAUJO, ELOI . Heuristics for the Specific Substring Problem with 
@@ -8004,6 +8370,7 @@ Bioinformatics and Bioengineering (BIBE), 2019, Athens. 2019 IEEE 19th
 International Conference on Bioinformatics and Bioengineering (BIBE), 
 2019. p. 250-257. 
 
+god1
 
 STEFANES, MARCO AURELIO;
  ALVINO, LUIZ FERNANDO . A Hybrid Parallel Implementation for the 
@@ -8019,6 +8386,7 @@ In: 2018 International Conference on Computer Science and its
 Applications - ICCSA 2018, 2018, Melbourne. Computational Science and 
 Its Applications ICCSA 2018 - LNCS, 2018. p. 151-166. 
 
+god1
 
 
 
@@ -8029,6 +8397,7 @@ International Conference on Bioinformatics and Bioengineering (BIBE),
 2017, Washington. 2017 IEEE 17th International Conference on 
 Bioinformatics and Bioengineering (BIBE), 2017. p. 175-8. 
 
+god1
 
 RUBERT, DIEGO P. ; ARAUJO, ELOI ; Stefanes, Marco A.
  . SIMBio: Searching and inferring colorful motifs in biological 
@@ -8036,6 +8405,7 @@ networks. In: 2015 IEEE 15th International Conference on Bioinformatics
 and Bioengineering (BIBE), 2015, Belgrade. 2015 IEEE 15th International 
 Conference on Bioinformatics and Bioengineering (BIBE), 2015. p. 1. 
 
+god1
 
 Stefanes, Marco A.; RUBERT, D. P. ; SOARES, J.
  . Coarse Grained Parallel Algorithm for Hamiltonian Circuit in Convex 
@@ -8045,6 +8415,7 @@ Vegas. Proceedings of the International Conference on Parallel and
 Distributed Processing Techniques and Applications - PDPTA 2015, 2015. 
 p. 381-387. 
 
+god1
 
 ARAUJO, ELOI ; Stefanes, Marco A.
  . Some results on topological colored motifs in metabolic networks. In:
@@ -8067,6 +8438,7 @@ Adi, S.S ; BRAGA, M.D.V. ; FERNANDES, C. G. ; FERREIRA, C. E. ; MARTINEZ, F.H.V.
 Symposium, 2007, Puerto Varas. Electronic Notes in Discrete Mathematics,
  2007. v. 1. p. 1-9. 
 
+god1
 
 STEFANES, M. A.; SOARES, J.
  . BSP/CGM Algorithm for Maximum Matching in Convex Bipartite Graph. In:
@@ -8084,12 +8456,16 @@ STEFANES, M. A.; SOARES, J.
 Búzios. Workshop em Paralelismo e Otimização Combinatória - WPOC, 1998. 
 v. I. p. 1-4. 
 
+god1
+god2
+WPOC, 1998
 
 0.513MA, J. C. W. K. ; Stefanes, Marco A.
  ; HIGA, C. H. A. ; ROZANTE, L. C. S. . Inferring Gene Regulatory 
 Networks using Hybrid Parallel Computing. Lecture Notes in Computer 
 Science, 2018. 
 
+god1
 
 Stefanes, Marco A.;
  ALVINO, L. . A Hybrid Parallel Implementation for the Maximum Flow 
@@ -8344,6 +8720,7 @@ Stefanes, Marco A.; ARAUJO, F. E. S. . VI Ciclo de Palestras em Computação. 20
 
 Stefanes, Marco A.; REIS, V. Q. ; RUBINSZTEJN, H. K. S. ; SOTOMA, I. . V Workshop de Computação Paralela e Distribuída. 2018. (Congresso). 
 
+god1
 
 Stefanes, Marco A.; ARAUJO, F. E. S. . V Ciclo de Palestras em Computação. 2017. (Outro). 
 
@@ -8353,6 +8730,7 @@ Stefanes, Marco A.;
 Q. ; CACERES, E. N. . IV Workshop de computação Paralela e Distribuída. 
 2013. (Congresso). 
 
+god1
 
 Stefanes, Marco A.. III Ciclo de Palestras em Computação. 2013. (Outro). 
 
@@ -8371,6 +8749,7 @@ Stefanes, Marco A.. II Workshop de Computação Paralela e Distribuída. 2009. (
 
 MONGELLI, H. ; CACERES, E. N. ; Stefanes, Marco A. . WSCAD/CTIC. 2008. (Concurso). 
 
+god1
 
 Stefanes, Marco A.. Workshop de Computação Paralela e Distribuída. 2007. (Congresso). 
 
@@ -8565,6 +8944,7 @@ Stefanes, Marco A.;
 Q. ; CACERES, E. N. . IV Workshop de computação Paralela e Distribuída. 
 2013. (Congresso). 
 
+god1
 
 Stefanes, Marco A.; BIANCHINI, C. . 14th Marathon of Parallel Programming /WSCAD 2019. 2019. (Concurso). 
 
@@ -8583,16 +8963,19 @@ RUBERT, DIEGO P. ; ARAUJO, ELOI ; Stefanes, Marco A.
 topological motifs in vertex-colored graphs. JOURNAL OF COMBINATORIAL 
 OPTIMIZATION (DORDRECHT. ONLINE), v. 40, p. 379-411, 2020. 
 
+god1
 
 1.041Adi, Said S.2010
 
 Adi, Said S. ; Braga, Marília D.V. ; Fernandes, Cristina G. ; Ferreira, Carlos E. ; Martinez, Fábio Viduani ; Sagot, Marie-France ; Stefanes, Marco A. ; Tjandraatmadja, Christian ; Wakabayashi, Yoshiko . Repetition-free longest common subsequence. DISCRETE APPLIED MATHEMATICS, v. 158, p. 1315-1324, 2010. Citações:19|12
 
+god1
 
 0.65Soares, José2009
 
 Soares, José ; STEFANES, M. A. . Algorithms for Maximum Independent Set in Convex Bipartite Graphs. Algorithmica, v. 53, p. 35-49, 2009. Citações:9|6
 
+god1
 
 ROCHA, LUCAS B. ; SADIQUE ADI, SAID ; Stefanes, Marco A.
  ; ARAUJO, ELOI . Heuristics for the Specific Substring Problem with 
@@ -8601,6 +8984,7 @@ Bioinformatics and Bioengineering (BIBE), 2019, Athens. 2019 IEEE 19th
 International Conference on Bioinformatics and Bioengineering (BIBE), 
 2019. p. 250-257. 
 
+god1
 
 STEFANES, MARCO AURELIO;
  ALVINO, LUIZ FERNANDO . A Hybrid Parallel Implementation for the 
@@ -8616,6 +9000,7 @@ In: 2018 International Conference on Computer Science and its
 Applications - ICCSA 2018, 2018, Melbourne. Computational Science and 
 Its Applications ICCSA 2018 - LNCS, 2018. p. 151-166. 
 
+god1
 
 
 
@@ -8626,6 +9011,7 @@ International Conference on Bioinformatics and Bioengineering (BIBE),
 2017, Washington. 2017 IEEE 17th International Conference on 
 Bioinformatics and Bioengineering (BIBE), 2017. p. 175-8. 
 
+god1
 
 RUBERT, DIEGO P. ; ARAUJO, ELOI ; Stefanes, Marco A.
  . SIMBio: Searching and inferring colorful motifs in biological 
@@ -8633,6 +9019,7 @@ networks. In: 2015 IEEE 15th International Conference on Bioinformatics
 and Bioengineering (BIBE), 2015, Belgrade. 2015 IEEE 15th International 
 Conference on Bioinformatics and Bioengineering (BIBE), 2015. p. 1. 
 
+god1
 
 Stefanes, Marco A.; RUBERT, D. P. ; SOARES, J.
  . Coarse Grained Parallel Algorithm for Hamiltonian Circuit in Convex 
@@ -8642,6 +9029,7 @@ Vegas. Proceedings of the International Conference on Parallel and
 Distributed Processing Techniques and Applications - PDPTA 2015, 2015. 
 p. 381-387. 
 
+god1
 
 ARAUJO, ELOI ; Stefanes, Marco A.
  . Some results on topological colored motifs in metabolic networks. In:
@@ -8664,6 +9052,7 @@ Adi, S.S ; BRAGA, M.D.V. ; FERNANDES, C. G. ; FERREIRA, C. E. ; MARTINEZ, F.H.V.
 Symposium, 2007, Puerto Varas. Electronic Notes in Discrete Mathematics,
  2007. v. 1. p. 1-9. 
 
+god1
 
 STEFANES, M. A.; SOARES, J.
  . BSP/CGM Algorithm for Maximum Matching in Convex Bipartite Graph. In:
@@ -8681,12 +9070,16 @@ STEFANES, M. A.; SOARES, J.
 Búzios. Workshop em Paralelismo e Otimização Combinatória - WPOC, 1998. 
 v. I. p. 1-4. 
 
+god1
+god2
+WPOC, 1998
 
 0.513MA, J. C. W. K. ; Stefanes, Marco A.
  ; HIGA, C. H. A. ; ROZANTE, L. C. S. . Inferring Gene Regulatory 
 Networks using Hybrid Parallel Computing. Lecture Notes in Computer 
 Science, 2018. 
 
+god1
 
 Stefanes, Marco A.;
  ALVINO, L. . A Hybrid Parallel Implementation for the Maximum Flow 
@@ -8941,6 +9334,7 @@ Stefanes, Marco A.; ARAUJO, F. E. S. . VI Ciclo de Palestras em Computação. 20
 
 Stefanes, Marco A.; REIS, V. Q. ; RUBINSZTEJN, H. K. S. ; SOTOMA, I. . V Workshop de Computação Paralela e Distribuída. 2018. (Congresso). 
 
+god1
 
 Stefanes, Marco A.; ARAUJO, F. E. S. . V Ciclo de Palestras em Computação. 2017. (Outro). 
 
@@ -8950,6 +9344,7 @@ Stefanes, Marco A.;
 Q. ; CACERES, E. N. . IV Workshop de computação Paralela e Distribuída. 
 2013. (Congresso). 
 
+god1
 
 Stefanes, Marco A.. III Ciclo de Palestras em Computação. 2013. (Outro). 
 
@@ -8968,6 +9363,7 @@ Stefanes, Marco A.. II Workshop de Computação Paralela e Distribuída. 2009. (
 
 MONGELLI, H. ; CACERES, E. N. ; Stefanes, Marco A. . WSCAD/CTIC. 2008. (Concurso). 
 
+god1
 
 Stefanes, Marco A.. Workshop de Computação Paralela e Distribuída. 2007. (Congresso). 
 
@@ -9162,6 +9558,7 @@ Stefanes, Marco A.;
 Q. ; CACERES, E. N. . IV Workshop de computação Paralela e Distribuída. 
 2013. (Congresso). 
 
+god1
 
 Stefanes, Marco A.; BIANCHINI, C. . 14th Marathon of Parallel Programming /WSCAD 2019. 2019. (Concurso). 
 

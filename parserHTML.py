@@ -285,13 +285,32 @@ def parserProducoes(soup, data):
     for item in list(soup.find_all('div', class_='layout-cell layout-cell-11')):
       print(item.text)  # Aqui está imprimindo os nomes do jeito que eu queroooooooooooooooooooooooo
       data['producao'].append(item.text)
+      #resultProducaoUm = re.findall(r' . (.*). (.*), ', item.text)
+      #resultProducaoDois = re.findall(r'. (.*). In: (.*), ', item.text)
+
+      resultProducaoUm = re.search(r' . (.*). (.*), ', item.text)
+      resultProducaoDois = re.search(r'. (.*). In: (.*), ', item.text)
+
+      if resultProducaoUm:
+        print('god1')
+        #print(resultProducaoUm.group(2))
+
+      if resultProducaoDois:
+        print('god2')
+        print(resultProducaoDois.group(2))
       #print("#################### PULA LINHA ########################")
+      """
+      - 11/08 11:24 - Modificar as expressões regulares para retirar apenas o que é pedido, ela está retirando coisas que não preciso
+      """
 
 
       #item_descendants = item.descendants
       #for d in item_descendants:
       #  if d.name == 'div' and d.get('class', '') == ['layout-cell-pad-5']:
       #    print(d.text)
+
+#def carregaCsvQualis():
+  
 
 def printDici(data):
   
