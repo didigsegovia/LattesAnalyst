@@ -1,11 +1,15 @@
 # Downloader de HTML's da internet
 
 import requests, os, time
-import pandas                 # DataFrame
+import pandas as pd                 # DataFrame
 import re                     # Regex
-import bs4
+#import Eventos
 import datetime as date
 import genderbr as gender
+import bs4
+from bs4 import BeautifulSoup
+from IPython.display import display
+
 # Utilização de genderbr:
 # $ gender.get_gender(nome)
 # nome é uma string contendo APENAS O PRIMEIRO NOME da pessoa à ser classificada
@@ -15,9 +19,6 @@ import genderbr as gender
 # repositório oficial: https://pypi.org/project/genderbr/
 # Instalado com $ pip install genderbr
 
-#pandas.set_option("display.max_colwidth", 150)			# Mostrar todo o texto do pandas
-
-from bs4 import BeautifulSoup
 
 #if (os.getcwd() == ('/content/drive/My Drive/TCC/cache') or os.getcwd() == ('/content/drive/My Drive/TCC/cacheManual')):
 #  os.chdir('..')
@@ -34,30 +35,15 @@ idiomas = ['Inglês', 'Espanhol', 'Português', 'Francês', 'Italiano', 'Russo',
 class webScraping:
   global page
   global f
-
-#	def downloadHTML(self):			# Dummy def para fazer download de um HTML qualquer
-#		self.page = requests.get('https://www.dataquest.io/blog/web-scraping-python-using-beautiful-soup/')
-#		print(type(self.page))
-#
-#		if (self.page.status_code == 200):
-#			print("Download feito com sucesso")
-#			self.f = open('paginateste.html', 'wb')
-#			self.f.write(self.page.content)
-#			self.f.close()
-			
-#		else:
-#			print('Houve um problema ao baixar o HTML')
-
-	# Fim method downloadHTML
+  # Definindo data como um atributo da classe, utilização deve ser feita com self
+  data = {'nome':list(), 'sexo':list(), 'idade':list(), 'estado':list(), 'idlattes':list(), 'idioma':list(), 'formacao':list(), 'endereco':list() ,'descricao':list(), 'producao':list(), 'doutorado':list(), 'mestrado':list(), 'posdoc':list(), 'licenca':list()}       # Dicionario auxiliar
 
 
-
-  def openCachedHTML(self):
+  def parserHtml(self):
     currentPath = os.getcwd() 													# Salva caminho atual para ser recuperado posteriormente
     #os.chdir('./cache')															# Alterar pasta do codigo para pasta cache
     os.chdir('./cacheManual')															# Alterar pasta do codigo para pasta cacheManual (cache baixada do navegador diretamente sem a pasta de source)
-    data = {'nome':list(), 'sexo':list(), 'idade':list(), 'estado':list(), 'idlattes':list(), 'idioma':list(), 'formacao':list(), 'endereco':list() ,'descricao':list(), 'producao':list(), 'doutorado':list(), 'mestrado':list(), 'posdoc':list(), 'licenca':list()}				# Dicionario auxiliar
-    stringProducoes = str()
+    
     countIter = 0
     MAX = 4 # alterar pra ver quantas vezes executar
     for cv in (cache):
@@ -68,9 +54,14 @@ class webScraping:
 			
 			# A partir de agora, em soup eu tenho o código HTML aberto
 
+
+
+
+
+
       # achar idlattes
       resultIdlattes = re.findall(r'ID Lattes: .*>(................).*', str(soup.find_all('div', class_='infpessoa')))
-      data['idlattes'].append(str(resultIdlattes[0]))
+      self.data['idlattes'].append(str(resultIdlattes[0]))
       
 #     p a — finds all a tags inside of a p tag
 #     body p a — finds all a tags inside of a p tag inside of a body tag
@@ -98,41 +89,41 @@ class webScraping:
             listaEnderecoFinal.append(str(itemitem))
       stringEndereco = ' '.join(listaEnderecoFinal)
       stringEndereco = re.sub(' URL da Homepage:', '', stringEndereco)
-      data['endereco'].append(stringEndereco)
+      self.data['endereco'].append(stringEndereco)
       #print(stringEndereco)
       #
 			
 
-      data['descricao'].append(soup.find_all('p', class_='resumo')[0].get_text())					# Pegar a descricao e colocar no dicionario info			
-      data['nome'].append(soup.find_all('h2', class_='nome')[0].get_text())						# Pegar o nome e colocar no dicionario
+      self.data['descricao'].append(soup.find_all('p', class_='resumo')[0].get_text())					# Pegar a descricao e colocar no dicionario info			
+      self.data['nome'].append(soup.find_all('h2', class_='nome')[0].get_text())						# Pegar o nome e colocar no dicionario
 
       # Definição de sexo a partir do primeiro nome
-      data['sexo'].append( gender.get_gender((data['nome'][-1].split(' '))[0] ))
+      self.data['sexo'].append( gender.get_gender((self.data['nome'][-1].split(' '))[0] ))
       ###
 
-      #pegar producoes
+      ################pegar producoes
 
-      parserProducoes(soup, data)
+      parserProducoes(soup, self.data)
 
-      print("Curriculo parcialmente processado: "+ str(data['nome'][-1]))
+      print("Curriculo parcialmente processado: "+ str(self.data['nome'][-1]))
 
       if countIter == MAX-1:
         break
       else:
         countIter+=1
-
-      
       continue
+      ############## fim pegar producoes
+      
 
 
       
 
-      data['licenca'].append(0)
+      self.data['licenca'].append(0)
       resultLicensas = list()
       for item in soup.find_all('div', class_='layout-cell layout-cell-9'):       # Pegar o estado à partir da RegEx
         result = re.findall(r'.*, (..) - .*', str(list(item.children)[1]))
         if len(result) == 1:
-          data['estado'].append(str(result[0]))
+          self.data['estado'].append(str(result[0]))
 
         itemLicensas = re.findall(r'Licença Maternidade', str(item))
         if len(itemLicensas) > 0:
@@ -140,19 +131,19 @@ class webScraping:
         
         
       if (len(resultLicensas) == 1):
-         data['licenca'][-1] = ((re.findall(r'/>(.* dias)', str(resultLicensas[0])))[0])
+         self.data['licenca'][-1] = ((re.findall(r'/>(.* dias)', str(resultLicensas[0])))[0])
       elif (len(resultLicensas) > 1):
-        data['licenca'].pop()
+        self.data['licenca'].pop()
         licencaAux = list()
         for c in resultLicensas:
           licencaAux.append( (re.findall(r'/>(.* dias)', str(c) )[0] ) )
-        data['licenca'].append(licencaAux)
+        self.data['licenca'].append(licencaAux)
       # Fim for estado e licenca
 
       # Verificacao de titulos
-      data['posdoc'].append(0)
-      data['doutorado'].append(0)
-      data['mestrado'].append(0)
+      self.data['posdoc'].append(0)
+      self.data['doutorado'].append(0)
+      self.data['mestrado'].append(0)
 
       flagFormacao = 1
       flagTitulo = 1
@@ -170,25 +161,25 @@ class webScraping:
           resultGraduacao = re.search(r'Graduação em (.+)', str(item))
           if resultGraduacao:
             stringGraduacao = re.sub('<span class="ajaxCAPES" data-param="&amp;codigoCurso=&amp;nivelCurso="></span>. <br class="clear"/>',' - ',resultGraduacao.group())
-            data['formacao'].append(stringGraduacao)
+            self.data['formacao'].append(stringGraduacao)
             flagFormacao = 0
 
 
         resultPosdoc = re.findall(r'.*>(Pós-Doutorado.) <.*', str(item))
         if len(resultPosdoc) == 1:
-          data['posdoc'][-1] = 1
+          self.data['posdoc'][-1] = 1
           continue
           
         resultDoc = re.findall(r'(Doutorado).*', str(item))
         if len(resultDoc) == 1:
           grauFormacao += 1;
-          data['doutorado'][-1] = 1
+          self.data['doutorado'][-1] = 1
           continue
                   
         resultMestre = re.findall(r'(Mestrado).*', str(item))
         if len(resultMestre) == 1:
           grauFormacao += 1;
-          data['mestrado'][-1] = 1
+          self.data['mestrado'][-1] = 1
           continue
       # Fim verificacao titulos
 
@@ -199,13 +190,13 @@ class webScraping:
         if (result):
           resultAux = re.findall(r'([0-9]{4} - [0-9]{4})', str(result))
           for cont in resultAux:
-            data['formacao'][-1] = str(data['formacao'][-1]) + ' Período: ' + str(cont)
+            self.data['formacao'][-1] = str(self.data['formacao'][-1]) + ' Período: ' + str(cont)
           #print(result)
         # Aqui também tem participação em eventos
 
 
       # Cálculo da idade baseado em formação 
-      stringIdade = data['formacao'][-1].split(' ')[-1]
+      stringIdade = self.data['formacao'][-1].split(' ')[-1]
       anoAtual = date.datetime.now()
       data['idade'].append( (anoAtual.year - int(stringIdade)) )   # Cálculo grosseiro da idade fazendo 23 + # anos após formatura da graduação
 
@@ -229,30 +220,27 @@ class webScraping:
         resultIdioma = re.findall(r'<b>(.*)</b>', str(item))[0]
         if resultIdioma in idiomas:
           idiomasAux.append(resultIdioma)   
-      data['idioma'].append(idiomasAux)
+      self.data['idioma'].append(idiomasAux)
       if periodoLicenca:
-        #indexlicenca=0
-        for itemli in range(len(data['licenca'][-1])):
-          data['licenca'][-1][itemli] += periodoLicenca[itemli]
-          #indexlicenca+=1
-          #print(itemli)
+        for itemli in range(len(self.data['licenca'][-1])):
+          self.data['licenca'][-1][itemli] += periodoLicenca[itemli]
           
-
-      #Para cargos: <div class="layout-cell-pad-5">Conselhos, Comissões e Consultoria, Faculdade de Computação, . </div>
-      # Para trabalhos que pesquisador ja participou: [print(resultFormacao.get_text()) for resultFormacao in soup.find_all('div', class_='layout-cell layout-cell-12 data-cell')]
+      """
+      Para cargos: <div class="layout-cell-pad-5">Conselhos, Comissões e Consultoria, Faculdade de Computação, . </div>
+      Para trabalhos que pesquisador ja participou: [print(resultFormacao.get_text()) for resultFormacao in soup.find_all('div', class_='layout-cell layout-cell-12 data-cell')]
+      """
 
       ##### A partir daqui, ja esta retirando nome do autor, sexo(gênero),  lattesid, descricao, trabalhos (artigos completos publicados), estado, titulos (mestre, doutor e pos doutor) e licença maternidade (mais de uma se tiver); idioma
       # data['nome']; data['sexo'];data['idade']; data['lattesid'];  data['producao']; data['descricao']; data['estado']; data['posdoc']; data['doutorado']; data['mestrado']; data[licenca]; data['idioma']
 
-      print("Curriculo processado: "+ str(data['nome'][-1]))
+      print("Curriculo processado: "+ str(self.data['nome'][-1]))
 
       self.page.close()
-			#time.sleep(2)
 			
-    #df = pandas.DataFrame(data)																		# Transformar o dicionario data em um DataFrame
+    #df = pd.DataFrame(data)																		# Transformar o dicionario data em um DataFrame
 		
     #printDici(data)
-    os.chdir(currentPath)
+    os.chdir(currentPath)               # Retorna o path para o diretório raiz
 
 
 	# fim openCachedHTML method
@@ -274,19 +262,10 @@ def parserProducoes(soup, data):
     # até aqui pega artigos completos publicados em periodicos
 
 
-    # para pegar " Trabalhos completos publicados em anais de congressos "
-    # Produção de maquina de estados
-    TCPAC = True  # Trabalhos completos publicados em anais de congresso
-    REPAC = True  # Resumos expandidos publicados em anais de congresso
-    RPAC = True   # Resumos publicados em anais de congresso
-
-
     
     for item in list(soup.find_all('div', class_='layout-cell layout-cell-11')):
       print(item.text)  # Aqui está imprimindo os nomes do jeito que eu queroooooooooooooooooooooooo
       data['producao'].append(item.text)
-      #resultProducaoUm = re.findall(r' . (.*). (.*), ', item.text)
-      #resultProducaoDois = re.findall(r'. (.*). In: (.*), ', item.text)
 
       resultProducaoUm = re.search(r' . (.*). (.*), ', item.text)
       resultProducaoDois = re.search(r'. (.*). In: (.*), ', item.text)
@@ -297,19 +276,11 @@ def parserProducoes(soup, data):
 
       if resultProducaoDois:
         print('god2')
-        print(resultProducaoDois.group(2))
+        #print(resultProducaoDois.group(2))
       #print("#################### PULA LINHA ########################")
-      """
-      - 11/08 11:24 - Modificar as expressões regulares para retirar apenas o que é pedido, ela está retirando coisas que não preciso
-      """
 
 
-      #item_descendants = item.descendants
-      #for d in item_descendants:
-      #  if d.name == 'div' and d.get('class', '') == ['layout-cell-pad-5']:
-      #    print(d.text)
-
-#def carregaCsvQualis():
+      
   
 
 def printDici(data):
@@ -343,7 +314,8 @@ def printDici(data):
 
 if __name__ == "__main__":
 
-  scrapper = webScraping()
-	
-  #scraper.downloadHTML()
-  scrapper.openCachedHTML()
+  scrapper = webScraping()  # Inicializa a classe
+  scrapper.parserHtml()     # Chama método de parser
+  producoesFinal = pd.DataFrame(scrapper.data['producao'], columns=['producoes'])
+  producoesFinal.to_csv('producoes.csv')
+  #printDici(scrapper.data)
