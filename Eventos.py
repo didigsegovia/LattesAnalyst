@@ -25,7 +25,9 @@ def baixaPlanilha():
 	return conferencias, periodicos
 
 def padraoProducoes(stringBusca:str, gramatica:str):
-
+"""	- Para cada produção que não for encontrada (por não constar na planilha Qualis),
+contabilizar como "não referenciada", caso contrário, "NA"
+"""
     result = re.search(gramatica, stringBusca)
     if result:
         retorno = stringBusca[result.start(): result.end()]
@@ -33,33 +35,56 @@ def padraoProducoes(stringBusca:str, gramatica:str):
         retorno = 'NA'
     return retorno
 
+"""def buscaQualisConferencias(stringBusca:str, conferencias):
+	if stringBusca is 'NA':
+		return 'NA'
+	else:
+		retorno = 
+
+def buscaQualisPeriodicos(stringBusca:str, periodicos):
+	if stringBusca is 'NA':
+		return 'NA'
+	else:
+"""
+
+"""
+TODO
+- padraoProducoes: Para cada produção que não for encontrada (por não constar na planilha Qualis),
+contabilizar como "não referenciada", caso contrário, "NA"
+
+- defineProducoes: Passar para minusculas, tirar tabulações e acentos (da planilha Qualis e dos curriculos)
+(padronizar dados para comparação)
+
+"""
+
 
 def defineProducoes(conferencias, periodicos, strings):		# Retorna um dataframe producoesPesquisador['conferencias', 'periodicos']
-	
-
-	#######
+	strings = strings.replace(to_replace='\n', value=' ', regex=True)			# Retira quebra de linha de df de entrada (vindo do parserHTML)
+	strings.to_csv('producoesSemQuebraLinha.csv')		# para verificar string de produções entrada sem a quebra de linha
 
 	listaRegexConferencia = '|'.join(conferencias['conferencia'])
+	##### TODO: Passar para minusculas, tirar tabulações e acentos (da planilha Qualis e dos curriculos)
+
 	listaRegexConferencia = listaRegexConferencia.replace('(', '\(')
 	listaRegexConferencia = listaRegexConferencia.replace(')', '\)')
 	
 	listaRegexPeriodicos = '|'.join(periodicos['periodico'])
+	##### TODO: Passar para minusculas, tirar tabulações e acentos
+
 	listaRegexPeriodicos = listaRegexPeriodicos.replace('(', '\(')
 	listaRegexPeriodicos = listaRegexPeriodicos.replace(')', '\)')
-	#listaRegex.append('|\n')
-	print(listaRegexPeriodicos)
-	print(listaRegexConferencia)
-
-	producoesPesquisador = pd.DataFrame(columns=['conferencias', 'periodicos'])
-	# na linha de baixo, o strings['conferencia'] é correspondente à uma coluna de dicionario com todos os valores que eu quero pesquisar
-
-	producoesPesquisador['conferencias'] = strings['producoes'].apply(lambda x: padraoProducoes(stringBusca=x, gramatica=listaRegexConferencia),case=False)
-	producoesPesquisador['periodicos'] = strings['producoes'].apply(lambda x: padraoProducoes(stringBusca=x, gramatica=listaRegexPeriodicos),case=False)
-
 	
-	display(producoesPesquisador)
 
-	#display(conferencias)
+
+	producoesPesquisador = pd.DataFrame(columns=['conferencias', 'qualis_conferencias', 'periodicos', 'qualis_periodicos'])
+
+	producoesPesquisador['conferencias'] = strings['producoes'].apply(lambda x: padraoProducoes(stringBusca=x, gramatica=listaRegexConferencia))
+	producoesPesquisador['periodicos'] = strings['producoes'].apply(lambda x: padraoProducoes(stringBusca=x, gramatica=listaRegexPeriodicos))
+
+	# achar uma forma de colocar o qualis ao lado de cada produção encontrada
+
+	display(strings)
+	display(producoesPesquisador)
 
 	producoesPesquisador.to_csv('resultadoIntermediario.csv')
 

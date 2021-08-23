@@ -55,10 +55,6 @@ class webScraping:
 			# A partir de agora, em soup eu tenho o código HTML aberto
 
 
-
-
-
-
       # achar idlattes
       resultIdlattes = re.findall(r'ID Lattes: .*>(................).*', str(soup.find_all('div', class_='infpessoa')))
       self.data['idlattes'].append(str(resultIdlattes[0]))
@@ -264,19 +260,20 @@ def parserProducoes(soup, data):
 
     
     for item in list(soup.find_all('div', class_='layout-cell layout-cell-11')):
-      print(item.text)  # Aqui está imprimindo os nomes do jeito que eu queroooooooooooooooooooooooo
+      #print(item.text)  # Aqui está imprimindo os nomes do jeito que eu queroooooooooooooooooooooooo
       data['producao'].append(item.text)
-
+"""
       resultProducaoUm = re.search(r' . (.*). (.*), ', item.text)
       resultProducaoDois = re.search(r'. (.*). In: (.*), ', item.text)
 
       if resultProducaoUm:
-        print('god1')
+        print('good1')
         #print(resultProducaoUm.group(2))
 
       if resultProducaoDois:
-        print('god2')
+        print('good2')
         #print(resultProducaoDois.group(2))
+        """
       #print("#################### PULA LINHA ########################")
 
 
