@@ -24,10 +24,10 @@ def baixaPlanilha():
 
 	return conferencias, periodicos
 
-def padraoProducoes(stringBusca:str, gramatica:str):
 """	- Para cada produção que não for encontrada (por não constar na planilha Qualis),
 contabilizar como "não referenciada", caso contrário, "NA"
 """
+def padraoProducoes(stringBusca:str, gramatica:str):
     result = re.search(gramatica, stringBusca)
     if result:
         retorno = stringBusca[result.start(): result.end()]
@@ -35,19 +35,8 @@ contabilizar como "não referenciada", caso contrário, "NA"
         retorno = 'NA'
     return retorno
 
-"""def buscaQualisConferencias(stringBusca:str, conferencias):
-	if stringBusca is 'NA':
-		return 'NA'
-	else:
-		retorno = 
-
-def buscaQualisPeriodicos(stringBusca:str, periodicos):
-	if stringBusca is 'NA':
-		return 'NA'
-	else:
 """
 
-"""
 TODO
 - padraoProducoes: Para cada produção que não for encontrada (por não constar na planilha Qualis),
 contabilizar como "não referenciada", caso contrário, "NA"
@@ -59,15 +48,37 @@ contabilizar como "não referenciada", caso contrário, "NA"
 
 
 def defineProducoes(conferencias, periodicos, strings):		# Retorna um dataframe producoesPesquisador['conferencias', 'periodicos']
-	strings = strings.replace(to_replace='\n', value=' ', regex=True)			# Retira quebra de linha de df de entrada (vindo do parserHTML)
+	strings = strings[['producoes']]
+	strings['producoes'] = strings['producoes'].replace(to_replace='\n', value=' ', regex=True)			# Retira quebra de linha de df de entrada (vindo do parserHTML)
+	# Tratamento de DF (passar para minusculo e retirar acentos)
+	strings['producoes'] = strings['producoes'].str.lower()
+	strings['producoes'] = strings['producoes'].str.normalize('NFKD')\
+       														.str.encode('ascii', errors='ignore')\
+       														.str.decode('utf-8')
+	# Tirar tabs
+	strings['producoes'].str.replace("\t"," ")
+
 	strings.to_csv('producoesSemQuebraLinha.csv')		# para verificar string de produções entrada sem a quebra de linha
 
+	# Passando tudo para minúsculo
+	conferencias['conferencia'] = conferencias['conferencia'].str.lower()
+
+	# Tirar acentos
+	conferencias['conferencia'] = conferencias['conferencia'].str.normalize('NFKD')\
+       														.str.encode('ascii', errors='ignore')\
+       														.str.decode('utf-8')
+
+
+	conferencias['conferencia'].to_csv('conferenciatratada.csv')
+	# Formar ER de conferencias a serem avaliadas
 	listaRegexConferencia = '|'.join(conferencias['conferencia'])
+
 	##### TODO: Passar para minusculas, tirar tabulações e acentos (da planilha Qualis e dos curriculos)
 
 	listaRegexConferencia = listaRegexConferencia.replace('(', '\(')
 	listaRegexConferencia = listaRegexConferencia.replace(')', '\)')
 	
+	periodicos['periodicos'] = periodicos['periodico'].str.lower()
 	listaRegexPeriodicos = '|'.join(periodicos['periodico'])
 	##### TODO: Passar para minusculas, tirar tabulações e acentos
 
@@ -83,8 +94,8 @@ def defineProducoes(conferencias, periodicos, strings):		# Retorna um dataframe 
 
 	# achar uma forma de colocar o qualis ao lado de cada produção encontrada
 
-	display(strings)
-	display(producoesPesquisador)
+	#display(strings)
+	#display(producoesPesquisador)
 
 	producoesPesquisador.to_csv('resultadoIntermediario.csv')
 
