@@ -45,7 +45,7 @@ class webScraping:
     os.chdir('./cacheManual')															# Alterar pasta do codigo para pasta cacheManual (cache baixada do navegador diretamente sem a pasta de source)
     
     countIter = 0
-    MAX = 4 # alterar pra ver quantas vezes executar
+    MAX = 5 # alterar pra ver quantas vezes executar
     for cv in (cache):
 			
       self.page = open(cv, encoding='latin-1')								# Encoding importantissimo, se nao ele nao funciona

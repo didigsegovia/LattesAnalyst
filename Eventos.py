@@ -37,7 +37,7 @@ def padraoProducoes(stringBusca:str, gramatica:str):
 
 """
 
-TODO
+TODO: Done
 - padraoProducoes: Para cada produção que não for encontrada (por não constar na planilha Qualis),
 contabilizar como "não referenciada", caso contrário, "NA"
 
@@ -56,9 +56,9 @@ def defineProducoes(conferencias, periodicos, strings):		# Retorna um dataframe 
        														.str.encode('ascii', errors='ignore')\
        														.str.decode('utf-8')
 	# Tirar tabs
-	strings['producoes'].str.replace("\t"," ")
+	strings['producoes'].str.replace("\t","")
 
-	strings.to_csv('producoesSemQuebraLinha.csv')		# para verificar string de produções entrada sem a quebra de linha
+	strings.to_csv('producoesTratadas.csv')		# para verificar string de produções entrada sem a quebra de linha
 
 	# Passando tudo para minúsculo
 	conferencias['conferencia'] = conferencias['conferencia'].str.lower()
@@ -68,22 +68,27 @@ def defineProducoes(conferencias, periodicos, strings):		# Retorna um dataframe 
        														.str.encode('ascii', errors='ignore')\
        														.str.decode('utf-8')
 
-
-	conferencias['conferencia'].to_csv('conferenciatratada.csv')
 	# Formar ER de conferencias a serem avaliadas
 	listaRegexConferencia = '|'.join(conferencias['conferencia'])
 
-	##### TODO: Passar para minusculas, tirar tabulações e acentos (da planilha Qualis e dos curriculos)
+	##### Letras minusculas, sem tabulações e acentos (da planilha Qualis e dos curriculos)
 
 	listaRegexConferencia = listaRegexConferencia.replace('(', '\(')
 	listaRegexConferencia = listaRegexConferencia.replace(')', '\)')
+	listaRegexConferencia = listaRegexConferencia.replace('.', '\.')
 	
-	periodicos['periodicos'] = periodicos['periodico'].str.lower()
+	# Tratamento de periodicos agora
+	periodicos['periodico'] = periodicos['periodico'].str.lower()
+	periodicos['periodico'] = periodicos['periodico'].str.normalize('NFKD')\
+       														.str.encode('ascii', errors='ignore')\
+       														.str.decode('utf-8')
+
+
 	listaRegexPeriodicos = '|'.join(periodicos['periodico'])
-	##### TODO: Passar para minusculas, tirar tabulações e acentos
 
 	listaRegexPeriodicos = listaRegexPeriodicos.replace('(', '\(')
 	listaRegexPeriodicos = listaRegexPeriodicos.replace(')', '\)')
+	listaRegexPeriodicos = listaRegexPeriodicos.replace('.', '\.')
 	
 
 
@@ -92,12 +97,15 @@ def defineProducoes(conferencias, periodicos, strings):		# Retorna um dataframe 
 	producoesPesquisador['conferencias'] = strings['producoes'].apply(lambda x: padraoProducoes(stringBusca=x, gramatica=listaRegexConferencia))
 	producoesPesquisador['periodicos'] = strings['producoes'].apply(lambda x: padraoProducoes(stringBusca=x, gramatica=listaRegexPeriodicos))
 
+	
+
 	# achar uma forma de colocar o qualis ao lado de cada produção encontrada
+	#display(listaRegexPeriodicos)
+	#display(listaRegexConferencia)
+	#periodicos.to_csv('periodicos.csv')
+	#conferencias.to_csv('conferencias.csv')
 
-	#display(strings)
-	#display(producoesPesquisador)
-
-	producoesPesquisador.to_csv('resultadoIntermediario.csv')
+	producoesPesquisador.to_csv('resultadoProvisorio.csv')
 
 
 

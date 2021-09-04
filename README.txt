@@ -1,4 +1,4 @@
-Pasta "meuprojeto" contem a virtualenv para executar o script. Os principais programas instalados são:
+Os principais programas instalados são:
  - mechanize: $ pip install mechanize
  - simplejson: $ pip install simplejson
  - Pillow: $ pip install Pillow
@@ -13,8 +13,18 @@ Pasta "meuprojeto" contem a virtualenv para executar o script. Os principais pro
  Após isto, na pasta CSV conterão todos os arquivos Lattes separados por LattesID
  
  
- ############# Segundo script (script de parser HTML) ############
+ ############# Segundo script (script de parser HTML: meu trabalho atual) ############
 O segundo script utiliza arquivos (curriculos) armazenados na pasta cache.
   
 Para executá-lo (funciona em Python 3), fazer:
 $ python3 parserHTML.py	# Ainda está em desenvolvimento
+
+-OBS: Parametro MAX contem o numero de curriculos a serem processados, este numero vai de 1 a 56
+
+- Este código resulta em um arquivo 'producoes.csv' contendo todas as produções de pesquisadores
+definidos no código parserHTML.py. O código Eventos.py está tratando este CSV e gerando um arquivo
+'resultadoProvisorio.csv' com as produções encontradas. Este código contem todo o tratamento de dados
+e aplicação de expressões regulares para realizar esta busca.
+
+Para executá-lo, fazer (necessita de 'producoes.csv' na mesma pasta):
+$ python3 Eventos.py 
