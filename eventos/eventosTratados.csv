@@ -1,0 +1,1081 @@
+,Unnamed: 0,evento,ano,qualis,categoria,match_sigla,evento_match,fuzz_partial_ratio
+0,0,1o Simpósio de Geotecnologias no Pantanal,2006.0,,conferencia,im,workshop de tecnologia adaptativa,67
+1,1,Applied Power Electronics Conference,2007.0,,conferencia,pp,sbmo/ieee mtt-s international microwave and optoelectronics conference,78
+2,2,Power Electronics Specialist Conference,2007.0,A3,conferencia,wer,agile conference,81
+3,3,12th European Conference on Power Electronics and Applications,2007.0,B1,conferencia,euro,european conference on modelling foundations and applications,80
+4,4,XVI Congresso Brasileiro de Automática,2006.0,B4,conferencia,re,congresso brasileiro de automatica,100
+5,5,18th International World Wide Web Conference,2009.0,A1,conferencia,er,international world wide web conferences,99
+6,6,"2nd Brazilian Symposium on Graphs, Algorithms, and Combinatorics",,,conferencia,or,european symposium on algorithms,75
+7,7,4th International Workshop on Efficient and Experimental Algorithms,2005.0,B4,conferencia,er,international i*workshop,92
+8,8,Seminário de Tecnologia da Informação Aplicada,2008.0,B4,conferencia,sem,simposio brasileiro de tecnologia da informacao,80
+9,9,7th Brazilian Symposium in Information and Human Language Technology,2009.0,B1,conferencia,or,brazilian symposium in information and human language technology,100
+10,10,International Conference on Computational Processing of the Portuguese Language,2010.0,B1,conferencia,er,international conference on computational processing of the portuguese language,100
+11,11,Eleventh International Conference on Computational Linguistics and Intelligent Text Processing,2010.0,A2,conferencia,er,international conference on computational linguistics,100
+12,12,Fourteenth Conference on Computational Natural Language Learning,2010.0,A2,conferencia,er,conference on computational natural language learning,100
+13,13,European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases,2011.0,A2,conferencia,euro,european conference on machine learning and principles and practice of knowledge discovery in databases,100
+14,14,Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning,2012.0,A1,conferencia,er,conference on empirical methods in natural language processing,100
+15,15,Computational Processing of the Portuguese Language,2012.0,B1,conferencia,om,international conference on computational processing of the portuguese language,100
+16,16,International Conference on Computational Processing of Portuguese - PhD Dissertation Contest,2014.0,B2,conferencia,er,international conference on computational science,90
+17,17,Brazilian Conference on Intelligent Systems,2014.0,A4,conferencia,er,brazilian conference on intelligent system,100
+18,18,IEEE International Joint Conference on Neural Networks,2017.0,A2,conferencia,er,ieee international joint conference on neural networks,100
+19,19,Brazilian Conference on Intelligent Systems,2017.0,A4,conferencia,er,brazilian conference on intelligent system,100
+20,20,XIII Brazilian Congress on Computational Intelligence,2017.0,B4,conferencia,re,ieee world congress on computational intelligence,86
+21,21,2019 8th Brazilian Conference on Intelligent Systems (BRACIS),2019.0,A4,conferencia,er,brazilian conference on intelligent system,100
+22,22,IEEE International Conference on Tools with Artificial Intelligence,2019.0,A3,conferencia,er,ieee international conference on tools with artificial intelligence,100
+23,23,ACM Symposium on Applied Computing,2020.0,A2,conferencia,pp,acm symposium on applied computing,100
+24,24,Big Data Analytics in the Social and Ubiquitous Context,2016.0,,conferencia,ics,social simulation conference,57
+25,25,Working Conference on Mining Software Repositories,2020.0,A1,conferencia,or,working conference on mining software repositories,100
+26,26,Brazilian Conference on Intelligent System,2020.0,A4,conferencia,er,brazilian conference on intelligent system,100
+27,27,"IX Seminário de Ensino, Pesquisa e Extensão - SEPE e III Encontro de Iniciação Científica - EIC",1994.0,,conferencia,sem,seminario de computacao e mercado,64
+28,28,I SRTF - I Simpósio Regional de Tolerância a Falhas,1996.0,,conferencia,im,workshop de testes e tolerancia a falhas,68
+29,29,15 Simpósio Brasileiro de Redes de Computadores,1997.0,A4,conferencia,im,simposio brasileiro de redes de computadores e sistemas distribuidos,94
+30,30,DOA ´01 - 3rd International Symposium on Distributed Objects and Applications,2001.0,A3,conferencia,er,international symposium on distributed computing,85
+31,31,FTDCS´2001 - 8th IEEE Workshop on Future Trends of Distributed Computing Systems,2001.0,,conferencia,works,international conference on distributed computing systems,74
+32,32,The Sixth International Symposium on Autonomous Decentralized Systems,2003.0,B1,conferencia,er,international symposium on autonomous decentralized systems,100
+33,33,International Symposium on Distributed Objects & Applications,2002.0,A3,conferencia,er,international symposium on distributed computing,85
+34,34,I Mostra UNIDERP de Ciência e Tecnologia,1999.0,,conferencia,er,audio mostly conference,57
+35,35,The 18th International Conference on Advanced Information Networking and Applications (AINA 2004),2004.0,A2,conferencia,er,ieee international conference on advanced information networking and applications,95
+36,36,Workshop de Tolerância a Falhas (WTF 2009),2009.0,,conferencia,works,workshop de testes e tolerancia a falhas,78
+37,37,XI Congresso Brasileiro de Agroinformática (SBIAgro 2017),2017.0,B4,conferencia,re,congresso brasileiro de agroinformatica,100
+38,38,VII SCTF - Simpósio de Computadores Tolerantes a Falhas,1997.0,,conferencia,sc,workshop de testes e tolerancia a falhas,68
+39,39,2º SEMANA EDUCACIONAL,2003.0,,conferencia,sem,information systems education conference,67
+40,40,"VII Workshop de Teses, Dissertações e Trabalhos de Iniciação Científica",2012.0,,conferencia,works,iberchip workshop,65
+41,41,2012 IEEE Latin America Conference on Cloud Computing and Communications (LatinCloud),,B4,conferencia,latin,ieee latin america conference on cloud computing and communications,100
+42,42,Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg),2014.0,B1,conferencia,im,simposio brasileiro em seguranca da informacao e de sistemas computacionais,100
+43,43,ACM 7th International conference on Management of computational and collective Intelligence in Digital EcoSystems (MEDES?15),2015.0,B2,conferencia,er,international cad conference,86
+44,44,6th IEEE Latin-American Conference on Communications (LATINCOM),2014.0,B2,conferencia,latin,ieee latin-american conference on communications,100
+45,45,IEEE/ACM Third International Workshop on Global and Peer-to-Peer Computing on Large Scale Distributed Systems,2003.0,B4,conferencia,er,international i*workshop,92
+46,46,IEEE Global Telecommunications Conference (Globecom 2003),2003.0,A1,conferencia,ec,ieee global communications conference,89
+47,47,IEEE Tenth International Conference on Parallel and Distributed Systems,2004.0,B1,conferencia,er,international conference on parallel and distributed systems,100
+48,48,IEEE/ACM/IFIP International Conference on HIgh Performance Computing,2004.0,A3,conferencia,er,ieee international conference on high performance computing,95
+49,49,The Fifth IEEE International Conference on Peer-to-Peer Computing,2005.0,B2,conferencia,er,international conference on peer-to-peer computing,100
+50,50,IEEE 39th Annual Hawaii International Conference on System Sciences (HICSS 2006),2006.0,A1,conferencia,ai,hawaii international conference on system sciences,100
+51,51,9th International Workshop on Peer-to-Peer Systems (IPTPS'10),2010.0,B4,conferencia,er,international i*workshop,92
+52,52,XVIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC'10),2010.0,A4,conferencia,im,simposio brasileiro de redes de computadores e sistemas distribuidos,100
+53,53,XXIX Concurso de Teses e Dissertações da Sociedade Brasileira de Computação  (CTD),2011.0,,conferencia,concur,simposio brasileiro de computacao musical,71
+54,54,XXXI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC'13),2013.0,A4,conferencia,im,simposio brasileiro de redes de computadores e sistemas distribuidos,100
+55,55,XXXIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC'15),2015.0,A4,conferencia,im,simposio brasileiro de redes de computadores e sistemas distribuidos,100
+56,56,the Conference of the ACM Special Interest Group,2017.0,B1,conferencia,er,international conference of the biometrics special interest group,81
+57,57,the ACM SIGCOMM 2018 Conference,2018.0,,conferencia,sigcomm,acm sigcomm conference,77
+58,58,XXXVII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos,2019.0,A4,conferencia,im,simposio brasileiro de redes de computadores e sistemas distribuidos,100
+59,59,the ACM SIGCOMM 2019 Conference Posters and Demos,2019.0,,conferencia,sigcomm,acm sigcomm conference,77
+60,60,the 15th International Conference,2019.0,B2,conferencia,er,international cad conference,92
+61,61,IFIP Networking Conference (NETWORKING),2020.0,A2,conferencia,networking,ifip networking conference,100
+62,62,USENIX Annual Technical Conference 2021 (USENIX ATC'21),2021.0,A1,conferencia,ec,usenix annual technical conference,100
+63,63,the Afternoon Workshop,2018.0,,conferencia,er,international workshop on collaborative virtual environments,68
+64,64,IV Simpósio Brasileiro de Sistemas Multimídia e Hipermídia,1998.0,B4,conferencia,iv,simposio brasileiro de sistemas eletricos,85
+65,65,"IX International ACM Conference on Hypertext and Hypermedia, Hypertext?98",1998.0,A3,conferencia,er,acm conference on hypertext and hypermedia,100
+66,66,"VIII International ACM Conference on Hypertext and Hypermedia, Hypertext?97",1997.0,A3,conferencia,er,acm conference on hypertext and hypermedia,100
+67,67,II Encontro para o Processamento Computacional do Português Escrito e Falado,1996.0,,conferencia,sam,workshop de visao computacional,68
+68,68,Workshop de pesquisas de tese em Engenharia de Software,1996.0,,conferencia,works,workshop iberchip,65
+69,69,International Symposium on Mathematics/Science Education and Technology,1994.0,B3,conferencia,er,international symposium compimage,85
+70,70,IV Simpósio Brasileiro de Informática na Educação,1993.0,A3,conferencia,iv,simposio brasileiro de informatica na educacao,100
+71,71,VII Annual Conference on Writing and Computers,1995.0,A3,conferencia,er,agile conference,81
+72,72,Semana Comemorativa dos 20 anos da Pós-Graduação em Ciências da Computação e Matemática Computacional do ICMSC-USP,1995.0,,conferencia,sem,simposio de mecanica computacional,74
+73,73,IX Conferencia Interamericana de Educación Matemaática,1995.0,,conferencia,er,conferencia latinoamericana de informatica,74
+74,74,"II Workshop em Sistemas Hipermídia, WOSH'96",1996.0,,conferencia,works,workshop iberchip,65
+75,75,II CIT,1995.0,A1,conferencia,cit,hawaii international conference on system sciences,83
+76,76,XX Colóquio de Incentivo a Pesquisa,1993.0,,conferencia,iv,simposio internacional de educacao a distancia e encontro de pesquisadores em educacao a distancia,60
+77,77,XIX Colóquio de Incentivo a Pesquisa,1992.0,,conferencia,iv,simposio internacional de educacao a distancia e encontro de pesquisadores em educacao a distancia,58
+78,78,ICECE2000 - International Conference on Engineering and Computer Education,2000.0,A3,conferencia,icec,international conference on web engineering,91
+79,79,WISE'99- Workshop Internacional Sobre Educação Virtual,1999.0,,conferencia,wise,workshop iberchip,76
+80,80,SUCESU 2004 - CONGRESSO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO,2004.0,B4,conferencia,re,congresso internacional de design da informacao,81
+81,81,"WWW/Internet 2007, IADIS International Conference WWW/Internet",2003.0,B4,conferencia,www,international conference on www/internet,96
+82,82,3o Congresso Nacional de Iniciação Científica,2003.0,,conferencia,re,encontro nacional de inteligencia artificial e computacional,69
+83,83,Conferência IADIS IBERO-AMERICANA WWW/Internet 2004,2004.0,,conferencia,er,conferencia latinoamericana de informatica,67
+84,84,"WWW/Internet 2004, IADIS International Conference WWW/Internet",2004.0,B4,conferencia,www,international conference on www/internet,96
+85,85,Conferência IADIS Ibero-Americana WWW/Internet 2004,2004.0,,conferencia,er,conferencia latinoamericana de informatica,67
+86,86,IV Evento Interno de Iniciação Científica da UFMS,2004.0,,conferencia,iv,seminario de computacao e mercado,55
+87,87,IV Encontro Interno de Iniciação Científica da UFMS,2004.0,,conferencia,iv,encontro nacional de inteligencia artificial e computacional,61
+88,88,Congresso Ibero-americano de Extensão Universitária / Congreso Iberoamericano de Extensión Universitaria,2005.0,,conferencia,re,congresso brasileiro de sistemas fuzzy,63
+89,89,XI Simpósio Brasileiro de Sistemas Multimídia e Web,2005.0,B4,conferencia,im,simposio brasileiro de sistemas eletricos,85
+90,90,WebMedia - Brazilian Symposium on Multimedia and the Web,2005.0,A4,conferencia,webmedia,brazilian symposium on multimedia and the web,100
+91,91,XXXII Conferencia Lationoamericana de Informática,2006.0,B2,conferencia,er,conferencia latinoamericana de informatica,98
+92,92,International Conference On Engineering And Computer Education,2007.0,A3,conferencia,er,international conference on web engineering,91
+93,93,I Conferência Internacional & II Seminário Regional de Educação Profissional e Tecnológica,2007.0,,conferencia,er,interaction latin america,64
+94,94,"WWW/Internet 2006, IADIS International Conference WWW/Internet",2006.0,B4,conferencia,www,international conference on www/internet,96
+95,95,"WWW/Internet 2007, IADIS International Conference WWW/Internet",2007.0,B4,conferencia,www,international conference on www/internet,96
+96,96,SEMISH - XXXIII Seminário Integrado de Software e Hardware,2006.0,B1,conferencia,sem,seminario integrado de software e hardware,100
+97,97,VIII Congresso Ibero-americano de Extensão Universitária,2005.0,,conferencia,re,congresso brasileiro de sistemas fuzzy,63
+98,98,3o Congresso Brasileiro de Extensão Universitária,2006.0,,conferencia,re,congresso brasileiro de automatica,76
+99,99,WTD - Workshop de Teses e Dissertações do Webmedia?2005 - Simpósio Brasileiro de Sistemas Multimídia e Web,2005.0,B4,conferencia,works,simposio brasileiro de sistemas eletricos,85
+100,100,"6th ACIS International Conference on Software Engineering Research, Management and Applications",2008.0,A1,conferencia,er,international conference on software engineering,100
+101,101,Proceedings of the 26th annual ACM international conference on Design of communication,2008.0,B2,conferencia,er,acm international conference on design of communication,100
+102,102,Annual Joint Conference Integrating Technology into Computer Science Education,2007.0,A3,conferencia,er,conference on innovation and technology in computer science education,87
+103,103,XXXVII Seminário Integrado de Software e Hardware - XXX Congresso da Sociedade Brasileira de Computação,2010.0,B1,conferencia,sem,seminario integrado de software e hardware,100
+104,104,CLEI 2006 - XXXII Conferencia Lationoamericana de Informática,2006.0,B2,conferencia,cl,conferencia latinoamericana de informatica,98
+105,105,XXXVI Conferência Latino-americana de Informática (XXXVI CLEI),2010.0,B2,conferencia,er,conferencia latinoamericana de informatica,98
+106,106,WebMedia - Brazilian Symposium on Multimedia and the Web,2010.0,A4,conferencia,webmedia,brazilian symposium on multimedia and the web,100
+107,107,WebMedia - Brazilian Symposium on Multimedia and the Web,2006.0,A4,conferencia,webmedia,brazilian symposium on multimedia and the web,100
+108,108,7o Congresso Brasileiro de Agroinformática,2009.0,B4,conferencia,re,congresso brasileiro de agroinformatica,100
+109,109,Simpósio Brasileiro de Sistemas de Informação,2011.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+110,110,Simpósio Brasileiro de Sistemas de Informação,2015.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+111,111,Simpósio Brasileiro de Qualidade de Software,2014.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+112,112,9th Latin American Web Congress (LAWEB),2014.0,B4,conferencia,latin,latin american web congress,100
+113,113,X Workshop de Manutenção de Software Moderna (WMSWM 2013) em conjunto com o XII Simpósio Brasileiro de Qualidade de Software (SBQS 2013),2013.0,B1,conferencia,works,simposio brasileiro de qualidade de software,100
+114,114,XXV Simpósio Brasileiro de Engenharia de Software,2011.0,B1,conferencia,im,simposio brasileiro de qualidade de software,84
+115,115,V Simpósio Brasileiro de Sistemas de Informação,2009.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+116,116,Second Workshop of the Brazilian Institute for Web Science Research,2011.0,,conferencia,sec,workshop on hybrid reasoning,68
+117,117,17th IEEE International Conference and Workshops on Engineering of Computer-Based Systems,2010.0,A4,conferencia,er,ieee international conference on rfid,89
+118,118,International Conference on Parallel and Distributed Processing Techniques and Applications,2000.0,B2,conferencia,er,international conference on parallel and distributed processing techniques and applications,100
+119,119,Workshop em Paralelismo e Otimização Combinatória,1998.0,,conferencia,works,workshop iberchip,65
+120,120,Reunião Especial da SBPC,1995.0,,conferencia,re,workshop de pesquisa experimental da internet do futuro,62
+121,121,Reunião Especial de SBPC,1995.0,,conferencia,re,workshop de gerencia e operacao de redes e servicos,62
+122,122,XXV Simpósio Brasileiro de Pesquisa Operacional,1993.0,B3,conferencia,im,simposio brasileiro de pesquisa operacional,100
+123,123,International Conference on Parallel and Distributed Processing Techniques and Applications,2001.0,B2,conferencia,er,international conference on parallel and distributed processing techniques and applications,100
+124,124,Simpósio Brasileiro de Arquitetura de Computadores - Processamento de Alto Desempenho,1992.0,B1,conferencia,im,simposio brasileiro de robotica,81
+125,125,Simpósio Brasileiro de Arquitetura de Computadores - Processamento de Alto Desempenho,1993.0,B1,conferencia,im,simposio brasileiro de robotica,81
+126,126,Conferência Latino Amaricana de Informática,1993.0,B2,conferencia,er,conferencia latinoamericana de informatica,95
+127,127,XII Congresso da Sociedade Brasileira de Computação - SEMISH,1992.0,,conferencia,re,simposio brasileiro de computacao musical,71
+128,128,Latin American Workshop on Cliques of Graphs,2002.0,B4,conferencia,latin,latin american workshop on cliques in graphs,95
+129,129,ACM Symposium on Parallel Algorithms and Architectures - SPAA'02,2002.0,A3,conferencia,or,acm symposium on parallelism in algorithms and architectures,90
+130,130,14th IASTED International Conference on Parallel and Distributed Computing and Systems,2002.0,B1,conferencia,ias,international conference on parallel and distributed systems,90
+131,131,I Brazillian Workshop on Bioinformatics,2002.0,B1,conferencia,works,brazilian symposium on bioinformatics,81
+132,132,International Parallel & Distributed Processing Symposium - IPDPS 2003,2003.0,A1,conferencia,er,ieee international parallel & distributed processing symposium,92
+133,133,The 15th Symposium on Computer Architecture and High Performance Computing - SBAC-PAD 2003,2003.0,A4,conferencia,om,international symposium on computer architecture and high performance computing,87
+134,134,Second Brazillian Workshop on Bioinformatics - WOB 2003,2003.0,B1,conferencia,sec,brazilian symposium on bioinformatics,81
+135,135,EuroPar,2004.0,A4,conferencia,euro,east european conference on advances in databases and information systems,86
+136,136,The 16th Symposium on Computer Architecture and High Performance Computing - SBAC-PAD 2004,2004.0,A4,conferencia,om,international symposium on computer architecture and high performance computing,87
+137,137,"2nd Brazilian Symposium on Graphs, Algorithms and Combinatorics - GRACO 2005",2005.0,,conferencia,or,european symposium on algorithms,75
+138,138,II Workshop on Computacional Grids and Applications - WCGA 2005,2005.0,,conferencia,works,workshop of urban computing,78
+139,139,The 2001 International Conference on Computacional Sciece,2001.0,B2,conferencia,er,international conference on computational science,97
+140,140,The 2003 International Conference on Computacional Sciece and Its Applications (ICCSA 2003),2003.0,A3,conferencia,er,international conference on computational science and its applications,97
+141,141,10th EuroPVM/MPI 2003,2003.0,,conferencia,euro,eurohaptics,55
+142,142,11th EuroPVM/MPI 2004,2004.0,,conferencia,euro,eurohaptics,55
+143,143,Simpósio Brasileiro de Jogos para Computador e Entretenimento Digital (SBGames 2005 - WJogos 2005),2005.0,B1,conferencia,im,simposio brasileiro de robotica,84
+144,144,Euro-Par 2006,2006.0,,conferencia,euro,east european conference on advances in databases and information systems,54
+145,145,"International Conference on Parallel and Distributed Computing and Systems (PDCS 2005),",2005.0,B1,conferencia,er,international conference on parallel and distributed systems,90
+146,146,Workshop em Sistemas Computacionais de Alto Desempenho - WSCAD 2006,2006.0,B1,conferencia,works,simposio em sistemas computacionais de alto desempenho,91
+147,147,Seventh IEEE International Symposium on Cluster Computing and the Grid - CCGrid 2007,2007.0,A3,conferencia,er,international symposium on visual computing,86
+148,148,"Proc. of the High Performance Computing and Simulation Conference (HPCS 2007),",2007.0,B4,conferencia,er,social simulation conference,82
+149,149,"International Colloquium on Automata, Languages and Programming - ICALP 97",1997.0,A2,conferencia,er,"international colloquium on automata, languages, and programming",98
+150,150,26th Workshop on Graph Theoretic Concepts in Computer Science,2000.0,A3,conferencia,works,international workshop on graph-theoretic concepts in computer science,92
+151,151,2nd. International Latin American Grid Workshop LAGrid 2008,2008.0,B4,conferencia,er,interaction latin america,88
+152,152,"10th International Conference on High Performance Computing, Grid and e-Science in Asia Pacific Region",2009.0,A3,conferencia,er,ieee international conference on high performance computing,93
+153,153,International Conference on High Performance Computing and Simulation - HPCS 2010,2010.0,A4,conferencia,er,international conference on high performance computing & simulation,96
+154,154,Latin American Conference on High Performance Computing (CLCAR 2010),2010.0,A3,conferencia,latin,ieee international conference on high performance computing,80
+155,155,Brazilian Symposium on Bioinformatics,2012.0,B1,conferencia,or,brazilian symposium on bioinformatics,100
+156,156,The 41st International Conference on Parallel Processing Workshops,2012.0,B2,conferencia,er,parallel processing workshops,100
+157,157,XLVI Simpósio Brasileiro de Pesquisa Operacional,2012.0,B3,conferencia,im,simposio brasileiro de pesquisa operacional,100
+158,158,XIV Simpósio em Sistemas Computacionais (WSCAD-SSC),2013.0,,conferencia,iv,simposio de mecanica computacional,76
+159,159,"2014 International Workshop on Programming Models and Applications for Multicores and Manycores, in conjunction with PPoPP '14 ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming",2014.0,A2,conferencia,er,acm sigplan symposium on principles and practice of parallel programming,100
+160,160,2014 XL Latin American Computing Conference (CLEI),2014.0,B4,conferencia,latin,latin american networking conference,83
+161,161,XLVI Simpósio Brasileiro de Pesquisa Operaciona,2014.0,B3,conferencia,im,simposio brasileiro de pesquisa operacional,99
+162,162,2014 International Conference on Computational Science,2014.0,B2,conferencia,er,international conference on computational science,100
+163,163,The 15th International Conference on Computational Science and Its Applications (ICCSA 2015),2015.0,B2,conferencia,er,international conference on computational science,100
+164,164,International Conference on Computational Science - ICCS 2015,2015.0,B2,conferencia,er,international conference on computational science,100
+165,165,16th International Conference Computational Science and Its Applications ? ICCSA 2016,2016.0,A3,conferencia,er,international conference on computational science and its applications,96
+166,166,2016 28th International Symposium on Computer Architecture and High Performance Computing (SBACPAD),2016.0,A1,conferencia,er,international symposium on computer architecture,100
+167,167,18th International Conference on High Performance Computing and Communications,2016.0,A3,conferencia,er,international conference on high performance computing and communications,100
+168,168,2017 International Symposium on Computer Architecture and High Performance Computing Workshops (SBACPADW),2017.0,A1,conferencia,er,international symposium on computer architecture,100
+169,169,Simpósio em Sistemas Computacionais de Alto Desempenho - WSCAD 2017,2017.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+170,170,30th International Symposium on Computer Architecture and High Performance Computing,2018.0,A1,conferencia,er,international symposium on computer architecture,100
+171,171,International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP),2007.0,B1,conferencia,er,international conference on algorithms and architectures for parallel processing,100
+172,172,IEEE International Workshop on Genomic Signal Processing and Statistics,2009.0,B4,conferencia,er,international i*workshop,92
+173,173,International Conference on Intelligent Systems for Molecular Biology,2006.0,A4,conferencia,er,brazilian conference on intelligent system,88
+174,174,International Symposium on Bioinformatics Research and Applications,2010.0,A4,conferencia,er,international symposium on bioinformatics research and applications,100
+175,175,1° Reunião da ABECO e 5° Simpósio de Ecologia Teórica,2016.0,,conferencia,re,workshop de tecnologia adaptativa,62
+176,176,2018 International Conference on Computer Science and its Applications - ICCSA,2018.0,A3,conferencia,er,international conference on computer design,93
+177,177,2018 International Conference on Computational Sciences and its Applications - ICCSA,2018.0,B2,conferencia,er,international conference on computational science,100
+178,178,2016 IEEE 16th International Conference on Bioinformatics and Bioengineering (BIBE),,A3,conferencia,er,ieee international conference on bioinformatics and bioengineering,94
+179,179,VI Encontro de Iniciação Científica (Módulo PIBIC/CNPq: UFG-UFU-UFMS-UCG-UCDB),1996.0,,conferencia,cie,ieee scientific visualization,55
+180,180,III SECICOM - Semana de Ciência da Computação,2000.0,,conferencia,sec,simposio de mecanica computacional,62
+181,181,X Seminário Regional de Informática,2000.0,,conferencia,sem,simposio internacional de informatica educatica,71
+182,182,I WORTEC - Workshop Regional de Tecnologia em Computação,2001.0,,conferencia,or,workshop de tecnologia adaptativa,70
+183,183,International Conference on Parallel and Distributed Processing Techniques and Applications,2004.0,B2,conferencia,er,international conference on parallel and distributed processing techniques and applications,100
+184,184,X Simpósio de Informática - SIMS 2005,2005.0,,conferencia,im,simposio de instrumentacao e imagens medicas,68
+185,185,ICANNGA - International Conference on Adaptive and Natural Computing Algorithms,2005.0,B2,conferencia,icann,international cad conference,86
+186,186,IV Congresso Iberdiscap: Tecnologias de Apoio a Portadores de Deficiência,2006.0,,conferencia,iv,congresso sobre tecnologias na educacao,69
+187,187,Workshop de Dissertações de Mestrado em Andamento,2001.0,,conferencia,works,workshop iberchip,65
+188,188,Euro PVM/MPI - European Parallel Virtual Machine and Message Passing Interface Conference,2003.0,A3,conferencia,euro,agile conference,81
+189,189,I WTA - Workshop de Tecnologia Adaptativa,2007.0,B4,conferencia,wta,workshop de tecnologia adaptativa,100
+190,190,III COMSULMT - Congresso de Computação do Sul de Mato Grosso,2007.0,,conferencia,om,seminario de computacao e mercado,64
+191,191,III Workshop de Tecnologia Adaptativa - WTA2009,2009.0,B4,conferencia,works,workshop de tecnologia adaptativa,100
+192,192,12o. Congresso Regional de Informática e Telecomunicações de Mato Grosso,2008.0,,conferencia,re,congresso brasileiro de informatica em saude,75
+193,193,"I Feira de Tecnologias, Engenharias e Ciências de Mato Grosso do Sul - FETEC-MS",2011.0,,conferencia,ec,future technologies conference,60
+194,194,"Feira de Tecnologia, Engenharia e Ciências de Mato Grosso do Sul (I FETEC-MS)",2011.0,,conferencia,ec,workshop de tecnologia adaptativa,58
+195,195,XIII Sudeste PET,2013.0,,conferencia,pet,"international symposium on communication systems, networks and digital signal processing",56
+196,196,XX Workshop de Informática na Escola (WIE 2014),2014.0,A4,conferencia,works,workshop de informatica na escola,100
+197,197,X Workshop de Visão Computacional (WVC 2014),2014.0,B4,conferencia,works,workshop de visao computacional,100
+198,198,Conference and Labs of the Evaluation Forum (CLEF 2014),2014.0,B3,conferencia,er,conference and labs of the evaluation forum,100
+199,199,VIII Workshop de Tecnologia Adaptativa (WTA 2014),2014.0,B4,conferencia,works,workshop de tecnologia adaptativa,100
+200,200,42o. Seminário Integrado de Software e Hardware (SEMISH 2015),2015.0,B1,conferencia,sem,seminario integrado de software e hardware,100
+201,201,XXI Workshop de Informática na Escola,,A4,conferencia,works,workshop de informatica na escola,100
+202,202,XXVI Simpósio Brasileiro de Informática na Educação,,A3,conferencia,im,simposio brasileiro de informatica na educacao,100
+203,203,I Concurso Integrado de Desenvolvimento de Soluções de Tecnologia e Objetos de Aprendizagem para a Educação,,,conferencia,concur,workshop de desenvolvimento distribuido de software,63
+204,204,Encontro de Extensão Universitária da UFMS (ENEX2014),2015.0,,conferencia,iv,workshop de testes e tolerancia a falhas,55
+205,205,Encontro de Extensão Universitária da UFMS (ENEX2014),2014.0,,conferencia,iv,workshop de testes e tolerancia a falhas,55
+206,206,X Congresso Brasileiro de Agroinformática (SBIAGRO 2015),2015.0,B4,conferencia,re,congresso brasileiro de agroinformatica,100
+207,207,2016 XI Latin American Conference on Learning Objects and Technology (LACLO),2016.0,B2,conferencia,latin,latin american conference on learning objects and technologies,95
+208,208,Computer on the Beach 2015,2015.0,B3,conferencia,om,computer on the beach,100
+209,209,Workshops do Congresso Brasileiro de Informática na Educação,2016.0,B2,conferencia,works,workshops do congresso brasileiro de informatica na educacao,100
+210,210,XXII Workshop de Informática na Escola,2016.0,A4,conferencia,works,workshop de informatica na escola,100
+211,211,XXIV Ciclo de Palestras sobre Novas Tecnologias na Educação - CINTED 2016,2016.0,B4,conferencia,iv,congresso sobre tecnologias na educacao,82
+212,212,Mostra Nacional de Robótica - MNR,2016.0,,conferencia,-,congresso internacional de ergonomia e usabilidade de interfaces humano computador,67
+213,213,X Workshop de Tecnologia Adaptativa - WTA 2016,2016.0,B4,conferencia,works,workshop de tecnologia adaptativa,100
+214,214,XI Workshop de Visão Computacional - WVC 2015,2015.0,B4,conferencia,works,workshop de visao computacional,100
+215,215,I Encontro Centro-Oeste dos Grupos PET - ECOPET 2014,2014.0,,conferencia,pet,american control conference,52
+216,216,Computer on the Beach,2019.0,B3,conferencia,om,computer on the beach,100
+217,217,VIII Workshop de Desafios da Computação Aplicada à Educação - DesafIE,2019.0,B4,conferencia,works,workshop de desafios da computacao aplicada a educacao,100
+218,218,Computer on the Beach,2021.0,B3,conferencia,om,computer on the beach,100
+219,219,Workshop sobre Educação em Computação,2021.0,A4,conferencia,works,workshop sobre educacao em computacao,100
+220,220,IGARSS 2019 2019 IEEE International Geoscience and Remote Sensing Symposium,2019.0,A3,conferencia,igarss,ieee international geoscience and remote sensing symposium,100
+221,221,ENIAC - Encontro Nacional de Inteligência Artificial e Computacional,2017.0,B4,conferencia,eniac,encontro nacional de inteligencia artificial e computacional,100
+222,222,Workshop de Tecnologia da Informação e Comunicação das Instituições Federais de Ensino Superior,2017.0,B4,conferencia,works,workshop de tecnologia da informacao e comunicacao das instituicoes federais de ensino superior do brasil,100
+223,223,IV Fórum de Educação em Engenharia de Software/ II Congresso Brasileiro de Software: Teoria e Prática (CBSoft),2011.0,,conferencia,iv,congresso brasileiro de automatica,79
+224,224,VII WAMPS - VII Workshop Anual do MPS,2011.0,,conferencia,am,workshop on exascale mpi,67
+225,225,XXII SBIE - XXII Simpósio Brasileiro de Informática na Educação,2011.0,A3,conferencia,sbie,simposio brasileiro de informatica na educacao,100
+226,226,XXIV CIUFLA - XXIV Congresso de Iniciação Científica da UFLA,2011.0,,conferencia,iv,congresso brasileiro de automatica,56
+227,227,XI Simpósio Brasileiro de Qualidade de Software,2012.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+228,228,2012 IEEE 13th International Conference on Information Reuse &amp; Integration (IRI),,A2,conferencia,er,international conference on information fusion,91
+229,229,25th International Conference on Software Engineering and Knowledge Engineering (SEKE),2013.0,A1,conferencia,er,international conference on software engineering,100
+230,230,IV Congresso Brasileiro de Software: Teoria e Prática,2013.0,,conferencia,iv,congresso brasileiro de automatica,79
+231,231,2016 IEEE International Conference on Software Maintenance and Evolution (ICSME),2016.0,A2,conferencia,er,ieee international conference on software maintenance and evolution,100
+232,232,Workshop on Experimental Software Engineering - CIbSE,2015.0,B2,conferencia,works,software engineering track,85
+233,233,"V Workshop on Software Visualization, Evolution and Maintenance (VEM)",2017.0,B1,conferencia,works,"workshop on software visualization, evolution and maintenance",100
+234,234,12th International Conference on Predictive Models and Data Analytics in Software Engineering,2016.0,B2,conferencia,er,international conference on predictive models and data analytics in software engineering,100
+235,235,2013 20th Working Conference on Reverse Engineering (WCRE),2013.0,A3,conferencia,or,working conference on reverse engineering,100
+236,236,15th International Conference on Computing,2006.0,A4,conferencia,er,acm international conference on computing frontiers,90
+237,237,The Eleventh Annual International Computing and Combinatorics Conference (COCOON 2005),2005.0,A4,conferencia,er,international computing and combinatorics conference,100
+238,238,"IV Latin-American Algorithms, Graphs and Optimization Symposium",2007.0,B3,conferencia,iv,"latin-american algorithms, graphs and optimization symposium",100
+239,239,8th Workshop on Algorithms in Bioinformatics (WABI),2008.0,A3,conferencia,works,workshop on algorithms in bioinformatics,100
+240,240,14th Workshop on Algorithms in Bioinformatics (WABI 2014),2014.0,A3,conferencia,works,workshop on algorithms in bioinformatics,100
+241,241,9th Brazilian Symposium on Bioinformatics (BSB 2014),2014.0,B1,conferencia,or,brazilian symposium on bioinformatics,100
+242,242,"16th Workshop on Algorithms in Bioinformatics (WABI),",2016.0,A3,conferencia,works,workshop on algorithms in bioinformatics,100
+243,243,Workshop on Algorithms in Bioinformatics,2020.0,A3,conferencia,works,workshop on algorithms in bioinformatics,100
+244,244,Concurso de Teses e Dissertações da SBC,,,conferencia,concur,workshop de testes e tolerancia a falhas,62
+245,245,32nd International Symposium on Algorithms and Computation (ISAAC 2021),2021.0,A3,conferencia,er,international symposium algorithms and computation,94
+246,246,15th RECOMB Comparative Genomics Satellite Conference,2017.0,A3,conferencia,re,agile conference,81
+247,247,XII Encontro de Pesquisa em Ensino de Física,2010.0,,conferencia,sin,simposio internacional de educacao a distancia e encontro de pesquisadores em educacao a distancia,68
+248,248,The Third International Society for Computational Biology Latin America X-Meeting on Bioinformatics with BSB and SoiBio (ISCB-Latin America),2014.0,,conferencia,er,international conference on computational logistics,75
+249,249,"8th International Conference on Bioinformatics Models, Methods and Algorithms",2017.0,A3,conferencia,er,international conference on social informatics,87
+250,250,Simpósio Brasileiro de Banco de Dados,2002.0,A4,conferencia,im,simposio brasileiro de banco de dados,100
+251,251,4a Jornada Científica da Embrapa Gado de Cort,2008.0,,conferencia,or,annual conference and international lidar mapping forum,51
+252,252,VII Congresso Brasileiro de Agroinformática,2009.0,B4,conferencia,re,congresso brasileiro de agroinformatica,100
+253,253,XXXVI Conferência Latino-Americana de Informática,2010.0,B2,conferencia,er,conferencia latinoamericana de informatica,98
+254,254,Simpósio Brasileiro de Qualidade de Software,,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+255,255,the 24th Brazilian Symposium,2018.0,,conferencia,-,brazilian symposium on bioinformatics,68
+256,256,Network and Distributed System Security Symposium,2019.0,A1,conferencia,or,network and distributed system security symposium,100
+257,257,WWW &apos;20: The Web Conference 2020,2020.0,,conferencia,www,agile conference,75
+258,258,WebMedia &apos;20: Brazillian Symposium on Multimedia and the Web,,A4,conferencia,webmedia,brazilian symposium on multimedia and the web,98
+259,259,Brazilian Workshop on Social Network Analysis and Mining,2021.0,B3,conferencia,works,brazilian workshop on social network analysis and mining,100
+260,260,VI Jornada Científica de Economia e Administração do Centro-Oeste,2008.0,,conferencia,or,congresso internacional de ergonomia e usabilidade de interfaces humano computador,54
+261,261,Congresso SIMAI,2000.0,B4,conferencia,re,congresso brasileiro de pesquisadores em cibercultura,80
+262,262,Europar'99,1999.0,,conferencia,euro,east european conference on advances in databases and information systems,60
+263,263,SPIE/IS&T Symposium on Electronic Imaging: Science and Technology,1998.0,,conferencia,spie,south symposium on microelectronics,74
+264,264,Action COST 230 Final Report,1998.0,,conferencia,re,workshop on core computations on spatial information,57
+265,265,"International Conference on Computational Intelligence and Multimedia Applications, ICCIMA'97",1997.0,B2,conferencia,er,international conference on computational science,92
+266,266,"Techical Report, Università Tor Vergata",1997.0,,conferencia,ec,technological ecosystems for enhancing multiculturality,51
+267,267,9as jornadas Científico Técnicas de Ingeniería,1995.0,,conferencia,or,workshop de tecnologia da informacao e comunicacao das instituicoes federais de ensino superior do brasil,59
+268,268,Proceedings of the thirteenth IASTED International Conference,1995.0,B2,conferencia,ias,international cad conference,86
+269,269,"Scientific Report, IBM Scientific Center",1991.0,,conferencia,sc,siam workshop on combinatorial scientific computing,55
+270,270,"Research Workshop in Seismic Imaging and Parameter Estimation in Heterogeneous Media, Sociedade Brasileira de Geofísica - SBGF.",1990.0,,conferencia,re,iberchip workshop,76
+271,271,Instituto Colombiano del Petróleo,1991.0,,conferencia,om,"international conference on probabilistic, combinatorial and asymptotic methods for the analysis of algorithms",55
+272,272,III Semana Técnica Internacional de Ingeniería de Petróleos,1991.0,,conferencia,sem,international cad conference,68
+273,273,PDPTA'04 - The 2004 International Conference on Parallel and Distributed Processing Techniques and Applications,2004.0,B2,conferencia,pdp,international conference on parallel and distributed processing techniques and applications,100
+274,274,Research Workshop in Computer Science. UNAES,2004.0,,conferencia,re,iberchip workshop,76
+275,275,ANDESCON 2008,2008.0,,conferencia,sc,"workshop on social, human, and economic aspects of software",62
+276,276,"VIII Conferência Internacional de Aplicações Industriais - INDUSCON,",2008.0,,conferencia,er,congreso internacional de informatica educativa,66
+277,277,"5 Congreso de Informática & Sistema de Sudamérica, 2006",2006.0,,conferencia,re,congresso brasileiro de informatica em saude,70
+278,278,5 Congreso de Informática & Sistema de Sudamérica,2006.0,,conferencia,re,congresso brasileiro de informatica em saude,70
+279,279,39th International Symposium on Multiple-Valued Logic,2009.0,B1,conferencia,er,ieee international symposium on multiple-valued logic,92
+280,280,III Congresso Tecnológico InfoBrasil,2009.0,,conferencia,re,congresso sobre tecnologias na educacao,61
+281,281,"XVI Congreso Internacional de Ingeniería Eléctrica, Electrónica y Sistemas",2009.0,,conferencia,re,congreso internacional de informatica educativa,79
+282,282,IEEE-Peru intercon2010,2010.0,,conferencia,er,ieee-embs international conference on wearable and implantable body sensor networks,64
+283,283,Lascas 2011,2011.0,,conferencia,lascas,symposium on theoretical aspects of computer science,55
+284,284,"International Conference on Industry Applications (INDUSCON), 2012",2012.0,B3,conferencia,er,international conference on industry applications,100
+285,285,lascas2019,2019.0,,conferencia,lascas,workshop on detection and classification of acoustic scenes and events,50
+286,286,WorldCist'19,2019.0,,conferencia,or,world summit on the kowledge society,58
+287,287,Proceedings of the 2nd. IEEE Workshop on Fault-Tolerant Parallel and Distributed Systems.,1997.0,,conferencia,works,international conference on parallel and distributed systems,70
+288,288,PDPTA,2001.0,B4,conferencia,pdp,workshop de tecnologia adaptativa,80
+289,289,WPOC,1998.0,,conferencia,-,"three-dimensional image processing, measurement and applications",75
+290,290,SBAC-PAD,2003.0,,conferencia,sbac-pad,asia-pacific conference on intelligent robot systems,62
+291,291,"V Latin American Algorithms, Graphs, and Optimization Symposium",2007.0,B3,conferencia,latin,"latin-american algorithms, graphs and optimization symposium",97
+292,292,HPC´12 High Performance Computing Sysposium,2012.0,,conferencia,er,international conference on high performance computing & simulation,77
+293,293,2013 IEEE 13th International Conference on Bioinformatics and Bioengineering (BIBE),2013.0,A3,conferencia,er,ieee international conference on bioinformatics and bioengineering,94
+294,294,2015 IEEE 15th International Conference on Bioinformatics and Bioengineering (BIBE),2015.0,A3,conferencia,er,ieee international conference on bioinformatics and bioengineering,94
+295,295,2017 IEEE 17th International Conference on Bioinformatics and Bioengineering (BIBE),2017.0,A3,conferencia,er,ieee international conference on bioinformatics and bioengineering,94
+296,296,"2018 26th Euromicro International Conference on Parallel, Distributed and Networkbased Processing (PDP)",2018.0,A3,conferencia,euro,"euromicro international conference on parallel, distributed and network-based processing",99
+297,297,2018 International Conference on Computer Science and its Applications - ICCSA 2018,2018.0,A3,conferencia,er,international conference on computer design,93
+298,298,2019 IEEE 19th International Conference on Bioinformatics and Bioengineering (BIBE),2019.0,A3,conferencia,er,ieee international conference on bioinformatics and bioengineering,94
+299,299,2021 International Conference on Computational Science and Its Applications,2021.0,B2,conferencia,er,international conference on computational science,100
+300,300,International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA),2015.0,B2,conferencia,er,international conference on parallel and distributed processing techniques and applications,100
+301,301,2015 IEEE 15th International Conference on Bioinformatics and Bioengineering (BIBE),,A3,conferencia,er,ieee international conference on bioinformatics and bioengineering,94
+302,302,16th Workshop on Algorithms in Bioinformatics (WABI 2016),2016.0,A3,conferencia,works,workshop on algorithms in bioinformatics,100
+303,303,15th RECOMB Comparative Genomics Satellite Conference (RECOMB-CG 2017),2017.0,A3,conferencia,re,agile conference,81
+304,304,20th International Workshop on Algorithms in Bioinformatics (WABI 2020),2020.0,A3,conferencia,er,workshop on algorithms in bioinformatics,100
+305,305,Concurso de Teses e Dissertações da SBC,2020.0,,conferencia,concur,workshop de testes e tolerancia a falhas,62
+306,306,Proc. 2004 International Conference on Parallel and Distributed Processing Techniques and Applications,2004.0,B2,conferencia,er,international conference on parallel and distributed processing techniques and applications,100
+307,307,VI Workshop em Sistemas Computacionais de Alto Desempenho (WSCAD),2005.0,B1,conferencia,works,simposio em sistemas computacionais de alto desempenho,91
+308,308,V Congresso Brasileiro de Agroinformática,2005.0,B4,conferencia,re,congresso brasileiro de agroinformatica,100
+309,309,WCCA 2006 - World Congress on Computers in Agriculture,2006.0,,conferencia,cc,world congress on biosensors,79
+310,310,"SIMCRA 2006 - Simpósio de Construções Rurais e Ambientes Protegidos, 2006",2006.0,,conferencia,im,simposio de instrumentacao e imagens medicas,61
+311,311,III Comgresso de Computação do Sul de Mato Grosso,2007.0,,conferencia,om,seminario de computacao e mercado,64
+312,312,IEEE Sensors Applications Sympsium,2008.0,A4,conferencia,sensors,ieee sensors,100
+313,313,Congresso Brasileiro de Automática (CBA),2008.0,B4,conferencia,re,congresso brasileiro de automatica,100
+314,314,Wokshop de Tecnologia Adaptatia,2009.0,B4,conferencia,ec,workshop de tecnologia adaptativa,97
+315,315,XI Encontro de Iniciação Científic da UCDB,2006.0,,conferencia,cie,encontro nacional da associacao nacional de pos-graduacao e pesquisa em administracao,57
+316,316,7º Simpósio Brasileiro de Agroinformática,2009.0,B4,conferencia,im,congresso brasileiro de agroinformatica,85
+317,317,XI Encontro de Iniciação Científica da UCDB,2007.0,,conferencia,cie,encontro nacional de inteligencia artificial e computacional,58
+318,318,XIII Encontro de Iniciação Científica da UCDB,2009.0,,conferencia,cie,encontro nacional de inteligencia artificial e computacional,56
+319,319,Workshop de Tecnologia Adaptatiava (2010),2010.0,B4,conferencia,works,workshop de tecnologia adaptativa,97
+320,320,Sensors Applications Symposium,2010.0,B1,conferencia,sensors,ieee sensors applications symposium,100
+321,321,XIII Encontro de Iniciação Científica,2009.0,,conferencia,cie,encontro nacional de inteligencia artificial e computacional,59
+322,322,1o. Simpo&#769;sio Brasileiro de Pecua&#769;ria de Precisa&#771;o Aplicada a&#768; Bovinocultura de Corte,2014.0,,conferencia,im,simposio brasileiro de robotica,74
+323,323,1o. Simpósio Brasileiro de Pecuária de Precisão Aplicada à Bovinocultura de Corte,2014.0,B1,conferencia,im,simposio brasileiro de robotica,84
+324,324,X Congresso Brasileiro de Agroinfomática,2015.0,B4,conferencia,re,congresso brasileiro de agroinformatica,99
+325,325,XII Encontro de Iniciação Científic da UCDB,2008.0,,conferencia,cie,encontro nacional de inteligencia artificial e computacional,58
+326,326,VII Encontro de Iniciação Científica,1999.0,,conferencia,cie,encontro nacional de inteligencia artificial e computacional,61
+327,327,VI Encontro de Iniciação Científica,1998.0,,conferencia,cie,encontro nacional de inteligencia artificial e computacional,60
+328,328,"14th Annual International Computing and Combinatorics Conference, COCOON 2008",2008.0,A4,conferencia,er,international computing and combinatorics conference,100
+329,329,Cologne-Twente Workshop on Graphs and Combinatorial Optimization,2009.0,B3,conferencia,works,cologne-twente workshop on graphs and combinatorial optimization,100
+330,330,"LAGOS'11 ? VI Latin-American Algorithms, Graphs and Optimization Symposium",2011.0,B3,conferencia,lagos,"latin-american algorithms, graphs and optimization symposium",100
+331,331,"LAGOS'09 ? V Latin-American Algorithms, Graphs and Optimization Symposium",,B3,conferencia,lagos,"latin-american algorithms, graphs and optimization symposium",100
+332,332,XLIII Simpósio Brasileiro de Pesquisa Operacional (SBPO),2011.0,B3,conferencia,im,simposio brasileiro de pesquisa operacional,100
+333,333,Simpósio Brasileiro de Pesquisa Operacional,2012.0,B3,conferencia,im,simposio brasileiro de pesquisa operacional,100
+334,334,Alice Brasil,2012.0,,conferencia,-,congresso de engenharia de audio da audio engineering society brasil.,75
+335,335,ALIO/EURO - Workshop on Applied Combinatorial Optimization,2014.0,B4,conferencia,alio/euro,workshop on applied combinatorial optimization,100
+336,336,XLVII Simpósio Brasileiro de Pesquisa Operacional,2015.0,B3,conferencia,im,simposio brasileiro de pesquisa operacional,100
+337,337,Congresso Nacional de Matemática Aplicada e Computacional,2018.0,B3,conferencia,re,congresso nacional de matematica aplicada e computacional,100
+338,338,XIX Latin-Iberoamerican Conference on Operations Research - CLAIO,2018.0,B4,conferencia,latin,european conference on operational research,86
+339,339,Encontro de Teoria da Computação (ETC 2020),2020.0,,conferencia,or,workshop de visao computacional,61
+340,340,2013 International Symposium on Rapid System Prototyping (RSP),,B2,conferencia,er,ieee international symposium on rapid system prototyping,93
+341,341,Workshop de Sistemas Computacionais de Alto Desempenho - Simpósio em Sistemas Computacionais,2013.0,B1,conferencia,works,simposio em sistemas computacionais de alto desempenho,89
+342,342,28th IEEE International System-on-Chip Conference,2015.0,B4,conferencia,er,ieee international system-on-chip conference,100
+343,343,the 32nd Symposium,2019.0,,conferencia,-,ieee annual symposium on foundations of computer science,72
+344,344,2020 33rd Symposium on Integrated Circuits and Systems Design (SBCCI),2020.0,A4,conferencia,its,symposium on integrated circuits and systems design,100
+345,345,2012 13th Symposium on Computer Systems XIII Simp sio de Sistemas Computacionais (WSCADSSC),,,conferencia,om,simposio de mecanica computacional,76
+346,346,Parallel and Distributed Techniques and Applications Conference,2001.0,B2,conferencia,dis,international conference on parallel and distributed processing techniques and applications,83
+347,347,Workshop de Teses e Dissertações Defendidas,2001.0,,conferencia,works,workshop de gerencia e operacao de redes e servicos,65
+348,348,I WPerformance,2002.0,nulo,conferencia,wperformance,latin american high performance computing conference,86
+349,349,IV Workshop de Sistemas Distribuidos y Paralelismo,2002.0,,conferencia,iv,workshop de software livre,69
+350,350,XI Simpósio Internacional de Iniciação Científica da Universidade de São Paulo,2003.0,,conferencia,im,simposio internacional de informatica educatica,79
+351,351,V Workshop de Sistemas Computacionais de Alto Desempenho (WSCAD),2004.0,B1,conferencia,works,simposio em sistemas computacionais de alto desempenho,89
+352,352,International Workshop on Reconfigurable Architectures,2006.0,B4,conferencia,er,international i*workshop,92
+353,353,17th IEEE International Conference on Application-specific Systems Architectures and Processors,2006.0,A4,conferencia,er,"ieee international conference on application-specific systems, architectures and processors",99
+354,354,XXXIX Simpósio Brasileiro de Pesquisa Operacional,2007.0,B3,conferencia,im,simposio brasileiro de pesquisa operacional,100
+355,355,II Workshop de Educação em Arquiteturas de Computadores,2007.0,,conferencia,works,workshop sobre educacao em computacao,70
+356,356,Brazilian Symposium on Programming Languages,2008.0,A4,conferencia,am,brazilian symposium on programming languages,100
+357,357,Simpósio Brasileiro de Pesquisa Operacional,2008.0,B3,conferencia,im,simposio brasileiro de pesquisa operacional,100
+358,358,IX Simpósio em Sistemas Computacionais WSCAD-SSC,2008.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,81
+359,359,39th International Symposium on Multiple Valued Logic,2009.0,B1,conferencia,er,ieee international symposium on multiple-valued logic,91
+360,360,XIII Simpósio Brasileiro de Linguagens de Programação,2009.0,B1,conferencia,im,simposio brasileiro de robotica,81
+361,361,ALIO-INFORMS Joint International Meeting,2010.0,,conferencia,or,international cad conference,69
+362,362,XLII Simpósio Brasileiro de Pesquisa Operacional,2010.0,B3,conferencia,im,simposio brasileiro de pesquisa operacional,100
+363,363,WSCAD-WIC,2010.0,,conferencia,wsc,ow - international conference on ad-hoc networks and wireless,56
+364,364,2011 IEEE Second Latin American Symposium on Circuits and Systems (LASCAS),,B1,conferencia,sec,ieee latin american symposium on circuits and systems,92
+365,365,2012 13th Symposium on Computer Systems  XIII Simp sio de Sistemas Computacionais (WSCADSSC),,,conferencia,om,simposio de mecanica computacional,76
+366,366,XLIV SBPO/XVI CLAIO,2012.0,,conferencia,iv,annual symposium on computer-human interaction in play,47
+367,367,10th IEEE/IAS International Conference on Industry Applications,2012.0,B3,conferencia,ias,international conference on industry applications,100
+368,368,16th BRAZILIAN SYMPOSIUM ON PROGRAMMING LANGUAGES,2012.0,A4,conferencia,am,brazilian symposium on programming languages,100
+369,369,XXXIII Congresso da Sociedade Brasileira de Computação - Concurso de Trabalhos de Iniciação Científica,2013.0,,conferencia,re,simposio brasileiro de computacao musical,71
+370,370,2014 IEEE Frontiers in Education Conference Proceedings (FIE),2014.0,A3,conferencia,er,ieee frontiers in education conference,100
+371,371,Frontiers in Education Conference,2014.0,A3,conferencia,er,ieee frontiers in education conference,100
+372,372,XV Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD 2014),2014.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+373,373,2015 28th IEEE International SystemonChip Conference (SOCC),,B4,conferencia,er,ieee international system-on-chip conference,95
+374,374,Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD),2015.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+375,375,28th International Symposium on Computer Architecture and High Performance Computing,2016.0,A1,conferencia,er,international symposium on computer architecture,100
+376,376,7th Workshop on Applications for Multi-Core Architectures,2016.0,B4,conferencia,works,workshop on applications for multi-core architectures,100
+377,377,SIMPÓSIO BRASILEIRO DE PECUÁRIA DE PRECISÃO APLICADA À BOVINOCUTURA DE CORTE,2014.0,B1,conferencia,im,simposio brasileiro de robotica,84
+378,378,Workshop de Computação Heterogênea,2018.0,,conferencia,works,workshop de computacao em clouds e aplicacoes,76
+379,379,2019 31st International Symposium on Computer Architecture and High Performance Computing (SBACPAD),2019.0,A1,conferencia,er,international symposium on computer architecture,100
+380,380,Simpósio em Sistemas Computacionais de Alto Desempenho,2019.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+381,381,XXI Simpósio em Sistemas Computacionais de Alto Desempenho,,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+382,382,Simpósio em Sistemas Computacionais de Alto Desempenho,2020.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+383,383,Seminário Integrado de Software e Hardware,2021.0,B1,conferencia,sem,seminario integrado de software e hardware,100
+384,384,"2015 IEEE 26th International Conference on Applicationspecific Systems, Architectures and Processors (ASAP)",,A4,conferencia,er,"ieee international conference on application-specific systems, architectures and processors",95
+385,385,the 8th Latin American Conference,,B4,conferencia,latin,ci - latin american conference on computational intelligence,82
+386,386,IV Latin American Workshop on Aspect-Oriented Software Development,2010.0,B3,conferencia,iv,international workshop on feature-oriented software development,82
+387,387,Workshop de Teses e Dissertações em Engenharia de Software WTES,2010.0,,conferencia,works,workshop de engenharia de software baseada em busca,67
+388,388,2nd International Workshop on Variability & Composition (VariComp),2011.0,B4,conferencia,er,international i*workshop,92
+389,389,2011 25th Brazilian Symposium on Software Engineering (SBES),,A3,conferencia,re,brazilian symposium on software engineering,100
+390,390,the 19th ACM SIGSOFT symposium and the 13th European conference,,,conferencia,euro,agile conference,75
+391,391,2012 26th Brazilian Symposium on Software Engineering (SBES),,A3,conferencia,re,brazilian symposium on software engineering,100
+392,392,2013 4th International Workshop on Emerging Trends in Software Metrics (WETSoM),,B2,conferencia,er,international workshop on emerging trends in software metrics,100
+393,393,7th Latin American Workshop on Aspect-Oriented Software Development: Advanced Modularization Techniques,2013.0,B2,conferencia,latin,latin american test workshop,82
+394,394,Companion the 36th International Conference,,B2,conferencia,om,international cad conference,86
+395,395,Dagstuhl Seminar 14281 - Feature Interactions: The Next Generation,2014.0,,conferencia,sem,international test conference,66
+396,396,2015 IEEE Frontiers in Education Conference (FIE),,A3,conferencia,er,ieee frontiers in education conference,100
+397,397,the 15th International Conference,,B2,conferencia,er,international cad conference,92
+398,398,the 38th International Conference,,B2,conferencia,er,international cad conference,92
+399,399,the 31st Brazilian Symposium,2017.0,,conferencia,-,brazilian symposium on bioinformatics,68
+400,400,"6th Workshop on Software Visualization, Evolution and Maintenance (VEM)",2018.0,B1,conferencia,works,"workshop on software visualization, evolution and maintenance",100
+401,401,the 13th International Workshop,2019.0,B4,conferencia,er,international i*workshop,96
+402,402,2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM),2019.0,A3,conferencia,er,acm/ieee international symposium on empirical software engineering and measurement,100
+403,403,13th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE),2020.0,A4,conferencia,er,international workshop on cooperative and human aspects of software engineering,100
+404,404,34th Brazilian Symposium on Software Engineering (SBES-IIER),2020.0,A3,conferencia,re,brazilian symposium on software engineering,100
+405,405,"Workshop on Software Visualization, Evolution and Maintenance (VEM)",2020.0,B1,conferencia,works,"workshop on software visualization, evolution and maintenance",100
+406,406,22nd International Conference on Computers in Education (ICCE),2014.0,B2,conferencia,er,international conference on computers in education,100
+407,407,XIV Simpósio em Sistemas Computacionais - Concurso de Teses e Dissertações (WSCAD-SSC / CTD),2013.0,B1,conferencia,iv,simposio em sistemas computacionais de alto desempenho,80
+408,408,7th Workshop on Applications for Multi Core Architectures,2016.0,B4,conferencia,works,workshop on applications for multi-core architectures,98
+409,409,WSCAD-WIC 2016 (Workshop de Iniciação Científica),2016.0,,conferencia,wsc,workshop iberchip,71
+410,410,2013 International Conference on Parallel and Distributed Systems (ICPADS),,B1,conferencia,er,international conference on parallel and distributed systems,100
+411,411,Simposio de Educación Matemática,2007.0,,conferencia,im,simposio de mecanica computacional,66
+412,412,VI CIBEM - Congreso Iberoamericano de Educación Matemática,2009.0,,conferencia,re,congresso brasileiro de automatica,65
+413,413,2013 IEEE 13th International Conference on Bioinformatics and Bioengineering (BIBE),,A3,conferencia,er,ieee international conference on bioinformatics and bioengineering,94
+414,414,9th International Conference of the Brazilian Association for Bioinformatics and Computational Biology (X-meeting 2013),2013.0,B2,conferencia,er,international cad conference,86
+415,415,XI Simpósio Brasileiro de Bioinformática,,A3,conferencia,im,simposio brasileiro de informatica na educacao,85
+416,416,19th International Conference on Bioinformatics and Bioengineering,2019.0,A3,conferencia,er,ieee international conference on bioinformatics and bioengineering,94
+417,417,19th International Conference on Bioinformatics and Bioengineering (BIBE),2019.0,A3,conferencia,er,ieee international conference on bioinformatics and bioengineering,94
+418,418,36ª Reunião Anual da SBPC,1984.0,,conferencia,re,congresso da associacao nacional de pesquisa e pos-graduacao em musica,52
+419,419,Computational Science and Its Applications -- ICCSA 2015,2021.0,A3,conferencia,om,international conference on computational science and its applications,86
+420,420,The 32nd International Symposium on Algorithms and Computation (ISAAC 2021),2021.0,A3,conferencia,er,international symposium algorithms and computation,94
+421,421,Congresso Íbero Latino Americano sobre Métodos Computacionais para Engenharia,1997.0,,conferencia,re,interaction latin america,72
+422,422,Jornadas Sudamericanas de Ingeniería Estructural,1995.0,,conferencia,or,workshop latinoamericano de ingenieria de software experimental,65
+423,423,Congresso Íbero Latino Americano sobre Métodos Computacionais em Engenharia,1994.0,,conferencia,re,interaction latin america,72
+424,424,XXIX Jornadas Sudamericanas de Ingeniería Eestructural,2000.0,,conferencia,or,simposio latinoamericano de ingenieria de software,62
+425,425,Second International Conference on Engineering Computational Technology,2000.0,A3,conferencia,sec,international conference on web engineering,91
+426,426,The Third International Conference on Engineering Computational Technology,2002.0,A3,conferencia,er,international conference on web engineering,91
+427,427,The Seventh International Conference on Computational StructuresTechnology,2004.0,B2,conferencia,er,international conference on computational science,90
+428,428,IV Congresso Brasileiro de Computação,2004.0,B4,conferencia,iv,congresso brasileiro de automatica,85
+429,429,VII Escola de Informática Norte,2005.0,,conferencia,sc,workshop-escola de informatica teorica,77
+430,430,V Brazilian Symposium on Computer Games and Digital Entertainment,2006.0,,conferencia,om,brazilian symposium on formal methods,78
+431,431,"Computer Graphics, Imaging and Visualisation (CGIV 2007)",2007.0,,conferencia,om,ieee visualization,72
+432,432,VI Brazilian Symposium on Computer Games and Digital Entertainment,2007.0,,conferencia,om,brazilian symposium on formal methods,78
+433,433,VII Brazilian Symposium on Games and Digital Entertainment,2008.0,,conferencia,am,digital heritage,75
+434,434,the 2008 ACM SIGGRAPH symposium,2008.0,,conferencia,siggraph,international acm sigsoft symposium on component-based software engineering,61
+435,435,VIII Simpósio Brasileiro de Jogos e Entretenimento Digital,2009.0,B1,conferencia,im,simposio brasileiro de jogos e entretenimento digital,100
+436,436,the 2010 ACM SIGGRAPH symposium,2010.0,,conferencia,siggraph,international acm sigsoft symposium on component-based software engineering,61
+437,437,2010 Brazilian Symposium on Games and Digital Entertainment (SBGAMES),2010.0,,conferencia,am,digital heritage,75
+438,438,25th ACM/IEEE/SCS Workshop on Principles of Advanced and Distributed Simulation (PADS 2011),2011.0,,conferencia,sc,acm sigsim conference on principles of advanced discrete simulation,73
+439,439,X Brazilian Symposium on Computer Games and Digital Entertainment,2011.0,,conferencia,om,brazilian symposium on formal methods,78
+440,440,"XXV SIBGRAPI Conference on Graphics, Patterns and Images",2012.0,A3,conferencia,sibgrapi,"conference on graphics, patterns and images",100
+441,441,XI Brazilian Symposium on Computer Games and Digital Entertainment,2012.0,,conferencia,om,brazilian symposium on formal methods,78
+442,442,"2013 XXVI SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)",2013.0,A3,conferencia,sibgrapi,"conference on graphics, patterns and images",100
+443,443,SIBGRAPI 2013,2013.0,,conferencia,sibgrapi,acm siggraph conference on motion in games,54
+444,444,"2014 27th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)",2014.0,A3,conferencia,sibgrapi,"conference on graphics, patterns and images",100
+445,445,2014 Brazilian Symposium on Computer Games and Digital Entertainment (SBGAMES),2014.0,,conferencia,om,brazilian symposium on formal methods,78
+446,446,"2015 28th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)",2015.0,A3,conferencia,sibgrapi,"conference on graphics, patterns and images",100
+447,447,"2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)",2016.0,A3,conferencia,sibgrapi,"conference on graphics, patterns and images",100
+448,448,2017 Brazilian Conference on Intelligent Systems (BRACIS),2017.0,A4,conferencia,er,brazilian conference on intelligent system,100
+449,449,"2017 30th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)",2017.0,A3,conferencia,sibgrapi,"conference on graphics, patterns and images",100
+450,450,the Symposium,2017.0,B4,conferencia,-,south symposium on microelectronics,92
+451,451,Jornadas Sul-Americanas de Engenharia Estrutural,1997.0,,conferencia,or,workshop latinoamericano de ingenieria de software experimental,60
+452,452,3º Congresso Nacional de Iniciação Científica (CONIC) e 1º Congresso Internacional de Iniciação Científica (COINT),2003.0,,conferencia,re,congreso internacional de informatica educativa,77
+453,453,XI Simpósio Brasileiro de Sistemas Multimídia e Web - Qualis B Nacional,2005.0,B4,conferencia,im,simposio brasileiro de sistemas eletricos,85
+454,454,SUCESU 2004 - Congresso Nacional de Tecnologia da Informação e Comunicação,2004.0,B4,conferencia,re,congresso internacional de design da informacao,81
+455,455,II Workshop Tidia FAPESP,2005.0,,conferencia,works,workshop iberchip,65
+456,456,JINC - XI Jornada Nacional de Iniciação Científica,2004.0,,conferencia,or,encontro nacional de inteligencia artificial e computacional,60
+457,457,International Conference on Forensic Computer Science,2011.0,B2,conferencia,er,international cad conference,86
+458,458,XXV Simpósio Brasileiro de Engenharia de Software - Trilha Especial,2011.0,B1,conferencia,im,simposio brasileiro de qualidade de software,84
+459,459,6th European Academy of Forensic Science Conference,2012.0,A3,conferencia,euro,agile conference,81
+460,460,International Conference on Software Engineering Research and Practice,2015.0,A1,conferencia,er,international conference on software engineering,100
+461,461,9ª Jornada Científica Embrapa Gado de Corte,2013.0,,conferencia,or,congresso nacional de matematica aplicada e computacional,51
+462,462,2016 42th Euromicro Conference on Software Engineering and Advanced Applications (SEAA),,A4,conferencia,euro,euromicro conference on software engineering and advanced applications,100
+463,463,Proccedings of the 10th European Conference,,,conferencia,cc,agile conference,75
+464,464,2016 12th European Dependable Computing Conference (EDCC),2016.0,B1,conferencia,euro,european dependable computing conference,100
+465,465,IV Oficina Nacional de Problemas de Corte e Empacotamento,2000.0,,conferencia,iv,encontro nacional da associacao nacional de pos-graduacao e pesquisa em administracao,58
+466,466,Brazilian Summer School on Combinatorics and Algorithms (GRACO),2001.0,,conferencia,sum,international workshop on combinatorial algorithms,70
+467,467,XXII Congresso da SBC (Jornada Acadêmica de Atualização em Informática),2002.0,,conferencia,re,congresso da associacao nacional de pesquisa e pos-graduacao em musica,62
+468,468,International Conference on Bioinformatics and Computational Biology,2003.0,A4,conferencia,er,acm international conference on bioinformatics and computational biology and health informatics,100
+469,469,XXV Congresso da SBC (IV Brazilian Simposium on Bioinformatics),2005.0,B1,conferencia,re,brazilian symposium on bioinformatics,97
+470,470,2nd International Conference on Bioinformatics and Computational Biology,2004.0,A4,conferencia,er,acm international conference on bioinformatics and computational biology and health informatics,96
+471,471,XXVI Congresso da SBC (Workshop de Biologia Computacional),2006.0,B4,conferencia,re,workshop de visao computacional,81
+472,472,VI Brazilian Symposium on Bioinformatics,2007.0,B1,conferencia,or,brazilian symposium on bioinformatics,100
+473,473,"IV Latin American Algorithms, Graphs, and Optimization Symposium",2008.0,B3,conferencia,iv,"latin-american algorithms, graphs and optimization symposium",97
+474,474,Brazilian Symposium on Bioinformatics,2007.0,B1,conferencia,or,brazilian symposium on bioinformatics,100
+475,475,6th Brazilian Symposium on Bioinformatics (BSB),2011.0,B1,conferencia,or,brazilian symposium on bioinformatics,100
+476,476,6th Brazilian Symposium on Bioinformatics (BSB - 2011),2011.0,B1,conferencia,or,brazilian symposium on bioinformatics,100
+477,477,7ht Brazilian Symposium on Bioinformatics,2012.0,B1,conferencia,ht,brazilian symposium on bioinformatics,100
+478,478,VII Brazilian Symposium on Bioinformatics,2012.0,B1,conferencia,or,brazilian symposium on bioinformatics,100
+479,479,21st International Symposium on String Processing and Information Retrieval (SPIRE'14),2014.0,B1,conferencia,er,international symposium on string processing and information retrieval,100
+480,480,11th Brazilian Symposium on Bioinformatics,2018.0,B1,conferencia,or,brazilian symposium on bioinformatics,100
+481,481,International Conference on Computational Science,2019.0,A4,conferencia,er,international conference on computational science and computational intelligence,100
+482,482,VI Encontro de Iniciação Científica,1997.0,,conferencia,cie,encontro nacional de inteligencia artificial e computacional,60
+483,483,IV Mostra de Iniciação Científica da Universidade de Passo Fundo,1994.0,,conferencia,iv,simposio de mecanica computacional,53
+484,484,IV Fórum Nacional de Ciência e Tecnologia em Saúde,1998.0,,conferencia,iv,international conference on application of information and communication technologies,58
+485,485,Chicago 2000 - World Congress of Medical Physics and Biomedical Engineering,2000.0,,conferencia,chi,world congress on medical and health informatics,71
+486,486,XVII Congresso Brasileiro de Engenharia Biomédica,2000.0,B4,conferencia,re,congresso brasileiro de engenharia biomedica,100
+487,487,II Congresso Latinoamericano de Ingeniería Biomédica,2001.0,,conferencia,re,simposio latinoamericano de ingenieria de software,74
+488,488,XVIII Congresso Brasileiro de Engenharia Biomédica,2002.0,B4,conferencia,re,congresso brasileiro de engenharia biomedica,100
+489,489,III Mostra de Iniciação Científica da Universidade de Passo Fundo,1993.0,,conferencia,cie,simposio teoria y aplicaciones de mineria de datos,54
+490,490,XII Congreso Argentino de Bioingeniería,2001.0,,conferencia,re,congresso brasileiro de engenharia biomedica,62
+491,491,VII SEMETRO - Seminário Internacional de Metrologia Elétrica,2007.0,,conferencia,sem,simposio internacional de informatica educatica,69
+492,492,I Congresso de Computação da Grande Dourados - CCGD,2008.0,,conferencia,re,seminario de computacao e mercado,67
+493,493,II ENCONTRO de INICIAÇÃO CIENTÍFICA UFGD/UEMS e I ENCONTRO DE PÓS-GRADUAÇÃO,2008.0,,conferencia,cie,congresso da associacao nacional de pesquisa e pos-graduacao em musica,59
+494,494,XXI Congresso Brasileiro de Engenharia Biomédica,2008.0,B4,conferencia,re,congresso brasileiro de engenharia biomedica,100
+495,495,XI Congresso Brasileiro de Informática em Saúde,2008.0,B4,conferencia,re,congresso brasileiro de informatica em saude,100
+496,496,XXVII SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES,2009.0,B4,conferencia,im,simposio brasileiro de telecomunicacoes e processamento de sinais,87
+497,497,XXX Congresso da Sociedade Brasileira de Computação,2010.0,,conferencia,re,simposio brasileiro de computacao musical,70
+498,498,XVIII Congresso Brasileiro de Automática,2010.0,B4,conferencia,re,congresso brasileiro de automatica,100
+499,499,"Encontro de Ensino, Pesquisa e Extensão",2010.0,,conferencia,sin,simposio internacional de educacao a distancia e encontro de pesquisadores em educacao a distancia,67
+500,500,XXII Congresso Brasileiro de Engenharia Biomédica,2010.0,B4,conferencia,re,congresso brasileiro de engenharia biomedica,100
+501,501,"ENEPE - Encontro de Ensino, Pesquisa e Extensão",2011.0,,conferencia,sin,simposio internacional de educacao a distancia e encontro de pesquisadores em educacao a distancia,62
+502,502,Competição Brasileira de Robótica 2011,2011.0,B1,conferencia,om,simposio brasileiro de robotica,84
+503,503,XXIII Congresso Brasileiro de Engenharia Biomédica,2012.0,B4,conferencia,re,congresso brasileiro de engenharia biomedica,100
+504,504,Latin American Robotics Competition,2012.0,,conferencia,latin,ieee latin american robotics symposium,79
+505,505,Conferência Ibero-Americana em Computação Aplicada (CIACA2013),2013.0,,conferencia,er,conferencia latinoamericana de informatica,74
+506,506,Competição Brasileira de Robótica 2013,2013.0,B1,conferencia,om,simposio brasileiro de robotica,84
+507,507,Latin American Robotics Competition,2014.0,,conferencia,latin,ieee latin american robotics symposium,79
+508,508,I Simpósio Brasileiro de Pecuária de Precisão Aplicada à Bovinocultura de corte,2014.0,B1,conferencia,im,simposio brasileiro de robotica,84
+509,509,Frontiers in Education 2015,2015.0,B3,conferencia,er,international conference on frontiers in education: computer science and computer engineering,85
+510,510,MEDINFO 2015 - 15th World Congress on Health and Biomedical Informatics,2015.0,,conferencia,med,world congress on medical and health informatics,79
+511,511,Latin American Robotics Competition,2016.0,,conferencia,latin,ieee latin american robotics symposium,79
+512,512,Conferência IADIS Ibero Americana em Computação Aplicada,2016.0,,conferencia,er,conferencia latinoamericana de informatica,69
+513,513,XVII Encontro de Iniciação CIentífica da UFMS,2016.0,,conferencia,cie,encontro nacional de inteligencia artificial e computacional,56
+514,514,Conferências IADIS Ibero-americanas WWW/Internet 2017 e Computação Aplicada 2017,2017.0,,conferencia,er,conferencia iberoamericana de software engineering,66
+515,515,XVI Latin American Robotics Competition and XV Brazilian Robotics Competition,2017.0,,conferencia,latin,ieee latin american robotics symposium,76
+516,516,XXII Congresso Brasileiro de Automática,2018.0,B4,conferencia,re,congresso brasileiro de automatica,100
+517,517,Integra UFMS,2018.0,,conferencia,fm,international conference on integrated formal methods,75
+518,518,XX Workshop de Tolerância a Falhas - WTF,2019.0,,conferencia,works,workshop de testes e tolerancia a falhas,78
+519,519,XXX Simpósio Brasileiro de Informática na Educação (Brazilian Symposium on Computers in Education),2019.0,A3,conferencia,im,simposio brasileiro de informatica na educacao,100
+520,520,Integra UFMS,2019.0,,conferencia,fm,international conference on integrated formal methods,75
+521,521,Integra UFMS,2020.0,,conferencia,fm,international conference on integrated formal methods,75
+522,522,Congresso Brasileiro de Automática 2020,2020.0,B4,conferencia,re,congresso brasileiro de automatica,100
+523,523,2015 IEEE 28th International Symposium on ComputerBased Medical Systems (CBMS),2015.0,A3,conferencia,er,international symposium on computer-based medical systems,98
+524,524,VI Encontro de Iniciação Científica - Módulo PIBIC/CNPq,1997.0,,conferencia,cie,encontro nacional de inteligencia artificial e computacional,55
+525,525,VII Encontro de Iniciação Científica - Módulo PIBIC/CNPq,1998.0,,conferencia,cie,ieee scientific visualization,55
+526,526,19º Simpósio Brasileiro de Redes de Computadores,2001.0,A4,conferencia,im,simposio brasileiro de redes de computadores e sistemas distribuidos,92
+527,527,International Teletraffic Congress 17,2001.0,,conferencia,er,international test conference,72
+528,528,IEEE Global Telecommunications Conference - GLOBECOM 2001,2001.0,A1,conferencia,ec,ieee global communications conference,89
+529,529,13th IEEE Intern. Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE-2004),2004.0,A4,conferencia,er,ieee international conference on enabling technologies: infrastructure for collaborative enterprises,85
+530,530,First International Workshop on Mobility Aware Technologies and Applications (MATA 2004),2004.0,B4,conferencia,er,international i*workshop,92
+531,531,6o. Workshop de Comunicação sem Fio e Computação Móvel (WCSF 2004),2004.0,,conferencia,works,workshop de musica ubiqua,72
+532,532,IFIP Conference on Intelligence in Communication Systems (INTELLCOMM 2005),2005.0,,conferencia,er,agile conference,75
+533,533,24º Simpósio Brasileiro de Redes de Computadores (SBRC 2006),2006.0,,conferencia,im,simposio brasileiro de redes de computadores e sistemas distribuidos,78
+534,534,First Workshop on Ontologies and Metamodels in Software Engineering,2006.0,,conferencia,works,workshop on modeling in software engineering,77
+535,535,XXV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC),2007.0,A4,conferencia,im,simposio brasileiro de redes de computadores e sistemas distribuidos,100
+536,536,"1st Worskhop on Pervasive and Ubiquitous Computing (WPUC), part of 19th Intern. Symposium on Computer Architecture and High Performance Computing (SBARC-PAD 2007)",2007.0,A4,conferencia,or,international symposium on computer architecture and high performance computing,91
+537,537,XIX SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica,2007.0,,conferencia,sem,seminario de computacao e mercado,64
+538,538,17th IEEE International Conference and Workshops on Engineering of Computer-Based Systems (ECBS 2010),2010.0,A4,conferencia,er,ieee international conference on rfid,89
+539,539,7º Congresso Brasileiro de Agroinformática (SBIAgro 2009),2009.0,B4,conferencia,re,congresso brasileiro de agroinformatica,100
+540,540,XIX Sessão de Ferramentas do XXVI Simpósio Brasileiro de Engenharia de Software (SBES) / III Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2012),2012.0,B1,conferencia,er,simposio brasileiro de qualidade de software,84
+541,541,UAHCI / HCI International 2014,2014.0,,conferencia,uahci,computer graphics international conference,67
+542,542,Simpósio Nacional de Instrumentação Agropecuária - SIAGRO 2014,2014.0,,conferencia,im,simposio internacional de informatica educatica,70
+543,543,1º Sompósio Brasileiro de Pecuária de Precisão aplicada a Bovinocultura de Corte,2014.0,B1,conferencia,om,simposio brasileiro de robotica,81
+544,544,X Congresso Brasileiro de Agroinformática (XSBIAgro),2015.0,B4,conferencia,re,congresso brasileiro de agroinformatica,100
+545,545,XII Congresso Brasileiro de Agroinformática,2019.0,B4,conferencia,re,congresso brasileiro de agroinformatica,100
+546,546,XII Congresso Brasileiro de Agroinformática (SBIAgro 2019),2019.0,B4,conferencia,re,congresso brasileiro de agroinformatica,100
+547,547,71ª Reunião Anual da SBPC,2019.0,,conferencia,re,congresso da associacao nacional de pesquisa e pos-graduacao em musica,52
+548,548,Congresso Brasileiro de Agroinformática (SBIAgro 2017),2017.0,B4,conferencia,re,congresso brasileiro de agroinformatica,100
+549,549,IV Encontro Nacional de Inteligência Artificial - ENIA,2003.0,B4,conferencia,iv,encontro nacional de inteligencia artificial e computacional,87
+550,550,The Third IASTED International Conference on Artificial Intelligence and Applications,2003.0,A1,conferencia,ias,conference on artificial intelligence,100
+551,551,11 Simpósio Internacional de Iniciação Científica da Universidade de São Paulo - SIICUSP,,,conferencia,im,simposio internacional de informatica educatica,79
+552,552,IV Workshop on Advances and Trends in AI,2003.0,,conferencia,iv,iaria international conference on advances and trends in software engineering,75
+553,553,VIII Simpósio de Teses e Dissertações do Programa de Pós-Graduação em Ciências de Computação e Matemática Computacional,2003.0,,conferencia,im,simposio de mecanica computacional,74
+554,554,10º Simpósio Internacional de Iniciação Científica da Universidade de São Paulo,2002.0,,conferencia,im,simposio internacional de informatica educatica,79
+555,555,Workshop in Artificial Intelligence,2004.0,A4,conferencia,works,acm workshop on artificial intelligence and security,97
+556,556,XXX Conferencia Latinoamericana de informática,2004.0,B2,conferencia,er,conferencia latinoamericana de informatica,100
+557,557,Congress of Logic Applied to Technology,2005.0,,conferencia,re,conference of the european society for fuzzy logic and technology,64
+558,558,Workshop em Tecnologia da Informação de da Linguagem Humana (TIL2005),2005.0,,conferencia,works,workshop de tecnologia adaptativa,79
+559,559,International Federation for Information Processing (IFIP) Congress,2006.0,,conferencia,er,international conference on neural information processing,77
+560,560,Concurso de Teses e Dissertações em Inteligência Artificial do SBIA,2006.0,,conferencia,concur,encontro nacional de inteligencia artificial e computacional,62
+561,561,18 European Conference on Machine Learning,2007.0,A2,conferencia,euro,european conference on machine learning and principles and practice of knowledge discovery in databases,93
+562,562,VII Workshop de Informática Médica,2007.0,B4,conferencia,works,workshop de informatica medica,100
+563,563,Jornadas Argentinas de Informática - JAIIO,2007.0,,conferencia,or,caise forum,64
+564,564,X Congresso Brasileiro de Informática em Saúde,2006.0,B4,conferencia,re,congresso brasileiro de informatica em saude,100
+565,565,XV Encontro Anual de Iniciação Científica,2006.0,,conferencia,cie,encontro nacional de inteligencia artificial e computacional,71
+566,566,56º Congresso Brasileiro de Coloproctologia,2007.0,,conferencia,re,congresso brasileiro de agroinformatica,77
+567,567,I Congresso da Academia Trinacional de Ciências,2006.0,,conferencia,re,congresso da associacao nacional de pesquisa e pos-graduacao em musica,70
+568,568,XIV Simpósio Internacional de Iniciação Científica da Inversidade de São Paulo,2006.0,,conferencia,iv,simposio internacional de informatica educatica,79
+569,569,Brazilian Symposium on Artificial Intelligence,2008.0,,conferencia,-,conference on artificial intelligence,76
+570,570,Encontro Nacional de Inteligência Artificial,2009.0,B4,conferencia,-,encontro nacional de inteligencia artificial e computacional,100
+571,571,Portuguese Conference on Artificial Intelligence,2009.0,A1,conferencia,or,conference on artificial intelligence,100
+572,572,Nono Encontro Nacional de Inteligência Artificial (ENIA 2012),2012.0,B4,conferencia,-,encontro nacional de inteligencia artificial e computacional,83
+573,573,Brazilian Conference on Intelligence System,2013.0,A4,conferencia,er,brazilian conference on intelligent system,95
+574,574,14th Ibero-American Conference on AI (IBERAMIA),2014.0,,conferencia,er,agile conference,75
+575,575,Encontro Nacional de Inteligência Artificial e Computacional,2016.0,B4,conferencia,om,encontro nacional de inteligencia artificial e computacional,100
+576,576,"CONFERENCE ON GRAPHICS, PATTERNS AND IMAGES, 29. (SIBGRAPI)",2016.0,A3,conferencia,er,"conference on graphics, patterns and images",100
+577,577,2017 14th IAPR International Conference on Document Analysis and Recognition (ICDAR),2017.0,A2,conferencia,er,international conference on document analysis and recognition,100
+578,578,2018 International Joint Conference on Neural Networks (IJCNN),2018.0,A2,conferencia,er,ieee international joint conference on neural networks,93
+579,579,Competição Latino Americana e Brasileira de Robótica,2017.0,,conferencia,om,simposio brasileiro de robotica,74
+580,580,IGARSS 2019  2019 IEEE International Geoscience and Remote Sensing Symposium,2019.0,A3,conferencia,igarss,ieee international geoscience and remote sensing symposium,100
+581,581,GRSS-YP & ISPRS Student Consortium SS 2018,2018.0,,conferencia,rss,caise forum,55
+582,582,2019 International Joint Conference on Neural Networks (IJCNN),2019.0,A2,conferencia,er,ieee international joint conference on neural networks,93
+583,583,IEEE International Geoscience and Remote Sensing Symposium,2019.0,A3,conferencia,er,ieee international geoscience and remote sensing symposium,100
+584,584,EPIA Conference on Artificial Intelligence,2019.0,A1,conferencia,epia,conference on artificial intelligence,100
+585,585,2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI),2019.0,A3,conferencia,er,ieee international conference on tools with artificial intelligence,94
+586,586,Brazilian Conference on Intelligent Systems,2020.0,A4,conferencia,er,brazilian conference on intelligent system,100
+587,587,XVI Workshop de Visão Computacional,2020.0,B4,conferencia,works,workshop de visao computacional,100
+588,588,IEEE International Geoscience and Remote Sensing Symposium,2021.0,A3,conferencia,er,ieee international geoscience and remote sensing symposium,100
+589,589,V Simpósio Brasileiro de Arquitetura de Computadores - Processamento de Alto Desempenho,1993.0,B1,conferencia,im,simposio brasileiro de robotica,81
+590,590,the 15th international symposium,,A3,conferencia,er,ieee annual international symposium on field-programmable custom computing machines,81
+591,591,Third International Workshop on Experimental and Efficient Algorithms (WEA),2004.0,B4,conferencia,er,international i*workshop,92
+592,592,"2nd Workshop onEmbedded Systems for RealTime Multimedia, 2004. ESTImedia 2004.",,,conferencia,works,workshop iberchip,65
+593,593,International Workshop on Applied Reconfigurable Computing (ARC),2008.0,B4,conferencia,er,international i*workshop,92
+594,594,"2010 Design, Automation & Test in Europe Conference & Exhibition (DATE 2010)",,A1,conferencia,om,"design, automation and test in europe conference and exhibition",90
+595,595,2014 20th IEEE International Conference on Parallel and Distributed Systems (ICPADS),,B1,conferencia,er,international conference on parallel and distributed systems,100
+596,596,Escola Regional de Informática do MS (ERI-MS),2014.0,,conferencia,sc,workshop de informatica medica,67
+597,597,21st International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA),2015.0,B2,conferencia,er,international conference on parallel and distributed processing techniques and applications,100
+598,598,International Conference on Computational Science (ICCS),2018.0,B2,conferencia,er,international conference on computational science,100
+599,599,XX Simpósio em Sistemas Computacionais de Alto Desempenho,2019.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+600,600,Workshop em Desempenho de Sistemas Computacionais e de Comunicação (WPerformance),2020.0,B4,conferencia,works,workshop em desempenho de sistemas computacionais e de comunicacao,100
+601,601,Integra - UFMS,2019.0,,conferencia,fm,seminario integrado de software e hardware,71
+602,602,Integra - UFMS,2018.0,,conferencia,fm,seminario integrado de software e hardware,71
+603,603,Integra-UFMS,2020.0,,conferencia,fm,international conference on integrated formal methods,67
+604,604,Integra - UFMS,2020.0,,conferencia,fm,seminario integrado de software e hardware,71
+605,605,Workshop sobre Educação em Computação (WEI) 2021,2021.0,A4,conferencia,works,workshop sobre educacao em computacao,100
+606,606,2a. Reunião Especial da Sociedade Brasileira para o Progresso da Ciência (SBPC),1995.0,,conferencia,re,brazilian seminar on ontologies,55
+607,607,IX Seminário de Ensino Pesquisa e Extensão e III Encontro de Iniciação Científica da Universidade Federal de Mato Grosso do Sul (UFMS),1994.0,,conferencia,sem,seminario de computacao e mercado,64
+608,608,Workshop de Teses em Engenharia de Software em conjunto com o Simpósio Brasileiro de Engenharia de Software,1998.0,B1,conferencia,works,simposio brasileiro de qualidade de software,84
+609,609,International Conference on Software Maintenance and Reengineering,1999.0,A3,conferencia,er,european conference on software maintenance and reengineering,90
+610,610,Conferência Latinoamericana de Informática,1999.0,B2,conferencia,er,conferencia latinoamericana de informatica,100
+611,611,Simpósio Brasileiro de Engenharia de Software,1999.0,B1,conferencia,im,simposio brasileiro de qualidade de software,84
+612,612,Concurso de Teses e Dissertações em Computação em conjunto com o Congresso da Sociedade Brasileira de Computação,2000.0,,conferencia,concur,simposio brasileiro de computacao musical,68
+613,613,Working Conference on Reverse Engineering,2000.0,A3,conferencia,or,working conference on reverse engineering,100
+614,614,European Conference on Software Maintenance and Reengineering,2001.0,A3,conferencia,euro,european conference on software maintenance and reengineering,100
+615,615,Simpósio de Teses e Dissertações,2002.0,,conferencia,im,ieee symposium on 3d user interfaces,63
+616,616,Agile Development Conference,2003.0,B2,conferencia,agi,"international technology, education and development conference",86
+617,617,Workshop de Teses em Engenharia de Software,2003.0,,conferencia,works,workshop de engenharia de software baseada em busca,79
+618,618,Simpósio de Desenvolvimento e Manutenção de Software da Marinha,2003.0,,conferencia,im,workshop de desenvolvimento distribuido de software,73
+619,619,Workshop em Engenharia de Requisitos,2003.0,,conferencia,works,workshop de engenharia de software baseada em busca,75
+620,620,Simpósio Internacional de Iniciação Científica da USP - SIICUSP,2003.0,,conferencia,im,simposio internacional de informatica educatica,79
+621,621,Simpósio de Teses e Dissertações,2003.0,,conferencia,im,ieee symposium on 3d user interfaces,63
+622,622,Simpósio Brasileiro de Engenharia de Software,2004.0,B1,conferencia,im,simposio brasileiro de qualidade de software,84
+623,623,Sessão de Ferramentas em Engenharia de Software em conjunto com o XVIII Simpósio Brasileiro de Engenharia de Software,2004.0,B1,conferencia,er,simposio brasileiro de qualidade de software,84
+624,624,Conferência Latino-Americana de Informática,2004.0,B2,conferencia,er,conferencia latinoamericana de informatica,98
+625,625,Experimental Software Engineering Latin American Workshop em conjunto com o XVIII Simpósio Brasileiro de Engenharia de Software,2004.0,B2,conferencia,xp,software engineering track,85
+626,626,Workshop de Manutenção de Software Moderna em conjunto com o XVIII Simpósio Brasileiro de Engenharia de Software,2004.0,B1,conferencia,works,simposio brasileiro de qualidade de software,84
+627,627,Jornadas Iberoamericanas de Ingeniería del Software e Ingeniería del Conocimiento,2004.0,,conferencia,or,simposio latinoamericano de ingenieria de software,78
+628,628,Simpósio de Desenvolvimento e Manutenção de Software da Marinha,2004.0,,conferencia,im,workshop de desenvolvimento distribuido de software,73
+629,629,Simpósio de Teses e Dissertações,2004.0,,conferencia,im,ieee symposium on 3d user interfaces,63
+630,630,Simpósio Internacional de Iniciação Científica da USP - SIICUSP,2004.0,,conferencia,im,simposio internacional de informatica educatica,79
+631,631,Jornada Nacional de Iniciação Científica,2004.0,,conferencia,or,encontro nacional de inteligencia artificial e computacional,68
+632,632,Latin American Conference on Pattern Languages of Programming,2005.0,B4,conferencia,latin,latin american conference on pattern languages of programming,100
+633,633,Conferência Latino-Americana de Informática,2006.0,B2,conferencia,er,conferencia latinoamericana de informatica,98
+634,634,Simpósio Brasileiro de Sistemas de Informação,2006.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+635,635,Workshop de Aplicações de Realidade Virtual,2006.0,,conferencia,works,workshop de gestao de identidades digitais,67
+636,636,Experimental Software Engineering Latin American Workshop,2006.0,B2,conferencia,xp,software engineering track,85
+637,637,Jornada Ibero-Americana de Engenharia de Software e Engenharia do Conhecimento,,,conferencia,or,simposio latinoamericano de ingenieria de software,70
+638,638,Latin American Conference on Pattern Languages of programming,2007.0,B4,conferencia,latin,latin american conference on pattern languages of programming,100
+639,639,Workshop on Requirements Engineering,2007.0,B3,conferencia,works,international workshop on requirements engineering and law,100
+640,640,Simpósio Brasileiro de Qualidade de Software,2007.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+641,641,Workshop de Desenvolvimento Rápido de Aplicações,2007.0,,conferencia,works,workshop de desenvolvimento distribuido de software,77
+642,642,Conferência Latino Americana de Informática,2007.0,B2,conferencia,er,conferencia latinoamericana de informatica,98
+643,643,Seminário de Iniciação Científica,2007.0,,conferencia,sem,seminario de computacao e mercado,67
+644,644,Simpósio Internacional de Iniciação Científica,2007.0,,conferencia,im,simposio internacional de educacao a distancia e encontro de pesquisadores em educacao a distancia,78
+645,645,Annual ACM Symposium on Applied Computing,2008.0,A2,conferencia,pp,acm symposium on applied computing,100
+646,646,Simpósio Brasileiro de Engenharia de Software,2008.0,B1,conferencia,im,simposio brasileiro de qualidade de software,84
+647,647,Jornada Peruana de Computación,2008.0,,conferencia,or,congresso nacional de matematica aplicada e computacional,67
+648,648,Simpósio Internacional de Iniciação Científica da USP,2008.0,,conferencia,im,simposio internacional de informatica educatica,79
+649,649,Fórum de Informática e Tecnologia de Maringá,2008.0,,conferencia,or,workshop de informatica na escola,73
+650,650,Simpósio Brasileiro de Qualidade de Software,2009.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+651,651,Simpósio Brasileiro de Informática na Educação,2009.0,A3,conferencia,im,simposio brasileiro de informatica na educacao,100
+652,652,Workshop de Engenharia de Software da Facom,2009.0,B4,conferencia,works,workshop de engenharia de software baseada em busca,88
+653,653,2010 17th IEEE International Conference and Workshops on Engineering of Computer Based Systems,,A4,conferencia,er,ieee international conference on rfid,89
+654,654,Workshop Brasileiro de Métodos Ágeis,2010.0,B4,conferencia,works,workshop brasileiro de metodos ageis,100
+655,655,Latin American Conference on Pattern Languages of Programming,2010.0,B4,conferencia,latin,latin american conference on pattern languages of programming,100
+656,656,Simpósio Brasileiro de Engenharia de Software,2011.0,B1,conferencia,im,simposio brasileiro de qualidade de software,84
+657,657,Conferência Latino-Americana de Informática,2011.0,B2,conferencia,er,conferencia latinoamericana de informatica,98
+658,658,Workshop sobre Gerenciamento de Projetos de Software do Simpósio Brasileiro de Qualidade de Software,2012.0,B1,conferencia,works,simposio brasileiro de qualidade de software,100
+659,659,Escola Regional de Informática de Mato Grosso do Sul,2013.0,,conferencia,sc,workshop de informatica medica,67
+660,660,Simpósio da Produção do Conhecimento na Graduação e Pós-Graduação em Mato Grosso do Sul,2013.0,,conferencia,im,congresso da associacao nacional de pesquisa e pos-graduacao em musica,63
+661,661,International Conference on Human-Computer Interaction,2014.0,B1,conferencia,er,international conference on human-computer interaction,100
+662,662,International Conference on Software Engineering and Knowledge Engineering,2014.0,A1,conferencia,er,international conference on software engineering,100
+663,663,International Conference on Computational Science and Its Applications,2014.0,B2,conferencia,er,international conference on computational science,100
+664,664,2014 14th International Conference on Computational Science and Its Applications (ICCSA),,B2,conferencia,er,international conference on computational science,100
+665,665,Conferência Latino-Americana de Informática,2014.0,B2,conferencia,er,conferencia latinoamericana de informatica,98
+666,666,IAMPS: An process to support the MPS.BR implementation together with agile methods,2014.0,,conferencia,am,digital heritage,56
+667,667,"Workshop on Software Visualization, Evolution and Maintenance (VEM 2014)",2014.0,B1,conferencia,works,"workshop on software visualization, evolution and maintenance",100
+668,668,Workshop on Process Model Collections: Management and Reuse,2014.0,,conferencia,works,workshop on exascale mpi,67
+669,669,Sessão de Ferramentas do Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2014),2014.0,,conferencia,er,congresso brasileiro de automatica,79
+670,670,Escola Regional de Informática de Mato Grosso do Sul,2014.0,,conferencia,sc,workshop de informatica medica,67
+671,671,2014 9th Latin American Web Congress (LAWEB),,B4,conferencia,latin,latin american web congress,100
+672,672,ACM/SIGAPP Symposium On Applied Computing,2015.0,A2,conferencia,pp,acm symposium on applied computing,94
+673,673,Simpósio Brasileiro de Pecuária de Precisão,2014.0,B1,conferencia,im,simposio brasileiro de robotica,84
+674,674,International Conference on Software Engineering and Knowledge Engineering,2015.0,A1,conferencia,er,international conference on software engineering,100
+675,675,International Conference on Computational Science and Its Applications,2015.0,B2,conferencia,er,international conference on computational science,100
+676,676,International Conference on Computer Systems and Applications,2015.0,B2,conferencia,er,acs/ieee international conference on computer systems and applications,100
+677,677,Simpósio Brasileiro de Sistemas de Informação,2016.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+678,678,Simpósio Brasileiro de Qualidade de Software,2016.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+679,679,International Conference on Information Technology : New Generations,2017.0,A4,conferencia,er,international conference on information technology : new generations,100
+680,680,International Conference on Software Engineering and Knowledge Engineering,2017.0,A1,conferencia,er,international conference on software engineering,100
+681,681,"EFITA Congress (European conference dedicated to the future use of ICT in the agri-food sector, bioresource and biomass sector)",2017.0,,conferencia,fit,agile conference,75
+682,682,Simpósio Brasileiro de Sistemas de Informação,2017.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+683,683,Simpósio Brasileiro de Sistemas de Informação,2018.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+684,684,Brazilian Conference on Software - CBSOFT (Trilha da indústria),2018.0,A3,conferencia,er,agile conference,81
+685,685,Simpósio Brasileiro de Sistemas de Informação,2019.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+686,686,Iberian Conference on Information Systems and Technologies,2019.0,A4,conferencia,er,iberian conference on information systems and technologies,100
+687,687,Proceedings of GRSS-YP & YSPRS Student Consortium Summer School,2018.0,,conferencia,rss,caise forum,55
+688,688,Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais,2019.0,A4,conferencia,im,simposio brasileiro sobre fatores humanos em sistemas computacionais,100
+689,689,Simpósio Brasileiro de Qualidade de Software,2021.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+690,690,Sessão de Ferramentas do Simpósio Brasileiro de Engenharia de Software (SBES),2012.0,B1,conferencia,er,simposio brasileiro de qualidade de software,84
+691,691,28o Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2010),2010.0,A4,conferencia,im,simposio brasileiro de redes de computadores e sistemas distribuidos,100
+692,692,International Conference on Computer Communications and Networks (ICCCN'10),2010.0,B2,conferencia,er,international conference on computer communications and networks,100
+693,693,IADIS International Conference - WWW/Internet 2012,2012.0,B4,conferencia,dis,international conference on www/internet,95
+694,694,CIbSE - Congreso Iberoamericano en Ingeniería de Software,2014.0,B4,conferencia,cibse,simposio latinoamericano de ingenieria de software,81
+695,695,"VIII Workshop de Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas de Sistemas - WDES",2014.0,B4,conferencia,works,workshop de desenvolvimento distribuido de software,100
+696,696,"COMPSAC 2015 - The 39th Annual International Computers, Software & Applications Conference",2015.0,A3,conferencia,compsac,"annual international computers, software & applications conference",100
+697,697,"UBICOMM 2015: The Ninth International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies",2015.0,B4,conferencia,om,"iaria international conference on mobile ubiquitous computing, systems, services and technologies",96
+698,698,"SBQS - Simpósio Brasileiro de Qualidade de Sotware, WTDQS - Workshop de Teses e Dissertações em Qualidade de Software",2015.0,B1,conferencia,sbqs,simposio brasileiro de qualidade de software,98
+699,699,2015 29th Brazilian Symposium on Software Engineering (SBES),,A3,conferencia,re,brazilian symposium on software engineering,100
+700,700,"CBSoft 2015 - IX Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas-de-Sistemas",2015.0,B4,conferencia,cbs,workshop de desenvolvimento distribuido de software,98
+701,701,WWW/Internet 2015 Conference (CIAWI 2015),2015.0,,conferencia,www,agile conference,69
+702,702,Amazon Advanced School of Software Quality,2015.0,,conferencia,am,workshop on software modularity,68
+703,703,13th Empirical Software Engineering Latin American Workshop (ESELAW 2016),2016.0,B2,conferencia,iri,software engineering track,85
+704,704,The 28th International Conference on Software Engineering & Knowledge Engineering,2016.0,A1,conferencia,er,international conference on software engineering,100
+705,705,Latin-American School on Software Engineering (ELA-ES),2016.0,B2,conferencia,latin,software engineering track,85
+706,706,"X WDES - X Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas-de-Sistemas",2016.0,B4,conferencia,wd,workshop de desenvolvimento distribuido de software,98
+707,707,Brazilian Symposium on Software Quality,2016.0,A3,conferencia,re,brazilian symposium on software engineering,85
+708,708,"Workshop sobre Aspectos Sociais, Humanos e Econômicos de Software (WASHES)",2016.0,,conferencia,works,workshop sobre ensino de ihc,68
+709,709,"ICSE Joint 5th International Workshop on Software Engineering for Systems-of-systems and 11th Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems",2017.0,B2,conferencia,ics,international workshop on software engineering for systems-of-systems,100
+710,710,"COMPSAC 2017 - The 41th Annual International Computers, Software & Applications Conference",2017.0,A3,conferencia,compsac,"annual international computers, software & applications conference",100
+711,711,CIbSE 2017,2017.0,,conferencia,cibse,caise forum,50
+712,712,"Workshop on Social, Human, and Economic Aspects of Software (WASHES) at the 16th International Conference on Software Reuse",2017.0,B1,conferencia,works,international conference on software reuse,100
+713,713,Brazilian Symposium on Software Engineering (SBES),2017.0,A3,conferencia,re,brazilian symposium on software engineering,100
+714,714,TISE - Conferência Internacional sobre Informática na Educação,2016.0,B2,conferencia,tise,simposio internacional de informatica educatica,80
+715,715,12th European Conference on Software Architecture - Workshops,2018.0,A4,conferencia,euro,european conference on software architecture,100
+716,716,XVI SBQS - XVI Simpósio Brasileiro de Qualidade de Software,2017.0,B1,conferencia,sbqs,simposio brasileiro de qualidade de software,100
+717,717,ICSR 2017 - 16th International Conference on Software Reuse,2017.0,B1,conferencia,ics,international conference on software reuse,100
+718,718,Brazilian Symposium on Software Quality (SBQS 2018),2018.0,,conferencia,re,brazilian symposium on software engineering,77
+719,719,Frontiers in Education,2019.0,B3,conferencia,er,international conference on frontiers in education: computer science and computer engineering,100
+720,720,Brazilian Symposium on Informatics in Education (SBIE),2019.0,B1,conferencia,or,brazilian symposium on bioinformatics,92
+721,721,XVI Brazilian Symposium on Information Systems - SBSI'20,2020.0,B1,conferencia,or,brazilian symposium on bioinformatics,89
+722,722,Ibero-American Conference on Software Engineering (CIbSE),2020.0,B2,conferencia,er,software engineering track,85
+723,723,International Conference on Global Software Engineering,2020.0,B1,conferencia,er,ieee international conference on global software engineering,100
+724,724,Workshop on Cooperative and Human Aspects of Software Engineering (CHASE),2020.0,A4,conferencia,works,international workshop on cooperative and human aspects of software engineering,94
+725,725,XVI Simpósio Brasileiro de Sistemas de Informação,2020.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+726,726,"V WORKSHOP SOBRE ASPECTOS SOCIAIS, HUMANOS E ECONÔMICOS DE SOFTWARE (WASHES)",2020.0,,conferencia,works,workshop sobre ensino de ihc,68
+727,727,Brazilian Symposium on Software Engineering - SBES'20,2020.0,A3,conferencia,re,brazilian symposium on software engineering,100
+728,728,34th Brazilian Symposium on Software Engineering,2020.0,A3,conferencia,re,brazilian symposium on software engineering,100
+729,729,SBSI'21: XVII Brazilian Symposium on Information Systems,2021.0,B1,conferencia,sbsi,brazilian symposium on bioinformatics,89
+730,730,Brazilian Symposium on Software Engineering (SBES '21),2021.0,A3,conferencia,re,brazilian symposium on software engineering,100
+731,731,XX Brazilian Software Quality Symposium (SBQS),2021.0,,conferencia,re,ieee haptics symposium,64
+732,732,VII CBRN - Congresso Brasileiro de Redes Neurais,2005.0,,conferencia,re,congresso brasileiro de agroinformatica,76
+733,733,XVI SBIE - Simpósio Brasileiro de Informática na Educação,2005.0,A3,conferencia,sbie,simposio brasileiro de informatica na educacao,100
+734,734,International Conference on Engineering of Intelligent Systems,2006.0,B1,conferencia,er,international conference on engineering design,91
+735,735,15th International Symposium on Industrial Electronics,2006.0,A4,conferencia,er,ieee international symposium on industrial electronics,93
+736,736,16th International Joint Conference on Neural Networks,2006.0,A2,conferencia,er,ieee international joint conference on neural networks,93
+737,737,Eighteenth International Conference on Software Engineering and Knowledge Engineering,2006.0,A1,conferencia,ht,international conference on software engineering,100
+738,738,"19th International Conference on Systems, Man, and Cybernetics",2006.0,A3,conferencia,er,"ieee international conference on systems, man and cybernetics",93
+739,739,IEEE Symposium on Computational Intelligence and Data Mining,2007.0,B1,conferencia,om,symposium on computational intelligence and data mining,100
+740,740,13º Seminário de Iniciação Científica - PUC Minas,2005.0,,conferencia,sem,seminario de computacao e mercado,67
+741,741,II Congresso da Academia Trinacional de Ciências,2007.0,,conferencia,re,congresso da associacao nacional de pesquisa e pos-graduacao em musica,69
+742,742,IV Workshop em Algoritmos e Aplicações de Mineração de Dados(WAAMD 2008) ? XXIII Simpósio Brasileiro de Banco de Dados (SBBD 2008),2008.0,A4,conferencia,iv,simposio brasileiro de banco de dados,100
+743,743,I Workshop on Web and Text Intelligence (WTI) - XIX Simpósio Brasileiro de Inteligência Artificial (SBIA),2008.0,B1,conferencia,works,simposio brasileiro de robotica,81
+744,744,International Workshop on Data Mining and Artificial Intelligence (DMAI) - International Conference on Computer and Information Technology (ICCT),2008.0,B3,conferencia,er,ieee international conference on computer and information technology,96
+745,745,XXXV Latin American Informatics Conference (CLEI 2009),2009.0,A3,conferencia,latin,agile conference,81
+746,746,IV Congresso da Academia Trinacional de Ciências (C3N 2009),2009.0,,conferencia,iv,congresso internacional de design da informacao,62
+747,747,V Workshop em Algoritmos e Aplicações de Mineração de Dados (V WAAMD) - XXIV Simpósio Brasileiro de Banco de Dados  (SBBD 2009),2009.0,A4,conferencia,works,simposio brasileiro de banco de dados,100
+748,748,VII Concurso de Teses e Dissertações em Inteligência Artificial (CTDIA 2010) - XX Simpósio Brasileiro de Inteligência Artificial (SBIA 2010),2010.0,B1,conferencia,concur,simposio brasileiro de robotica,81
+749,749,15th International Conference on Discovery Science,2012.0,B2,conferencia,er,international conference on discovery science,100
+750,750,XXVIII Symposium on Applied Computing,2013.0,A2,conferencia,pp,acm symposium on applied computing,91
+751,751,"1st Symposium on Knowledge Discovery, Mining and Learning (KDMiLe)",2013.0,B3,conferencia,dis,"symposium on knowledge discovery, mining and learning",100
+752,752,The Second International Conference on Informatics & Applications (ICIA2013),2013.0,A3,conferencia,sec,international conference on biometrics,89
+753,753,Frontiers in Education,2016.0,B3,conferencia,er,international conference on frontiers in education: computer science and computer engineering,100
+754,754,The 2017 International Joint Conference on Neural Networks (IJCNN 2017),2017.0,A2,conferencia,er,ieee international joint conference on neural networks,93
+755,755,The 14th IAPR International Conference on Document Analysis and Recognition (ICDAR),2017.0,A2,conferencia,er,international conference on document analysis and recognition,100
+756,756,21st International Database Engineering & Applications Symposium (IDEAS),2017.0,A4,conferencia,er,international database engineering and applications symposium,95
+757,757,Encontro Nacional de Inteligência Artificial e Computacional (ENIAC),2017.0,B4,conferencia,om,encontro nacional de inteligencia artificial e computacional,100
+758,758,Workshop on Tools and Applications - 23th Brazilian Symposium on Multimedia and the Web,2017.0,A4,conferencia,works,brazilian symposium on multimedia and the web,100
+759,759,35th ACM/SIGAPP Symposium On Applied Computing (ACM SAC),2020.0,A2,conferencia,pp,acm symposium on applied computing,94
+760,760,9th Brazilian Conference on Intelligent Systems (BRACIS),2020.0,A4,conferencia,er,brazilian conference on intelligent system,100
+761,761,Brazilian Symposium on Multimedia and the Web (WebMedia '21),,A4,conferencia,time,brazilian symposium on multimedia and the web,100
+762,762,10th Brazilian Conference on Intelligent Systems (Bracis' 21),2021.0,A4,conferencia,er,brazilian conference on intelligent system,100
+763,763,XXXII Simpósio Brasileiro de Informática na Educação (SBIE),2021.0,A3,conferencia,im,simposio brasileiro de informatica na educacao,100
+764,764,27th Symposium On Applied Computing (ACM SAC),2012.0,A2,conferencia,pp,acm symposium on applied computing,91
+765,765,I Simpósio de Computação Aplicada,2009.0,B4,conferencia,im,workshop de desafios da computacao aplicada a educacao,82
+766,766,7º Congresso Brasileiro de Agroinformática - SBIAgro 2009,2009.0,B4,conferencia,re,congresso brasileiro de agroinformatica,100
+767,767,26th International Conference on Software Engineering and Knowledge Engineering (SEKE 2014),2014.0,A1,conferencia,er,international conference on software engineering,100
+768,768,IV Congresso Brasileiro de Informática na Educação,,B2,conferencia,iv,workshops do congresso brasileiro de informatica na educacao,96
+769,769,XXVIII Simpósio Brasileiro de Informática na Educação  SBIE (Brazilian Symposium on Computers in Education),2017.0,A3,conferencia,im,simposio brasileiro de informatica na educacao,100
+770,770,II Simpósio sobre Inovação e Criatividade Científica na Embrapa,2010.0,,conferencia,im,simposio brasileiro de robotica,65
+771,771,2014 XL Latin American Computing Conference (CLEI),,B4,conferencia,latin,latin american networking conference,83
+772,772,XLVI Simpósio Brasileiro de Pesquisa Operacional,2014.0,B3,conferencia,im,simposio brasileiro de pesquisa operacional,100
+773,773,"International Conference On Computational Science, ICCS 2015 ? Computational Science at the Gates of Nature",2015.0,B2,conferencia,er,international conference on computational science,100
+774,774,2016 IEEE 28th International Symposium on Computer Architecture and High Performance Computing,2016.0,A1,conferencia,er,international symposium on computer architecture,100
+775,775,XIX Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD 2018),2018.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+776,776,III Workshop em Computação Heterogênea,2019.0,,conferencia,works,workshop iberchip,71
+777,777,1ª Conferência Brasileira de Planejamento Experimental e Análise de Dados (CONBRAPA 2020),2020.0,,conferencia,er,congresso brasileiro de automatica,62
+778,778,1a Conferência Brasileira de Planejamento Experimental e Análise de Dados,2020.0,,conferencia,er,congresso brasileiro de automatica,62
+779,779,The 16th International Conference on Computational Science and Its Applications,2016.0,B2,conferencia,er,international conference on computational science,100
+780,780,Simpósio Brasileiro de Automação Inteligente,2011.0,B4,conferencia,im,simposio brasileiro de automacao inteligente,100
+781,781,Congresso Brasileiro de Eletrônica de Potência,2011.0,B4,conferencia,re,congresso brasileiro de automatica,85
+782,782,Congresso Brasileiro de Automática,2012.0,B4,conferencia,re,congresso brasileiro de automatica,100
+783,783,Simpósio Brasileiro de Automação Inteligente,2013.0,B4,conferencia,im,simposio brasileiro de automacao inteligente,100
+784,784,Congresso Brasileiro de Automática,2014.0,B4,conferencia,re,congresso brasileiro de automatica,100
+785,785,2017 25th Mediterranean Conference on Control and Automation (MED),2017.0,A4,conferencia,med,mediterranean conference on control and automation,100
+786,786,2013 Brazilian Power Electronics Conference (COBEP 2013),,,conferencia,wer,agile conference,75
+787,787,VIII Simpósio de Teses e Dissertações,2003.0,,conferencia,im,ieee symposium on 3d user interfaces,61
+788,788,6th International Conference on Hybrid Intelligent Systems (HIS 06'),2006.0,B2,conferencia,er,international conference on hybrid intelligent systems,100
+789,789,The Fifth International Symposium on Parallel and Distributed Processing and Applications (ISPA07),2007.0,B2,conferencia,er,ieee international symposium on parallel and distributed processing with applications,92
+790,790,The 21st IASTED International Conference on&#10;Parallel and Distributed Computing and Systems,2009.0,B1,conferencia,ias,international conference on parallel and distributed systems,88
+791,791,"19th International Symposium on High Performance Computing Systems and Applications, 2005. HPCS 2005",2005.0,B3,conferencia,er,international symposium compimage,82
+792,792,XII Simpósio em Sistemas Computacionais de Alto Desempenho,2011.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+793,793,XV Simpósio em Sistemas Computacionais de Alto Desempenho - WSCAD 2014,2014.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+794,794,15th International Conference on Computational Science and Its Applications -- ICCSA,2015.0,B2,conferencia,er,international conference on computational science,100
+795,795,the 31st Annual ACM Symposium,,,conferencia,-,ieee computer society annual symposium on vlsi,76
+796,796,The 32nd ACM SIGAPP Symposium On Applied Computing,2017.0,A2,conferencia,pp,acm symposium on applied computing,94
+797,797,XI Congresso Brasileiro de Agroinformática,2017.0,B4,conferencia,re,congresso brasileiro de agroinformatica,100
+798,798,XXXVII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos,,A4,conferencia,im,simposio brasileiro de redes de computadores e sistemas distribuidos,100
+799,799,"1st ISATA ? International Symposium on Agricultural Technology Adoption: studies, methods and experiences",2020.0,B3,conferencia,sat,international symposium compimage,82
+800,800,XXII ENAPET ? Encontro Nacional do Programa de Educação Tutorial,2017.0,,conferencia,pet,congreso internacional de informatica educativa,62
+801,801,"20th International Conference on Computational Science and Its Applications, ICCSA 2020",2020.0,B2,conferencia,er,international conference on computational science,100
+802,802,"High Performance Computing and Communications, Third International Conference, HPCC 2007",2007.0,B2,conferencia,er,international cad conference,86
+803,803,6th International Conference on the Quality of Information and Communications Technology (QUATIC 2007),,B3,conferencia,er,international conference on quality of information and communications technology,95
+804,804,19th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming,2014.0,A2,conferencia,am,acm sigplan symposium on principles and practice of parallel programming,100
+805,805,XVI Simpósio Brasileiro de Qualidade de Software (SBQS),2017.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+806,806,XVIII Simpósio em Sistemas Computacionais de Alto Desempenho,2017.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+807,807,VII Simpósio Brasileiro de Qualidade de Software,2008.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+808,808,XIX Conferencia Latinoamericana de Informática,1993.0,B2,conferencia,er,conferencia latinoamericana de informatica,100
+809,809,DIMACS Workshop on Whole Genome Comparison,2001.0,,conferencia,im,workshop on exascale mpi,67
+810,810,10th International Congress on Molecular Plant-Microbe Interactions,2001.0,,conferencia,er,international conference on modularity,76
+811,811,XXIII Congresso da Sociedade Brasileira de Computação,2003.0,,conferencia,re,simposio brasileiro de computacao musical,70
+812,812,The 15th Symposium on Computer Architecture and High Performance Computing,2003.0,A4,conferencia,om,international symposium on computer architecture and high performance computing,91
+813,813,Second Brazilian Workshop on Bioinformatics,2003.0,B1,conferencia,sec,brazilian symposium on bioinformatics,82
+814,814,XI Congresso Latinoamericano de Buiatria,2003.0,,conferencia,re,conferencia latinoamericana de informatica,70
+815,815,XI Congresso LAtinoamericano de Buiatria,2003.0,,conferencia,re,conferencia latinoamericana de informatica,70
+816,816,Terceiro Workshop Brasileiro de Bioinformática,2004.0,B4,conferencia,er,congresso brasileiro de agroinformatica,81
+817,817,VII Congresso Internacional de Zootecnia,2005.0,,conferencia,re,congresso internacional de ergonomia e usabilidade de interfaces humano computador,78
+818,818,"Second Brazilian Symposium on Bioinformatics, BSB 2007",2007.0,B1,conferencia,sec,brazilian symposium on bioinformatics,100
+819,819,Braziliam Symposium on Bioinformatics,2005.0,B1,conferencia,am,brazilian symposium on bioinformatics,97
+820,820,[ JAI ] - Jornadas de Atualização em Informática,2005.0,,conferencia,ai,conferencia latinoamericana de informatica,60
+821,821,Braziliam Symposium on Bioinformatics,2007.0,B1,conferencia,am,brazilian symposium on bioinformatics,97
+822,822,American Society of Microbiology 108th General Meeting,2008.0,,conferencia,am,ieee power & energy society general meeting,60
+823,823,"6th Brazilian Symposium on Bioinformatics, BSB 2011",2011.0,B1,conferencia,or,brazilian symposium on bioinformatics,100
+824,824,The Sixth International Conference on Forensic Computer Science,,B2,conferencia,er,international cad conference,86
+825,825,European Academy of Forensic Science (EAFS) Conference.,2012.0,,conferencia,euro,ieee oceans conference,77
+826,826,VII MEETING SLAMTB - Sociedade Latinoamericana de Tuberculose e outras Micobacterioses,2014.0,,conferencia,am,interaction latin america,64
+827,827,The third International Society for Computational Biology Latin America X-Meeting on Bioinformatics with BSB and SoiBio (ISCB-Latin America),2014.0,,conferencia,er,international conference on computational logistics,75
+828,828,28° Congresso Brasileiro de Microbiologia,2015.0,,conferencia,re,congresso brasileiro de automatica,79
+829,829,FAO International Symposium on ?The Role of Agricultural Biotechnologies in Sustainable Food Systems and Nutrition?,2016.0,,conferencia,er,international symposium compimage,79
+830,830,"8th International Conference on Bioinformatics Models, Methods and Algorithms",,A3,conferencia,er,international conference on social informatics,87
+831,831,Brazilian Symposium on Bioinformatics,2018.0,B1,conferencia,or,brazilian symposium on bioinformatics,100
+832,832,XXVI Congresso da Sociedade Brasileira de Computação,2006.0,,conferencia,re,simposio brasileiro de computacao musical,70
+833,833,"Conferência IADIS Ibero Americana WWW/Internet 2006, 2006",2006.0,,conferencia,er,conferencia latinoamericana de informatica,67
+834,834,VII Workshop em Sistemas Computacionais de Alto Desempenho,2006.0,B1,conferencia,works,simposio em sistemas computacionais de alto desempenho,91
+835,835,III Workshop on Grid Computing and Applications,2005.0,B1,conferencia,works,workshop of urban computing,81
+836,836,"VEM - VI Workshop on Software Visualization, Evolution and Maintenance",2018.0,B1,conferencia,vem,"workshop on software visualization, evolution and maintenance",100
+837,837,BiDU - Workshop on Big Social Data and Urban Computing,2018.0,,conferencia,works,workshop on exascale mpi,71
+838,838,WebMedia,,,conferencia,webmedia,acm conference on hypertext and hypermedia,75
+839,839,Conferência IADIS Ibero Americana WWW/Internet 2006,,,conferencia,er,conferencia latinoamericana de informatica,67
+840,840,XXXIII SEMISH - Seminário Integrado de Software e Hardware,2006.0,B1,conferencia,sem,seminario integrado de software e hardware,100
+841,841,High Performance Computing and Simulation Conference (HPCS 2007),2007.0,B4,conferencia,er,social simulation conference,82
+842,842,Symposium on Computer Architecture and High Performance Computing,2004.0,A4,conferencia,om,international symposium on computer architecture and high performance computing,100
+843,843,2014 IEEE/ACM 7th International Conference on Utility and Cloud Computing (UCC),2014.0,A3,conferencia,er,ieee/acm international conference on utility and cloud computing,94
+844,844,"2015 23rd Euromicro International Conference on Parallel, Distributed and NetworkBased Processing (PDP)",,A3,conferencia,euro,"euromicro international conference on parallel, distributed and network-based processing",99
+845,845,XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos - SBRC,2016.0,A4,conferencia,iv,simposio brasileiro de redes de computadores e sistemas distribuidos,100
+846,846,"10th International Conference, GECON - Economics of Grids, Clouds, Systems, and Services",2013.0,B3,conferencia,er,"international conference on economics of grids, clouds, systems and services",91
+847,847,IT CONFERENCE SUCESU-MT 2003,2003.0,,conferencia,er,agile conference,75
+848,848,II Jornada da Produção Científica da Educação Profissional e Tecnológica da Região Centro Oeste,,,conferencia,or,congresso sobre tecnologias na educacao,62
+849,849,the 5th ACM,2018.0,,conferencia,-,annual conference of the north american fuzzy information processing society,73
+850,850,I Jornada Científica do Estado de Mato Grosso,2006.0,,conferencia,or,international conference on scientific and statistical database management,56
+851,851,WOB - II Workshp Brasileiro de Bioinformática,2003.0,,conferencia,works,congresso brasileiro de agroinformatica,78
+852,852,6º Jornada Ciêntífica da UFSCar,2005.0,,conferencia,or,international conference on scientific and statistical database management,61
+853,853,Proceedings of the IEEE WCCI 2006,2006.0,,conferencia,wcci,annual meeting of the cognitive science society,58
+854,854,I Simpósio de Biotecnologia da UFSCar,2007.0,,conferencia,im,simposio brasileiro de tecnologia da informacao,70
+855,855,IEEE Congress on Evolutionary Computation (CEC 2008) in World Congress on Computational Intelligence,2008.0,A1,conferencia,re,ieee congress on evolutionary computation,100
+856,856,International Conference on Bioinformatics and Computational Biology,2010.0,A4,conferencia,er,acm international conference on bioinformatics and computational biology and health informatics,100
+857,857,Alice Brasil,,,conferencia,-,congresso de engenharia de audio da audio engineering society brasil.,75
+858,858,n: X-Meeting 2015 - 11th International Conference of th AB3C + Brazilian Symposium of Bioinformatics,2015.0,B1,conferencia,er,brazilian symposium on bioinformatics,97
+859,859,Encontro de Teoria da Computação,2016.0,,conferencia,or,workshop de desafios da computacao aplicada a educacao,69
+860,860,Brazilian Summer School on Combinatorics and Algorithms,2001.0,,conferencia,sum,international workshop on combinatorial algorithms,70
+861,861,Workshop Internacional de Combinatória,1996.0,,conferencia,works,workshop iberchip,76
+862,862,XVII Congresso da Sociedade Brasileuira de Computação,1997.0,,conferencia,re,simposio brasileiro de computacao musical,69
+863,863,"VI Latin American Algorithms, Graphs, and Optimization Symposium",2011.0,B3,conferencia,latin,"latin-american algorithms, graphs and optimization symposium",97
+864,864,"CONFERENCE ON GRAPHICS, PATTERNS AND IMAGES",2012.0,A3,conferencia,er,"conference on graphics, patterns and images",100
+865,865,Workshop de Visão Computacional,2012.0,B4,conferencia,works,workshop de visao computacional,100
+866,866,Brazilian Conference on Intelligent Systems,2013.0,A4,conferencia,er,brazilian conference on intelligent system,100
+867,867,22nd International Conference on Pattern Recognition (ICPR),2014.0,A2,conferencia,er,international conference on pattern recognition,100
+868,868,"Conference on Graphics, Patterns and Images (SIBGRAPI)",2014.0,A3,conferencia,er,"conference on graphics, patterns and images",100
+869,869,2019 XV Workshop de Visão Computacional (WVC),2019.0,B4,conferencia,works,workshop de visao computacional,100
+870,870,ACM-SIAM Symposuim on Discrete Algorithms,2005.0,A1,conferencia,am,acm-siam symposium on discrete algorithms,98
+871,871,Workshop on Solving Irregularly Structured Problems in Parallel,1999.0,,conferencia,works,workshop on software modularity,68
+872,872,XVIII CNMAC - Congresso Nacional de Matemática Aplicada e Computacional,1995.0,B3,conferencia,cnmac,congresso nacional de matematica aplicada e computacional,100
+873,873,The 2001 International Conference on Parallel and Distributed Processing Techniques and Applications PDPTA'2001,2001.0,B2,conferencia,er,international conference on parallel and distributed processing techniques and applications,100
+874,874,13th International Conference on Parallel and Distributed Computing and Systems,2001.0,B1,conferencia,er,international conference on parallel and distributed systems,90
+875,875,XXI Congresso da Sociedade Brasileira de Computação,2001.0,,conferencia,re,simposio brasileiro de computacao musical,70
+876,876,Third International Workshop on Experimental and Efficient Algorithms - WEA 2004,2004.0,B4,conferencia,er,international i*workshop,92
+877,877,Euro-Par 2004,2004.0,,conferencia,euro,east european conference on advances in databases and information systems,54
+878,878,VI Workshop em Sistemas Computacionais de Alto Desempenho,2005.0,B1,conferencia,works,simposio em sistemas computacionais de alto desempenho,91
+879,879,VII Workshop em Sistemas Computacionais de Alto Desempenho - WSCAD 2006,2006.0,B1,conferencia,works,simposio em sistemas computacionais de alto desempenho,91
+880,880,The Seventh IEEE International Symposium on Cluster Computing and the Grid ? CCGrid 2007,2007.0,A3,conferencia,er,international symposium on visual computing,86
+881,881,International Latin American Grid Workshop LAGrid 2008,2008.0,B4,conferencia,er,interaction latin america,88
+882,882,"10th International Conference on High Performance Computing, Grid and e-Science in Asia Pacific Region HPC Asia 2009",2009.0,A3,conferencia,er,ieee international conference on high performance computing,93
+883,883,"10th International Conference on High Performance Computing, Grid and e-Science in Asia Pacific Region HPC-Asia 2009",2009.0,A3,conferencia,er,ieee international conference on high performance computing,93
+884,884,2012 41st International Conference on Parallel Processing Workshops (ICPPW),2012.0,B2,conferencia,er,parallel processing workshops,100
+885,885,"2014 International Conference on Computational Science,",2014.0,B2,conferencia,er,international conference on computational science,100
+886,886,XIX SIMPÓSIO DE SISTEMAS COMPUTACIONAIS DE ALTO DESEMPENHO,2018.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,98
+887,887,XIX Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD 2019),2019.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+888,888,VIII Workshop em Sistemas Computacionais de Alto Desempenho (WSCAD 2007),2007.0,B1,conferencia,works,simposio em sistemas computacionais de alto desempenho,91
+889,889,"LAGOS'09 - V Latin-American Algorithms, Graphs and Optimization Symposium",2009.0,B3,conferencia,lagos,"latin-american algorithms, graphs and optimization symposium",100
+890,890,IV Workshop de teses de doutorado em andamento do IC-UNICAMP,2008.0,,conferencia,iv,workshop de testes e tolerancia a falhas,70
+891,891,CLEI - XXVII Latin-American Conference on informatics,2001.0,A3,conferencia,cl,americas conference on information systems,84
+892,892,11º Simpósio Internacional de Iniciação Científica da USP,2003.0,,conferencia,im,simposio internacional de informatica educatica,79
+893,893,4ª Mostra de Trabalhos Monográficos,1997.0,,conferencia,-,workshop de pesquisa em computacao dos campos gerais,53
+894,894,VI Simpósio de Teses e Dissertações,2001.0,,conferencia,im,ieee symposium on 3d user interfaces,62
+895,895,II Encontro de Extensão da Univesidade Federal da Grande Dourados e II Encontro de Bolsistas de Extensão de Mato Grosso do Sul,2008.0,,conferencia,iv,workshop de gestao de identidades digitais,57
+896,896,VII Jornada Peruana de Computación,2008.0,,conferencia,or,congresso nacional de matematica aplicada e computacional,62
+897,897,1º Congresso de Computação da Grande Dourados,2008.0,,conferencia,re,seminario de computacao e mercado,67
+898,898,Joint Conference - SBIA/SBRN/JRI - III Workshop on Computational Intelligence (WCI 2010),2010.0,,conferencia,er,workshop on computational intelligence and smart cities,79
+899,899,International Conference on Software Engineering Advances -- ICSEA,2015.0,A1,conferencia,er,international conference on software engineering,100
+900,900,V Simpósio de Teses e Dissertações,2000.0,,conferencia,im,ieee symposium on 3d user interfaces,64
+901,901,ETI - Encontro de Tecnologia e Informática,2006.0,,conferencia,ec,simposio brasileiro de tecnologia da informacao,72
+902,902,VIII Simpósio Internacional de Melhoria de Processos de Software,2007.0,,conferencia,im,simposio internacional de informatica educatica,70
+903,903,"IV Congresso de Pesquisa, Ensino e Extensão - IV CONPEEX",2007.0,,conferencia,iv,world congress on biosensors,57
+904,904,V Experimental Software Engineering Latin American Workshop,2008.0,B2,conferencia,xp,software engineering track,85
+905,905,VII Workshop de Teses e Dissertações em Qualidade de Software,2009.0,,conferencia,works,simposio brasileiro de qualidade de software,70
+906,906,"VI Congresso de Pesquisa, Ensino e Extensão - VI CONPEEX",2009.0,,conferencia,re,world congress on biosensors,57
+907,907,IX Simpósio Brasileiro de Qualidade de Software,2010.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+908,908,VI Workshop Olhar Sociotécnico sobre a Engenharia de Software (paralelo ao Simpósio Brasileiro de Qualidade de Software),2010.0,B1,conferencia,works,simposio brasileiro de qualidade de software,100
+909,909,Workshop Anual do MPS,2010.0,,conferencia,works,workshop on core computations on spatial information,71
+910,910,X Simpósio Brasileiro de Qualidade de Software,2011.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+911,911,XI Simpósio Brasileiro de Sistemas de Informação,2015.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+912,912,2017 IEEE/ACM 39th International Conference on Software Engineering: Software Engineering Education and Training Track (ICSESEET),2017.0,A1,conferencia,er,international conference on software engineering,100
+913,913,the XXXIII Brazilian Symposium,2019.0,,conferencia,-,ieee haptics symposium,64
+914,914,SBQS&apos;20: 19th Brazilian Symposium on Software Quality,,A3,conferencia,sbqs,brazilian symposium on software engineering,80
+915,915,International Conference on Cooperative and Human Aspects of Software Engineering,2021.0,A4,conferencia,er,international workshop on cooperative and human aspects of software engineering,90
+916,916,SBES &apos;21: Brazilian Symposium on Software Engineering,2021.0,A3,conferencia,sbes,brazilian symposium on software engineering,100
+917,917,Workshop de Gerência de Projetos de Software do Simpósio Brasileiro de Qualidade de Software,2012.0,B1,conferencia,works,simposio brasileiro de qualidade de software,100
+918,918,I Workshop sobre Algoritmos de Mineração de Dados,2005.0,,conferencia,works,workshop sobre ensino de ihc,71
+919,919,VI Workshop de Teses e Dissertações - XX Simpósio Brasileiro de Computação Gráfica (SIBGRAPI),2007.0,B1,conferencia,works,simposio brasileiro de computacao musical,90
+920,920,IV Brazilian Symposium on Mathematical and Computational Biology (BIOMAT),2004.0,,conferencia,iv,brazilian symposium on geoinformatics,78
+921,921,X Congresso da Sociedade Brasileira de Informática em Saúde,2006.0,B4,conferencia,re,congresso brasileiro de informatica em saude,82
+922,922,XIII Evento de Iniciação Científica da UFPR (EVINCI),2005.0,,conferencia,cie,seminario de computacao e mercado,52
+923,923,2014 International Joint Conference on Neural Networks (IJCNN),,A2,conferencia,er,ieee international joint conference on neural networks,93
+924,924,Brazilian Conference on Intelligent Systems (BRACIS),2019.0,A4,conferencia,er,brazilian conference on intelligent system,100
+925,925,Workshop sobre Educação em Computação,2020.0,A4,conferencia,works,workshop sobre educacao em computacao,100
+926,926,"2013 IEEE International Conference on Systems, Man and Cybernetics (SMC 2013)",,A3,conferencia,er,"ieee international conference on systems, man and cybernetics",100
+927,927,V Simpósio de Teses e Dissertações do Programa de Pós-Graduação da Área de Ciências de Computação e Matemática Computacional,2000.0,,conferencia,im,simposio de mecanica computacional,74
+928,928,6º Simpósio de Iniciação Científica da USP,1998.0,,conferencia,im,simposio de mecanica computacional,65
+929,929,VI Seminário de Iniciação Científica da Universidade Federal de Ouro Preto,1998.0,,conferencia,sem,seminario de computacao e mercado,67
+930,930,3º Congresso de Iniciação Científica - ASSER,1998.0,,conferencia,re,congresso da associacao nacional de pesquisa e pos-graduacao em musica,61
+931,931,VI Simpósio de Teses e Dissertações do Programa de Pós-Graduação da Área de Ciências de Computação e Matemática Computacional,2001.0,,conferencia,im,simposio de mecanica computacional,74
+932,932,XII Simpósio Brasileiro de Informática na Educação,2001.0,A3,conferencia,im,simposio brasileiro de informatica na educacao,100
+933,933,VIII Workshop de Qualidade de Software - XV Simpósio Brasileiro de Engenharia de Software,2001.0,B1,conferencia,works,simposio brasileiro de qualidade de software,84
+934,934,XXVII Latin-American Conference on Informatics,2001.0,A3,conferencia,latin,americas conference on information systems,84
+935,935,XII Conferência Internacional de Tecnologia de Software: Qualidade de Software,2001.0,,conferencia,er,workshop de software livre,65
+936,936,V Workshop de Teses e Dissertações em Engenharia de Software - XIV Simpósio Brasileiro de Engenharia de Software,2000.0,B1,conferencia,works,simposio brasileiro de qualidade de software,84
+937,937,Simpósio Brasileiro de Qualidade de Software,2002.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+938,938,14o Congresso Internacional de Tecnologia de Software (CITS 2003),2003.0,,conferencia,re,congresso internacional de design da informacao,72
+939,939,XXIX Conferencia Lationoamericana de Informática (Clei 2003),2003.0,B2,conferencia,er,conferencia latinoamericana de informatica,98
+940,940,"X Sessão de Ferramentas, XVII Simpósio Brasileiro de Engenharia de Software (SBES2003)",2003.0,B1,conferencia,er,simposio brasileiro de qualidade de software,84
+941,941,VII WORKSHOP IBEROAMERICANO DE INGENIERÍA DE REQUISITOS Y DESARROLLO DE AMBIENTES DE SOFTWARE,2004.0,,conferencia,works,workshop iberchip,76
+942,942,XXX Conferencia Latinoamericana de Informática (CLEI2004),2004.0,B2,conferencia,er,conferencia latinoamericana de informatica,100
+943,943,4ª Jornadas Iberoamericanas de Ingeniería del Software e Ingeniería del Conocimiento,2004.0,,conferencia,or,simposio latinoamericano de ingenieria de software,78
+944,944,Simpósio Internacional de Melhoria de Processo de Software,2004.0,,conferencia,im,simposio internacional de informatica educatica,70
+945,945,Seventeenth International Conference on Software Engineering and Knowledge Engineering,2005.0,A1,conferencia,er,international conference on software engineering,100
+946,946,"XIII Workshop sobre Educação em Computação (WEI 2005), XXV Congresso da Sociedade Brasileira de Computação (SBC 2005)",2005.0,A4,conferencia,works,workshop sobre educacao em computacao,100
+947,947,I IFIP Academy on the State of Software Theory and Practice - PhD Colloquium,2005.0,,conferencia,cad,fast software encryption,62
+948,948,VII Workshop de Teses e Dissertações Defendidas,2002.0,,conferencia,works,iberchip workshop,65
+949,949,IX Simpósio de Teses e Dissertações,2004.0,,conferencia,im,ieee symposium on 3d user interfaces,62
+950,950,4th International Information and Telecommunication Technologies Symposium,2005.0,A4,conferencia,er,international conference on telecommunications,80
+951,951,18. International Conference on Software Engineering & Knowledge Engineering,2006.0,A1,conferencia,er,international conference on software engineering,100
+952,952,"Sessão de Ferramentas, Simpósio Brasileiro de Engenharia de Software",2006.0,B1,conferencia,er,simposio brasileiro de qualidade de software,84
+953,953,VI Simpósio Brasileiro de Sistemas de Informação,2010.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+954,954,XVI Simpósio Brasileiro de Sistemas Multimídia e Web,2010.0,B4,conferencia,im,simposio brasileiro de sistemas eletricos,85
+955,955,Workshop de Ferramentas e Aplicações - XVI Simpósio Brasileiro de Sistemas Multimídia e Web,2010.0,B4,conferencia,works,simposio brasileiro de sistemas eletricos,85
+956,956,Escola Regional de Informática - SBC Mato Groso,2010.0,,conferencia,sc,workshop de informatica na escola,67
+957,957,XXXI Congresso da Sociedade Brasileira de Computação - XXXVIII Seminário Integrado de Software e Hardware,2011.0,B1,conferencia,re,seminario integrado de software e hardware,100
+958,958,IX Encontro Centro-oeste e Norte dos Grupos PET,2011.0,,conferencia,or,ieee sensors,58
+959,959,XXV Simpósio Brasileiro de Engenharia de Software - Trilha Especial &quot;SBES is 25&quot;,2011.0,B1,conferencia,im,simposio brasileiro de qualidade de software,84
+960,960,5º Congresso Brasileiro de Extensão Universitária,2011.0,,conferencia,re,congresso brasileiro de automatica,76
+961,961,Simpósio Mineiro de Computação,2012.0,B3,conferencia,im,simposio brasileiro de computacao aplicada a saude,83
+962,962,V Workshop sobre Gerenciamento de Projetos de Software do Simpósio Brasileiro de Qualidade de Software,2012.0,B1,conferencia,works,simposio brasileiro de qualidade de software,100
+963,963,Simpósio Brasileiro de Informática na Educação (SBIE 2012),2012.0,A3,conferencia,im,simposio brasileiro de informatica na educacao,100
+964,964,16th International Conference on Human-Computer Interaction,2014.0,B1,conferencia,er,international conference on human-computer interaction,100
+965,965,14th International Conference on Computational Science and Its Applications,2014.0,B2,conferencia,er,international conference on computational science,100
+966,966,XIII Simpósio Brasileiro de Qualidade de Software,2014.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+967,967,XL Conferência Latino-Americana de Informática,2014.0,B2,conferencia,er,conferencia latinoamericana de informatica,98
+968,968,XXI Sessão de Ferramentas do Congresso Brasileiro de Software: Teoria e Prática,2014.0,,conferencia,er,congresso brasileiro de automatica,79
+969,969,5th International Workshop on Process Model Collections: Management and Reuse - 12th International Conference on Business Process Management,2014.0,A2,conferencia,er,international conference on business process management,100
+970,970,30th ACM Symposium on Applied Computing,2015.0,A2,conferencia,pp,acm symposium on applied computing,100
+971,971,15th International Conference on Computational Science and Its Applications,2015.0,B2,conferencia,er,international conference on computational science,100
+972,972,15th International Conference on Computational Science and Applications,2015.0,B2,conferencia,er,international conference on computational science,100
+973,973,27th International Conference on Software Engineering and Knowledge Engineering,2015.0,A1,conferencia,er,international conference on software engineering,100
+974,974,12th ACS/IEEE International Conference on Computer Systems and Applications,2015.0,B2,conferencia,er,acs/ieee international conference on computer systems and applications,100
+975,975,XII Simpósio Brasileiro de Sistemas de Informação,2016.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+976,976,16th International Conference on Computational Science and Its Applications,2016.0,B2,conferencia,er,international conference on computational science,100
+977,977,XV Simpósio Brasileiro de Qualidade de Software,2016.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+978,978,International Conference on Information Technology: New Generations,2017.0,A4,conferencia,er,international conference on information technology : new generations,99
+979,979,XIII Simpósio Brasileiro de Sistemas de Informação,2017.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+980,980,2017 EFITA WCCA Congress,2017.0,,conferencia,fit,latin american web congress,64
+981,981,Twenty-Ninth International Conference on Software Engineering and Knowledge Engineering,2017.0,A1,conferencia,er,international conference on software engineering,100
+982,982,XXIII Simpósio Brasileiro de Sistemas Multimídia e Web,2017.0,B4,conferencia,im,simposio brasileiro de sistemas eletricos,85
+983,983,13ª Jornada Científica da Embrapa Gado de Corte,2017.0,,conferencia,or,annual conference and international lidar mapping forum,51
+984,984,XIV Simpósio Brasileiro de Sistemas de Informação,2018.0,A4,conferencia,iv,simposio brasileiro de sistemas de informacao,100
+985,985,IX Congresso Brasileiro de Software - Trilha da Indústria,2018.0,,conferencia,re,congresso brasileiro de automatica,79
+986,986,XV Simpósio Brasileiro de Sistemas de Informação,2019.0,A4,conferencia,im,simposio brasileiro de sistemas de informacao,100
+987,987,14ª Conferência Ibérica de Sistemas e Tecnologias de Informação,2019.0,,conferencia,er,simposio brasileiro de tecnologia da informacao,70
+988,988,XVIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais,2019.0,A4,conferencia,im,simposio brasileiro sobre fatores humanos em sistemas computacionais,100
+989,989,XVIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais,,A4,conferencia,im,simposio brasileiro sobre fatores humanos em sistemas computacionais,100
+990,990,22nd International Conference on Enterprise Information Systems,2020.0,A4,conferencia,er,conference on enterprise information systems,100
+991,991,SIGDOC '20: The 38th ACM International Conference on Design of Communication,2020.0,B2,conferencia,sigdoc,acm international conference on design of communication,100
+992,992,XIII Congresso Brasileiro de Agroinformática (SBIAGRO 2021),2021.0,B4,conferencia,re,congresso brasileiro de agroinformatica,100
+993,993,XX Simpósio Brasileiro de Qualidade de Software (SBQS),2021.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+994,994,XX Simpósio Brasileiro de Qualidade de Software (SBQS) - Trilha Educação em Qualidade de Software,2021.0,B1,conferencia,im,simposio brasileiro de qualidade de software,100
+995,995,FEES'08: Fórum em Educação de Engenharia de Software,2008.0,,conferencia,or,caise forum,64
+996,996,WEI'09: XIV Workshop de Educação em Computação,2009.0,A4,conferencia,wei,workshop sobre educacao em computacao,93
+997,997,SWEL'09: International Workshop on Ontologies and Semantic Web for E-Learning,2009.0,B4,conferencia,er,international i*workshop,92
+998,998,2013 IEEE Frontiers in Education Conference (FIE),,A3,conferencia,er,ieee frontiers in education conference,100
+999,999,2016 IEEE Frontiers in Education Conference (FIE),2016.0,A3,conferencia,er,ieee frontiers in education conference,100
+1000,1000,the 2011 ACM Symposium,,,conferencia,-,biennial acm symposium on eye tracking research & applications,68
+1001,1001,"2nd International Conference on Power Engineering, Energy and Electrical Drives, POWERENG 2009",2009.0,A3,conferencia,er,international conference on web engineering,93
+1002,1002,Escola Regional de Alto Desempenho do CentroOeste,2020.0,,conferencia,sc,simposio em sistemas computacionais de alto desempenho,64
+1003,1003,XXI Simpósio em Sistemas Computacionais de Alto Desempenho,2020.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+1004,1004,II ERAD - Escola Regional de Alto Desempenho de São Paulo,2011.0,,conferencia,er,simposio em sistemas computacionais de alto desempenho,61
+1005,1005,"VI Workshop de Teses, Dissertações e Trabalhos de Iniciação Científica em Andamento",2011.0,,conferencia,works,workshop de software livre,65
+1006,1006,"VII Workshop de Teses, Dissertações e Trabalhos de Iniciação Científica em Andamento",2012.0,,conferencia,works,iberchip workshop,65
+1007,1007,The Second Workshop on Circuits and System Design ? WCAS,2012.0,B1,conferencia,sec,workshop on circuits and systems design,97
+1008,1008,"International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation",2014.0,B1,conferencia,er,"international conference on embedded computer systems: architectures, modeling and simulation",100
+1009,1009,Design Automation Conference - Work-in-Progress Session. DAC-WIP,2014.0,A1,conferencia,om,design automation conference,100
+1010,1010,ACM SIGDA University Booth at DAC 2014,2014.0,,conferencia,iv,acm sigplan erlang workshop,52
+1011,1011,XVI WSCAD-Simpósio de Sistemas Computacionais de Alto Desempenho,2015.0,B1,conferencia,wsc,simposio em sistemas computacionais de alto desempenho,98
+1012,1012,"26th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)",2015.0,A4,conferencia,er,"ieee international conference on application-specific systems, architectures and processors",100
+1013,1013,XVI WSCAD-Simpósio de Sistemas Computacionais de Alto Desempenho,,B1,conferencia,wsc,simposio em sistemas computacionais de alto desempenho,98
+1014,1014,28th Symposium on Integrated Circuits and System Design (SBCCI),2015.0,A4,conferencia,its,symposium on integrated circuits and systems design,98
+1015,1015,IEEE 28th International Symposium on Computer Architecture and High Performance Computing Workshops,2016.0,A1,conferencia,er,international symposium on computer architecture,100
+1016,1016,2016 28th International Symposium on Computer Architecture and High Performance Computing (SBACPAD),,A1,conferencia,er,international symposium on computer architecture,100
+1017,1017,Workshop sobre Educação em Arquitetura de Computadores (WEAC 2016),2016.0,,conferencia,works,workshop sobre educacao em computacao,78
+1018,1018,"2016 IEEE International Conference on Electronics, Circuits and Systems (ICECS)",2016.0,B1,conferencia,er,"ieee international conference on electronics, circuits and systems",100
+1019,1019,IEEE International Symposium on Rapid System Prototyping (RSP),2012.0,B2,conferencia,er,ieee international symposium on rapid system prototyping,100
+1020,1020,International Symposium on Computer Architecture and High Performance Computing,2018.0,A1,conferencia,er,international symposium on computer architecture,100
+1021,1021,Simpósio em Sistemas Computacionais de Alto Desempenho,2018.0,B1,conferencia,im,simposio em sistemas computacionais de alto desempenho,100
+1022,1022,http://wscad.facom.ufms.br/,2019.0,,conferencia,ht,caise forum,45
+1023,1023,III Workshop on Computational Grids and Applications,2005.0,,conferencia,works,workshop of urban computing,78
+1024,1024,WSCAD 2005 - VI Workshop de Sistemas Computacionais de Alto Desempenho,2005.0,B1,conferencia,wsc,simposio em sistemas computacionais de alto desempenho,89
+1025,1025,V Workshop de Sistemas Operacionais,2008.0,,conferencia,works,workshop de visao computacional,77
+1026,1026,6th International Workshop on Middleware for Grid Computing,2008.0,B4,conferencia,er,international i*workshop,92
+1027,1027,WETICE '06,2006.0,,conferencia,wetice,"est - international workshop on automating test case design, selection and evaluation",50
+1028,1028,Workshop de Realidade Virtual e Aumentada,2012.0,B4,conferencia,works,workshop de realidade virtual e aumentada,100
+1029,1029,XXXV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2017),2017.0,A4,conferencia,im,simposio brasileiro de redes de computadores e sistemas distribuidos,100
+1030,1030,1º WICS ? Workshop sobre as Implicações da Computação na Sociedade,2020.0,,conferencia,ics,workshop on exascale mpi,71
+1031,1031,WSCAD 2014 - XV Simpósio em Sistemas Computacionais de Alto Desempenho,2014.0,B1,conferencia,wsc,simposio em sistemas computacionais de alto desempenho,100
+1032,1032,Brazilian Conference on Intelligent System,2020.0,A1,periodico,er,ieee intelligent systems,85
+1033,1033,6th IEEE Latin-American Conference on Communications (LATINCOM),2014.0,A4,periodico,latin,ai communications,88
+1034,1034,the Afternoon Workshop,2018.0,,periodico,er,top,67
+1035,1035,17th IEEE International Conference and Workshops on Engineering of Computer-Based Systems,2010.0,A1,periodico,er,computer,100
+1036,1036,International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP),2007.0,A3,periodico,er,algorithms,100
+1037,1037,2016 IEEE 16th International Conference on Bioinformatics and Bioengineering (BIBE),,A1,periodico,er,informatics,100
+1038,1038,IGARSS 2019 2019 IEEE International Geoscience and Remote Sensing Symposium,2019.0,A1,periodico,igarss,remote sensing,100
+1039,1039,2013 20th Working Conference on Reverse Engineering (WCRE),2013.0,,periodico,or,systems engineering,74
+1040,1040,15th RECOMB Comparative Genomics Satellite Conference,2017.0,,periodico,re,bmc genomics,75
+1041,1041,Proceedings of the 2nd. IEEE Workshop on Fault-Tolerant Parallel and Distributed Systems.,1997.0,A1,periodico,works,proceedings of the ieee,83
+1042,1042,International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA),2015.0,,periodico,er,biotechniques,77
+1043,1043,Concurso de Teses e Dissertações da SBC,2020.0,,periodico,concur,interfaces,60
+1044,1044,XII Encontro de Iniciação Científic da UCDB,2008.0,A1,periodico,cie,scientific data,80
+1045,1045,Encontro de Teoria da Computação (ETC 2020),2020.0,,periodico,or,computer,75
+1046,1046,2012 13th Symposium on Computer Systems XIII Simp sio de Sistemas Computacionais (WSCADSSC),,A1,periodico,om,computer,100
+1047,1047,"2015 IEEE 26th International Conference on Applicationspecific Systems, Architectures and Processors (ASAP)",,,periodico,er,journal of systems architecture,74
+1048,1048,22nd International Conference on Computers in Education (ICCE),2014.0,A1,periodico,er,computer,100
+1049,1049,2013 International Conference on Parallel and Distributed Systems (ICPADS),,,periodico,er,ieee transactions on parallel and distributed systems (print),75
+1050,1050,The 32nd International Symposium on Algorithms and Computation (ISAAC 2021),2021.0,A3,periodico,er,algorithms,100
+1051,1051,Jornadas Sul-Americanas de Engenharia Estrutural,1997.0,,periodico,or,engenharia termica,72
+1052,1052,VI Encontro de Iniciação Científica,1997.0,C,periodico,cie,reic. revista eletronica de iniciacao cientifica (online),83
+1053,1053,2015 IEEE 28th International Symposium on ComputerBased Medical Systems (CBMS),2015.0,A1,periodico,er,computer,100
+1054,1054,Congresso Brasileiro de Agroinformática (SBIAgro 2017),2017.0,A1,periodico,re,informatics,91
+1055,1055,Nono Encontro Nacional de Inteligência Artificial (ENIA 2012),2012.0,B4,periodico,-,inteligencia artificial,100
+1056,1056,Integra - UFMS,2019.0,,periodico,fm,integrated computer-aided engineering,64
+1057,1057,Sessão de Ferramentas do Simpósio Brasileiro de Engenharia de Software (SBES),2012.0,A4,periodico,er,softwarex,89
+1058,1058,XX Brazilian Software Quality Symposium (SBQS),2021.0,A4,periodico,re,softwarex,89
+1059,1059,27th Symposium On Applied Computing (ACM SAC),2012.0,,periodico,pp,applied computing review,75
+1060,1060,II Simpósio sobre Inovação e Criatividade Científica na Embrapa,2010.0,,periodico,im,novatica,75
+1061,1061,The 16th International Conference on Computational Science and Its Applications,2016.0,A1,periodico,er,journal of computational science,81
+1062,1062,2013 Brazilian Power Electronics Conference (COBEP 2013),,,periodico,wer,letronica,78
+1063,1063,"High Performance Computing and Communications, Third International Conference, HPCC 2007",2007.0,A4,periodico,er,ai communications,88
+1064,1064,VII Simpósio Brasileiro de Qualidade de Software,2008.0,A4,periodico,im,softwarex,94
+1065,1065,VII Brazilian Symposium on Bioinformatics,2012.0,A1,periodico,or,informatics,100
+1066,1066,"10th International Conference, GECON - Economics of Grids, Clouds, Systems, and Services",2013.0,,periodico,er,information,73
+1067,1067,I Jornada Científica do Estado de Mato Grosso,2006.0,,periodico,or,scientific data,73
+1068,1068,Integra UFMS,2020.0,,periodico,fm,international journal of computer integrated manufacturing (print),75
+1069,1069,ACM-SIAM Symposuim on Discrete Algorithms,2005.0,A3,periodico,am,algorithms,100
+1070,1070,VIII Workshop em Sistemas Computacionais de Alto Desempenho (WSCAD 2007),2007.0,,periodico,works,human computation,76
+1071,1071,IV Workshop de teses de doutorado em andamento do IC-UNICAMP,2008.0,,periodico,iv,methodsx,62
+1072,1072,V Simpósio de Teses e Dissertações,2000.0,,periodico,im,plos one,62
+1073,1073,Workshop de Gerência de Projetos de Software do Simpósio Brasileiro de Qualidade de Software,2012.0,A4,periodico,works,softwarex,89
+1074,1074,"2013 IEEE International Conference on Systems, Man and Cybernetics (SMC 2013)",,,periodico,er,control and cybernetics,74
+1075,1075,30th ACM Symposium on Applied Computing,2015.0,nulo,periodico,pp,applied computing review,83
+1076,1076,the 2011 ACM Symposium,,,periodico,-,complex systems,48
+1077,1077,XXI Simpósio em Sistemas Computacionais de Alto Desempenho,2020.0,,periodico,im,human computation,76
+1078,1078,http://wscad.facom.ufms.br/,2019.0,,periodico,ht,top,67
+1079,1079,WSCAD 2014 - XV Simpósio em Sistemas Computacionais de Alto Desempenho,2014.0,,periodico,wsc,human computation,76

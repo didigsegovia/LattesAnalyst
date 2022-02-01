@@ -1,0 +1,3466 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link href="http://buscatextual.cnpq.br/buscatextual/images/v2/fav_ico_lattes.ico" rel="Shortcut Icon">
+<meta content="Sistema de Currículos Lattes 2.0 (CNPq)" http-equiv="generator">
+<meta content="currículo,curriculo,curriculum,cv,vitae,lattes,produção,producao,científica,cientifica,Brasil" http-equiv="keywords">
+<title>Currículo do Sistema de Currículos Lattes (Carlos Alberto da Silva)</title>
+<link type="text/css" rel="stylesheet" href="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/import.css">
+<link type="text/css" href="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/tablet-mobile.css" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/jquery.css">
+<link type="text/css" rel="stylesheet" href="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/style_curiculo.css">
+<link type="text/css" rel="stylesheet" href="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/espelho.css">
+<link type="text/css" rel="stylesheet" href="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/impressao.css">
+<script type="text/javascript" async="" src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/ga.js"></script><script type="text/javascript" src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/jquery_002.js"></script><script src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/jquery_003.js" type="text/javascript"></script><script src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/acessibilidade.js" type="text/javascript"></script><script type="text/javascript" src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/tooltip-position.js"></script><script type="text/javascript" src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/jquery_004.js"></script><script type="text/javascript" src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/jquery.js"></script><script type="text/javascript" src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/byOrder.js"></script><script type="text/javascript" src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/font-size.js"></script><script type="text/javascript" src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/cv_citacoes.js"></script><script type="text/javascript" src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/hint_ajax.js"></script><script type="text/javascript" src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/menuFlowScroll.js"></script><script type="text/javascript" src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/videoUtils.js"></script><script type="text/javascript">
+			
+			var menu = {
+				iniciar: function(id) {
+					jkmegamenu.definemenu("ancora-menu-" + id, "menu-" + id, "focus");
+				}
+			};
+			
+			function abreLinkHistoricoPublicacoes(codigo,nome){
+            	var j = window.open("historicoAtualizacao.jsp?id="+codigo+"&nome="+nome+"&fromBusca=1", "historico","resizable=no,menubar=no,toolbar=no,status=yes,scrollbars=yes,width=550px,height=470px,left=0,top=0");
+            	if(j){
+            		j.focus();
+            	} else {
+            		alert('Por favor, desabilite o bloqueador de popups');
+            	}
+			}
+			
+			var autores = {
+				exibir: function() {
+					$(this).hide().parent().find(".autores-et-al").show();
+				},
+				ocultar: function() {
+					$(this).parent().hide().parent().find(".autores-et-al-plus").show();
+				}
+			};
+				
+			$(document).ready(function(){
+			
+				$(".ajaxJCR").ajaxJCR();
+				
+				$(".ajaxCAPES").ajaxCAPES();
+				
+				$(".ajaxINPI").ajaxINPI();
+				
+				$("div.citacoes").verificarCitacoes();
+				
+				$(".tooltip").tipsy({gravity: 's'});
+				
+				$(".autores-et-al-plus").click(autores.exibir);
+				
+				$(".autores-et-al-minus").click(autores.ocultar);
+        			
+      		});	
+      				  
+      		$( function() {
+			    $( document ).tooltip();
+			 } );
+      		                                
+		
+	</script><script type="text/javascript">
+					
+					  var _gaq = _gaq || [];
+					  _gaq.push(['_setAccount', 'UA-35652740-1']);
+					  _gaq.push(['_trackPageview']);
+					
+					  (function() {
+					    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					  })();
+					
+					</script>
+</head>
+<body>
+<div class="page min-width">
+<div class="header">
+<div class="header-content max-width">
+<div class="identity center">
+<div class="combo">
+<h1 class="escondido" tabindex="0"> Currículo Lattes - Busca Textual - Visualização do Currículo </h1>
+<a href="http://lattes.cnpq.br/" title="Currículo Lattes" target="_blank" tabindex="1"><img title="Currículo Lattes" alt="Currículo Lattes" src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/titulo-sistema.png"></a>
+</div>
+<div class="menu-header" style="position: absolute; top: 15px;">
+<span class="tituloFlow"></span><span class="linksFlow"><a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4750420E7&amp;idiomaExibicao=2" class="btn-br" tabindex="2">English</a><a title="Imprimir currículo" class="bt-menu-header titBottom  icons-top icons-top-print" href="javascript:window.print()" tabindex="3"></a><a title="Aumentar a fonte" class="bt-menu-header titBottom fontMais icons-top icons-top-fontMais" href="javascript:void(0)" tabindex="4"></a><a title="Fonte padrão" class="bt-menu-header titBottom fontMenos icons-top icons-top-fontMenos" href="javascript:void(0)" tabindex="5"></a><a title="Alto contraste" class="bt-menu-header titBottom contraste icons-top icons-top-contraste-en" href="javascript:void(0)" tabindex="6"></a><a href="http://buscatextual.cnpq.br/buscatextual/download.do?metodo=apresentar&amp;idcnpq=1687736633515498" target="_blank" class="bt-menu-header titBottom fontMenos icons-top icons-top-xml" title="Baixar Currículo em XML" tabindex="7"></a><a title="Ajuda" class="bt-menu-header titBottom icons-top icons-top-help" target="_blank" href="http://ajuda.cnpq.br/index.php" tabindex="8"></a></span>
+</div>
+<div class="logo">
+<a target="_blank" href="http://cnpq.br/" tabindex="9">
+<h2 tabindex="0">CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico</h2>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="navigation-wrapper">
+<div class="center navigation-wrapper-line">
+<div class="menuPrincipal">
+<div class="menuCtl menuAcesso">
+<div class="menucent"><script type="text/javascript">menu.iniciar("dados-gerais");</script>
+		
+		
+		<a id="ancora-menu-dados-gerais" href="javascript:void(0)" class="acessibilidade" tabindex="10" _megamenupos="0pos"><span></span>Dados gerais</a>
+		
+	
+		
+		
+		
+		
+	<script type="text/javascript">menu.iniciar("formacao");</script>
+		
+		
+		<a id="ancora-menu-formacao" href="javascript:void(0)" class="acessibilidade separador" tabindex="14" _megamenupos="1pos"><span></span>Formação</a>
+		
+	
+		
+		
+		
+		
+	<script type="text/javascript">menu.iniciar("atuacao");</script>
+		
+		
+		<a id="ancora-menu-atuacao" href="javascript:void(0)" class="acessibilidade separador" tabindex="17" _megamenupos="2pos"><span></span>Atuação</a>
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		<a id="ancora-menu-projetos" href="#ProjetosPesquisa" class="acessibilidade separador" tabindex="22" _megamenupos="3pos"><span></span>Projetos</a>
+		
+	<script type="text/javascript">menu.iniciar("projetos");</script>
+		
+		
+		
+		
+	<script type="text/javascript">menu.iniciar("producoes");</script>
+		
+		
+		<a id="ancora-menu-producoes" href="#ProducoesCientificas" class="acessibilidade separador" tabindex="26" _megamenupos="4pos"><span></span>Produções</a>
+		
+	
+		
+		
+		
+		
+	<script type="text/javascript">menu.iniciar("potencialInovacao");</script>
+		
+		
+		<a id="ancora-menu-potencialInovacao" href="#PotencialInovacao" class="acessibilidade separador" tabindex="59" _megamenupos="5pos"><span></span>Inovação</a>
+		
+	
+		
+		
+		
+		
+	<script type="text/javascript">menu.iniciar("educacaoPopularizacaoCTA");</script>
+		
+		
+		<a id="ancora-menu-educacaoPopularizacaoCTA" href="#EducacaoPopularizacaoCTA" class="acessibilidade separador" tabindex="74" _megamenupos="6pos"><span></span>Educação e Popularização de C &amp; T</a>
+		
+	
+		
+		
+		
+		
+	<script type="text/javascript">menu.iniciar("eventos");</script>
+		
+		
+		<a id="ancora-menu-eventos" href="#Eventos" class="acessibilidade separador" tabindex="89" _megamenupos="7pos"><span></span>Eventos</a>
+		
+	
+		
+		
+		
+		
+	<script type="text/javascript">menu.iniciar("orientacoes");</script>
+		
+		
+		<a id="ancora-menu-orientacoes" href="#Orientacoes" class="acessibilidade separador" tabindex="92" _megamenupos="8pos"><span></span>Orientações</a>
+		
+	
+		
+		
+		
+		
+	<script type="text/javascript">menu.iniciar("bancas");</script>
+		
+		
+		<a id="ancora-menu-bancas" href="#Bancas" class="acessibilidade separador" tabindex="95" _megamenupos="9pos"><span></span>Bancas</a>
+		
+	
+		
+		
+		
+		
+	<script type="text/javascript">menu.iniciar("informacoes-complementares");</script>
+		
+		
+		<a id="ancora-menu-informacoes-complementares" href="javascript:void(0)" class="acessibilidade separador" tabindex="98" _megamenupos="10pos"><span></span>+</a>
+		
+	
+		
+		
+		
+		
+	</div>
+</div>
+</div>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="main-content max-width min-width center">
+<div class="layout-cell layout-cell-12">
+<div class="layout-cell-pad-main">
+<img class="foto" src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/servletrecuperafoto.gif"><div class="infpessoa">
+<h2 class="nome" tabindex="0">Carlos Alberto da Silva</h2>
+<ul class="informacoes-autor">
+<li>
+<span class="img_link icone-informacao-autor"></span>Endereço para acessar este CV: http://lattes.cnpq.br/1687736633515498</li>
+<li>
+<span class="img_identy icone-informacao-autor"></span>ID Lattes: <span style="font-weight: bold; color: #326C99;">1687736633515498</span>
+</li>
+<li>
+<span class="img_cert icone-informacao-autor"></span>Última atualização do currículo em 26/04/2021</li>
+</ul>
+</div><br class="clear"><div class="title-wrapper">
+<h1 class="ui-hidden" tabindex="0"></h1>
+<hr class="separator">
+<p class="resumo">possui graduação em Bacharel em Ciência da Computação 
+pela Universidade Federal de Mato Grosso do Sul (1990), Mestrado em 
+Ciência da Computação pela Universidade Estadual de Campinas - Unicamp 
+(2001), e Doutorado no Instituto de Computação - IC da Universidade 
+Estadual de Campinas - Unicamp (2015). Atualmente é Professor Adjunto da
+ Faculdade de Computaçào da Universidade Federal de Mato Grosso do Sul. 
+Tem experiência na área de Sistemas de Computação, atuando 
+principalmente em segurança computacional, política de segurança, 
+segurança em nuvem computacional.<span style="font-weight: bold" class="texto"> (Texto informado pelo autor)</span>
+</p>
+</div><br class="clear"><div class="title-wrapper">
+<a name="Identificacao" tabindex="100">
+<h1 tabindex="0">Identificação</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Nome</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Carlos Alberto da Silva<img src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/icon-rfb.png" class="alinhamento-texto-img" title="Dados cadastrais validados junto a Receita Federal do Brasil"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Nome em citações bibliográficas</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">SILVA, Carlos Alberto;DA SILVA, CARLOS ALBERTO;Silva, Carlos Alberto da</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Lattes iD</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5"><img src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/icone_lattes.png" style="width: 15px; margin-right: 10px;">http://lattes.cnpq.br/1687736633515498</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Orcid iD </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5"><a class="icons-aviso titBottom icons-aviso-help icon-cor" href="javascript:void(0)" rel="tooltip" title="O que é ORCID? ORCID é uma organização independente sem fins lucrativos que fornece um identificador persistente - um ORCID iD - que distingue de outros pesquisadores e um mecanismo para conjuntos de resultados e atividades de pesquisa ao seu ID. O ORCID está bem localizado em editores, financiadores, instituições e outros serviços relacionados à pesquisa. Saiba mais em orcid.org " style="font-weight:bold;font-size:+1;color:blue;position:relative;top:-3px;" tabindex="101">?</a> <img src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/icone_orcid.png" style="width: 15px; margin-right: 10px;"><a href="https://orcid.org/0000-0002-6915-3211" tabindex="102">https://orcid.org/0000-0002-6915-3211</a></div>
+</div>
+</div>
+</div><br class="clear"><div class="title-wrapper">
+<a name="Endereco" tabindex="103">
+<h1 tabindex="0">Endereço</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Endereço Profissional</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Universidade Federal de Mato Grosso do Sul, FACOM. <br class="clear">Cidade Universitária<br class="clear">Universitária<br class="clear">79400000 - Campo Grande, MS - Brasil<br class="clear">Telefone: (67) 33457860<br class="clear">URL da Homepage: <a target="blank" href="http://www.facom.ufms.br/" tabindex="104">WWW.FACOM.UFMS.BR/</a></div>
+</div>
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="FormacaoAcademicaTitulacao" tabindex="105">
+<h1 tabindex="0">Formação acadêmica/titulação</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2009 - 2015</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Doutorado em Doutorado em Ciência da Computação - UNICAMP. <br class="clear">Universidade Estadual de Campinas, UNICAMP, Brasil.
+		
+	<br class="clear">Título: Management of cloud computing using security criteria, Ano de obtenção: 2015. <br class="clear">Orientador: <a class="icone-lattes" target="_blank" href="http://lattes.cnpq.br/1190759512397526" tabindex="106"><img src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/logolattes.gif"></a>Paulo Lício de Geus. <br class="clear">Bolsista do(a): Fundação de Apoio e Desenvolvimento do Ensino, Ciência e Tecnologia do MS, FUNDECT/MS, Brasil. <br class="clear">Palavras-chave: Cloud Computing Security; Security Management; Security Metric.<br class="clear">Grande área: Ciências Exatas e da Terra<br class="clear">Setores de atividade: Atividades dos serviços de tecnologia da informação; Pesquisa e desenvolvimento científico. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2000 - 2001</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Mestrado em Ciência da Computação<span class="ajaxCAPES" data-param="&amp;codigoCurso=33003017005P8&amp;nivelCurso=M"> (Conceito CAPES 7)</span>. <br class="clear">Universidade Estadual de Campinas, UNICAMP, Brasil.
+		
+	<br class="clear">Título: Automatização da administração de Sistemas Unix,Ano de Obtenção: 2001.<br class="clear">Orientador: <a class="icone-lattes" target="_blank" href="http://lattes.cnpq.br/1190759512397526" tabindex="107"><img src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/logolattes.gif"></a>Paulo Lício de Geus.<br class="clear">Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. <br class="clear">Palavras-chave: Redes de Computação - Administração; Unix (Sistema Operacional); Redes de Computadores; Software.<br class="clear">Grande área: Ciências Exatas e da Terra<br class="clear">Grande
+ Área: Ciências Exatas e da Terra / Área: Ciência da Computação / 
+Subárea: Sistemas de Computação / Especialidade: Redes de Computadores. <br class="clear">Grande
+ Área: Ciências Exatas e da Terra / Área: Ciência da Computação / 
+Subárea: Sistemas de Computação / Especialidade: Sistemas Operacionais. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1987 - 1990</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Graduação em BACHAREL EM CIÊNCIA DA COMPUTAÇÃO. <br class="clear">Universidade Federal de Mato Grosso do Sul, UFMS, Brasil.
+		
+	</div>
+</div>
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="FormacaoAcademicaPosDoutorado" tabindex="108">
+<h1 tabindex="0">Pós-doutorado</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2019 - 2020</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Pós-Doutorado. <br class="clear">University of Florida, UF, Estados Unidos.
+		
+	<br class="clear">Grande área: Ciências Exatas e da Terra<br class="clear">Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Segurança Computacional. <br class="clear">Grande
+ Área: Ciências Exatas e da Terra / Área: Ciência da Computação / 
+Subárea: Metodologia e Técnicas da Computação / Especialidade: Sistemas 
+de Informação. </div>
+</div>
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="FormacaoComplementar" tabindex="109">
+<h1 tabindex="0">Formação Complementar</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2021 - 2021</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Introduction to Cybersecurity.  (Carga horária: 15h). <br class="clear">Cisco do Brasil, CISCO, Brasil.
+		
+	</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2021 - 2021</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Cybersecurity Essentials.  (Carga horária: 30h). <br class="clear">Cisco do Brasil, CISCO, Brasil.
+		
+	</div>
+</div>
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="AtuacaoProfissional" tabindex="110">
+<h1 tabindex="0">Atuação Profissional</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell"><br class="clear"><div class="inst_back">
+<b>Universidade Estadual de Campinas, UNICAMP, Brasil.
+		
+	</b>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right subtit-1">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Vínculo institucional</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5"><br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2009 - 2015</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Vínculo: Aluno de Doutorado, Enquadramento Funcional: Pesquisador, Carga horária: 40, Regime: Dedicação exclusiva. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Outras informações</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Gestão da Segurança em Computação na Nuvem</div>
+</div><br class="clear"><br class="clear"><div class="inst_back">
+<b>Universidade Federal de Mato Grosso do Sul, UFMS, Brasil.
+		
+	</b>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right subtit-1">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Vínculo institucional</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5"><br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2013 - Atual</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Vínculo: , Enquadramento Funcional: Professor Adjunto II, Carga horária: 40, Regime: Dedicação exclusiva. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Outras informações</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">- Professor Efetivo Adjunto II da Faculdade de Computação (FACOM) da Universidade Federal do Mato Grosso do Sul.</div>
+</div><br class="clear"><div class="layout-cell layout-cell-3 text-align-right subtit-1">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Vínculo institucional</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5"><br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2005 - 2013</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Vínculo: , Enquadramento Funcional: 
+Professor Efetivo Assistente II em CPCX-UFMS, Carga horária: 40, Regime:
+ Dedicação exclusiva. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Outras informações</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">- Professor Efetivo Assistente II do Curso de Sistemas de Informação</div>
+</div><br class="clear"><div class="layout-cell layout-cell-3 text-align-right subtit-1">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Vínculo institucional</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5"><br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2002 - 2005</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Vínculo: Professor Colaborador, Enquadramento Funcional: Professor Colaborador - DCT-CCET-UFMS, Carga horária: 20</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Outras informações</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Professor Colaborador no DCT - Departamento de Computação e Estatistica do CCET-UFMS.</div>
+</div><br class="clear"><div class="layout-cell layout-cell-3 text-align-right subtit-1">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Vínculo institucional</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5"><br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1989 - 2005</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Vínculo: Servidor Público, Enquadramento Funcional: Analista de Sistemas, Carga horária: 40</div>
+</div><br class="clear"><div class="layout-cell layout-cell-3 text-align-right subtit-1">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Atividades</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5"><br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>12/2015 - Atual</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Direção e administração, UFMS - Faculdade de Computação. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Cargo ou função<br class="clear">Coordenador do Curso de Técnologo de Redes de Computadores.</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>08/2007 - 07/2009</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Conselhos, Comissões e Consultoria, CAMPUS UNIVERSITARIO DE COXIM. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Cargo ou função<br class="clear">Membro do Colegiado do Curso de Sistemas de Informação..
+				
+				</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/2007 - 07/2009</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Extensão universitária , Campus de CPCX. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Atividade de extensão realizada<br class="clear">Curso de Extensão: Informática Básica. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/2007 - 07/2009</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Extensão universitária , Campus de CPCX. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Atividade de extensão realizada<br class="clear">Projeto de Extensão: Todo Dia é Dia de Parque. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>08/2005 - 07/2009</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Pesquisa e desenvolvimento, Campus de CPCX. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Linhas de pesquisa <br class="clear"><a href="#LP_Auditoria de Sistemas" tabindex="111">Auditoria de Sistemas</a><br class="clear"><a href="#LP_Segurança Computacional" tabindex="112">Segurança Computacional</a><br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>07/2005 - 07/2009</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ensino, BACHAREL EM SISTEMAS DE INFORMAÇÃO, Nível: Graduação</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Disciplinas ministradas<br class="clear">INTRODUÇÃO A COMPUTAÇÃO<br class="clear">ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES<br class="clear">PROGRAMAÇÃO DISTRIBUIDA<br class="clear">PROJETO FINAL DE GRADUAÇÃO<br class="clear">REDE DE COMPUTADORES<br class="clear">Segurança e Auditoria de Sistemas<br class="clear">SISTEMAS OPERACIONAIS<br class="clear">TÓPICOS EM REDES DE COMPUTADORES<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/2007 - 07/2008</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Extensão universitária , Campus de CPCX. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Atividade de extensão realizada<br class="clear">Projeto
+ de Extensão: Projeto Educar: capitação de material didático para 
+escolas públicas da região norte do Mato Grosso do Sul.. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/2007 - 11/2007</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Extensão universitária , Campus de CPCX. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Atividade de extensão realizada<br class="clear">Projeto de Extensão: Curso HTML com Dreamweaver. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>08/2005 - 11/2007</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Conselhos, Comissões e Consultoria, Conselhor de Pesquisa e Pós-graduação. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Cargo ou função<br class="clear">COPP - Conselheiro do Campus CPCX.
+				
+				</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/2007 - 10/2007</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Extensão universitária , Campus de CPCX. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Atividade de extensão realizada<br class="clear">Projeto de Extensão: III Semana Acadêmica de Sistemas de Informação. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>07/2006 - 10/2006</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Extensão universitária , Campus de CPCX. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Atividade de extensão realizada<br class="clear">3ª Semana de Sistemas de Informação - CPCX. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>07/2006 - 08/2006</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Extensão universitária , Campus de CPCX. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Atividade de extensão realizada<br class="clear">Projetos de Extensão: SEMANA DE RECEPÇÃO AOS CALOUROS 2006. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>08/2005 - 08/2006</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Conselhos, Comissões e Consultoria, Conselho Universitário da Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Cargo ou função<br class="clear">COUN - Conselheiro do Campus CPCX.
+				
+				</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/2001 - 07/2005</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ensino, BACHAREL EM CIÊNCIA DA COMPUTAÇÃO, Nível: Graduação</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Disciplinas ministradas<br class="clear">PROGRAMAÇÃO DISTRIBUIDA<br class="clear">REDES DE COMPUTADORES<br class="clear">SISTEMAS OPERACIONAIS<br class="clear">BANCO DE DADOS II<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>02/2003 - 08/2003</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Extensão universitária , DEPTO DE COMPUTAÇÃO E ESTATISTICA - DCT/CCET. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Atividade de extensão realizada<br class="clear">CURSO DE GERENCIAMENTO DE PROJETOS. </div>
+</div><br class="clear"><div class="inst_back">
+<b>Universidade Anhanguera - Uniderp, UNIDERP, Brasil.
+		
+	</b>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right subtit-1">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Vínculo institucional</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5"><br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1999 - 2001</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Vínculo: Celetista, Enquadramento Funcional: Professor titular, Carga horária: 20</div>
+</div><br class="clear"><div class="layout-cell layout-cell-3 text-align-right subtit-1">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Atividades</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5"><br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>03/2000 - 05/2001</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ensino, DESENVOLVIMENTO PARA APLICAÇÕES PARA WORLD WIDE WE, Nível: Especialização</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Disciplinas ministradas<br class="clear">BANCO DE DADOS AVANÇADOS<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>03/1999 - 05/2001</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Serviços técnicos especializados , DEPTO DE CIÊNCIA DA COMPUTAÇÃO. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Serviço realizado<br class="clear">PROJETO INTRANET DO DEPTO. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>03/1999 - 12/1999</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ensino, CIÊNCIA DA COMPUTAÇÃO, Nível: Graduação</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Disciplinas ministradas<br class="clear">BANCO DE DADOS<br class="clear"></div>
+</div>
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="LinhaPesquisa" tabindex="113">
+<h1 tabindex="0">Linhas de pesquisa</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell"><a name="LP_Auditoria de Sistemas" tabindex="114"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Auditoria de Sistemas</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Objetivo: Pesquisa em técnicas e ferramentas para Auditoria de Sistema na area: Pericia Forense Computacional.. <br class="clear">Grande área: Ciências Exatas e da Terra<br class="clear">Grande
+ Área: Ciências Exatas e da Terra / Área: Ciência da Computação / 
+Subárea: Sistemas de Computação / Especialidade: Redes de Computadores. <br class="clear">Grande
+ Área: Ciências Exatas e da Terra / Área: Ciência da Computação / 
+Subárea: Metodologia e Técnicas da Computação / Especialidade: Sistemas 
+de Informação. <br class="clear">Setores de atividade: Desenvolvimento de Programas (Software) e Prestação de Serviços em Informática. <br class="clear">Palavras-chave: Auditoria de Sistemas Computacionais.</div>
+</div><a name="LP_Segurança Computacional" tabindex="115"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Segurança Computacional</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b><br class="clear"></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Objetivo: Estudos de técnicas de Malware,
+ ferramentas para combate de Malware, Politica de Segurança, Métricas de
+ segurança, etc.. <br class="clear">Grande área: Ciências Exatas e da Terra<br class="clear">Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação. <br class="clear">Setores de atividade: Desenvolvimento de Programas (Software) e Prestação de Serviços em Informática. <br class="clear">Palavras-chave: Redes de Computadores; Sistemas Distribuidos.</div>
+</div>
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="ProjetosPesquisa" tabindex="116">
+<h1 tabindex="0">Projetos de pesquisa</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell"><a name="PP_Cybersecurity" tabindex="117"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2021 - Atual</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Cybersecurity<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: Projeto de pesquisa em Cybersecurity. <br class="clear">Situação: Em andamento; Natureza: Pesquisa. <br class="clear">Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . <br class="clear"><br class="clear">Integrantes: Carlos Alberto da Silva - Coordenador.<br class="clear"></div>
+</div><a name="PP_Segurança Computacional" tabindex="118"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2017 - 2020</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Segurança Computacional<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: O objetivo desta pesquisa é sugerir ações e procedimentos para minimizar os diversos aspectos
+dos riscos, para que a UFMS seja capaz de cumprir sua missão em educação, pesquisa e extensão,
+mesmo nas circunstâncias mais adversas e inesperadas.
+Com este enfoque, esta pesquisa propõe um conjunto de ações necessárias para gestão do nível
+de segurança computacional e para cada ação uma ou mais métricas, isto é, novas formas para
+acompanhamento dessas ações, em cada esfera de execução da Segurança para os tipos: Governança,
+Gerenciamento e Execução Técnica. Em última análise, especificar um Security-SLA em segurança
+computacional para as unidades da UFMS.. <br class="clear">Situação: Concluído; Natureza: Pesquisa. <br class="clear">Alunos envolvidos: Graduação: (8) . <br class="clear"><br class="clear">Integrantes:
+ Carlos Alberto da Silva - Coordenador / Ana Karina Salina de Oliveira -
+ Integrante / Cristiano Costa Argemon Vieira - Integrante.<br class="clear"></div>
+</div><a name="PP_Gestão de Segurança em nuvem computacional" tabindex="119"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2014 - 2016</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Gestão de Segurança em nuvem computacional<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: Em consona&#770;ncia com as 
+necessidades de protec&#807;a&#771;o dos ambientes de rede atuais, as tecnologias 
+dos sistemas de seguranc&#807;a de redes te&#770;m-se tornado significativamente 
+mais complexas. Ha&#769; um crescente esforc&#807;o pela definic&#807;a&#771;o de padro&#771;es e
+ normas para o projeto de alto ni&#769;vel da seguranc&#807;a da informac&#807;a&#771;o de 
+organizac&#807;o&#771;es. Padro&#771;es como: ISO/IEC 17799:2000 e BS 7799, para a 
+Gesta&#771;o da Seguranc&#807;a da Informac&#807;a&#771;o. No entanto, a transic&#807;a&#771;o dessas 
+poli&#769;ticas e controles de seguranc&#807;a de alto ni&#769;vel para a efetiva 
+implementac&#807;a&#771;o dos mecanismos e&#769;, na maioria das vezes, abrupta e 
+sujeita a erros. Buscando novas linhas de Padronizac&#807;a&#771;o com 
+automatizac&#807;a&#771;o deste processos, va&#769;rios Frameworks para modelagem e 
+registro de Poli&#769;ticas de Seguranc&#807;a, como o Mobasec, com o paradigma 
+Model-Based Management (MBM). Para a tarefa de administrar uma rede de 
+computadores, a definic&#807;a&#771;o das necessidades de cada usua&#769;rio quanto ao 
+uso dos servic&#807;os disponi&#769;veis, e da regras de utilizac&#807;a&#771;o, etc. Assim 
+como, faz-se necessa&#769;rio desenvolver ferramentas que atreladas a 
+poli&#769;tica de seguranc&#807;a de uma organizac&#807;a&#771;o, definindo para o 
+administrador da rede, o que esta&#769; permitido, bloqueado ou suspenso. 
+Faz-se necessa&#769;rio tambem o desenvolvimento de ferramentas para: ? 
+Converter a especificac&#807;a&#771;o formal da poli&#769;tica de seguranc&#807;a desta rede
+ de computadores para ac&#807;o&#771;es que configuram cada maquina de usua&#769;rio 
+para esta (nova) poli&#769;tica de seguranc&#807;a; ? Permitir tambe&#769;m a 
+Customizac&#807;a&#771;o da maquina de usua&#769;rio para o seu perfil de utilizac&#807;a&#771;o 
+(partic&#807;o&#771;es usadas, varia&#769;veis de ambientes, servic&#807;os utilizados, 
+etc.).. <br class="clear">Situação: Concluído; Natureza: Pesquisa. <br class="clear">Alunos envolvidos: Graduação: (4) . <br class="clear"><br class="clear">Integrantes: Carlos Alberto da Silva - Coordenador / DE GEUS, PAULO LICIO - Integrante.<br class="clear"></div>
+</div><a name="PP_Ferramentas para Administracao de Software em Redes de Computadores" tabindex="120"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2008 - 2009</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ferramentas para Administracao de Software em Redes de Computadores<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: Ferramentas para Administracao
+ de Software em Redes de Computadores: bloqueador automatico baseado em 
+conteudo, e Limitacao de acesso baseado em grupos de trabalhos.. <br class="clear">Situação: Em andamento; Natureza: Pesquisa. <br class="clear">Alunos envolvidos: Graduação: (3) . <br class="clear"><br class="clear">Integrantes: Carlos Alberto da Silva - Coordenador.<br class="clear"></div>
+</div><a name="PP_Técnicas e ferramentas para Projeto Dataware-house: estudo de caso para a base de dados educacional do Projeto Web-PID" tabindex="121"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2007 - 2009</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Técnicas e ferramentas para Projeto Dataware-house: estudo de caso para a base de dados educacional do Projeto Web-PID<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: Projeto de Pesquisa para 
+Técnicas e ferramentas para Projeto Dataware-house: estudo de caso para a
+ base de dados educacional do Projeto Web-PID. <br class="clear">Situação: Em andamento; Natureza: Pesquisa. <br class="clear">Alunos envolvidos: Graduação: (3) . <br class="clear"><br class="clear">Integrantes:
+ Carlos Alberto da Silva - Integrante / Amaury Antônio de Castro Junior -
+ Integrante / Leila Lisiane Rossi - Coordenador.<br class="clear"></div>
+</div><a name="PP_Construção de Redes Cooperativas na UFMS" tabindex="122"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2007 - 2008</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Construção de Redes Cooperativas na UFMS<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: Projeto de Construção de Redes Cooperativas na UFMS. <br class="clear">Situação: Em andamento; Natureza: Pesquisa. <br class="clear">Alunos envolvidos: Graduação: (2) . <br class="clear"><br class="clear">Integrantes: Carlos Alberto da Silva - Coordenador.<br class="clear">Número de orientações: 2</div>
+</div>
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="ProjetosExtensao" tabindex="123">
+<h1 tabindex="0">Projetos de extensão</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell"><a name="PP_Telecentro comunitário de Silviolândia / Coxim" tabindex="124"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2009 - 2009</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Telecentro comunitário de Silviolândia / Coxim<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: Criar a estrutura fisica e pedagogica para o telecentro do colegio municipal de Silviolândia/Coxim. <br class="clear">Situação: Concluído; Natureza: Extensão. <br class="clear">Alunos envolvidos: Graduação: (2) . <br class="clear"><br class="clear">Integrantes: Carlos Alberto da Silva - Coordenador.<br class="clear"></div>
+</div><a name="PP_Estruturação de Telecentro Viriato Bandeira/Coxim" tabindex="125"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2009 - 2009</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Estruturação de Telecentro Viriato Bandeira/Coxim<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: Criar a estrutura fisica e pedagogica para o telecentro do colegio estadual viriato bandeira/coxim. <br class="clear">Situação: Concluído; Natureza: Extensão. <br class="clear">Alunos envolvidos: Graduação: (2) . <br class="clear"><br class="clear">Integrantes: Carlos Alberto da Silva - Coordenador.<br class="clear"></div>
+</div>
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="ProjetosDesenvolvimento" tabindex="126">
+<h1 tabindex="0">Projetos de desenvolvimento</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell"><a name="PP_Ferramentas para desenvolvimento automático de Software Básico" tabindex="127"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2008 - 2009</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Ferramentas para desenvolvimento automático de Software Básico<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: Ferramentas para desenvolvimento automático de Software Básico em JAVA ou PHP com Mysql ou Postgres. <br class="clear">Situação: Em andamento; Natureza: Desenvolvimento. <br class="clear">Alunos envolvidos: Graduação: (1) . <br class="clear"><br class="clear">Integrantes: Carlos Alberto da Silva - Coordenador.<br class="clear"></div>
+</div>
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="RevisorPeriodico" tabindex="128">
+<h1 tabindex="0">Revisor de periódico</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2015 - 2015</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Periódico: Computers &amp; Electrical Engineering</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2014 - Atual</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Periódico: Peer-to-Peer Networking and Applications (Print)</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2016 - Atual</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Periódico: Journal of Information Security and Applications</div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2017 - Atual</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Periódico: JOURNAL OF INTERNET SERVICES AND APPLICATIONS</div>
+</div>
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="AreasAtuacao" tabindex="129">
+<h1 tabindex="0">Áreas de atuação</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Segurança Computacional. <br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação. <br class="clear"></div>
+</div>
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="Idiomas" tabindex="130">
+<h1 tabindex="0">Idiomas</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Espanhol</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Compreende Bem, Fala Bem, Lê Bem, Escreve Bem. </div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>Inglês</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Compreende Bem, Fala Bem, Lê Bem, Escreve Bem. </div>
+</div>
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="ProducoesCientificas" tabindex="131">
+<h1 tabindex="0">Produções</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<a name="ProducaoBibliografica" tabindex="132"></a><br class="clear"><div class="inst_back">
+<b>Produção bibliográfica</b>
+</div>
+<a name="Citacoes" tabindex="133"></a>
+<div id="artigos-completos">
+<div class="cita-artigos">
+<b><a name="ArtigosCompletos" tabindex="134"></a>Artigos completos publicados em periódicos</b>
+</div><br class="clear"><div class="layout-cell-6">
+<div class="sub_tit_form">
+<label for="combo-ordenacao-citacao">Ordenar por</label><select class="input-text input-login-select" id="combo-ordenacao-citacao"><option value="1" selected="selected"> Ordem Cronológica </option><option value="2"> Número de citações Web of science </option><option value="3"> Número de citações Scopus </option><option value="4"> Numero de citações Scielo </option><option value="5"> Primeiro autor </option><option value="6"> Impacto JCR </option><option value="7"> Ordem de Importância </option></select>
+</div>
+</div>
+<script type="text/javascript">
+			
+				var ordenacao = {
+					engine: {
+						textual: function(seletor) {
+						
+							$("#artigos-completos").find(".artigo-completo").sortElements(function(a, b){
+								var v1 = $(a).find(seletor).text();
+								var v2 = $(b).find(seletor).text();
+								return (v1 > v2) ? 1 : -1;
+							});
+						},
+						numerico: function(seletor) {
+						
+							$("#artigos-completos").find(".artigo-completo").sortElements(function(a, b){
+								var v1 = parseInt($(a).find(seletor).text(), 10);
+								var v2 = parseInt($(b).find(seletor).text(), 10);
+								if (isNaN(v1)) v1 = 0;
+								if (isNaN(v1)) v2 = 0;
+								return (v1 < v2) ? 1 : -1;
+							});
+						},
+						numerico_crescente: function(seletor) {
+						
+							$("#artigos-completos").find(".artigo-completo").sortElements(function(a, b){
+								var v1 = parseInt($(a).find(seletor).text(), 10);
+								var v2 = parseInt($(b).find(seletor).text(), 10);
+								if (isNaN(v1)) v1 = 0;
+								if (isNaN(v1)) v2 = 0;
+								return (v1 > v2) ? 1 : -1;
+							});
+						}
+					},
+					change: function(e) {
+					
+						var combo = $(e.target),
+							valor = combo.val();
+							
+						if (valor == 1) ordenacao.engine.numerico("span[data-tipo-ordenacao='ano']");
+						if (valor == 2) ordenacao.engine.numerico("span[data-tipo-ordenacao='1']");
+						if (valor == 3) ordenacao.engine.numerico("span[data-tipo-ordenacao='3']");						
+						if (valor == 4) ordenacao.engine.numerico("span[data-tipo-ordenacao='2']");
+						if (valor == 5) ordenacao.engine.textual("span[data-tipo-ordenacao='autor']");
+						if (valor == 6) ordenacao.engine.numerico("span[data-tipo-ordenacao='jcr']");
+						if (valor == 7) ordenacao.engine.numerico_crescente("span[data-tipo-ordenacao='importancia']");
+							
+					}
+				};
+			
+				$("#combo-ordenacao-citacao").bind("change", ordenacao.change);
+			
+			</script>
+<div class="artigo-completo">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><span class="informacao-artigo" data-tipo-ordenacao="importancia"></span><span class="informacao-artigo" data-tipo-ordenacao="autor">Amaury Antônio de Castro Junior</span><span class="informacao-artigo" data-tipo-ordenacao="ano">2007</span>Amaury Antônio de Castro Junior ; Leila Lisiane Rossi ; <b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="135">SILVA, Carlos Alberto</a></b>
+ ; Tony C. Bignardi dos Santos ; Lourival dos Santos Pires Junior . 
+UNION: um framework para o desenvolvimento ágil de aplicações Web. Anais
+ do III Congresso de Computação do Sul de Mato Grosso<sup></sup>, v. I, p. 199-199, 2007. <div class="citado" cvuri="/buscatextual/servletcitacoes?doi=&amp;issn=18096301&amp;volume=I&amp;issue=&amp;paginaInicial=199&amp;titulo=UNION: um framework para o desenvolvimento ágil de aplicações Web&amp;sequencial=1&amp;nomePeriodico=Anais do III Congresso de Computação do Sul de Mato Grosso" tooltip="Citações a partir de 1996"></div></div>
+</div>
+<br class="clear">
+</div>
+</div>
+<div class="cita-artigos">
+<b><a name="TrabalhosPublicadosAnaisCongresso" tabindex="136"></a>Trabalhos completos publicados em anais de congressos</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">
+		<img src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/ico_relevante.gif" style="icone-relevancia">
+		<a class="icone-producao icone-doi" href="http://dx.doi.org/10.1109/LATINCOM.2014.7041843" target="_blank" tabindex="137"></a><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="138">SILVA, Carlos Alberto</a></b>; <a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1190759512397526" target="_blank" tabindex="139">DE GEUS, PAULO LICIO</a>
+ . An Approach to Security-SLA in Cloud Computing Environments. In: 6th 
+IEEE Latin-American Conference on Communications (LATINCOM), 2014, 
+Cartagena das Índias. 6th IEEE Latin-American Conference on 
+Communications. IEEE Bogotá: IEEE, 2014. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">
+		<img src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/ico_relevante.gif" style="icone-relevancia">
+		<a class="icone-producao icone-doi" href="http://dx.doi.org/10.1109/LatinCloud.2012.6508157" target="_blank" tabindex="140"></a><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="141">DA SILVA, CARLOS ALBERTO</a></b>; FERREIRA, ANDERSON SOARES ; <a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1190759512397526" target="_blank" tabindex="142">DE GEUS, PAULO LICIO</a>
+ . A methodology for management of cloud computing using security 
+criteria. In: 2012 IEEE Latin America Conference on Cloud Computing and 
+Communications (LatinCloud), 2012, Porto Alegre. 2012 IEEE Latin America
+ Conference on Cloud Computing and Communications (LatinCloud). p. 
+49-54. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="143">SILVA, Carlos Alberto</a></b>.
+ AS CONSEQUÊNCIAS DA INTELIGÊNCIA COLETIVA PARA A EDUCAÇÃO. In: 2º 
+SEMANA EDUCACIONAL, 2003, CAMPO GRANDE. AS CONSEQUÊNCIAS DA INTELIGÊNCIA
+ COLETIVA PARA A EDUCAÇÃO. CAMPO GRANDE - MS: COLÉGIO ALEXANDER FLEMING,
+ 2003. </div>
+</div>
+<br class="clear">
+<div class="cita-artigos">
+<b><a name="TrabalhosPublicadosAnaisCongresso" tabindex="144"></a>Resumos expandidos publicados em anais de congressos</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">
+		<img src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/ico_relevante.gif" style="icone-relevancia">
+		<a class="icone-producao icone-doi" href="http://dx.doi.org/10.1145/2857218.2857254" target="_blank" tabindex="145"></a><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="146">DA SILVA, CARLOS ALBERTO</a></b>; <a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1190759512397526" target="_blank" tabindex="147">DE GEUS, PAULO LICIO</a>
+ . Return On Security Investment for Cloud Computing: a Customer 
+Perspective. Carlos Alberto da Silva, and Paulo Li&#769;cio de Geus. ACM 7th 
+International conference on Management of computational and collective 
+Intelligence in Digital EcoSystems (MEDES?15). 25-29 October 2015, 
+Caraguatatuba/Sa&#771;o Paulo, Brazil.. In: ACM 7th International conference 
+on Management of computational and collective Intelligence in Digital 
+EcoSystems (MEDES?15), 2015, Caraguatatuba, SP, Brazil. ACM 7th 
+International conference on Management of computational and collective 
+Intelligence in Digital EcoSystems (MEDES?15), 2015. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="148">DA SILVA, CARLOS ALBERTO</a></b>; <a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1190759512397526" target="_blank" tabindex="149">DE GEUS, PAULO LICIO</a>
+ . Arquitetura de monitoramento para Security-SLA em Nuvem Computacional
+ do tipo SaaS. In: Simpósio Brasileiro em Segurança da Informação e de 
+Sistemas Computacionais (SBSeg), 2014, Belo Horizonte, MG, Brasil. 
+Simpósio Brasileiro em Segurança da Informação e de Sistemas 
+Computacionais (SBSeg). Belo Horizonte, MG, BRASIL: SBC, 2014. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">
+		<img src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/ico_relevante.gif" style="icone-relevancia">
+		<b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="150">SILVA, Carlos Alberto</a></b>;
+ Anderson Soares Ferreira . Projeto e Gestão de Segurança na Computação 
+na Nuvem. In: VII Workshop de Teses, Dissertações e Trabalhos de 
+Iniciação Científica, 2012, Campinas - SP. Anais do VII Workshop de 
+Teses, Dissertações e Trabalhos de Iniciação Científica em Andamento do 
+IC-UNICAMP. Campinas - SP: Unicamp, 2012. v. 8. p. 65-69. </div>
+</div>
+<br class="clear">
+<div class="cita-artigos">
+<b><a name="ApresentacoesTrabalho" tabindex="151"></a>Apresentações de Trabalho</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="152">DA SILVA, CARLOS ALBERTO</a></b>; <a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1190759512397526" target="_blank" tabindex="153">DE GEUS, PAULO LICIO</a> . Gestao da Segurança para ambiente de Nuvem Computacional. 2014. (Apresentação de Trabalho/Outra). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="154">SILVA, Carlos Alberto</a></b>. Metodologia para Projeto e Gestão da Segurança para Computação em Nuvem. 2012. (Apresentação de Trabalho/Outra). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="155">SILVA, Carlos Alberto</a></b>;
+ Leila Lisiane Rossi ; Amaury Antônio de Castro Junior ; Tony C. 
+Bignardi dos Santos ; Lourival dos Santos Pires Junior . Geracao do 
+Portal CPCX - UFMS pelo UNION: Um Estudo de Caso. 2008. (Apresentação de
+ Trabalho/Outra). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>4. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="156">SILVA, Carlos Alberto</a></b>;
+ Elizangela Mattos Faria da Silva ; Amaury Antônio de Castro Junior ; 
+Leila Lisiane Rossi ; Marcelo Rocha Barros Gonçalves . Projeto Educar: 
+como utilizar o laboratório de informática como uma ferramenta de 
+ensino. 2007. (Apresentação de Trabalho/Comunicação). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>5. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="157">SILVA, Carlos Alberto</a></b>;
+ Leila Lisiane Rossi ; Amaury Antônio de Castro Junior . UNION: Um 
+Framework Ágil para o Desenvolvimento de Aplicaçoes WEB.. 2007. 
+(Apresentação de Trabalho/Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>6. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="158">SILVA, Carlos Alberto</a></b>;
+ Elizangela Mattos Faria da Silva ; Amaury Antônio de Castro Junior ; 
+Leila Lisiane Rossi ; Marcelo Rocha Barros Gonçalves . Projeto Educar: 
+capitação de material didático para escolas públicas da região norte do 
+Mato Grosso do Sul. 2007. (Apresentação de Trabalho/Comunicação). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>7. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="159">SILVA, Carlos Alberto</a></b>. Ententendo e Combatendo Malware: Virus, Spywares e Rootkits. 2006. (Apresentação de Trabalho/Conferência ou palestra). </div>
+</div>
+<br class="clear">
+<div class="cita-artigos">
+<b><a name="OutrasProducoesBibliograficas" tabindex="160"></a>Outras produções bibliográficas</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="161">SILVA, Carlos Alberto</a></b>; Paulo Lício de Geus . Gestão de Segurança para ambiente de Nuvem Computacional 2014 (Poster). </div>
+</div>
+<br class="clear">
+<a name="ProducaoTecnica" tabindex="162"></a><br class="clear"><div class="inst_back">
+<b>Produção técnica</b>
+</div>
+<div class="cita-artigos">
+<b><a name="SoftwareSemPatente" tabindex="163"></a>Programas de computador sem registro</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="164">SILVA, Carlos Alberto</a></b>. Software de Gestão de Recursos Humanos - Setor Público. 2008. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="165">SILVA, Carlos Alberto</a></b>. Software de Gestão de Recursos Humanos - Setor Público. 2007. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="166">SILVA, Carlos Alberto</a></b>. Software de calculo de valores retroativo para devolução erário (TCU - Processo Judicial). 2006. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>4. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="167">SILVA, Carlos Alberto</a></b>. Construção do Módulo de Importação de Aposentados do SIAPE/Serpro. 2006. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>5. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="168">SILVA, Carlos Alberto</a></b>. Software de Gestão de Recursos Humanos - Setor Público. 2006. </div>
+</div>
+<br class="clear">
+<a name="DemaisProducaoTecnica" tabindex="169"></a><br class="clear"><div class="inst_back">
+<b>Demais tipos de produção técnica</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Leila Lisiane Rossi ; <b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="170">SILVA, Carlos Alberto</a></b> . Curso de Informática Básica. 2007. (Curso de curta duração ministrado/Extensão). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Marcelo Rocha Barros Gonçalves ; <b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="171">SILVA, Carlos Alberto</a></b> . Projeto de Extensão: TODO DIA É DIA DE PARQUE. 2007. (Curso de curta duração ministrado/Extensão). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="172">SILVA, Carlos Alberto</a></b>; Elizangela Mattos Faria da Silva . Curso de HTML com Dreamweaver. 2007. (Curso de curta duração ministrado/Extensão). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>4. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="173">SILVA, Carlos Alberto</a></b>; Elizangela Mattos Faria da Silva . Curso HTML com Dreamweaver.
+							2007. (Desenvolvimento de material didático ou instrucional - Curso HTML com Dreamweaver). </div>
+</div>
+<br class="clear">
+<div class="cita-artigos">
+<b><a name="DemaisTrabalhos" tabindex="174"></a>Demais trabalhos</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">
+		<img src="Curr%C3%ADculo%20do%20Sistema%20de%20Curr%C3%ADculos%20Lattes%20(Carlos%20Alberto%20da%20Silva)_files/ico_relevante.gif" style="icone-relevancia">
+		<b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="175">SILVA, Carlos Alberto</a></b>. GERENCIAMENTO DE PROJETOS. 2003 (CURSO DE EXTENSÃO) . </div>
+</div>
+<br class="clear">
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="Bancas" tabindex="176">
+<h1 tabindex="0">Bancas</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<a name="ParticipacaoBancasTrabalho" tabindex="177"></a><br class="clear"><div class="inst_back">
+<b>Participação em bancas de trabalhos de conclusão</b>
+</div>
+<div class="cita-artigos">
+<b>Monografias de cursos de aperfeiçoamento/especialização</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="178">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Adriano Vicente da Silva. O uso das 
+tecnologias da informação e comunicação como recursos educacionais no 
+ensino de história. 2016. Monografia (Aperfeiçoamento/Especialização em 
+Mídias Computacionais - EAD)  - Universidade Federal de Mato Grosso do 
+Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="179">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Amanda Montezano Regina. Tecnologias 
+Assistivas para o estudante com deficiência auditiva. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="180">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Camila Prates de Abreu. O uso de recursos 
+midiáticos na produção de peças didáticas no curso de técnico em 
+mecânica. 2016. Monografia (Aperfeiçoamento/Especialização em Mídias 
+Computacionais - EAD)  - Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>4. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="181">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Carlos Augusto Light Thiry. Educação física e
+ saúde na escola. 2016. Monografia (Aperfeiçoamento/Especialização em 
+Mídias Computacionais - EAD)  - Universidade Federal de Mato Grosso do 
+Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>5. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="182">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Cleia Natalia Pascoalim Caires. Tv jomap - as
+ tecnologias servindo o conhecimento. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>6. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="183">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Elaine Corvalan. Tecnologia, letramento e 
+alfabetização. 2016. Monografia (Aperfeiçoamento/Especialização em 
+Mídias Computacionais - EAD)  - Universidade Federal de Mato Grosso do 
+Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>7. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="184">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Eliane Vilhar Centurião. A escola e as novas 
+tecnologias: a diversidade das salas de tecnologias educacionais. 2016. 
+Monografia (Aperfeiçoamento/Especialização em Mídias Computacionais - 
+EAD)  - Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>8. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="185">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Isabel Virginia de Oliveira Almeida. 
+Interdisciplinaridade em sala de aula: combatendo o mosquito da dengue. 
+2016. Monografia (Aperfeiçoamento/Especialização em Mídias 
+Computacionais - EAD)  - Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>9. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="186">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Izabel Candido da Silva. O uso das 
+tecnologias integradas à educação escolar: greinermix. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>10. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="187">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Izabella Mara Fachini de Freitas Cayres. A 
+fotografia digital no ensino de arte. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>11. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="188">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Jair Bertalli. O uso de celular na escrita de
+ crônicas do cotidiano três-lagoense. 2016. Monografia 
+(Aperfeiçoamento/Especialização em Mídias Computacionais - EAD)  - 
+Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>12. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="189">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Juliana Serafim Barbosa Oliveira dos Santos. 
+Tecnologia no ensino: uso do blog na produção, leitura e interpretação. 
+2016. Monografia (Aperfeiçoamento/Especialização em Mídias 
+Computacionais - EAD)  - Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="cita-artigos">
+<b>Trabalhos de conclusão de curso de graduação</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="190">SILVA, Carlos Alberto</a></b>;
+ OLIVEIRA, A. K. S.; SILVA JUNIOR, B. A..  Participação em banca de 
+Nafisa Ibrahim.Auditoria de Sistemas de Informação.
+							2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de 
+Computação)  - Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">OLIVEIRA, A. K. S.; SILVA JUNIOR, B. A.; <b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="191">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Rodrigo Santiago do Nascimento Lima.AUDITORIA
+ DE SISTEMAS DE INFORMAÇÃO.
+							2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de 
+Computação)  - Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="192">SILVA, Carlos Alberto</a></b>; OLIVEIRA, A. K. S.; SILVA JUNIOR, B. A..  Participação em banca de Lucas Diego Braga Cabral.Analise de detecção de Malware.
+							2015. Trabalho de Conclusão de Curso (Graduação em Análise de Sistemas)  - Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>4. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">OLIVEIRA, A. K. S.; SILVA JUNIOR, B. A.; <b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="193">SILVA, Carlos Alberto</a></b>.  Participação em banca de Luiz Carlos Pereira Leal de Souza Nogueira.Funções Hash.
+							2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação)  - Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>5. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="194">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Sirley Gomes Romero.Construção de Firewall 
+Hibrido.
+							2008. Trabalho de Conclusão de Curso (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>6. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="195">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Fernando Marcel Silva Souza.Ferramentas para 
+Perícia Forense Computacional - Ambiente Unix.
+							2008. Trabalho de Conclusão de Curso (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>7. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="196">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Maycon Lucas Ortiz Braun.Ferramentas para 
+Perícia Forense Computacional - Ambiente Windows.
+							2008. Trabalho de Conclusão de Curso (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>8. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="197">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de DÊNIS DA SILVA CANATO, e PAULO HENRIQUE 
+FERREIRA DA SILVA.Protocolo SSL: Autenticação e Criptografia em Camada 
+Cliente/Servidor ? Software ORION.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>9. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="198">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de RODOLFO DE SOUZA BARBEIRO.ORION: 
+Implementando um Software Middleware para Sistemas Distribuídos.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>10. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="199">SILVA, Carlos Alberto</a></b>;
+ Amaury Antônio de Castro Junior; Karen Kiomi Nakazato; Leila Lisiane 
+Rossi.  Participação em banca de Elionai Oliveira de Souza.Aplicação do 
+RUP no Projeto de Data Webhouse.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>11. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="200">SILVA, Carlos Alberto</a></b>;
+ Elizangela Mattos Faria da Silva; Leila Lisiane Rossi.  Participação em
+ banca de Wilsimar de Souza.Sistema Web para Vigilância Sanitária.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>12. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="201">SILVA, Carlos Alberto</a></b>;
+ Amaury Antônio de Castro Junior; Leila Lisiane Rossi; Elizangela Mattos
+ Faria da Silva.  Participação em banca de Diego Duarte Costa, e Roney 
+de A.Silva.Automatools: Implementação de uma Aplicação para Edição de 
+Autômatos Finitos Determinísticos Utilizando Java.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>13. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="202">SILVA, Carlos Alberto</a></b>;
+ Amaury Antônio de Castro Junior; Leila Lisiane Rossi.  Participação em 
+banca de Fabiano de L. Mazui.Vaucangraph:Um Ambiente Gráfico para 
+Geração de Código Vaucanson em Documentos Latex.
+							2007. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>14. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="203">SILVA, Carlos Alberto</a></b>;
+ Elizangela Mattos Faria da Silva.  Participação em banca de CLODOALDO 
+SOUZA ALVES.Administrador de Aplicativos para Ambiente Unix.
+							2006. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>15. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="204">SILVA, Carlos Alberto</a></b>;
+ Elizangela Mattos Faria da Silva.  Participação em banca de Graziele T.
+ F., Rozineide S. S. e Simone B. G..Banco de dados WEB do Centro de 
+Documentação Historica da Região Norte do MS - Herinque de Melo 
+Spengler.
+							2006. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>16. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="205">SILVA, Carlos Alberto</a></b>;
+ Elizangela Mattos Faria da Silva.  Participação em banca de Katiuce 
+Cândida dos Santos e Marcio Saraiva Batista.Construção de um Website 
+Dinâmico para uma Empresa de Pré-Moldados.
+							2006. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>17. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="206">SILVA, Carlos Alberto</a></b>;
+ Elizangela Mattos Faria da Silva.  Participação em banca de Cesar 
+augusto de Almeida Viana.Desenvolvimento de Catalogo Eletrônico.
+							2006. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>18. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="207">SILVA, Carlos Alberto</a></b>;
+ Elizangela Mattos Faria da Silva.  Participação em banca de Angelino 
+C., Artur A. C. e Renato F. S..Sistema WEB para divulgação da região 
+Norte de Mato Grosso do Sul.
+							2006. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>19. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="208">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Fabio Costa Neri / Geovane Costa Roque / 
+Gustavo Pomine.Ws-Nin - Sistema de Workflow para recepção do Núcleo de 
+Informática.
+							2002. Trabalho de Conclusão de Curso (Graduação em ANALISE DE 
+SISTEMAS)  - Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>20. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="209">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Elizângela Nogueira.Odont´s Office for 
+windows.
+							2002. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>21. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="210">SILVA, Carlos Alberto</a></b>.
+  Participação em banca de Alessio Ferreira Severino.Sistema de Controle
+ de Onibus - SIT.
+							2002. Trabalho de Conclusão de Curso (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear"><br class="clear"><a name="ParticipacaoBancasComissoes" tabindex="211"></a><br class="clear"><div class="inst_back">
+<b>Participação em bancas de comissões julgadoras</b>
+</div>
+<div class="cita-artigos">
+<b>Concurso público</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="212">SILVA, Carlos Alberto</a></b>;
+ N., Bruno Magalhaes; S., Ricardo Ribeiro dos. Banca Examinadora para 
+ingresso na Carreira do Magistério Superior na Classe de Professor 
+Assistente A, Grande Área / Área: Ciências Exatas e da Terra / Ciência 
+da Computação.
+							2016. Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="213">SILVA, Carlos Alberto</a></b>;
+ N., Bruno Magalhaes; ISHII, R. P.. Banca Examinadora para ingresso na 
+Carreira do Magistério Superior na Classe de Professor Assistente A, 
+Grande Área / Área: Ciências Exatas e da Terra / Ciência da Computação.
+							2016. Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="214">SILVA, Carlos Alberto</a></b>;
+ ISHII, R. P.; REIS, V. Q.. Ingresso no Magistério Superior da UFMS - 
+Professor Auxiliar (Pró-reitoria de Graduação-I.S. 250/2014).
+							2014. Universidade Federal de Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>4. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">BARBOSA FILHO, R.; <b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="215">SILVA, Carlos Alberto</a></b>; SILVA JUNIOR, B. A.. Ingresso no Magistério Superior da UFMS - Professor Assistente (Pró-reitoria de Graduação-I.S. 245/2013).
+							2013. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>5. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="216">SILVA, Carlos Alberto</a></b>;
+ Amaury Antônio de Castro Junior; Leila Lisiane Rossi. Processo 
+Simplificado para Contratação de Professor Substituto. Area de 
+Administração.
+							2007. Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>6. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="217">SILVA, Carlos Alberto</a></b>;
+ Karen Kiomi Nakazato; Marco Aurélio Stefanes. Ingresso no Magistério 
+Superior da UFMS - Professor Assistente (CPCX-I.S. 112/2006).
+							2006. Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>7. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="218">SILVA, Carlos Alberto</a></b>;
+ Karen Kiomi Nakazato; Elizangela Mattos Faria da Silva. Processo 
+Simplificado para Contratação de Professor Substituto. Area de 
+Matemática.
+							2006. Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>8. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="219">SILVA, Carlos Alberto</a></b>;
+ Karen Kiomi Nakazato; Elizangela Mattos Faria da Silva. Processo 
+Simplificado para Contratação de Professor Substituto. Area de 
+Administração.
+							2006. Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>9. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="220">SILVA, Carlos Alberto</a></b>. Processo Simplificado para Contratação de Professor Substituto. Area de Lingua Espanhol.
+							2006. Universidade Federal do Mato Grosso do Sul. </div>
+</div>
+<br class="clear">
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="Eventos" tabindex="221">
+<h1 tabindex="0">Eventos</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<div class="layout-cell layout-cell-12 data-cell">
+<a name="ParticipacaoEventos" tabindex="222"></a><br class="clear"><div class="inst_back">
+<b>Participação em eventos, congressos, exposições e feiras</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Cisco Cybersecurity Community Conference. 2020. (Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Info Security ? Ilha da Segurança Digital. 13ª ISC Brasil ? Feira e Conferência Internacional de Segurança. 2018. (Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Simpósio Brasileiro de Segurança 2018 (SBSeg-2018).
+							2018. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>4. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">XI Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais - SBSeg-2012.
+							2012. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>5. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">XXIX Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuidos - SBRC-2011.
+							2011. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>6. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">IX Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais - SBSeg-2009.
+							2009. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>7. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">12o Congresso Regional de Informatica e 
+Telecomunicacoes de Mato Grosso. Geração do Portal CPCX - UFMS pelo 
+UNION: Um Estudo de Caso. 2008. (Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>8. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">I EPEX - Encontro de Ensino, Pesquisa e Extensão ( I PETPEG - IX EIC - III ENEX ).ESTRUTURAÇÃO DE TELECENTRO DE SILVIOLANDIA.
+							2008. (Encontro). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>9. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">II SEREX - CO (Seminário de Extensão 
+Universitária da Região Centro Oeste).TELECENTRO SILVIOLÂNDIA ? RELAÇÃO 
+VIÁVEL ENTRE ENSINO E EXTENSÃO.
+							2008. (Encontro). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>10. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Semana Acadêmica de Sistemas de Informação. 2008. (Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>11. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">I Congresso Brasileiro de Educação: 
+Politicas e Práticas de Educação para Infância - UNESP/Bauru/SP. Projeto
+ Educar: como utilizar o laboratório de informática como uma ferramenta 
+de ensino. 2007. (Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>12. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">I Congresso Brasileiro de Educação: 
+Politicas e Práticas de Educação para Infância - UNESP/Bauru/SP. Projeto
+ Educar: captação de material didático para escolas públicas da região 
+norte do Mato Grosso do Sul. 2007. (Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>13. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">II Encontro de Extensão Universitária da UFMS - II ENEX-UFMS.
+							2007. (Encontro). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>14. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">III Congresso de Computação do Sul de 
+Mato Grosso - III COMPSULMT. UNION: Um Framework para Desenvolvimento 
+Ágil de Aplicações Web. 2007. (Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>15. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">I Seminário de Extensão Universitária da Região Centro-Oeste - I SEREX-CO. 2007. (Seminário). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>16. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Semana de Tecnologia da Informação - SeTInfo 1.0. 2007. (Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>17. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">3a. Semana de Sistemas de Informação - 
+CPCX/UFMS. Ententendo e Combatendo Malware: Virus, Spywares e Rootkits. 
+2006. (Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>18. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">1º Encontro da Região Centro Oeste de Educação, Trabalho e Formação de Professores.
+							2005. (Encontro). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>19. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">3ª Semana de Pedagogia - Educação a Distancia - UFMS.
+							2005. (Encontro). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>20. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">4º Encontro de Educadores.
+							2005. (Encontro). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>21. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">2º SEMANA EDUCACIONAL. 2003. (Seminário). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>22. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">ORACLE OPEN WORLD´99. 1999. (Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>23. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">II WORKSHOP SOBRE ADMINISTRAÇÃO E INTEGRAÇÃO DE SISTEMAS.
+							1996. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>24. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">XIV SIMPÓSIO BRASILEIRO DE REDE DE COMPUTADORES.
+							1996. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>25. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">IX SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE.
+							1995. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>26. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">XII SIMPÓSIO BRASILEIRO DE INTELIGÊNCIA ARTIFICIAL.
+							1995. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>27. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">X SIMPÓSIO BRASILEIRO DE BANCO DE DADOS.
+							1995. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>28. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">II SEMANA DE COMPUTAÇÃO - SECOMP/93. 1993. (Outra). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>29. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">V SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE.
+							1991. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>30. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">IV SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE.
+							1990. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>31. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">V SIMPÓSIO BRASILEIRO DE BANCO DE DADOS.
+							1990. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>32. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">IV SIMPÓSIO BRASILEIRO DE BANCO DE DADOS.
+							1989. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>33. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">IX SBC. 1989. (Outra). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>34. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">IX SBC. 1989. (Outra). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>35. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">IX SOCIEDADE BRASILEIRA DE COMPUTAÇÃO. 1989. (Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>36. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">VIII JORNADA DE ATUALIZAÇÃO EM INFORMÁTICA. 1989. (Outra). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>37. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">VI SIMPÓSIO BRASILEIRO DE INTELIGENCIA ARTIFICIAL.
+							1989. (Simpósio). 
+					</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>38. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">VI ESCOLA DE COMPUTAÇÃO. 1988. (Congresso). </div>
+</div>
+<br class="clear">
+</div>
+<a name="OrganizacaoEventos" tabindex="223"></a><br class="clear"><div class="inst_back">
+<b>Organização de eventos, congressos, exposições e feiras</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="224">SILVA, Carlos Alberto</a></b>;
+ Alfredo Lanari de Aragão . Membro da Comissão Geral da Semana Acadêmica
+ de Sistemas de Informação do CPCX/UFMS.. 2008. (Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Amaury Antônio de Castro Junior ; <b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="225">SILVA, Carlos Alberto</a></b> ; Leila Lisiane Rossi . Membro da Comissão Geral do SeTInfo 1.0 do CPCX/UFMS.. 2007. (Congresso). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="226">SILVA, Carlos Alberto</a></b>. Membro da Comissão Geral da 3ª Semana de Sistema de Informação - CPCX-UFMS. 2006. (Congresso). </div>
+</div>
+<br class="clear">
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="Orientacoes" tabindex="227">
+<h1 tabindex="0">Orientações</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<a name="Orientacoesconcluidas" tabindex="228"></a><br class="clear"><div class="inst_back">
+<b>Orientações e supervisões concluídas</b>
+</div>
+<div class="cita-artigos">
+<b>Trabalho de conclusão de curso de graduação</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Jean Carvalho Ortiz.
+							Mitigando as vulnerabilidades de sistemas Web usando Nessus.
+							2018.
+							Trabalho de Conclusão de Curso. (Graduação em Ciência da 
+Computação)  - Faculdade de Computação. Orientador: Carlos Alberto da 
+Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">LUCAS DIEGO BRAGA CABRAL.
+							Análise de detecção de Malware.
+							2015.
+							Trabalho de Conclusão de Curso. (Graduação em Ciência da 
+Computação)  - Universidade Federal de Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>3. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Júlio Aparecido de Arruda Cavalcante.
+							Ethical.
+							2008.
+							Trabalho de Conclusão de Curso. (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>4. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Djohny Marcio Magalhães Braga.
+							Access-MSN.
+							2008.
+							Trabalho de Conclusão de Curso. (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>5. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Dionisio Machado Leite Filho.
+							FAPARC - Ferramentas para Automatização de Procedimentos de 
+Administração de Redes de Computadores.
+							2008.
+							Trabalho de Conclusão de Curso. (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>6. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Fernando Hiroshi Nagae.
+							SGCPHPJSP: Sistema Gerador de Código PHP e JSP Baseado em Projeto
+ de Banco de Dados.
+							2008.
+							Trabalho de Conclusão de Curso. (Graduação em BACHAREL EM 
+SISTEMAS DE INFORMAÇÃO)  - Universidade Federal de Mato Grosso do Sul. 
+Orientador: Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>7. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Sirley Gomes Romero.
+							Construção de Firewall Hibrido.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>8. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Dênis da Silva Canato, e Paulo Herinque 
+Ferreira da Silva.
+							Protocolo SSL: Autenticação e Criptografia em Camada 
+Cliente/Servidor ? Software Orion.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>9. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Rodolfo de Souza Barbeiro.
+							ORION: Implementando um Software Middleware para Sistemas 
+Distribuídos.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>10. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Fernando Marcel Silva Souza.
+							Ferramentas para Perícia Forense Computacional - Ambiente Unix.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>11. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Maycon Lucas Ortiz Braun.
+							Ferramentas para Perícia Forense Computacional - Ambiente 
+Windows.
+							2007.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>12. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Clodoaldo Souza Alves.
+							Administrador de Aplicativos para Ambiente Unix.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>13. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Katiuce Cândida dos Santos e Marcio 
+Saraiva Batista.
+							Construção de um Website Dinâmico para uma Empresa de 
+Pré-Moldados.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>14. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Graziele T. F., Rozineide S. S. e Simone 
+B. G..
+							Banco de dados WEB do Centro de Documentação Historica da Região 
+Norte do MS - Herinque de Melo Spengler.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>15. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Cesar augusto de Almeida Viana.
+							Desenvolvimento de Catalogo Eletrônico.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>16. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Angelino C., Artur A. C. e Renato F. S..
+							Sistema WEB para divulgação da região Norte de Mato Grosso do 
+Sul.
+							2006.
+							Trabalho de Conclusão de Curso. (Graduação em Sistemas de 
+Informação)  - Universidade Federal do Mato Grosso do Sul. Orientador: 
+Carlos Alberto da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>17. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Alessio Ferreira Severino.
+							SISTEMA DE CONTROLE DE ONIBUS - SIT.
+							1999.
+							Trabalho de Conclusão de Curso. (Graduação em PROCESSAMENTO DE 
+DADOS)  - Universidade Anhanguera - Uniderp. Orientador: Carlos Alberto 
+da Silva.
+						</div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>18. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Elizângela Nogueira.
+							ODONT´S OFFICE FOR WINDOWS.
+							1999.
+							Trabalho de Conclusão de Curso. (Graduação em PROCESSAMENTO DE 
+DADOS)  - Universidade Anhanguera - Uniderp. Orientador: Carlos Alberto 
+da Silva.
+						</div>
+</div>
+<br class="clear">
+</div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="PotencialInovacao" tabindex="229">
+<h1 tabindex="0">Inovação</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<a name="ProgramaComputadorSemRegistroPI" tabindex="230"></a><br class="clear"><div class="inst_back">
+<b>Programa de computador sem registro</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="231">SILVA, Carlos Alberto</a></b>. Software de Gestão de Recursos Humanos - Setor Público. 2008. </div>
+</div>
+<br class="clear">
+<a name="ProjetosPesquisaPI" tabindex="232"></a><br class="clear"><div class="inst_back">
+<b>Projetos de pesquisa</b>
+</div>
+<div class="layout-cell layout-cell-12 data-cell"><a name="PP_Cybersecurity" tabindex="233"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2021 - Atual</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Cybersecurity<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: Projeto de pesquisa em Cybersecurity. <br class="clear">Situação: Em andamento; Natureza: Pesquisa. <br class="clear">Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1) . <br class="clear"><br class="clear">Integrantes: Carlos Alberto da Silva - Coordenador.<br class="clear"></div>
+</div><a name="PP_Segurança Computacional" tabindex="234"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2017 - 2020</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Segurança Computacional<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: O objetivo desta pesquisa é sugerir ações e procedimentos para minimizar os diversos aspectos
+dos riscos, para que a UFMS seja capaz de cumprir sua missão em educação, pesquisa e extensão,
+mesmo nas circunstâncias mais adversas e inesperadas.
+Com este enfoque, esta pesquisa propõe um conjunto de ações necessárias para gestão do nível
+de segurança computacional e para cada ação uma ou mais métricas, isto é, novas formas para
+acompanhamento dessas ações, em cada esfera de execução da Segurança para os tipos: Governança,
+Gerenciamento e Execução Técnica. Em última análise, especificar um Security-SLA em segurança
+computacional para as unidades da UFMS.. <br class="clear">Situação: Concluído; Natureza: Pesquisa. <br class="clear">Alunos envolvidos: Graduação: (8) . <br class="clear"><br class="clear">Integrantes:
+ Carlos Alberto da Silva - Coordenador / Ana Karina Salina de Oliveira -
+ Integrante / Cristiano Costa Argemon Vieira - Integrante.<br class="clear"></div>
+</div><a name="PP_Gestão de Segurança em nuvem computacional" tabindex="235"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2014 - 2016</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Gestão de Segurança em nuvem computacional<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: Em consona&#770;ncia com as 
+necessidades de protec&#807;a&#771;o dos ambientes de rede atuais, as tecnologias 
+dos sistemas de seguranc&#807;a de redes te&#770;m-se tornado significativamente 
+mais complexas. Ha&#769; um crescente esforc&#807;o pela definic&#807;a&#771;o de padro&#771;es e
+ normas para o projeto de alto ni&#769;vel da seguranc&#807;a da informac&#807;a&#771;o de 
+organizac&#807;o&#771;es. Padro&#771;es como: ISO/IEC 17799:2000 e BS 7799, para a 
+Gesta&#771;o da Seguranc&#807;a da Informac&#807;a&#771;o. No entanto, a transic&#807;a&#771;o dessas 
+poli&#769;ticas e controles de seguranc&#807;a de alto ni&#769;vel para a efetiva 
+implementac&#807;a&#771;o dos mecanismos e&#769;, na maioria das vezes, abrupta e 
+sujeita a erros. Buscando novas linhas de Padronizac&#807;a&#771;o com 
+automatizac&#807;a&#771;o deste processos, va&#769;rios Frameworks para modelagem e 
+registro de Poli&#769;ticas de Seguranc&#807;a, como o Mobasec, com o paradigma 
+Model-Based Management (MBM). Para a tarefa de administrar uma rede de 
+computadores, a definic&#807;a&#771;o das necessidades de cada usua&#769;rio quanto ao 
+uso dos servic&#807;os disponi&#769;veis, e da regras de utilizac&#807;a&#771;o, etc. Assim 
+como, faz-se necessa&#769;rio desenvolver ferramentas que atreladas a 
+poli&#769;tica de seguranc&#807;a de uma organizac&#807;a&#771;o, definindo para o 
+administrador da rede, o que esta&#769; permitido, bloqueado ou suspenso. 
+Faz-se necessa&#769;rio tambem o desenvolvimento de ferramentas para: ? 
+Converter a especificac&#807;a&#771;o formal da poli&#769;tica de seguranc&#807;a desta rede
+ de computadores para ac&#807;o&#771;es que configuram cada maquina de usua&#769;rio 
+para esta (nova) poli&#769;tica de seguranc&#807;a; ? Permitir tambe&#769;m a 
+Customizac&#807;a&#771;o da maquina de usua&#769;rio para o seu perfil de utilizac&#807;a&#771;o 
+(partic&#807;o&#771;es usadas, varia&#769;veis de ambientes, servic&#807;os utilizados, 
+etc.).. <br class="clear">Situação: Concluído; Natureza: Pesquisa. <br class="clear">Alunos envolvidos: Graduação: (4) . <br class="clear"><br class="clear">Integrantes: Carlos Alberto da Silva - Coordenador / DE GEUS, PAULO LICIO - Integrante.<br class="clear"></div>
+</div>
+</div><br class="clear"><a name="ProjetoExtensaoPI" tabindex="236"></a><br class="clear"><div class="inst_back">
+<b>Projeto de extensão</b>
+</div>
+<div class="layout-cell layout-cell-12 data-cell"><a name="PP_Telecentro comunitário de Silviolândia / Coxim" tabindex="237"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2009 - 2009</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Telecentro comunitário de Silviolândia / Coxim<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: Criar a estrutura fisica e pedagogica para o telecentro do colegio municipal de Silviolândia/Coxim. <br class="clear">Situação: Concluído; Natureza: Extensão. <br class="clear">Alunos envolvidos: Graduação: (2) . <br class="clear"><br class="clear">Integrantes: Carlos Alberto da Silva - Coordenador.<br class="clear"></div>
+</div><a name="PP_Estruturação de Telecentro Viriato Bandeira/Coxim" tabindex="238"></a><div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2009 - 2009</b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Estruturação de Telecentro Viriato Bandeira/Coxim<br class="clear"></div>
+</div>
+<div class="layout-cell layout-cell-3 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b></b>
+</div>
+</div>
+<div class="layout-cell layout-cell-9">
+<div class="layout-cell-pad-5">Descrição: Criar a estrutura fisica e pedagogica para o telecentro do colegio estadual viriato bandeira/coxim. <br class="clear">Situação: Concluído; Natureza: Extensão. <br class="clear">Alunos envolvidos: Graduação: (2) . <br class="clear"><br class="clear">Integrantes: Carlos Alberto da Silva - Coordenador.<br class="clear"></div>
+</div>
+</div><br class="clear"></div><br class="clear"></div><br class="clear"><div class="title-wrapper">
+<a name="EducacaoPopularizacaoCTA" tabindex="239">
+<h1 tabindex="0">Educação e Popularização de C &amp; T</h1>
+</a>
+<hr class="separator">
+<div class="layout-cell layout-cell-12 data-cell">
+<a name="ArtigosEPCTA" tabindex="240"></a><br class="clear"><div class="inst_back">
+<b>Artigos</b>
+</div>
+<div class="cita-artigos">
+<b><a name="ArtigosCompletos" tabindex="241"></a>Artigos completos publicados em periódicos</b>
+</div>
+<div class="artigo-completo">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5"><span class="informacao-artigo" data-tipo-ordenacao="importancia"></span><span class="informacao-artigo" data-tipo-ordenacao="autor">Amaury Antônio de Castro Junior</span><span class="informacao-artigo" data-tipo-ordenacao="ano">2007</span>Amaury Antônio de Castro Junior ; Leila Lisiane Rossi ; <b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="242">SILVA, Carlos Alberto</a></b>
+ ; Tony C. Bignardi dos Santos ; Lourival dos Santos Pires Junior . 
+UNION: um framework para o desenvolvimento ágil de aplicações Web. Anais
+ do III Congresso de Computação do Sul de Mato Grosso<sup></sup>, v. I, p. 199-199, 2007. <div class="citado" cvuri="/buscatextual/servletcitacoes?doi=&amp;issn=18096301&amp;volume=I&amp;issue=&amp;paginaInicial=199&amp;titulo=UNION: um framework para o desenvolvimento ágil de aplicações Web&amp;sequencial=1&amp;nomePeriodico=Anais do III Congresso de Computação do Sul de Mato Grosso" tooltip="Citações a partir de 1996"></div></div>
+</div>
+<br class="clear">
+</div>
+<a name="CursosCurtaEPCTA" tabindex="243"></a><br class="clear"><div class="inst_back">
+<b>Cursos de curta duração ministrados</b>
+</div>
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>1. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Leila Lisiane Rossi ; <b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="244">SILVA, Carlos Alberto</a></b> . Curso de Informática Básica. 2007. (Curso de curta duração ministrado/Extensão). </div>
+</div>
+<br class="clear">
+<div class="layout-cell layout-cell-1 text-align-right">
+<div class="layout-cell-pad-5 text-align-right">
+<b>2. </b>
+</div>
+</div>
+<div class="layout-cell layout-cell-11">
+<div class="layout-cell-pad-5">Marcelo Rocha Barros Gonçalves ; <b><a class="tooltip" title="Clique para visualizar o currículo" href="http://lattes.cnpq.br/1687736633515498" target="_blank" tabindex="245">SILVA, Carlos Alberto</a></b> . Projeto de Extensão: TODO DIA É DIA DE PARQUE. 2007. (Curso de curta duração ministrado/Extensão). </div>
+</div>
+<br class="clear">
+</div><br class="clear"></div><br class="clear"><br class="clear"><div class="rodape-cv">Página gerada pelo Sistema Currículo Lattes em 08/07/2021 às 22:51:26</div><br class="clear"><div class="control-bar-wrapper"><a href="http://buscatextual.cnpq.br/buscatextual/download.do?metodo=apresentar&amp;idcnpq=1687736633515498" target="_blank" class="button" tabindex="246"><span class="mini-ico mini-ico-down"></span>Baixar Currículo</a><a class="button" href="javascript:window.print()" tabindex="247"><span class="mini-ico mini-ico-list"></span>Imprimir Currículo</a>
+</div><br class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="to-top-bar" id="toTop" style="display: none;">
+<a href="javascript:void(0)" class="topo-width center" tabindex="248">
+<div class="id-orgao">
+<span>CNPq</span> | Uma agência do Ministério da Ciência, Tecnologia e Inovação</div>
+</a>
+</div>
+
+
+<div id="menu-dados-gerais" class="megamenu" _megamenupos="0pos" style="z-index: 1001; display: none;">
+		
+		<div class="column"><h3 tabindex="0"></h3><ul>
+		
+		
+		<li><a href="#Identificacao" tabindex="11">Identificação</a></li>
+		
+	
+		
+		
+		<li><a href="#Endereco" tabindex="12">Endereço</a></li>
+		
+	
+		
+		
+		<li><a href="#Idiomas" tabindex="13">Idiomas</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div><div id="menu-formacao" class="megamenu" _megamenupos="1pos" style="z-index: 1002; display: none;">
+		
+		<div class="column"><h3 tabindex="0"></h3><ul>
+		
+		
+		<li><a href="#FormacaoAcademicaTitulacao" tabindex="15">Formação acadêmica/titulação</a></li>
+		
+	
+		
+		
+		<li><a href="#FormacaoComplementar" tabindex="16">Formação complementar</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div><div id="menu-atuacao" class="megamenu" _megamenupos="2pos" style="z-index: 1003; display: none;">
+		
+		<div class="column"><h3 tabindex="0"></h3><ul>
+		
+		
+		<li><a href="#AtuacaoProfissional" tabindex="18">Atuação profissional</a></li>
+		
+	
+		
+		
+		<li><a href="#LinhaPesquisa" tabindex="19">Linhas de pesquisa</a></li>
+		
+	
+		
+		
+		<li><a href="#RevisorPeriodico" tabindex="20">Revisor de periódico</a></li>
+		
+	
+		
+		
+		<li><a href="#AreasAtuacao" tabindex="21">Áreas de atuação</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div><div id="menu-projetos" class="megamenu" _megamenupos="3pos" style="z-index: 1004; display: none;">
+		
+		<div class="column"><h3 tabindex="0"></h3><ul>
+		
+		
+		<li><a href="#ProjetosPesquisa" tabindex="23">Projetos de pesquisa</a></li>
+		
+	
+		
+		
+		<li><a href="#ProjetosExtensao" tabindex="24">Projetos de extensão</a></li>
+		
+	
+		
+		
+		<li><a href="#ProjetosDesenvolvimento" tabindex="25">Projetos de desenvolvimento</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div><div id="menu-producoes" class="megamenu" _megamenupos="4pos" style="z-index: 1005; display: none;">
+		
+		<div class="column"><div class="subtitMenu"><a href="#ProducaoBibliografica" tabindex="27">Produção Bibliográfica</a></div><h3 tabindex="0"></h3><ul>
+		
+		
+		<li><a href="#ArtigosCompletos" tabindex="28">Artigos completos publicados em periódicos</a></li>
+		
+	
+		
+		
+		<li><a href="#ArtigosAceitos" tabindex="29">Artigos aceitos para publicação</a></li>
+		
+	
+		
+		
+		<li><a href="#LivrosCapitulos" tabindex="30">Livros e capítulos</a></li>
+		
+	
+		
+		
+		<li><a href="#TextosJornaisRevistas" tabindex="31">Textos em jornais ou revistas (magazine)</a></li>
+		
+	
+		
+		
+		<li><a href="#TrabalhosPublicadosAnaisCongresso" tabindex="32">Trabalhos publicados em anais de congressos</a></li>
+		
+	
+		
+		
+		<li><a href="#ApresentacaoTrabalho" tabindex="33">Apresentações de trabalho</a></li>
+		
+	
+		
+		
+		<li><a href="#OutrasProducoesBibliograficas" tabindex="34">Partitura musical</a></li>
+		
+	
+		
+		
+		<li><a href="#OutrasProducoesBibliograficas" tabindex="35">Tradução</a></li>
+		
+	
+		
+		
+		<li><a href="#OutrasProducoesBibliograficas" tabindex="36">Prefácio, pósfacio</a></li>
+		
+	
+		
+		
+		<li><a href="#OutrasProducoesBibliograficas" tabindex="37">Outras produções bibliográficas</a></li>
+		
+	</ul></div><div class="column"><div class="subtitMenu"><a href="#ProducaoTecnica" tabindex="38">Produção Técnica</a></div><h3 tabindex="0"></h3><ul>
+		
+		
+		<li><a href="#AssessoriaConsultoria" tabindex="39">Assessoria e consultoria</a></li>
+		
+	
+		
+		
+		<li><a href="#SoftwareSemPatente" tabindex="40">Programas de computador sem registro</a></li>
+		
+	
+		
+		
+		<li><a href="#ProdutosTecnologicos" tabindex="41">Produtos tecnológicos</a></li>
+		
+	
+		
+		
+		<li><a href="#ProcessosTecnicas" tabindex="42">Processos e técnicas</a></li>
+		
+	
+		
+		
+		<li><a href="#TrabalhosTecnicos" tabindex="43">Trabalhos técnicos</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducaoTecnica" tabindex="44">Cartas, mapas ou similares</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducaoTecnica" tabindex="45">Curso de curta duração ministrado</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducaoTecnica" tabindex="46">Desenvolvimento de material didático ou instrucional</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducaoTecnica" tabindex="47">Editoração</a></li>
+		
+	
+		
+		
+		<li><a href="#ManutencaoObraArtistica" tabindex="48">Manutenção de obra artística</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducaoTecnica" tabindex="49">Maquete</a></li>
+		
+	
+		
+		
+		<li><a href="#EntrevistasMesasRedondas" tabindex="50">Entrevistas, mesas redondas, programas e comentários na mídia</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducaoTecnica" tabindex="51">Relatório de pesquisa</a></li>
+		
+	
+		
+		
+		<li><a href="#RedesSociais" tabindex="52">Redes sociais, websites e blogs</a></li>
+		
+	
+		
+		
+		<li><a href="#DemaisProducoesTecnicas" tabindex="53">Outras produções técnicas</a></li>
+		
+	</ul></div><div class="column"><div class="subtitMenu"><a href="#ProducaoArtisticaCultural" tabindex="54">Produção Artística/Cultural</a></div><h3 tabindex="0"></h3><ul>
+		
+		
+		<li><a href="#ArtesCenicas" tabindex="55">Artes cênicas</a></li>
+		
+	
+		
+		
+		<li><a href="#Musica" tabindex="56">Música</a></li>
+		
+	
+		
+		
+		<li><a href="#ArtesVisuais" tabindex="57">Artes visuais</a></li>
+		
+	
+		
+		
+		<li><a href="#OutrasProducoesArtisticas" tabindex="58">Outras produções artísticas/culturais</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div><div id="menu-potencialInovacao" class="megamenu" _megamenupos="5pos" style="z-index: 1006; display: none;">
+		
+		<div class="column"><h3 tabindex="0"></h3><ul>
+		
+		
+		<li><a href="#PatentePI" tabindex="60">Patente</a></li>
+		
+	
+		
+		
+		<li><a href="#ProgramaComputadorRegistradoPI" tabindex="61">Programa de computador registrado</a></li>
+		
+	
+		
+		
+		<li><a href="#CultivarProtegidaPI" tabindex="62">Cultivar protegida</a></li>
+		
+	
+		
+		
+		<li><a href="#CultivarRegistradaPI" tabindex="63">Cultivar registrada</a></li>
+		
+	
+		
+		
+		<li><a href="#DesenhoIndustrialRegistradoPI" tabindex="64">Desenho industrial registrado</a></li>
+		
+	
+		
+		
+		<li><a href="#MarcaRegistradaPI" tabindex="65">Marca registrada</a></li>
+		
+	
+		
+		
+		<li><a href="#TopografiaCircuitoIntegradoRegistradaPI" tabindex="66">Topografia de circuito integrado registrada</a></li>
+		
+	
+		
+		
+		<li><a href="#ProgramaComputadorSemRegistroPI" tabindex="67">Programa de computador sem registro</a></li>
+		
+	
+		
+		
+		<li><a href="#ProdutosPI" tabindex="68">Produtos</a></li>
+		
+	
+		
+		
+		<li><a href="#ProcessosTecnicasPI" tabindex="69">Processos ou técnicas</a></li>
+		
+	
+		
+		
+		<li><a href="#ProjetosPesquisaPI" tabindex="70">Projetos de pesquisa</a></li>
+		
+	
+		
+		
+		<li><a href="#ProjetoDesenvolvimentoTecnologicoPI" tabindex="71">Projeto de desenvolvimento tecnológico</a></li>
+		
+	
+		
+		
+		<li><a href="#ProjetoExtensaoPI" tabindex="72">Projeto de extensão</a></li>
+		
+	
+		
+		
+		<li><a href="#OutrosProjetosPI" tabindex="73">Outros projetos</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div><div id="menu-educacaoPopularizacaoCTA" class="megamenu" _megamenupos="6pos" style="z-index: 1007; display: none;">
+		
+		<div class="column"><h3 tabindex="0"></h3><ul>
+		
+		
+		<li><a href="#ArtigosEPCTA" tabindex="75">Artigos</a></li>
+		
+	
+		
+		
+		<li><a href="#LivrosCapitulosEPCTA" tabindex="76">Livros e capítulos</a></li>
+		
+	
+		
+		
+		<li><a href="#TextosJornaisEPCTA" tabindex="77">Textos em jornais de notícias/revistas</a></li>
+		
+	
+		
+		
+		<li><a href="#ApresentacoesTrabalhoEPCTA" tabindex="78">Apresentações de trabalho</a></li>
+		
+	
+		
+		
+		<li><a href="#ProgramaComputadorEPCTA" tabindex="79">Programa de computador sem registro de patente</a></li>
+		
+	
+		
+		
+		<li><a href="#CursosCurtaEPCTA" tabindex="80">Cursos de curta duração ministrados</a></li>
+		
+	
+		
+		
+		<li><a href="#MaterialDidaticoEPCTA" tabindex="81">Desenvolvimento de material didático ou instrucional</a></li>
+		
+	
+		
+		
+		<li><a href="#EntrevistasEPCTA" tabindex="82">Entrevistas, mesas redondas, programas e comentários na mídia</a></li>
+		
+	
+		
+		
+		<li><a href="#ProgramaComputadorRegistradoEPCTA" tabindex="83">Programa de Computador registrado</a></li>
+		
+	
+		
+		
+		<li><a href="#OrganizacaoEventosEPCTA" tabindex="84">Organização de eventos, congressos, exposições e feiras</a></li>
+		
+	
+		
+		
+		<li><a href="#RedesSociaisEPCTA" tabindex="85">Redes sociais, websites e blogs</a></li>
+		
+	
+		
+		
+		<li><a href="#ArtesVisuaisEPCTA" tabindex="86">Artes Visuais</a></li>
+		
+	
+		
+		
+		<li><a href="#ArtesCenicasEPCTA" tabindex="87">Artes Cênicas</a></li>
+		
+	
+		
+		
+		<li><a href="#MusicaEPCTA" tabindex="88">Música</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div><div id="menu-eventos" class="megamenu" _megamenupos="7pos" style="z-index: 1008; display: none;">
+		
+		<div class="column"><h3 tabindex="0"></h3><ul>
+		
+		
+		<li><a href="#ParticipacaoEventos" tabindex="90">Participação em eventos, congressos, exposições e feiras</a></li>
+		
+	
+		
+		
+		<li><a href="#OrganizacaoEventos" tabindex="91">Organização de eventos, congressos, exposições e feiras</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div><div id="menu-orientacoes" class="megamenu" _megamenupos="8pos" style="z-index: 1009; display: none;">
+		
+		<div class="column"><h3 tabindex="0"></h3><ul>
+		
+		
+		<li><a href="#Orientacoesconcluidas" tabindex="93">Orientações e supervisões concluídas</a></li>
+		
+	
+		
+		
+		<li><a href="#Orientacaoemandamento" tabindex="94">Orientações e supervisões em andamento</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div><div id="menu-bancas" class="megamenu" _megamenupos="9pos" style="z-index: 1010; display: none;">
+		
+		<div class="column"><h3 tabindex="0"></h3><ul>
+		
+		
+		<li><a href="#ParticipacaoBancasTrabalho" tabindex="96">Participação em bancas de trabalhos de conclusão</a></li>
+		
+	
+		
+		
+		<li><a href="#ParticipacaoBancasComissoes" tabindex="97">Participação em bancas de comissões julgadoras</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div><div id="menu-informacoes-complementares" class="megamenu" _megamenupos="10pos" style="z-index: 1011; display: none;">
+		
+		<div class="column"><h3 tabindex="0"></h3><ul>
+		
+		
+		<li><a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&amp;id=K4750420E7&amp;tipo=completo&amp;idiomaExibicao=1" tabindex="99">Mostrar informações complementares</a></li>
+		
+	</ul></div>
+		
+		
+		<div class="clear"></div></div></body></html>
