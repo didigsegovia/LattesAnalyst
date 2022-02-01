@@ -10,13 +10,13 @@ import bs4
 from bs4 import BeautifulSoup
 from IPython.display import display
 
-# Utilização de genderbr:
+# Utilizacao de genderbr:
 # $ gender.get_gender(nome)
-# nome é uma string contendo APENAS O PRIMEIRO NOME da pessoa à ser classificada
+# nome eh uma string contendo APENAS O PRIMEIRO NOME da pessoa a ser classificada
 # retorna um caractere 'F' para mulheres e 'M' para homens
-# Mais informações:
+# Mais informacoes:
 # Info para linguagem R: https://fmeireles.com/blog/rstats/genderbr-predizer-sexo/
-# repositório oficial: https://pypi.org/project/genderbr/
+# repositorio oficial: https://pypi.org/project/genderbr/
 # Instalado com $ pip install genderbr
 
 
@@ -35,7 +35,7 @@ idiomas = ['Inglês', 'Espanhol', 'Português', 'Francês', 'Italiano', 'Russo',
 class webScraping:
   global page
   global f
-  # Definindo data como um atributo da classe, utilização deve ser feita com self
+  # Definindo data como um atributo da classe, utilizacão deve ser feita com self
   data = {'nome':list(), 'sexo':list(), 'idade':list(), 'estado':list(), 'idlattes':list(), 'idioma':list(), 'formacao':list(), 'endereco':list() ,'descricao':list(), 'producao':list(), 'doutorado':list(), 'mestrado':list(), 'posdoc':list(), 'licenca':list()}       # Dicionario auxiliar
 
 
@@ -52,7 +52,7 @@ class webScraping:
 			
       soup = BeautifulSoup(self.page, 'html.parser')
 			
-			# A partir de agora, em soup eu tenho o código HTML aberto
+			# A partir de agora, em soup eu tenho o codigo HTML aberto
 
 
       # achar idlattes
@@ -93,7 +93,7 @@ class webScraping:
       self.data['descricao'].append(soup.find_all('p', class_='resumo')[0].get_text())					# Pegar a descricao e colocar no dicionario info			
       self.data['nome'].append(soup.find_all('h2', class_='nome')[0].get_text())						# Pegar o nome e colocar no dicionario
 
-      # Definição de sexo a partir do primeiro nome
+      # Definicão de sexo a partir do primeiro nome
       self.data['sexo'].append( gender.get_gender((self.data['nome'][-1].split(' '))[0] ))
       ###
 
@@ -116,12 +116,12 @@ class webScraping:
 
       self.data['licenca'].append(0)
       resultLicensas = list()
-      for item in soup.find_all('div', class_='layout-cell layout-cell-9'):       # Pegar o estado à partir da RegEx
+      for item in soup.find_all('div', class_='layout-cell layout-cell-9'):       # Pegar o estado a partir da RegEx
         result = re.findall(r'.*, (..) - .*', str(list(item.children)[1]))
         if len(result) == 1:
           self.data['estado'].append(str(result[0]))
 
-        itemLicensas = re.findall(r'Licença Maternidade', str(item))
+        itemLicensas = re.findall(r'Licenca Maternidade', str(item))
         if len(itemLicensas) > 0:
           resultLicensas.append(item)  
         
@@ -154,14 +154,14 @@ class webScraping:
             #resultGraduacaoOrientador = re.search(r'Orientador: ([a-zA-Z\s]+)', str(item))
 
         if flagFormacao:
-          resultGraduacao = re.search(r'Graduação em (.+)', str(item))
+          resultGraduacao = re.search(r'Graduacão em (.+)', str(item))
           if resultGraduacao:
             stringGraduacao = re.sub('<span class="ajaxCAPES" data-param="&amp;codigoCurso=&amp;nivelCurso="></span>. <br class="clear"/>',' - ',resultGraduacao.group())
             self.data['formacao'].append(stringGraduacao)
             flagFormacao = 0
 
 
-        resultPosdoc = re.findall(r'.*>(Pós-Doutorado.) <.*', str(item))
+        resultPosdoc = re.findall(r'.*>(Pos-Doutorado.) <.*', str(item))
         if len(resultPosdoc) == 1:
           self.data['posdoc'][-1] = 1
           continue
@@ -179,24 +179,24 @@ class webScraping:
           continue
       # Fim verificacao titulos
 
-      ## Formação
+      ## Formacão
       for resultFormacao in soup.find_all('div', class_='layout-cell layout-cell-12 data-cell'):
 
-        result = re.findall(r'([0-9]{4} - [0-9]{4})</b>\n</div>\n</div>\n<div class="layout-cell layout-cell-9">\n<div class="layout-cell-pad-5">Graduação em ', str(resultFormacao))
+        result = re.findall(r'([0-9]{4} - [0-9]{4})</b>\n</div>\n</div>\n<div class="layout-cell layout-cell-9">\n<div class="layout-cell-pad-5">Graduacão em ', str(resultFormacao))
         if (result):
           resultAux = re.findall(r'([0-9]{4} - [0-9]{4})', str(result))
           for cont in resultAux:
             self.data['formacao'][-1] = str(self.data['formacao'][-1]) + ' Período: ' + str(cont)
           #print(result)
-        # Aqui também tem participação em eventos
+        # Aqui também tem participacão em eventos
 
 
-      # Cálculo da idade baseado em formação 
+      # Cálculo da idade baseado em formacão 
       stringIdade = self.data['formacao'][-1].split(' ')[-1]
       anoAtual = date.datetime.now()
-      data['idade'].append( (anoAtual.year - int(stringIdade)) )   # Cálculo grosseiro da idade fazendo 23 + # anos após formatura da graduação
+      data['idade'].append( (anoAtual.year - int(stringIdade)) )   # Cálculo grosseiro da idade fazendo 23 + # anos apos formatura da graduacão
 
-      # Orientações
+      # Orientacoes
       #[print(item.children) for item in soup.find_all('div', class_='title-wrapper')]
       
 
@@ -222,11 +222,11 @@ class webScraping:
           self.data['licenca'][-1][itemli] += periodoLicenca[itemli]
           
       """
-      Para cargos: <div class="layout-cell-pad-5">Conselhos, Comissões e Consultoria, Faculdade de Computação, . </div>
+      Para cargos: <div class="layout-cell-pad-5">Conselhos, Comissoes e Consultoria, Faculdade de Computacão, . </div>
       Para trabalhos que pesquisador ja participou: [print(resultFormacao.get_text()) for resultFormacao in soup.find_all('div', class_='layout-cell layout-cell-12 data-cell')]
       """
 
-      ##### A partir daqui, ja esta retirando nome do autor, sexo(gênero),  lattesid, descricao, trabalhos (artigos completos publicados), estado, titulos (mestre, doutor e pos doutor) e licença maternidade (mais de uma se tiver); idioma
+      ##### A partir daqui, ja esta retirando nome do autor, sexo(gênero),  lattesid, descricao, trabalhos (artigos completos publicados), estado, titulos (mestre, doutor e pos doutor) e licenca maternidade (mais de uma se tiver); idioma
       # data['nome']; data['sexo'];data['idade']; data['lattesid'];  data['producao']; data['descricao']; data['estado']; data['posdoc']; data['doutorado']; data['mestrado']; data[licenca]; data['idioma']
 
       print("Curriculo processado: "+ str(self.data['nome'][-1]))
@@ -236,7 +236,7 @@ class webScraping:
     #df = pd.DataFrame(data)																		# Transformar o dicionario data em um DataFrame
 		
     #printDici(data)
-    os.chdir(currentPath)               # Retorna o path para o diretório raiz
+    os.chdir(currentPath)               # Retorna o path para o diretorio raiz
 
 
 	# fim openCachedHTML method
@@ -273,7 +273,7 @@ def parserProducoes(soup, data):
       if resultProducaoDois:
         print('good2')
         #print(resultProducaoDois.group(2))
-        """
+"""
       #print("#################### PULA LINHA ########################")
 
 
@@ -298,7 +298,7 @@ def printDici(data):
     #    print(str(c))
     #print()
     #if data['posdoc'][i]:
-    #  print('Pós-Doutorado')
+    #  print('Pos-Doutorado')
     #if data['doutorado'][i]:
     #  print('Doutorado')
     #if data['mestrado'][i]:
@@ -306,7 +306,7 @@ def printDici(data):
     
     if data['licenca'][i]:
       for c in data['licenca'][i]:
-        print('Licença Maternidade: '+ str(c))
+        print('Licenca Maternidade: '+ str(c))
     print()
 
 if __name__ == "__main__":

@@ -1,6 +1,8 @@
 import pandas as pd
-from IPython.display import display
 import re
+import os
+from fuzzywuzzy import fuzz
+import time
 
 """ 
 Métodos:
@@ -24,42 +26,38 @@ def baixaPlanilha():
 
 	return conferencias, periodicos
 
-"""	- Para cada produção que não for encontrada (por não constar na planilha Qualis),
-contabilizar como "não referenciada", caso contrário, "NA"
-"""
-def padraoProducoes(stringBusca:str, gramatica:str):
+
+def padraoProducoes(stringBusca, gramatica):
     result = re.search(gramatica, stringBusca)
     if result:
         retorno = stringBusca[result.start(): result.end()]
     else:
-        retorno = 'NA'
+        retorno = '-'
     return retorno
 
-"""
+def fuzzScore(evento, categoria, conferencias, periodicos):
+	score = 0
+	evento_score = ''
+	if (categoria == 'conferencia'):
+		for conferencia in conferencias['conferencia']:
+			#score_aux = fuzz.token_sort_ratio(y, conferencia)
+			score_aux = fuzz.partial_ratio(evento, conferencia)
+			if score_aux > score:
+				score = score_aux
+				evento_score = conferencia
 
-TODO: Done
-- padraoProducoes: Para cada produção que não for encontrada (por não constar na planilha Qualis),
-contabilizar como "não referenciada", caso contrário, "NA"
+	elif (categoria == 'periodico'):
+		for periodico in periodicos['periodico']:
+			#score_aux = fuzz.token_sort_ratio(y, conferencia)
+			score_aux = fuzz.partial_ratio(evento, periodico)
+			if score_aux > score:
+				score = score_aux
+				evento_score = periodico
 
-- defineProducoes: Passar para minusculas, tirar tabulações e acentos (da planilha Qualis e dos curriculos)
-(padronizar dados para comparação)
-
-"""
+	return str(evento_score)+';'+str(score)
 
 
-def defineProducoes(conferencias, periodicos, strings):		# Retorna um dataframe producoesPesquisador['conferencias', 'periodicos']
-	strings = strings[['producoes']]
-	strings['producoes'] = strings['producoes'].replace(to_replace='\n', value=' ', regex=True)			# Retira quebra de linha de df de entrada (vindo do parserHTML)
-	# Tratamento de DF (passar para minusculo e retirar acentos)
-	strings['producoes'] = strings['producoes'].str.lower()
-	strings['producoes'] = strings['producoes'].str.normalize('NFKD')\
-       														.str.encode('ascii', errors='ignore')\
-       														.str.decode('utf-8')
-	# Tirar tabs
-	strings['producoes'].str.replace("\t","")
-
-	strings.to_csv('producoesTratadas.csv')		# para verificar string de produções entrada sem a quebra de linha
-
+def trataConferencias(conferencias):
 	# Passando tudo para minúsculo
 	conferencias['conferencia'] = conferencias['conferencia'].str.lower()
 
@@ -69,14 +67,21 @@ def defineProducoes(conferencias, periodicos, strings):		# Retorna um dataframe 
        														.str.decode('utf-8')
 
 	# Formar ER de conferencias a serem avaliadas
-	listaRegexConferencia = '|'.join(conferencias['conferencia'])
+	conferencias['sigla'] = conferencias['sigla'].str.lower()
+
+	listaRegexConferencia = '|'.join(conferencias['sigla'])
 
 	##### Letras minusculas, sem tabulações e acentos (da planilha Qualis e dos curriculos)
 
-	listaRegexConferencia = listaRegexConferencia.replace('(', '\(')
-	listaRegexConferencia = listaRegexConferencia.replace(')', '\)')
-	listaRegexConferencia = listaRegexConferencia.replace('.', '\.')
+	#listaRegexConferencia = listaRegexConferencia.replace('(', '\(')
+	#listaRegexConferencia = listaRegexConferencia.replace(')', '\)')
+	#listaRegexConferencia = listaRegexConferencia.replace('.', '\.')
+	#print(listaRegexConferencia)
 	
+	return conferencias['conferencia'], conferencias['sigla'], listaRegexConferencia
+
+
+def trataPeriodico(periodicos):
 	# Tratamento de periodicos agora
 	periodicos['periodico'] = periodicos['periodico'].str.lower()
 	periodicos['periodico'] = periodicos['periodico'].str.normalize('NFKD')\
@@ -89,40 +94,102 @@ def defineProducoes(conferencias, periodicos, strings):		# Retorna um dataframe 
 	listaRegexPeriodicos = listaRegexPeriodicos.replace('(', '\(')
 	listaRegexPeriodicos = listaRegexPeriodicos.replace(')', '\)')
 	listaRegexPeriodicos = listaRegexPeriodicos.replace('.', '\.')
+
+	return periodicos['periodico'], listaRegexPeriodicos
+
+
+'''def formataTrabalhosArtigos(df_trabalho, df_artigo):
+	trabalhos = df_trabalho['evento'].str.lower()
+	artigos = df_artigo['evento'].str.lower()
+
+
+	# Tratamento de DF (passar para minusculo e retirar acentos)
+	trabalhos = trabalhos.str.normalize('NFKD')\
+												.str.encode('ascii', errors='ignore')\
+												.str.decode('utf-8')
+
+	artigos = artigos.str.normalize('NFKD')\
+											.str.encode('ascii', errors='ignore')\
+											.str.decode('utf-8')
+
+	return trabalhos, artigos'''
+
+def formataEventos(df_eventos):
+	eventos = pd.DataFrame(columns=['evento', 'categoria'])
+	eventos['evento'] = df_eventos['evento'].str.lower()
+	eventos['categoria'] = df_eventos['categoria']
+
+	# Tratamento de DF (passar para minusculo e retirar acentos)
+	eventos['evento'] = eventos['evento'].str.normalize('NFKD')\
+											.str.encode('ascii', errors='ignore')\
+											.str.decode('utf-8')
+
+	return eventos
+
+
+def aplicaQualis(categoria, score, evento_match, conferencias, periodicos):	# retorna qualis referente na planilha oficial
+	if (categoria == 'conferencia'):
+		if (int(score) >= 80):
+			return conferencias.loc[conferencias['conferencia'] == evento_match, 'Qualis_Final'].iloc[0]
+
+	elif (categoria == 'periodico'):
+		if (int(score) >= 80):
+			return periodicos.loc[periodicos['periodico'] == evento_match, 'Qualis_Final'].iloc[0]
+		
+
+def defineProducoes(conferencias, periodicos, df_eventos):		# Retorna um dataframe producoesPesquisador['conferencias', 'periodicos']
+	# Formatação de trabalhos e artigos
+	#trabalhos, artigos = formataTrabalhosArtigos(df_trabalho, df_artigo)
+	eventos = formataEventos(df_eventos)
+
+	# Tratamento de nome de eventos e formatação de gramatica
+	conferencias['conferencia'], conferencias['sigla'], listaRegexConferencia = trataConferencias(conferencias)
+	periodicos['periodico'], listaRegexPeriodicos = 							trataPeriodico(periodicos)	
+
+
 	
+	########### Até aqui: formatação do meu dataframe + formatacao gramatica periodicos e conferencias
 
 
-	producoesPesquisador = pd.DataFrame(columns=['conferencias', 'qualis_conferencias', 'periodicos', 'qualis_periodicos'])
 
-	producoesPesquisador['conferencias'] = strings['producoes'].apply(lambda x: padraoProducoes(stringBusca=x, gramatica=listaRegexConferencia))
-	producoesPesquisador['periodicos'] = strings['producoes'].apply(lambda x: padraoProducoes(stringBusca=x, gramatica=listaRegexPeriodicos))
+	# Resolver questão do REGEX (siglas parciais sendo encontradas): como fazer regex com match whole word
+	df_eventos['match_sigla'] = eventos['evento'].apply(lambda x:padraoProducoes(x, listaRegexConferencia))
 
 	
+	# Aplica algoritmo de achar string match e mostra o score
+	eventos['aux_score'] = eventos.apply(lambda y:fuzzScore(y['evento'], y['categoria'] , conferencias, periodicos), axis=1)	# linha maluca
+	#df_trabalho['conferencia_score'], df_trabalho['fuzz_token_sort_ratio'] = trabalhos['aux_score'].apply(lambda z: z.split(';'))
+	df_eventos['evento_match'] = eventos['aux_score'].apply(lambda a: a.split(';')[0])
+	#df_eventos['fuzz_token_sort_ratio'] = eventos['aux_score'].apply(lambda b: b.split(';')[1])
+	df_eventos['fuzz_partial_ratio'] = eventos['aux_score'].apply(lambda b: b.split(';')[1])
 
-	# achar uma forma de colocar o qualis ao lado de cada produção encontrada
-	#display(listaRegexPeriodicos)
-	#display(listaRegexConferencia)
-	#periodicos.to_csv('periodicos.csv')
-	#conferencias.to_csv('conferencias.csv')
+	# Agora é necessário aplicar qualis encontrada
 
-	producoesPesquisador.to_csv('resultadoProvisorio.csv')
+	df_eventos['qualis'] = df_eventos.apply(lambda z: aplicaQualis(z.categoria, z.fuzz_partial_ratio, z.evento_match, conferencias, periodicos), axis=1)
+
+
+
+	df_eventos.to_csv('eventosTratados.csv')
 
 
 
 # init
+start_time = time.time()
 
-conferencias, periodicos = baixaPlanilha()
+BASE_DIR = os.getcwd()
+os.chdir('./eventos')
 
-"""# Entrada teste
-teste = open('entradaTeste.txt', 'r')
-strings = teste.readlines()
-strings = pd.DataFrame(strings,columns=['conferencia'])
-teste.close()
-"""
+conferencias, periodicos = baixaPlanilha()			# Baixar planilhas de qualis
 
-strings = pd.read_csv('producoes.csv')
-#display(strings)
+#df_trabalho = pd.read_csv('trabalhos.csv')
+#df_artigo = pd.read_csv('artigos.csv')
 
-defineProducoes(conferencias, periodicos, strings)
+df_eventos = pd.read_csv('eventos.csv')
+
+#defineProducoes(conferencias, periodicos, df_trabalho, df_artigo)
+defineProducoes(conferencias, periodicos, df_eventos)
+
+segundos = (time.time() - start_time)
+print('Execução levou : {:.2f} minutos ({} segundos)'.format((segundos/60.0), segundos))
 
 
