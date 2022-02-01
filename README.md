@@ -1,4 +1,4 @@
-## H2 Os principais programas instalados são:
+## Os principais programas instalados são:
  - mechanize: $ pip install mechanize
  - simplejson: $ pip install simplejson
  - Pillow: $ pip install Pillow
@@ -7,7 +7,7 @@
  Arquivo "numero_identificador_lattes_18052020.csv" contem lista dos Lattes
  - Para ter acesso à este arquivo, descompactar o comprimido pois o GitHub limita o tamanho máximo do arquivo à 100MB
 
- ## H2 Para executar o primeiro script, fazer:
+ ## Para executar o primeiro script, fazer:
 
  $ python baixaDados.py numero_identificador_lattes_18052020.csv    # Atualmente não funcionando por conta do captcha do Lattes
 
@@ -15,7 +15,7 @@
  
  ---
  
-## H2 Segundo script (script de parser HTML: meu trabalho atual) ############
+## Segundo script (script de parser HTML: meu trabalho atual) ############
 O segundo script utiliza arquivos (curriculos) armazenados na pasta cache.
   
 Para executá-lo (funciona em Python 3), fazer:
@@ -32,5 +32,5 @@ Para executá-lo, fazer (necessita de 'producoes.csv' na mesma pasta):
 $ python3 Eventos.py 
 
 ---
-## H2 Script funcional de Eventos
+## Script funcional de Eventos
 Este script irá alocar na pasta 'eventos' 2 arquivos: trabalhos.csv e artigos.csv, cada um contendo os eventos referentes a cada produção 
