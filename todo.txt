@@ -1,0 +1,31 @@
+1. PASSAR POR TODAS AS PRODUÇÕES E ADICIONAR NA PLANILHA (TRABALHO EM EVENTOS OU ARTIGOS PUBLICADOS)
+2. COLUNAS: EVENTO | ANO | QUALIS* (TANTO PARA ARTIGO QUANTO PARA TRABALHO)
+3. FAZER UMA BUSCA NO QUALIS: SE ACHAR, ATRIBUIR, CASO CONTRÁRIO, '-'
+
+
+Producoes: pegar apenas o conteudo (tirar colchetes e aspas)
+Tirar nome da edição + numero da edição + ano + proceedings
+Tirar as duplicadas
+Usar qualis atual, independente do ano
+
+Fazer uma coluna na planilha trabalhos.csv com a equivalencia na planilha de qualis
+
+Para tratar as produções: Identificar a primeira string e definir se é um número e remover
+
+1. Fazer gramatica com as siglas
+2. aplicar nos eventos
+3. fazer fuzzy match
+4. fnovas colunas: fuzzy match string (na qualis) | score fuzzy match | achou gramatica ou nao (sim, não)
+
+
+------------------------------------
+Proximo passo:
+investir na pesquisa por sigla
+
+____________________________________
+
+1. passo: ver se a sigla realmente pertence ao evento  na planilha de conferencias (se encontrar, se der match então é verdade)
+2. passo: se não der match, partir para scores
+	2.1: buscar um método para avaliar os scores e achar um treshold 
+	2.2: buscar a taxa de acerto do score:
+		2.2.1: verificar manualmente, criar nova coluna para ver se bateu ou não bateu e se não bateu o nome correto do evento (se existir)
