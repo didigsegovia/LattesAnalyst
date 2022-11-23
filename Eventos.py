@@ -178,6 +178,7 @@ def aplicaQualis(categoria, score, evento_match, conferencias, periodicos):	# re
 def defineProducoes(conferencias, periodicos, df_eventos):		# Retorna um dataframe producoesPesquisador['conferencias', 'periodicos']
 	# Formatação de trabalhos e artigos
 	#trabalhos, artigos = formataTrabalhosArtigos(df_trabalho, df_artigo)
+	print('({:.2f} minutos) - Iniciando normalização dos nomes de eventos'.format((time.time() - start_time)/60.0))
 	eventos = formataEventos(df_eventos)
 
 	# Tratamento de nome de eventos e formatação de gramatica
@@ -191,51 +192,63 @@ def defineProducoes(conferencias, periodicos, df_eventos):		# Retorna um datafra
 
 
 	# Resolver questão do REGEX (siglas parciais sendo encontradas): como fazer regex com match whole word
+	print('({:.2f} minutos) - Aplicando método de análise de siglas'.format((time.time() - start_time)/60.0))
 	df_eventos['match_sigla'] = eventos['evento'].apply(lambda x:padraoProducoes(x, listaRegexConferencia))
 
-	print('-- Entrou no calculo score decorridos {:.2f} minutos --'.format((time.time() - start_time)/60.0))
+	print('({:.2f} minutos) - Iniciando cálculo de score para cada algoritmo'.format((time.time() - start_time)/60.0))
 
 	
 	# Aplica algoritmo de achar string match e mostra o score
-	print('- Ratio: {:.2f} minutos --'.format((time.time() - start_time)/60.0))
+	start_time_aux = time.time()
 	eventos['aux_score_ratio'] = eventos.apply(lambda y:fuzzRatioScore(y['evento'], y['categoria'] , conferencias, periodicos), axis=1)	# linha maluca
-	print('- Partial: {:.2f} minutos --'.format((time.time() - start_time)/60.0))
+	print('({:.2f} minutos) - Ratio levou: {:.2f} minutos ({:.2f} segundos)'.format( ((time.time() - start_time)/60.0), ((time.time() - start_time_aux)/60.0), (time.time() - start_time_aux)) )
+	
+	start_time_aux = time.time()
 	eventos['aux_score_partial'] = eventos.apply(lambda y:fuzzPartialScore(y['evento'], y['categoria'] , conferencias, periodicos), axis=1)	# linha maluca
-	print('- Sort: {:.2f} minutos --'.format((time.time() - start_time)/60.0))
+	print('({:.2f} minutos) - Partial levou: {:.2f} minutos ({:.2f} segundos)'.format( ((time.time() - start_time)/60.0), ((time.time() - start_time_aux)/60.0), (time.time() - start_time_aux)) )
+	
+	start_time_aux = time.time()
 	eventos['aux_score_sort'] = eventos.apply(lambda y:fuzzSortScore(y['evento'], y['categoria'] , conferencias, periodicos), axis=1)	# linha maluca
-	print('- Set: {:.2f} minutos --'.format((time.time() - start_time)/60.0))
+	print('({:.2f} minutos) - Sort levou: {:.2f} minutos ({:.2f} segundos)'.format( ((time.time() - start_time)/60.0), ((time.time() - start_time_aux)/60.0), (time.time() - start_time_aux)) )
+	
+	start_time_aux = time.time()
 	eventos['aux_score_set'] = eventos.apply(lambda y:fuzzSetScore(y['evento'], y['categoria'] , conferencias, periodicos), axis=1)	# linha maluca
+	print('({:.2f} minutos) - Set levou: {:.2f} minutos ({:.2f} segundos)'.format( ((time.time() - start_time)/60.0), ((time.time() - start_time_aux)/60.0), (time.time() - start_time_aux)) )
 
-	print('-- Entrou no tratamento nome evento decorridos {:.2f} minutos --'.format((time.time() - start_time)/60.0))
+	#print('-- Entrou no tratamento nome evento decorridos {:.2f} minutos --'.format((time.time() - start_time)/60.0))
+	
 
-	#df_trabalho['conferencia_score'], df_trabalho['fuzz_token_sort_ratio'] = trabalhos['aux_score'].apply(lambda z: z.split(';'))
 	df_eventos['evento_match_ratio'] = eventos['aux_score_ratio'].apply(lambda a: a.split(';')[0])
 	df_eventos['evento_match_partial'] = eventos['aux_score_partial'].apply(lambda a: a.split(';')[0])
 	df_eventos['evento_match_sort'] = eventos['aux_score_sort'].apply(lambda a: a.split(';')[0])
 	df_eventos['evento_match_set'] = eventos['aux_score_set'].apply(lambda a: a.split(';')[0])
-	#df_eventos['fuzz_token_sort_ratio'] = eventos['aux_score'].apply(lambda b: b.split(';')[1])
 
-	print()
-	print('-- Entrou no tratamento score decorridos {:.2f} minutos --'.format((time.time() - start_time)/60.0))
+	#print()
+	#print('-- Entrou no tratamento score decorridos {:.2f} minutos --'.format((time.time() - start_time)/60.0))
 
 	df_eventos['fuzz_ratio'] = eventos['aux_score_ratio'].apply(lambda b: b.split(';')[1])
 	df_eventos['fuzz_partial_ratio'] = eventos['aux_score_partial'].apply(lambda b: b.split(';')[1])
 	df_eventos['fuzz_sort_ratio'] = eventos['aux_score_sort'].apply(lambda b: b.split(';')[1])
 	df_eventos['fuzz_set_ratio'] = eventos['aux_score_set'].apply(lambda b: b.split(';')[1])
 
-	print()
-	print('-- Entrou no qualis decorridos {:.2f} minutos --'.format((time.time() - start_time)/60.0))
+	#print()
+	#print('-- Entrou no qualis decorridos {:.2f} minutos --'.format((time.time() - start_time)/60.0))
 	
 	# Agora é necessário aplicar qualis encontrada
-	#df_eventos['qualis'] = df_eventos.apply(lambda z: aplicaQualis(z.categoria, z.fuzz_partial_ratio, z.evento_match, conferencias, periodicos), axis=1)
+	print()
+	print('({:.2f} minutos) - Mapeamento dos Qualis para cada algoritmo'.format((time.time() - start_time)/60.0))
+	start_time_aux = time.time()
 	df_eventos['qualis_ratio'] = df_eventos.apply(lambda z: aplicaQualis(z.categoria, z.fuzz_ratio, z.evento_match_ratio, conferencias, periodicos), axis=1)
-	print('- Ratio: {:.2f} minutos --'.format((time.time() - start_time)/60.0))
+	print('({:.2f} minutos) - Ratio levou: {:.2f} minutos ({:.2f} segundos)'.format( ((time.time() - start_time)/60.0), ((time.time() - start_time_aux)/60.0), (time.time() - start_time_aux)) )
+	start_time_aux = time.time()
 	df_eventos['qualis_partial'] = df_eventos.apply(lambda z: aplicaQualis(z.categoria, z.fuzz_partial_ratio, z.evento_match_partial, conferencias, periodicos), axis=1)
-	print('- Partial: {:.2f} minutos --'.format((time.time() - start_time)/60.0))
+	print('({:.2f} minutos) - Partial levou: {:.2f} minutos ({:.2f} segundos)'.format( ((time.time() - start_time)/60.0), ((time.time() - start_time_aux)/60.0), (time.time() - start_time_aux)) )
+	start_time_aux = time.time()
 	df_eventos['qualis_sort'] = df_eventos.apply(lambda z: aplicaQualis(z.categoria, z.fuzz_sort_ratio, z.evento_match_sort, conferencias, periodicos), axis=1)
-	print('- Sort: {:.2f} minutos --'.format((time.time() - start_time)/60.0))
+	print('({:.2f} minutos) - Sort levou: {:.2f} minutos ({:.2f} segundos)'.format( ((time.time() - start_time)/60.0), ((time.time() - start_time_aux)/60.0), (time.time() - start_time_aux)) )
+	start_time_aux = time.time()
 	df_eventos['qualis_set'] = df_eventos.apply(lambda z: aplicaQualis(z.categoria, z.fuzz_set_ratio, z.evento_match_set, conferencias, periodicos), axis=1)
-	print('- Set: {:.2f} minutos --'.format((time.time() - start_time)/60.0))
+	print('({:.2f} minutos) - Set levou: {:.2f} minutos ({:.2f} segundos)'.format( ((time.time() - start_time)/60.0), ((time.time() - start_time_aux)/60.0), (time.time() - start_time_aux)) )
 
 
 
@@ -259,6 +272,7 @@ df_eventos = pd.read_csv('eventos.csv')
 defineProducoes(conferencias, periodicos, df_eventos)
 
 segundos = (time.time() - start_time)
-print('Execução levou : {:.2f} minutos ({:.2f} segundos)'.format((segundos/60.0), segundos))
+print()
+print('Execução completa levou : {:.2f} minutos ({:.2f} segundos)'.format((segundos/60.0), segundos))
 
 
